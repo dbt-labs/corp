@@ -1,6 +1,7 @@
 ###Product Ideas###
 
 One of the goals of Fishtown Analytics is to build useful analytics products. We build products for three reasons:
+
 1. to improve our ability to deliver on client engagements,
 2. to create useful tools for analysts, and
 3. to evangelize the analytic workflow we believe in.
