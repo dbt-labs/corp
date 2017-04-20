@@ -24,7 +24,7 @@ Client Emails for Notice:  `[Client Email]`
 
 A "Change Request" is any request for work outside the scope of the Statement of Work.
 
-If such a request is made, Fishtown Analytics will notify the Client that it is a Change Request. If the Client still wants to proceed with the Change Request, the Fishtown Analytics will provide a price estimate to the Client. Upon approval of the Change Request’s scope and price, Fishtown Analytics will incorporate the work into the schedule. The Client understands that the schedule may be affected depending on the size or volume of Change Requests.
+If such a request is made, Fishtown Analytics will notify the Client that it is a Change Request. If the Client still wants to proceed with the Change Request, Fishtown Analytics will provide a price estimate to the Client. Upon approval of the Change Request’s scope and price, Fishtown Analytics will incorporate the work into the schedule. The Client understands that the schedule may be affected depending on the size or volume of Change Requests.
 
 Change Requests prices will be added to the invoice following approval by the Client.
 
@@ -32,7 +32,7 @@ Change Requests prices will be added to the invoice following approval by the Cl
 
 **Payment.** Payments are accepted via check or ACH/wire.
 
-**Invoice.** The Fishtown Analytics will invoice the Client according to the Statement of Work. Client shall pay all invoices within 30 days of receipt.
+**Invoice.** Fishtown Analytics will invoice the Client according to the Statement of Work. Client shall pay all invoices within 30 days of receipt.
 
 **Expenses.** In addition to Fishtown Analytics' fees, the Client will be invoiced, upon Client approval, for Fishtown Analytics' expenses. Fishtown Analytics' travel and lodging expenses will be invoiced to the Client without markup. Meal expenses will not be invoiced to the Client at all. Other Expenses incurred by Fishtown Analytics in performing services to the Client will be invoiced to Client.
 
@@ -44,9 +44,9 @@ Change Requests prices will be added to the invoice following approval by the Cl
 
 **Timeframe.** Fishtown Analytics will use commercially reasonable efforts to perform the Services within the schedule outlined in the Statement of Work. Fishtown Analytics' delivery timeframe depends upon the Client's prompt response to any questions, requests for Client materials, and general cooperating throughout the process.
 
-**Fishtown Analytics Agents.** Fishtown Analytics may hire third party analysts or service providers ("Analytics Agents") as independent contractors to provide the services described herein. The Fishtown Analytics is responsible for Analytics Agents' compliance with this Agreement.
+**Fishtown Analytics Agents.** Fishtown Analytics may hire third party analysts or service providers ("Analytics Agents") as independent contractors to provide the services described herein. Fishtown Analytics is responsible for Analytics Agents' compliance with this Agreement.
 
-**Testing & Acceptance.** The Fishtown Analytics shall use commercially reasonable efforts to test Deliverables before providing them to the Client.
+**Testing & Acceptance.** Fishtown Analytics shall use commercially reasonable efforts to test Deliverables before providing them to the Client.
 
 The Client shall promptly review all deliverables, and must notify Fishtown Analytics of any failure to conform to the Statement of Work within 5 business days of receipt. If Fishtown Analytics does not receive a timely notification, the Deliverable will be deemed accepted. The Client's notification must clearly identify the problems with the Deliverable.
 
@@ -60,7 +60,7 @@ The Client shall promptly review all deliverables, and must notify Fishtown Anal
 
 **Preliminary Works.** Fishtown Analytics retains the rights to all Preliminary Works that are not incorporated into a Final Deliverable.  Client acknowledges that the methodologies, strategies, designs, templates, software (and any modifications thereto), pre-existing IP of Fishtown Analytics (and any modifications thereto), general knowledge, skills, experience, ideas, concepts, know-how and techniques used by Fishtown Analytics in the course of performing services hereunder are all part of Fishtown Analytics’ proprietary IP, and are owned exclusively by Fishtown Analytics.
 
-**Open Source Analysis.** Upon written permission by Client, Fishtown Analytics may publish non-confidential components of Final Deliverables under an open source license on Fishtown Analytics’ websites and Github repositories for the purposes of promotion of the Fishtown Analytics. Likewise, the Fishtown Analytics may publicly describe its role in the Project.
+**Open Source Analysis.** Upon written permission by Client, Fishtown Analytics may publish non-confidential components of Final Deliverables under an open source license on Fishtown Analytics’ websites and Github repositories for the purposes of promotion of Fishtown Analytics. Likewise, Fishtown Analytics may publicly describe its role in the Project.
 
 ## Fishtown Analytics and Client Relationship
 
@@ -76,7 +76,7 @@ The Client shall promptly review all deliverables, and must notify Fishtown Anal
 
 **Non-Solicit.** During the term of this Agreement, and for a period of 12 months after its expiration, Client shall not solicit any of Fishtown Analytics' employees or Analytics Agents (collectively, "Fishtown Analytics Employee"). "Solicit" is defined to include: solicit, recruit, engage, or otherwise employ or retain, on a full-time, part-time, consulting, work-for-hire, or any other basis.
 
-**Agency Commission.** In the event of such Solicitation, Client shall pay Fishtown Analytics an agency commission of 50% of the Fishtown Analytics Employee's annual starting salary with Client, or if hired as a contractor, 50% of the total contract fees paid to Fishtown Analytics Employee during the first year following the Solicitation.
+**Agency Commission.** In the event of such Solicitation, Client shall pay Fishtown Analytics an agency commission of 50% of Fishtown Analytics Employee's annual starting salary with Client, or if hired as a contractor, 50% of the total contract fees paid to Fishtown Analytics Employee during the first year following the Solicitation.
 
 ## Termination
 
@@ -107,7 +107,7 @@ Fishtown Analytics represents and warrants to Client that:
 
 ## LIMITATION OF LIABILITY
 
-**The services and the work product of  Fishtown Analytics are sold "as is." In all circumstances, the Fishtown Analytics' maximum liability to Client for damages for any and all causes whatsoever, and Client's maximum remedy, regardless of the form of action, whether in contract, tort or otherwise, shall be limited to Fishtown Analytics' net profit in connection with services provided during the preceding 12 months.  Although Fishtown Analytics will perform services in accordance with this Agreement, it cannot, due to the nature of its work, guarantee any particular outcome or result.**
+**The services and the work product of  Fishtown Analytics are sold "as is." In all circumstances, Fishtown Analytics' maximum liability to Client for damages for any and all causes whatsoever, and Client's maximum remedy, regardless of the form of action, whether in contract, tort or otherwise, shall be limited to Fishtown Analytics' net profit in connection with services provided during the preceding 12 months.  Although Fishtown Analytics will perform services in accordance with this Agreement, it cannot, due to the nature of its work, guarantee any particular outcome or result.**
 
 **In no event shall Fishtown Analytics be liable for any lost data or content, lost profits, business interruption or for any indirect, incidental, special, consequential, exemplary or punitive damages arising out of or relating to the materials or the services provided by Fishtown Analytics, even if Fishtown Analytics has been advised of the possibility of such damages.**
 
