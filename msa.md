@@ -10,7 +10,7 @@ THIS MASTER SERVICES AGREEMENT (the "Agreement"), made and entered into on `Date
 
 Fishtown Analytics Email for Notice: `Fishtown Analytics Email`
 
-`[Client Name]` (hereafter Client)
+**`[Client Name]`** (hereafter Client)
 
 `[Client Address]`
 
@@ -18,7 +18,7 @@ Client Emails for Notice:  `[Client Email]`
 
 ## Analytics Services
 
-Professional Standard. Fishtown Analytics will provide the services identified in the Statement of Work. Fishtown Analytics will provide these services in a professional manner and in accordance with applicable professional standards.
+**Professional Standard.** Fishtown Analytics will provide the services identified in the Statement of Work. Fishtown Analytics will provide these services in a professional manner and in accordance with applicable professional standards.
 
 ## Change Request
 
@@ -56,7 +56,7 @@ The Client shall promptly review all deliverables, and must notify Fishtown Anal
 
 **IP Assignment.** Upon completion of the Services and full payment of all invoices, Fishtown Analytics shall assign IP rights in the Final Deliverables to the Client. These IP rights include all ownership rights, including any copyrights, in any software, analysis and presentation created by Fishtown Analytics and incorporated into a Final Deliverable, except as otherwise noted in this Agreement.
 
-Fishtown Analytics Rights in Deliverables
+## Fishtown Analytics Rights in Deliverables
 
 **Preliminary Works.** Fishtown Analytics retains the rights to all Preliminary Works that are not incorporated into a Final Deliverable.  Client acknowledges that the methodologies, strategies, designs, templates, software (and any modifications thereto), pre-existing IP of Fishtown Analytics (and any modifications thereto), general knowledge, skills, experience, ideas, concepts, know-how and techniques used by Fishtown Analytics in the course of performing services hereunder are all part of Fishtown Analytics’ proprietary IP, and are owned exclusively by Fishtown Analytics.
 
