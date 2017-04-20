@@ -74,9 +74,9 @@ The Client shall promptly review all deliverables, and must notify Fishtown Anal
 
 ## No Solicitation
 
-**Non-Solicit.** During the term of this Agreement, and for a period of 12 months after its expiration, Client shall not solicit any of Fishtown Analytics' employees or Analytics Agents (collectively, "Fishtown Analytics Employee"). "Solicit" is defined to include: solicit, recruit, engage, or otherwise employ or retain, on a full-time, part-time, consulting, work-for-hire, or any other basis.
+**Non-Solicit.** During the term of this Agreement, and for a period of 12 months after its expiration, Client shall not solicit any of Fishtown Analytics' employees or Analytics Agents (collectively, "Fishtown Analytics Employee"), and Fishtown Analytics shall not solicit any of Clients’ employees or agents. "Solicit" is defined to include: solicit, recruit, engage, or otherwise employ or retain, on a full-time, part-time, consulting, work-for-hire, or any other basis.
 
-**Agency Commission.** In the event of such Solicitation, Client shall pay Fishtown Analytics an agency commission of 50% of Fishtown Analytics Employee's annual starting salary with Client, or if hired as a contractor, 50% of the total contract fees paid to Fishtown Analytics Employee during the first year following the Solicitation.
+**Agency Commission.** In the event of such Solicitation, the solicitation party shall pay the other party an agency commission of 50% of the employee's annual starting salary, or if hired as a contractor, 50% of the total contract fees paid to employee during the first year following the Solicitation.
 
 ## Termination
 
