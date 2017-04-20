@@ -1,6 +1,6 @@
-##Company Operating System##
+## Company Operating System
 
-###What is a company operating system?###
+### What is a company operating system?
 
 A company is made up of people. These people do things to help the company make progress towards its goals. The way people within a company do things—how they communicate, how they create, how they decide—is that company's operating system.
 
@@ -12,9 +12,9 @@ Companies will naturally build operating systems whether or not decisions are pr
 
 Changing norms of human behavior is far harder than establishing them. As such, we choose to form those norms proactively.
 
-###The Fishtown Analytics Operating System###
+### The Fishtown Analytics Operating System
 
-####1. Making Decisions####
+#### 1. Making Decisions
 
 - core principles of decision-making
   - delay decisions for as long as possible but no longer
@@ -28,15 +28,11 @@ Changing norms of human behavior is far harder than establishing them. As such, 
   - how, and to whom, should it be communicated?
   - how should it be implemented?
 
+##### 2. Doing Work
+...
 
-
-####2. Doing Work####
-
-
-
-
-
-####3. Updating the Operating System####
+##### 3. Updating the Operating System
+...
 
 We have root access to and the source code of our own operating system: we can extend it, refactor it, and even trash huge sections of it if we choose. As we evolve as a company, we will doubtless need to update it in many ways.
 
