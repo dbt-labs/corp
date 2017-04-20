@@ -1,6 +1,6 @@
 # Master Services Agreement
 
-THIS MASTER SERVICES AGREEMENT (the "Agreement"), made and entered into on `Date`, is by and between Fishtown Analytics LLC and `[Client Legal Entity]`.
+This MASTER SERVICES AGREEMENT (the "Agreement"), made and entered into on `Date`, is by and between Fishtown Analytics LLC and `[Client Legal Entity]`.
 
 ## Parties
 
