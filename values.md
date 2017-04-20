@@ -22,6 +22,7 @@ While we believe that we are an exceptional group of humans, that knowledge does
 
 ###We’re invested in the future of work.###
 The employee-employer relationship of the 1900’s is a thing of the past. We fully embrace the future of work.
+
 - We believe that employees should be able to work where and when they choose, assuming those choices are consistent with the effective performance of their responsibilities.
 - We do not believe that employees should be asked to sign overly-aggressive non-competes, IP ownership contracts, or other terms that constrict their future choices excessively.
 - We believe that compensation shouldn't create "handcuffs".

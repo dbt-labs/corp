@@ -8,9 +8,9 @@ A company's operating system is the foundation for which all work at that compan
 
 There are two core processes that take place within any company: making decisions and doing work. An excellent operating system will be opinionated about both.
 
-Companies will naturally build operating systems whether or not decisions are proactively made to build them. Decisions need to be made and work needs to get done, and if proactive decisions are made as to how these things get done, habits will form, then calcify, then get transmitted to new people.
+Companies will naturally build operating systems whether or not decisions are proactively made to build them. Decisions need to be made and work needs to get done, and if proactive decisions are not made as to how these things get done, habits will form, then calcify, then get transmitted to new people.
 
-Changing norms of human behavior is far harder than establishing them. As such, to the extent that a company feels that it is important to make conscious choices in this area, it's important for it to do so proactively.
+Changing norms of human behavior is far harder than establishing them. As such, we choose to form those norms proactively.
 
 ###The Fishtown Analytics Operating System###
 
@@ -20,6 +20,7 @@ Changing norms of human behavior is far harder than establishing them. As such, 
   - delay decisions for as long as possible but no longer
   - decisiveness is more important than correctness
   - a decision, once made, can be relied upon
+  - disagree and commit
 
 - first step for making any decision: decide how you are going to decide
   - what people need to be involved?
