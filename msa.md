@@ -26,15 +26,13 @@ A "Change Request" is any request for work outside the scope of the Statement of
 
 If such a request is made, Fishtown Analytics will notify the Client that it is a Change Request. If the Client still wants to proceed with the Change Request, Fishtown Analytics will provide a price estimate to the Client. Upon approval of the Change Request’s scope and price, Fishtown Analytics will incorporate the work into the schedule. The Client understands that the schedule may be affected depending on the size or volume of Change Requests.
 
-Change Requests prices will be added to the invoice following approval by the Client.
-
 ## Payment
 
 **Payment.** Payments are accepted via check or ACH/wire.
 
 **Invoice.** Fishtown Analytics will invoice the Client according to the Statement of Work. Client shall pay all invoices within 30 days of receipt.
 
-**Expenses.** In addition to Fishtown Analytics' fees, the Client will be invoiced, upon Client approval, for Fishtown Analytics' expenses. Fishtown Analytics' travel and lodging expenses will be invoiced to the Client without markup. Meal expenses will not be invoiced to the Client at all. Other Expenses incurred by Fishtown Analytics in performing services to the Client will be invoiced to Client.
+**Expenses.** In addition to Fishtown Analytics' fees, the Client will be invoiced, upon written Client approval, for Fishtown Analytics' expenses. Fishtown Analytics' travel and lodging expenses will be invoiced to the Client without markup. Meal expenses will not be invoiced to the Client. Other Expenses incurred by Fishtown Analytics subsequent Client approval and in performing services to the Client will be invoiced to Client.
 
 **Taxes.** Client is responsible for paying all applicable taxes, including sales, use and value added taxes.
 
@@ -48,19 +46,21 @@ Change Requests prices will be added to the invoice following approval by the Cl
 
 **Testing & Acceptance.** Fishtown Analytics shall use commercially reasonable efforts to test Deliverables before providing them to the Client.
 
-The Client shall promptly review all deliverables, and must notify Fishtown Analytics of any failure to conform to the Statement of Work within 5 business days of receipt. If Fishtown Analytics does not receive a timely notification, the Deliverable will be deemed accepted. The Client's notification must clearly identify the problems with the Deliverable.
+The Client shall promptly review all Deliverables, and must notify Fishtown Analytics of any failure to conform to the Statement of Work within 5 business days of receipt. If Fishtown Analytics does not receive a timely notification, the Deliverable will be deemed accepted. The Client's notification must clearly identify the problems with the Deliverable.
 
-**Client Responsibilities.** Client must promptly: (a) coordinate any decision-making activities with 3rd parties; (b) provide Client Data in a form suitable for reproduction or incorporation into the Deliverables; and (c) proofread deliverables. Additional client responsibilities may be outlined within the attached Scope of Work document(s).
+**Client Responsibilities.** Client must promptly: (a) coordinate any decision-making activities with 3rd parties; (b) provide Client Data in a form suitable for reproduction or incorporation into the Deliverables; and (c) proofread the Deliverables. Additional client responsibilities may be outlined within the attached Scope of Work document(s).
 
 ## Client Rights in Deliverables
 
-**IP Assignment.** Upon completion of the Services and full payment of all invoices, Fishtown Analytics shall assign IP rights in the Final Deliverables to the Client. These IP rights include all ownership rights, including any copyrights, in any software, analysis and presentation created by Fishtown Analytics and incorporated into a Final Deliverable, except as otherwise noted in this Agreement.
+**IP Assignment.** Upon Client acceptance of all Final Deliverables, Fishtown Analytics shall assign IP rights in the Final Deliverables to the Client. These IP rights include all ownership rights, including any copyrights, in any software, analysis and presentation created by Fishtown Analytics and incorporated into a Final Deliverable, except as otherwise noted in this Agreement.
 
 ## Fishtown Analytics Rights in Deliverables
 
-**Preliminary Works.** Fishtown Analytics retains the rights to all Preliminary Works that are not incorporated into a Final Deliverable.  Client acknowledges that the methodologies, strategies, designs, templates, software (and any modifications thereto), pre-existing IP of Fishtown Analytics (and any modifications thereto), general knowledge, skills, experience, ideas, concepts, know-how and techniques used by Fishtown Analytics in the course of performing services hereunder are all part of Fishtown Analytics’ proprietary IP, and are owned exclusively by Fishtown Analytics.
+**Fishtown Analytics IP.** Client acknowledges that the methodologies, strategies, designs, templates, software (and any modifications thereto), pre-existing IP of Fishtown Analytics (and any modifications thereto), general knowledge, skills, experience, ideas, concepts, know-how and techniques used by Fishtown Analytics in the course of performing services hereunder are all part of Fishtown Analytics’ proprietary IP, and are owned exclusively by Fishtown Analytics.
 
-**Open Source Analysis.** Upon written permission by Client, Fishtown Analytics may publish non-confidential components of Final Deliverables under an open source license on Fishtown Analytics’ websites and Github repositories for the purposes of promotion of Fishtown Analytics. Likewise, Fishtown Analytics may publicly describe its role in the Project.
+**Open Source Analysis.** Upon written permission by Client, Fishtown Analytics may publish non-confidential components of Final Deliverables under an open source license on Fishtown Analytics’ websites and Github repositories for the purposes of promotion of Fishtown Analytics.
+
+**Project Disclosure.** Fishtown Analytics may publicly describe its role in the Project.
 
 ## Fishtown Analytics and Client Relationship
 
@@ -68,7 +68,7 @@ The Client shall promptly review all deliverables, and must notify Fishtown Anal
 
 **No Assignment.** Except as set forth herein, neither party may assign its rights or obligations under this Agreement without the prior written consent of the other party. Any such attempted assignment will be void ab initio. Consent is not required for a disposition of substantially all assets of the assigning party's business.
 
-**Confidential Information.** Each party shall maintain Confidential Information in strict confidence, and shall not use Confidential Information except (a) as necessary to perform its obligations under the Agreement, or (b) as required by a court or governmental authority. Confidential Information includes proprietary technical and business information, Preliminary Works, and any other information marked "Confidential."
+**Confidential Information.** Each party shall maintain Confidential Information in strict confidence, and shall not use Confidential Information except (a) as necessary to perform its obligations under the Agreement, or (b) as required by a court or governmental authority. Confidential Information includes proprietary technical and business information and any other information marked "Confidential."
 
 **Exception.** Confidential Information does not include (a) any information that is in the public domain, (b) becomes publicly known through no fault of the receiving party, or (c) is otherwise known by the receiving party before obtaining access to it under this Agreement or properly received from a third party without an obligation of confidentiality.
 
@@ -166,8 +166,6 @@ A notice that is sent by email but is not read by the addressee is nevertheless 
 ## Definitions
 
 *Client Data* - all data provided by the Client for use in the preparation of and/or incorporation in the Deliverables.
-
-*Preliminary Works* - all analytical work including, but not limited to, queries and other analytic software code, data visualizations, and supporting narrative developed by Fishtown Analytics and which may or may not be shown and or delivered to Client for consideration but do not form part of the Final Deliverables.
 
 *Deliverables* - the services and work product specified in the Statement of Work to be delivered by Fishtown Analytics to Client, in the form and media specified in the Proposal.
 
