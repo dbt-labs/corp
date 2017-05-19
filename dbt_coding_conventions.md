@@ -1,11 +1,13 @@
 # Code Review Checklist
 
 
-### Policy & Procedure
+## Policy & Procedure
+
 - Reviewers should have 48 hours to complete a review, so plan ahead with the end of your sprint.
 - When possible, questions/problems should be discussed with your reviewer before PR time. PR time is by definition the worst possible time to have to make meaningful changes to your models, because you’ve already done all of the work!
 
-### Model Configuration
+## Model Configuration
+
 - Model-specific attributes (like sort/dist keys) should be specified in the model
 - If a particular configuration applies to all models in a directory, it should be specified in the project
 - In-model configurations should be specified like this:
@@ -20,7 +22,7 @@
 }}
 ```
 
-### Base Models
+## Base Models
 
 - Only base models should select from source tables / views
 - Only a single base model should be able to select from a given source table / view.
@@ -29,11 +31,13 @@
 - Base models should perform all field naming to force field names to conform to standard field naming conventions
 - Source fields that use reserved words must be renamed in base models
 
-### Field Naming Conventions
+## Field Naming Conventions
+
 - The primary key of every table should be called “id”
 - TBD
 
-### CTEs
+## CTEs
+
 - All `{{ ref('...') }}` statements should be placed in CTEs at the top of the file
 - Where performance permits, CTEs should perform a single, logical unit of work.
 - CTE names should be as verbose as needed to convey what they do
@@ -44,7 +48,7 @@
 ``` sql
 with events as (
 
-	... 
+	...
 
 ),
 
@@ -58,7 +62,8 @@ filtered_events as (
 select * from filtered_events
 ```
 
-### Style Guide
+## Style Guide
+
 - Indents should be four spaces (except for predicates, which should line up with the `where` keyword)
 - Lines of SQL should be no longer than 80 characters
 - Field names and function names should all be lowercase
@@ -90,7 +95,8 @@ group by 1, 2, 3
 having count(*) > 1
 ```
 
-### Testing
+## Testing
+
 - Every model should be tested in a schema.yml file
 - At minimum, unique and foreign key constraints should be tested (if applicable)
 - The output of dbt test should be pasted into PRs
