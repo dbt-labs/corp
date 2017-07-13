@@ -2,9 +2,9 @@
 
 We are on a mission to change the way that analytics is done. We believe that [analysts should work more like software engineers](https://medium.com/fishtown-analytics/building-a-mature-analytics-workflow-the-analyst-collective-viewpoint-7653473ef05b), and we spend our time thinking about, implementing, building tools for, and training analysts on this workflow. Our mission animates everything about Fishtown Analytics: the way we work, the work we choose to do, the clients we work with, and the people we hire.
 
-Our mission is almost hopelessly ambitious. The job “data analyst” became commonplace with the invention of the spreadsheet in the 1980’s, and analysts' core workflows haven’t changed much since then. Today, there are millions of analysts, and we want to change how each of them does their job. Inertia of this magnitude is almost impossible to overcome.
+We care about this mission for a very simple reason: we want to help analysts be more effective. We’re analysts ourselves, and have personally witnessed a dramatic increase in our productivity by implementing this workflow. We want to help others do the same.
 
-We care about our mission for a very simple reason: we want to help analysts be more effective. We’re analysts ourselves, and have personally witnessed a dramatic increase in our productivity implementing this workflow. We want to help others do the same.
+This mission is almost hopelessly ambitious. The job “data analyst” became commonplace with the invention of the spreadsheet in the 1980’s, and analysts' core workflows haven’t changed much since then. Today, there are millions of analysts, and we want to change how each of them does their job. Inertia of this magnitude is nearly impossible to overcome.
 
 The most likely outcome is that we will fail to achieve this mission. We are comfortable with this fact; the ever-present promise of failure motivates us every day. In order to maximize our chances of success, we have developed certain very particular ways of thinking about our business. Each of these principles touches almost everything we do.
 
