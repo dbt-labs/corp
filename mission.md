@@ -1,6 +1,6 @@
 # Mission
 
-We are on a mission to change the way that analytics is done. We believe that [analysts should work more like software engineers](https://medium.com/fishtown-analytics/building-a-mature-analytics-workflow-the-analyst-collective-viewpoint-7653473ef05b), and we spend our time thinking about, implementing, building tools for, and training analysts on this workflow. Our mission animates everything about Fishtown Analytics: the way we work, the work we choose to do, the clients we work with, and the people we hire.
+We are on a mission to change the way that analytics is done. We believe that [analysts should work more like software engineers](https://medium.com/fishtown-analytics/building-a-mature-analytics-workflow-the-analyst-collective-viewpoint-7653473ef05b), and we spend our time thinking about, implementing, building tools for, and training analysts on this workflow. This mission animates everything about Fishtown Analytics: the way we work, the work we choose to do, the clients we work with, and the people we hire.
 
 We care about this mission for a very simple reason: we want to help analysts be more effective. We’re analysts ourselves, and have personally witnessed a dramatic increase in our productivity by implementing this workflow. We want to help others do the same.
 
