@@ -161,7 +161,9 @@ A notice that is sent by email but is not read by the addressee is nevertheless 
 
 **Mutual Drafting.** Any ambiguity or inconsistency in this Agreement is to be resolved in accordance with the most reasonable construction and not strictly for or against either party by virtue of that party's authorship.
 
-**Headings.** Section headings are provided for convenience only and do not affect the meaning of any terms. Integration. This Agreement comprises the entire understanding of the parties and supersedes all prior agreement and understandings.
+**Headings.** Section headings are provided for convenience only and do not affect the meaning of any terms.
+
+**Integration.** This Agreement comprises the entire understanding of the parties and supersedes all prior agreement and understandings.
 
 ## Definitions
 
