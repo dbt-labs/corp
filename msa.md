@@ -70,6 +70,8 @@ The Client shall promptly review all Deliverables, and must notify Fishtown Anal
 
 **Confidential Information.** Each party shall maintain Confidential Information in strict confidence, and shall not use Confidential Information except (a) as necessary to perform its obligations under the Agreement, or (b) as required by a court or governmental authority. Confidential Information includes proprietary technical and business information and any other information marked "Confidential."
 
+**Security.** Fishtown Analytics will use commercially appropriate measures, including the establishment and maintenance of policies, procedures, and technical, physical, and administrative safeguards, to ensure the security and confidentiality of Confidential Information, and protect against any reasonably foreseeable threats or hazards to the security or integrity of Confidential Information.
+
 **Exception.** Confidential Information does not include (a) any information that is in the public domain, (b) becomes publicly known through no fault of the receiving party, or (c) is otherwise known by the receiving party before obtaining access to it under this Agreement or properly received from a third party without an obligation of confidentiality.
 
 ## No Solicitation
