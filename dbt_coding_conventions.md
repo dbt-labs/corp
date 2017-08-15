@@ -69,7 +69,7 @@ select * from filtered_events
 - The `as` keyword should be used when projecting a field or table name
 - Fields should be stated before aggregates / window functions
 - Ordering and grouping by a number (eg. group by 1, 2) is ok
-- When possible, take advantage of USING in joins
+- When possible, take advantage of using in joins
 - *DO NOT OPTIMIZE FOR A SMALLER NUMBER OF LINES OF CODE. NEWLINES ARE CHEAP, BRAIN TIME IS EXPENSIVE*
 - Select statements should be formatted like this:
 
@@ -82,13 +82,13 @@ select [distinct]
 	sum(field_4),
 	max(field_5),
 	case
-	   when id = 1 then 'NYC'
-	   when id = 2 then 'Philadelphia'
-	   else 'Other'
-	end as location
+	   when cancellation_date is null and expiration_date is not null then expiration_date
+	   when cancellation_date is null then start_date+7
+	   else cancellation_date
+	end as canellation_date
 
 from some_cte
-join other_cte USING (id)
+join other_cte using (id)
 
 where field_1 = ‘abc’
   and (
