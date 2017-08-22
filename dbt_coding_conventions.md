@@ -28,7 +28,7 @@
 - DON'T select from source data outside of base models
 - DON'T select from any given source table in more than one base model
 - DON'T `select *` in base models
-- DON'T cast source fields types outside of base models
+- DON'T cast source field types outside of base models
 - DO rename source field names to be valid unquoted sql identifiers in base models
 - DO rename source field names to comply with standard field naming conventions (ed: what are these?)
 
@@ -42,8 +42,8 @@
 - DON'T place any logic in CTEs which `ref` other models
 - AVOID implementing more than one logical unit of work in a CTE
 - DO make CTE names as verbose as needed to convey what they do
-- DO comment CTEs with confusing or noteable logic
-- DO pull out CTEs that are duplicated across models into their own models
+- DO comment CTEs which contain confusing or noteable logic
+- DO yank out CTEs that are duplicated across models into their own models
 - DO place `[with] {cte_name} as (` on a single line
 - DO pad one newline above and below the sql in a CTE
 - DO use block comments (`/* ... */`) to comment CTEs
@@ -58,7 +58,9 @@ with events as (
 
 ),
 
--- CTE comments go here
+/*
+CTE comments go here
+/*
 filtered_events as (
 
 	...
