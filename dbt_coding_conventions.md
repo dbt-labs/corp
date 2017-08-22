@@ -24,12 +24,13 @@
 
 ## Base Models
 
-- Only base models should select from source tables / views
-- Only a single base model should be able to select from a given source table / view.
-- Base models should be placed in a base/ directory
-- Base models should perform all necessary data type casting
-- Base models should perform all field naming to force field names to conform to standard field naming conventions
-- Source fields that use reserved words must be renamed in base models
+- DO place all base models in a base/ directory
+- DON'T select from source data outside of base models
+- DON'T select from any given source table in more than one base model
+- DON'T `select *` in base models
+- DON'T cast source fields types outside of base models
+- DO rename source field names to be valid unquoted sql identifiers in base models
+- DO rename source field names to comply with standard field naming conventions (ed: what are these?)
 
 ## Field Naming Conventions
 
@@ -37,12 +38,18 @@
 
 ## CTEs
 
-- All `{{ ref('...') }}` statements should be placed in CTEs at the top of the file
-- Where performance permits, CTEs should perform a single, logical unit of work.
-- CTE names should be as verbose as needed to convey what they do
-- CTEs with confusing or noteable logic should be commented
-- CTEs that are duplicated across models should be pulled out into their own models
-- CTEs should be formatted like this:
+- DO place all `{{ ref('...') }}` statements in CTEs at the top of the file
+- DON'T place any logic in CTEs which `ref` other models
+- AVOID implementing more than one logical unit of work in a CTE
+- DO make CTE names as verbose as needed to convey what they do
+- DO comment CTEs with confusing or noteable logic
+- DO pull out CTEs that are duplicated across models into their own models
+- DO place `[with] {cte_name} as (` on a single line
+- DO pad one newline above and below the sql in a CTE
+- DO use block comments (`/* ... */`) to comment CTEs
+- DO place CTE comments on the lines immediately above a CTE
+
+Given these rules, CTEs should be formatted like this:
 
 ``` sql
 with events as (
@@ -62,30 +69,41 @@ select * from filtered_events
 ```
 
 ## Style Guide
+### *DO NOT OPTIMIZE FOR A SMALLER NUMBER OF LINES OF CODE. NEWLINES ARE CHEAP, BRAIN TIME IS EXPENSIVE*
 
-- Indents should be four spaces (except for predicates, which should line up with the `where` keyword)
-- Lines of SQL should be no longer than 80 characters
-- Field names and function names should all be lowercase
-- The `as` keyword should be used when projecting a field or table name
-- Fields should be stated before aggregates / window functions
-- Ordering and grouping by a number (eg. group by 1, 2) is ok
-- When possible, take advantage of `using` in joins
-- *DO NOT OPTIMIZE FOR A SMALLER NUMBER OF LINES OF CODE. NEWLINES ARE CHEAP, BRAIN TIME IS EXPENSIVE*
-- Select statements should be formatted like this:
+- DO indent `select` four spaces from the CTE which contains it
+- DON'T indent `select` when it's found outside of a CTE
+- DO indent fields four spaces from the `select` keyword which references them
+- DO indent `where`, `join`, `group`, `union`, `having`, `limit`, and `order` to align with the `select` keyword in their scope
+- DO place the first filter on the same line as the `where` keyword
+- DO indent subsequent filters to align the end of the boolean operator (`and`/`or`) with the end of the `where` keyword
+- AVOID writing lines of SQL longer than 80 characters
+- DO place dimensions before aggregates or window functions
+- DO use lowercase for field names, function names, and sql keywords
+- DO use the `as` keyword when projecting a field or table name
+- PREFER placing all `group by` fields on the same line
+- PREFER the `using` keywords for joins on a shared field name
+- DO place `distinct` on the same line as the `select`
+- DO indent the `when` and `else` parts of a `case` statements 4 spaces from the `case` keyword
+- DO place parentheses which begin a block on the same line as the previous keyword (eg. in compound where statements)
+- DO use `=` for equality and `!=` for negative inequality
+- DO use `like` and `ilike` for string comparisons
+
+Given these rules, select statements should be formatted like this:
 
 ```sql
 select [distinct]
-	field_1,
-	field_2,
-	field_3,
+    field_1,
+    field_2,
+    field_3,
+    case
+        when cancellation_date is null and expiration_date is not null then expiration_date
+        when cancellation_date is null then start_date+7
+        else cancellation_date
+    end as canellation_date
 
-	sum(field_4),
-	max(field_5),
-	case
-	   when cancellation_date is null and expiration_date is not null then expiration_date
-	   when cancellation_date is null then start_date+7
-	   else cancellation_date
-	end as canellation_date
+    sum(field_4),
+    max(field_5)
 
 from some_cte
 join other_cte using (id)
