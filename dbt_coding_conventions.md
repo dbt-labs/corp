@@ -60,7 +60,7 @@ with events as (
 
 /*
 CTE comments go here
-/*
+*/
 filtered_events as (
 
 	...
