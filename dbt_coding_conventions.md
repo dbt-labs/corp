@@ -70,6 +70,7 @@ select * from filtered_events
 - Fields should be stated before aggregates / window functions
 - Ordering and grouping by a number (eg. group by 1, 2) is ok
 - When possible, take advantage of `using` in joins
+- Prefer `union all` to `union` [*](http://docs.aws.amazon.com/redshift/latest/dg/c_example_unionall_query.html)
 - *DO NOT OPTIMIZE FOR A SMALLER NUMBER OF LINES OF CODE. NEWLINES ARE CHEAP, BRAIN TIME IS EXPENSIVE*
 - Select statements should be formatted like this:
 
