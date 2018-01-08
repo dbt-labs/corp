@@ -75,21 +75,33 @@ select * from filtered_events
 - Select statements should be formatted like this:
 
 ```sql
+with my_data as (
+
+    select * from {{ ref('my_data') }}
+
+),
+
+some_cte as (
+
+    select * from {{ ref('some_cte') }}
+
+)
+
 select [distinct]
-	field_1,
-	field_2,
-	field_3,
+    field_1,
+    field_2,
+    field_3,
+    case
+        when cancellation_date is null and expiration_date is not null then expiration_date
+        when cancellation_date is null then start_date+7
+        else cancellation_date
+    end as canellation_date
 
-	sum(field_4),
-	max(field_5),
-	case
-	   when cancellation_date is null and expiration_date is not null then expiration_date
-	   when cancellation_date is null then start_date+7
-	   else cancellation_date
-	end as canellation_date
+    sum(field_4),
+    max(field_5)
 
-from some_cte
-join other_cte using (id)
+from my_data
+join some_cte using (id)
 
 where field_1 = ‘abc’
   and (
