@@ -48,7 +48,7 @@ If such a request is made, Fishtown Analytics will notify the Client that it is 
 
 The Client shall promptly review all Deliverables, and must notify Fishtown Analytics of any failure to conform to the Statement of Work within 5 business days of receipt. If Fishtown Analytics does not receive a timely notification, the Deliverable will be deemed accepted. The Client's notification must clearly identify the problems with the Deliverable.
 
-**Client Responsibilities.** Client must promptly: (a) coordinate any decision-making activities with 3rd parties; (b) provide Client Data in a form suitable for reproduction or incorporation into the Deliverables; and (c) proofread the Deliverables. Additional client responsibilities may be outlined within the attached Scope of Work document(s).
+**Client Responsibilities.** Client must promptly: (a) coordinate any decision-making activities with Client employees and/or 3rd parties; (b) make Client Data accessible in a form suitable for incorporation into the Deliverables; and (c) proofread the Deliverables. Additional client responsibilities may be outlined within the attached Scope of Work document(s).
 
 ## Client Rights in Deliverables
 
