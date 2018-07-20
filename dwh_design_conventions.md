@@ -78,9 +78,9 @@ renamed as (
 select * from renamed
 ```
 Depending on the quality of raw data, this base model could also be a staging
-model. There may also need several models' worth of cleaning, correcting,
-and categorizing. Raw data may come as it is; staging data is clean, presentable,
-and ready for the curtain to raise.
+model. One staged view might just as well warrant several models' worth of cleaning, 
+correcting, and categorizing. Raw data may come as it is; staging data is clean, 
+presentable, and ready for the curtain to rise.
 
 Staging models **can** have joins in them to field additional columns for context 
 or enrichment; they can add rows through unions and remove them through filters;
