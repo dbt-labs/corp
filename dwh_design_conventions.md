@@ -12,17 +12,17 @@ views, in the same schema. When a BI user wants to learn about Salesforce
 accounts, they have not one but four sources of truth. Not good.
 
 Thoughtful people have been thinking about data warehouse design for decades. In
-the past, these design patterns have also needed to account for considerations
-like storage (expensive!) through highly fractured ERDs and extensive use of 
-integer keys. Today, storage is cheap; computation less so; and human brain 
+the past, design patterns needed to also account for considerations such as
+storage (expensive!) through highly fractured ERDs and extensive use of 
+integer keys. Today, storage is cheap, computation less so, and human brain 
 time spent searching, deduplicating, and interpreting is the most expensive of 
 all.
 
 ## Fishtown's Thoughts
 
 To that end, we've spent time developing a vocabulary and an architecture for 
-thinking about data warehouse design, working in concert with our dbt-driven modeling
-[best practices](https://docs.getdbt.com/docs/best-practices). 
+thinking about data warehouse design, working in concert with our dbt-driven 
+modeling [best practices](https://docs.getdbt.com/docs/best-practices). 
 The [coding conventions](https://github.com/fishtown-analytics/corp/blob/master/dbt_coding_conventions.md)
 are still as true as ever; we're applying the same thinking 
 beyond the `select` statement, to the repo and warehouse levels.
@@ -33,8 +33,8 @@ The concept of a folder hierarchy is standard; the organization of views and
 tables within a database schema, less so. dbt offers a lot by way of 
 [custom schema names](https://docs.getdbt.com/docs/using-custom-schemas), and
 soon [model aliasing](https://github.com/fishtown-analytics/dbt/pull/800) as well.
-Different data warehouses offer additional levels to the hierarchy: Snowflake
-allows an arbitrary number of logical databases; models in one BigQuery
+Different data warehouses add levels to the hierarchy, and levers to your toolkit: 
+Snowflake allows an arbitrary number of logical databases; models in one BigQuery
 project can select data from another one, if you have access to both.
 
 A significant theme is the relationship between folder structure in a dbt repo
@@ -58,7 +58,7 @@ granularity, but the columns have been renamed, recast, or usefully
 reconsidered.
 
 Every raw data table should still flow through a base model of the form:
-```
+```sql
 with source as (
     
     select * from raw_schema.raw_table
@@ -78,12 +78,12 @@ renamed as (
 select * from renamed
 ```
 Depending on the quality of raw data, this base model could also be a staging
-model. One staged view might just as well warrant several models' worth of cleaning, 
-correcting, and categorizing. Raw data may come as it is; staging data is clean, 
+model. A staged view might just as well warrant several models' worth of cleaning, 
+correcting, and categorizing. Raw data comes as it is; staging data is clean, 
 presentable, and ready for the curtain to rise.
 
 Staging models **can** have joins in them to field additional columns for context 
-or enrichment; they can add rows through unions and remove them through filters;
+or enrichment; add rows through unions and remove them through filters;
 deduplicate a natural key or hash together a 
 [surrogate one](https://github.com/fishtown-analytics/dbt-utils#surrogate_key-source); 
 but they should **not** have `group by` aggregations that would change their 
@@ -110,14 +110,14 @@ staging:
 
 ### Marts of Facts
 
-Complex logical rollups can and should still happen across several models, with
-discrete steps and abstractions split into chunks of 100 lines or fewer. The
+Complex logical rollups can and should happen across several models, with
+discrete steps and abstractions split into queries of 100 lines or fewer. The
 end of these rollups is a table, exposed to end-users and aptly prefixed `fct_`:
 it contains the facts that a good reporter seeks.
 
 Marts are stores of one or more fact tables, related primarily by their use case
 in analysis and reporting. They could be organized by business unit, high-level 
-concept, or intended set of reports/end-users: `marketing`, `finance`, `product`, 
+concept, or intended set of end-users: `marketing`, `finance`, `product`, 
 etc. Some fact tables form the basis for other ones and are used across the
 project; you might gird these keystones into a `core` folder, and `ref()` them
 at will.
@@ -127,8 +127,7 @@ data is rolled up, aggregated, nested, or otherwise altered in a more
 significant, structured way. These intermediate models should _not_ be exposed;
 they can be ephemeral or, as materializing becomes necessary for performance
 reasons, built as tables in a cordoned-off intermediate schema. (It should be
-named something that says "I'm incomplete and not to be trusted"; I opt for
-the discouraging double-underscore of `__intermediate`.)
+named something that says "I'm incomplete and not to be trusted", like `intermediate`.)
 
 Where the work of staging models is limited to cleaning and preparing, fact
 tables are the product of substantive data transformation: choosing (and reducing)
@@ -171,8 +170,8 @@ from `dbt_project.yml`.
 ### Postscript
 
 These thoughts are and continue to be in-progress. Fixing the scourge of
-incomprehensible SQL was one thing; you know bad code when you see it. Devising
+incomprehensible SQL was one thing—you know bad code when you see it. Devising
 best practices for building, expanding, maintaining, and naming projects with
-hundreds of models and dozens of meaningful tables is a challenge; trying to do
-so across a team of analysts without a system of guidelines and
-conventions is nigh impossible.
+hundreds of models and dozens of meaningful tables is a challenge. Trying to do
+so across a team of analysts, without a system of guidelines and
+conventions, is nigh impossible.
