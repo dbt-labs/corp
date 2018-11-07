@@ -15,8 +15,8 @@ There are countless examples of choices that we all have in our professional liv
 ### We value diversity.
 People with different mindsets and experiences, working together, create better outcomes. This includes diversity of race and gender, as well as the diversity of academic backgrounds, socio-economic backgrounds, geographic backgrounds, ideologies, and interests.
 
-### Clients are our best salespeople.
-We market our services by working with amazing clients, doing amazing work for them, and asking them to spread the word. We go above and beyond for our clients to invest in our future growth.
+### Users are our best salespeople.
+We market our products and services by working with amazing humans, making them incredibly happy, and asking them to spread the word. We go above and beyond for our clients / users to invest in our future growth.
 
 ### We are humble.
 While we believe that we are an exceptional group of humans, that knowledge does not make us feel proud, it makes us feel humble. It imbues us with a deep sense of responsibility towards our clients, coworkers, and the community at large.
