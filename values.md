@@ -2,7 +2,7 @@
 
 We are a mission-driven company. We believe that profits are an important tool in the pursuit of our mission, but they are not the mission itself.
 
-### We contribute to the knowledge loop
+### We contribute to the knowledge loop.
 The highest goal of any human is to produce new knowledge that can subsequently be built upon by others. This is the process upon which every good thing in human society has been built. We participate in this most fundamental of human endeavors by thinking in public and defaulting to open source.
 
 ### We are more concerned with value creation than value capture.
