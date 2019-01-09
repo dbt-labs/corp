@@ -32,7 +32,7 @@ If such a request is made, Fishtown Analytics will notify the Client that it is 
 
 **Invoice.** Fishtown Analytics will invoice the Client according to the Statement of Work. Client shall pay all invoices within 30 days of receipt.
 
-**Expenses.** In addition to Fishtown Analytics' fees, the Client will be invoiced, upon written Client approval, for Fishtown Analytics' expenses. Fishtown Analytics' travel and lodging expenses will be invoiced to the Client without markup. Meal expenses will not be invoiced to the Client. Other Expenses incurred by Fishtown Analytics subsequent Client approval and in performing services to the Client will be invoiced to Client.
+**Expenses.** In addition to Fishtown Analytics' fees, the Client will be invoiced, upon written Client approval, for Fishtown Analytics' expenses. All approved expenses will be invoiced to Client without markup.
 
 **Taxes.** Client is responsible for paying all applicable taxes, including sales, use and value added taxes.
 
