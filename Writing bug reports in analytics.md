@@ -1,5 +1,5 @@
 # Writing bug reports in analytics
-From time to time, some of our work will impact downstream uses such that the reports they use show different numbers to what they expect to see. When this happens, we definitely want to know about it! Unfortunately, a lot of the time, we will get alerted that something is "wrong" or "broken" without enough details for us to diagnose the issue effectively. To help us fix things as quickly as possible, it's really important to communicate the bug clearly. Often, as the bug reporter, spending some extra effort when reporting the bug will save lots of effort in making the fix!
+From time to time, some of our work will impact existing reports such that they use show different numbers to what is expected. When this happens, we definitely want to know about it! Unfortunately, a lot of the time, we will get alerted that something is "wrong" or "broken" without enough details for us to diagnose the issue effectively. To help us fix things as quickly as possible, it's really important to communicate the bug clearly. Often, as the bug reporter, spending some extra effort when reporting the bug will save lots of effort in making the fix!
 
 If you've noticed a bug, we recommend opening up an issue on your dbt repo. We use the same structure in reporting analytics bugs that software engineers do when reporting software bugs.
 
