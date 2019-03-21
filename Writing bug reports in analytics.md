@@ -8,6 +8,7 @@ List the steps that took you on your journey to discovering this bug! Include hy
 
 Example:
 ```
+## Steps to reproduce:
 * Go to [this Looker/Mode/Periscope report](www.link_to_report.com).
 * Also go to [this GA dashboard](www.link_to_ga.com).
 ```
@@ -16,12 +17,14 @@ Example:
 Explain what you expected to see when you went on your journey of bug-discovery. If you have historical data (e.g. a screenshot of the same report from last week), here is a great place to include it!
 Example:
 ```
+## Expected resuts:
 * The pageview numbers for yesterday _should_ be somewhat similar.
 ```
 
 ## Actual results
 Explain what you saw that made you go "that doesn't look right". Include screenshots!
 ```
+## Actual resuts:
 * Looker is reporting 500 pageviews:
 [Screenshot of Looker]
 * GA is reporting 100 page views:
@@ -31,5 +34,6 @@ Explain what you saw that made you go "that doesn't look right". Include screens
 ## Extra details
 Include any extra details that you think might be relevant. If you're someone that is close to the dbt code, you might know of a recent PR related to this area.
 ```
+## Extra details
 PR #27 "Join page views to users" was merged just before we noticed these errors
 ```
