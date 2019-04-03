@@ -5,18 +5,23 @@
 Once upon a time, at Fishtown Analytics, data warehouse design patterns were few 
 and far between. dbt requires different names for each SQL file in a project, 
 so when we needed to make significant alterations to `salesforce_account`, we'd 
-do so in new models (good!) with clever names like `salesforce_account_xf`, 
-`_enriched`, or `_joined`, often without internal consistency or interpersonal
-clarity on those naming conventions. All four models would materialize, as
-views, in the same schema. When a BI user wants to learn about Salesforce
-accounts, they have not one but four sources of truth. Not good.
+do so in new models with names like `salesforce_account_xf`, `_enriched`, 
+or `_joined`—naming conventions that lacked internal consistency or interpersonal
+clarity. All four models would materialize, as tables and views, in the same 
+schema. When a BI user wants to learn about Salesforce
+accounts, they have not one but four sources of truth.
 
-Thoughtful people have been thinking about data warehouse design for decades. In
-the past, design patterns needed to also account for considerations such as
-storage (expensive!) through highly fractured ERDs and extensive use of 
-integer keys. Today, storage is cheap, computation less so, and human brain 
-time spent searching, deduplicating, and interpreting is the most expensive of 
-all.
+Enter: principles of data warehouse design.
+
+Thoughtful people have been thinking about this for decades. In the past, 
+best practices were influenced by their design patterns, but they were equally
+motivated by the trade-offs and limitations of database technology. Star schemas,
+highly fractured ERDs, tables full of foreign keys, and curated
+preaggregations make more sense in a world where storage is expensive and joins
+are cheap. Modern analytic databases, such as BigQuery and Snowflake, present
+the opposite dilemma: storage is cheap, multi-TB table scans less so; and human 
+brain time spent searching, deduplicating, and interpreting is the most 
+expensive of all.
 
 ## Fishtown's Thoughts
 
@@ -27,27 +32,39 @@ The [coding conventions](https://github.com/fishtown-analytics/corp/blob/master/
 are still as true as ever; we're applying the same thinking 
 beyond the `select` statement, to the repo and warehouse levels.
 
-### Note on Custom Schemata
+dbt the open-source software has one (version 0) API, but your dbt _project_ has 
+several: the organizational structure within a `models` directory; the 
+transformation graph (DAG) visible in 
+[dbt docs](https://github.com/fishtown-analytics/dbt-docs); and the 
+"transformed" views, tables, and schemata in the database. Each of these can and
+should be a usable interface into an organization's analytics, with consistent
+patterns across the three.
 
-The concept of a folder hierarchy is standard; the organization of views and
-tables within a database schema, less so. dbt offers a lot by way of 
-[custom schema names](https://docs.getdbt.com/docs/using-custom-schemas), and
-soon [model aliasing](https://github.com/fishtown-analytics/dbt/pull/800) as well.
-Different data warehouses add levels to the hierarchy, and levers to your toolkit: 
-Snowflake allows an arbitrary number of logical databases; models in one BigQuery
-project can select data from another one, if you have access to both.
+### A Note on Custom Schemata
 
-A significant theme is the relationship between folder structure in a dbt repo
-and the schema structure of its target warehouse. We prefer setting high-level
+Up to this point, the concept of a folder hierarchy is standard; the 
+organization of views and tables within a database schema, less so. dbt offers a 
+lot by way of [custom schema names](https://docs.getdbt.com/docs/using-custom-schemas) 
+and [model aliasing](https://docs.getdbt.com/docs/using-custom-aliases).
+Different data warehouses add levels to the hierarchy, and levers to your 
+toolkit: Snowflake allows an arbitrary number of logical databases; models in 
+one BigQuery project can select data from another one, so long as dbt's user has 
+access to both.
+
+The single most significant improvement we can make as dbt practioners is
+solidifying the relationship between `models` folder organization
+and schema allocation in the warehouse. We prefer setting high-level
 configurations in `dbt_project.yml`, where possible, and selecting only a
-specific set of models—`stg_` views and `fct_` tables—to expose in the
-tangible warehouse.
+specific set of models—`stg_` views and `fct_` tables—to expose as tangible
+goods in a select few production-grade schemata.
 
-This can be as simple as making all intermediate scripts
-a mix of ephemeral models (compiled SQL code that dbt injects in place of `ref()`
-statements) and tables in an unexposed schema. It can be as fancy as setting
-up Raw and Analytics logical databases in Snowflake, with a `salesforce.account`
-in each.
+This can be as simple as making all intermediate scripts ephemeral models where
+possible, and tables in an unexposed schema (`intermediate`) where query 
+performance requires. (Ephemeral models become compiled SQL code that dbt adds 
+as CTEs in place of `ref()` statements in downstream models.) It can be as fancy 
+as setting up Raw and Analytics logical databases in Snowflake, with a 
+`salesforce.account` in each: one loaded as-is by an off-the-shelf tool; the
+other cleaned, renamed, processed, and ready for querying in analysis or audit.
 
 ### Staging Raw Data
 
@@ -108,18 +125,36 @@ staging:
         ...
 ```
 
-### Marts of Facts
+### Facts, Dimensions, Marts
 
 Complex logical rollups can and should happen across several models, with
-discrete steps and abstractions split into queries of 100 lines or fewer. The
-end of these rollups is a table, exposed to end-users and aptly prefixed `fct_`:
-it contains the facts that a good reporter seeks.
+discrete steps and abstractions split into queries of no more than a few
+hundred lines. The end result of these rollups is one or more "good" tables,
+exposed to end-users and aptly prefixed `fct_` or `dim_`:
+it contains the facts and dimensions that a good reporter seeks.
 
-Marts are stores of one or more fact tables, related primarily by their use case
-in analysis and reporting. They could be organized by business unit, high-level 
+In our Kimball-lite stage of the world, facts and dims are the leading players:
+
+* **fct_verb:** A tall, narrow table recording real-world processes that
+have occurred or are occurring. The heart of these tables is usually an
+immutable event stream: sessions, transactions, orders, stories, votes, and
+so on.
+
+* **dim_noun:** A wide, squat table where each row is a person, place, or thing;
+the ultimate source of truth when identifying and describing entities of the 
+organization. They are mutable, though slowly changing: customers, products, 
+candidates, buildings, employees.
+
+Dimension tables can be the best friends of end users: they can pivot their way 
+across useful flags and meaningful aggregates. If dims are the goal, flattening 
+facts is the best means of getting there. By first building `fct_order`,
+we're a simple sum away from calculating lifetime revenue in `dim_customer`.
+
+**Marts** are stores of fact and dimension tables, related primarily by their use case
+in analysis and reporting. They should be organized by business unit, high-level 
 concept, or intended set of end-users: `marketing`, `finance`, `product`, 
-etc. Some fact tables form the basis for other ones and are used across the
-project; you might gird these keystones into a `core` folder, and `ref()` them
+etc. Some fact tables form the basis for dim tables or other facts, used widely across the
+project. You might gird these keystones into a `core` folder, and `ref()` them
 at will.
 
 Each mart often contains one or more transformation flows, during which staging
@@ -127,7 +162,8 @@ data is rolled up, aggregated, nested, or otherwise altered in a more
 significant, structured way. These intermediate models should _not_ be exposed;
 they can be ephemeral or, as materializing becomes necessary for performance
 reasons, built as tables in a cordoned-off intermediate schema. (It should be
-named something that says "I'm incomplete and not to be trusted", like `intermediate`.)
+named something that says "I'm incomplete and not to be trusted", such as 
+`intermediate`.)
 
 Where the work of staging models is limited to cleaning and preparing, fact
 tables are the product of substantive data transformation: choosing (and reducing)
@@ -146,32 +182,26 @@ In addition to `staging` and `marts`, you may find yourself with model folders
 such as:
 
 **Utils:** An `all_days` table. This is useful everywhere, though it never
-forms the basis for analysis/reporting. Consider a `utils` schema.
+forms the basis for analysis/reporting. If you are interested in keeping
+these separate from your core analytical assets, consider a `utils` schema.
 
-**Lookups:** A user-mapping table, a zipcode-country table, etc. You may
-reference it at several unpredictable points throughout modeling, and maybe
-even in a BI tool. These too may find themselves at home in a `utils` schema.
+**Lookups:** A user-mapping table, a zipcode-country table, etc. These are
+as likely to be [CSV seeds](https://docs.getdbt.com/v0.12/reference#seed) as 
+tables in a production database. You may reference it at several unpredictable 
+points throughout modeling, and maybe even in a BI tool. They too may find 
+themselves at home in a `utils` schema.
 
 **Admin:** Audit logs, warehouse operations, Redshift maintenance, 
 and incremental records of the miscellaneous DDL you run to make your project
 run smoothly. These make most sense in an `admin` schema, to which only
-admins have access.
+project administrators have query access.
 
 **Metrics:** Precisely defined measurements taken from fact tables, directly
 conducive to time-series reporting, and tightly structured so as to allow 
 one-to-one comparison with goals and forecasting. A metrics table lives
-downstream of fact tables in your DAG and deserves special status.
+downstream of dim and fact tables in your DAG, and it deserves special status.
 
 **Packages:** While not a model folder within your main project, packages
 that include models (like our [snowplow](https://github.com/fishtown-analytics/snowplow) 
 package) can be configured into custom schema and materialization patterns
 from `dbt_project.yml`.
-
-### Postscript
-
-These thoughts are and continue to be in-progress. Fixing the scourge of
-incomprehensible SQL was one thing—you know bad code when you see it. Devising
-best practices for building, expanding, maintaining, and naming projects with
-hundreds of models and dozens of meaningful tables is a challenge. Trying to do
-so across a team of analysts, without a system of guidelines and
-conventions, is nigh impossible.
