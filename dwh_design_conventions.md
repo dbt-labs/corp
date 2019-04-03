@@ -42,9 +42,7 @@ patterns across the three.
 
 ### A Note on Custom Schemata
 
-Up to this point, the concept of a folder hierarchy is standard; the 
-organization of views and tables within a database schema, less so. dbt offers a 
-lot by way of [custom schema names](https://docs.getdbt.com/docs/using-custom-schemas) 
+dbt offers a lot by way of [custom schema names](https://docs.getdbt.com/docs/using-custom-schemas) 
 and [model aliasing](https://docs.getdbt.com/docs/using-custom-aliases).
 Different data warehouses add levels to the hierarchy, and levers to your 
 toolkit: Snowflake allows an arbitrary number of logical databases; models in 
@@ -55,16 +53,12 @@ The single most significant improvement we can make as dbt practioners is
 solidifying the relationship between `models` folder organization
 and schema allocation in the warehouse. We prefer setting high-level
 configurations in `dbt_project.yml`, where possible, and selecting only a
-specific set of models—`stg_` views and `fct_` tables—to expose as tangible
-goods in a select few production-grade schemata.
+specific set of models—`stg_` views and `fct_` tables—to expose as nucleic
+assets in a production-grade schema.
 
-This can be as simple as making all intermediate scripts ephemeral models where
-possible, and tables in an unexposed schema (`intermediate`) where query 
-performance requires. (Ephemeral models become compiled SQL code that dbt adds 
-as CTEs in place of `ref()` statements in downstream models.) It can be as fancy 
-as setting up Raw and Analytics logical databases in Snowflake, with a 
-`salesforce.account` in each: one loaded as-is by an off-the-shelf tool; the
-other cleaned, renamed, processed, and ready for querying in analysis or audit.
+This can be as simple as using more ephemeral models, an unexposed schema 
+(`intermediate`), and restricting entry to The Good Place (`analytics`). Or, it
+can be as complicated as your organization's size and security needs demand.
 
 ### Staging Raw Data
 
@@ -99,11 +93,11 @@ model. A staged view might just as well warrant several models' worth of cleanin
 correcting, and categorizing. Raw data comes as it is; staging data is clean, 
 presentable, and ready for the curtain to rise.
 
-Staging models **can** have joins in them to field additional columns for context 
+Staging models can have joins in them to field additional columns for context 
 or enrichment; add rows through unions and remove them through filters;
 deduplicate a natural key or hash together a 
 [surrogate one](https://github.com/fishtown-analytics/dbt-utils#surrogate_key-source); 
-but they should **not** have `group by` aggregations that would change their 
+but they should not perform any operations that would change their 
 granularity. The `stg_salesforce_account` model should have one account per row, 
 and `account_id` as its primary key.
 
@@ -205,3 +199,15 @@ downstream of dim and fact tables in your DAG, and it deserves special status.
 that include models (like our [snowplow](https://github.com/fishtown-analytics/snowplow) 
 package) can be configured into custom schema and materialization patterns
 from `dbt_project.yml`.
+
+### Postscript
+
+Producing code is a collaborative exercise, and the most important goal of this 
+guide is to standardize the way that we work across our team. As such, it is
+an important component of our PR approval process—with the eventual goal of
+improving our thought process, too.
+
+This guide, like all Fishtown Analytics standards, is a work-in-progress. 
+As we continue to build more tooling and improve our consulting practices, we'll 
+update this guide accordingly. If you have suggestions on how to make this guide 
+better, submit a PR.
