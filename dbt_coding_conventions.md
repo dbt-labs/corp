@@ -20,7 +20,6 @@
 ## dbt conventions
 * Only `stg_` models (or `base_` models if your project requires them) should select from `source`s.
 * All other models should only select from other models.
-* For more information on how we structure our projects see [this document](link to be created)
 
 ## Testing
 
