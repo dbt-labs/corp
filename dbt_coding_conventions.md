@@ -9,9 +9,9 @@
 ```python
 {{
   config(
-    materialized = ’table’,
-    sort = ’id’,
-    dist = ’id’
+    materialized = 'table',
+    sort = 'id',
+    dist = 'id'
   )
 }}
 ```
