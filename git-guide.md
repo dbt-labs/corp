@@ -1,3 +1,4 @@
+# Git guide
 The goal of this guide is twofold:
 1. Improve consistency when multiple analysts are working on a codebase; and
 2. Provide a framework that decreases the number of decisions that need to be
