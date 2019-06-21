@@ -151,7 +151,7 @@ A notice that is sent by email but is not read by the addressee is nevertheless 
 
 ### Interpretation
 
-**Governing Law.** This Agreement will governed by the laws of the commonwealth of Pennsylvania without regard to its conflict or choice of law rules.
+**Governing Law.** This Agreement will be governed by the laws of the commonwealth of Pennsylvania without regard to its conflict or choice of law rules.
 
 **Analytics Terminology.** Any analytics terminology in the Statement of Work is defined according to standard analytics industry usage. Any dispute as to the meaning or scope of analytics terminology will be determined in good faith by Fishtown Analytics.
 
