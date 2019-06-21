@@ -90,7 +90,7 @@ The Client shall promptly review all Deliverables, and must notify Fishtown Anal
 
 **Termination for Breach.** If a material breach of this Agreement is not cured within 10 business days after a party's receiving written notice of the breach, then the non-breaching party may terminate this Agreement immediately upon notice.
 
-**Termination Procedure.** Upon expiration or termination of this Agreement: (a) each party shall return (or, at the disclosing party's request, destroy) the Confidential Information of the other party, and (b) other than as expressly provided in this Agreement, all rights and obligations of each party under this Agreement, exclusive of the Services, shall survive.
+**Termination Procedure.** Upon expiration or termination of this Agreement: (a) each party shall return, erase, or destroy any remaining Confidential Information of the other party in its possession, and (b) other than as expressly provided in this Agreement, all rights and obligations of each party under this Agreement, exclusive of the Services, shall survive.
 
 ## Risk Allocation
 
