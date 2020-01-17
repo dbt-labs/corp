@@ -49,7 +49,9 @@
 - CTEs should be formatted like this:
 
 ``` sql
-with events as (
+with
+
+events as (
 
     ...
 
@@ -83,7 +85,9 @@ select * from filtered_events
 
 ### Example SQL
 ```sql
-with my_data as (
+with
+
+my_data as (
 
     select * from {{ ref('my_data') }}
 
