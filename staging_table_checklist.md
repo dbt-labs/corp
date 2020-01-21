@@ -15,6 +15,7 @@ and quick reference to spend less brain power on remembering every step.
 - [ ] Make sure IDs are meaningfully named - following the format `<object>_id`
 - [ ] Place dates at the bottom
 - [ ] Make sure dates end with `<event>_at` or `<event>_date`
+- [ ] Prefix booleans with `is_` or `has_`.
 - [ ] Split up columns based on data types for convenience
 - [ ] Make sure all columns are `snake_case`
 - [ ] Add `<object>_cents` or other indicators when it's not in decimal currency
