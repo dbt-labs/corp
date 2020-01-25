@@ -68,6 +68,15 @@ While employees rarely need to travel for work, it is sometimes required. If you
 
 Employees are paid on the 15th of the month, every month, for work done the month prior.
 
+## Expense Policies
+
+Many employees incur expenses over the course of their regular duties. We have two goals with these expense policies: a) make sure that there is accountability when spending company money, and b) make the process of spending money as frictionless as possible, given (a). Given these goals, we've arrived at the following policies.
+
+- For distributed employees: please work with your manager to plan all trips to Philadelphia. Your manager will have a budget for travel and will work with you to create a travel frequency that works for you and for that budget.
+- For all corporate travel, please refer to [these expense guidelines](https://docs.google.com/document/d/1D6TciMqWz5E-4F9Nw3DuVOhvAfoEZDFZmtgHYFq2Uk0/edit?ts=5e287129#) when booking flights and hotels and expensing meals and other incidentals. 
+- Most non-travel purchases should be able to be made by either a company office administrator or your manager; please feel free to make requests as appropriate via these channels. If you do have other items that you'd like to submit for reimbursement, make sure that you have approval from your manager before doing so, and use [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/edit#gid=444102166).
+- In certain rare cases, if your job requires frequent expenditures of company money, you'll be issued a corporate American Express card to conduct company business. In such a case, your manager will work with you to define specific expectations around what will and will not be charged on this card, as well as a specific budget for these charges. Failure to abide by these expectations may result in disciplinary action, including termination, and in the worst case, criminal proceedings. **While we absolutely do not expect this to be an issue, it's important to be clear that misappropriation of our shared resources will be taken extremely seriously.**
+
 ## Attendance Policies
 
 ### Hours of Work
