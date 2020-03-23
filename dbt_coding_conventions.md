@@ -32,7 +32,7 @@
 * Use names based on the _business_ terminology, rather than the source terminology.
 * Table names should be plurals, e.g. `accounts`.
 * Each model should have a primary key.
-* The primary key of a model should be named `<object>_id`, e.g. `account_id` – this makes it easier to use `using` for joins (see below).
+* The primary key of a model should be named `<object>_id`, e.g. `account_id` – this makes it easier to know what `id` is being referenced in downstream joined models.
 * Timestamp columns should be named `<event>_at`, e.g. `created_at`, and should be in UTC. If a different timezone is being used, this should be indicated with a suffix, e.g `created_at_pt`.
 * Booleans should be prefixed with `is_` or `has_`.
 * Price/revenue fields should be in decimal currency (e.g. `19.99` for $19.99; many app databases store prices as integers in cents). If non-decimal currency is used, indicate this with suffix, e.g. `price_in_cents`.
@@ -75,7 +75,7 @@ select * from filtered_events
 - The `as` keyword should be used when aliasing a field or table
 - Fields should be stated before aggregates / window functions
 - Ordering and grouping by a number (eg. group by 1, 2) is preferred. Note that if you are grouping by more than a few columns, it may be worth revisiting your model design.
-- When possible, take advantage of `using` in joins
+- Specify join keys - do not use `using`. Certain warehouses have inconsistencies in `using` results (specifically Snowflake).
 - Prefer `union all` to `union` [*](http://docs.aws.amazon.com/redshift/latest/dg/c_example_unionall_query.html)
 - Avoid table aliases in join conditions (especially initialisms) – it's harder to understand what the table called "c" is compared to "customers".
 - If joining two or more tables, _always_ prefix your column names with the table alias. If only selecting from one table, prefixes are not needed.
@@ -119,7 +119,8 @@ final as (
 
     from my_data
 
-    left join some_cte using (id)
+    left join some_cte  
+        on my_data.id = some_cte.id
 
     where my_data.field_1 = 'abc'
       and (
@@ -136,7 +137,7 @@ select * from final
 
 ```
 
-- If you cannot use a `using` clause for a join, your join should list the "left" table first (i.e. the table you are selecting `from`):
+- Your join should list the "left" table first (i.e. the table you are selecting `from`):
 ```sql
 select
     trips.*,
