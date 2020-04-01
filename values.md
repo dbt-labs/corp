@@ -19,7 +19,7 @@ People with different mindsets and experiences, working together, create better 
 We market our products and services by working with amazing humans, making them incredibly happy, and asking them to spread the word. We go above and beyond for our clients / users to invest in our future growth.
 
 ### We are humble.
-While we believe that we are building somoething exceptional, that knowledge does not make us feel proud, it makes us feel humble. It imbues us with a deep sense of responsibility towards our clients, coworkers, and the community at large.
+While we believe that we are building something exceptional, that knowledge does not make us feel proud, it makes us feel humble. It imbues us with a deep sense of responsibility towards our clients, coworkers, and the community at large.
 
 ### We’re invested in the future of work.
 The employee-employer relationship of the 1900’s is a thing of the past. We fully embrace the future of work.
