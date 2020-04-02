@@ -8,6 +8,8 @@ The highest goal of any human is to produce new knowledge that can subsequently 
 
 ### We are more concerned with value creation than value capture.
 
+We will only succeed if we create value for our community. If we optimize for that first, commercial success will follow.
+
 ### Work done well is its own end.
 
 We do great work because it is an expression of who we are, a contribution of our unique talents and perspectives to a purpose larger than ourselves. Work done well creates ripples in the pond.
@@ -28,6 +30,10 @@ We market our products and services by working with amazing humans, making them 
 
 While we believe that we are building something exceptional, that knowledge does not make us feel proud, it makes us feel humble. It imbues us with a deep sense of responsibility towards our clients, coworkers, and the community at large.
 
+### We optimize for the long-term.
+
+While we pursue the mission with intense focus, we recognize that creating the change in the world that we wish to see will not happen overnight. We think, plan, and act for the long-term.
+
 ### We work hard and go home.
 
 We take our responsibilities as parents, citizens, individuals, family members, and members of our various communities just as seriously as we take our commitments at work. When we are on, we are focused. When we are off, we are free to be fully disconnected.
@@ -43,3 +49,4 @@ We believe that all team members should seek to replace themselves on an ongoing
 ### Values are more important than success.
 
 We are not interested in success absent the values in this document. We have strongly held opinions on how a company should be built and these are non-negotiable. We do not believe that these opinions are an absolute truth, but they are an absolute truth for us.
+
