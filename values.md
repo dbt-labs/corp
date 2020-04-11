@@ -8,7 +8,7 @@ The highest goal of any human is to produce new knowledge that can subsequently 
 
 ### We are more concerned with value creation than value capture.
 
-We will only succeed if we create value for our community. If we optimize for that first, commercial success will follow.
+We will only succeed if we create value in the world. If we optimize for that first, commercial success will follow.
 
 ### Work done well is its own end.
 
@@ -38,9 +38,9 @@ While we pursue the mission with intense focus, we recognize that creating the c
 
 We take our responsibilities as parents, citizens, individuals, family members, and members of our various communities just as seriously as we take our commitments at work. When we are on, we are focused. When we are off, we are free to be fully disconnected.
 
-### We treat employees like people.
+### We are human.
 
-The only way to build a team of humans who innovate in shared service to a mission is to _treat them like people_. And people only want a few things: economic security, self-determination, health, belonging, and meaning. We structure our compensation and benefits, work hours and location policies, work and management styles, and employee agreements to support this fundamental human-ness.
+We are human beings innovating in a shared service to a mission. We structure our compensation and benefits, work hours and location policies, work and management styles, and employee agreements to support this fundamental human-ness. We bring our whole selves to work, and we recognize that our identities extend beyond the work that we do.
 
 ### We believe in moving up the stack.
 
