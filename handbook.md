@@ -198,7 +198,7 @@ This list is not-exhaustive and could include anything that will help make your 
 
 **Who is eligible?** This budget is provided for both remote employees setting up their home offices as well as employees whose primarily work location is a Fishtown Analytics office.
 
-**Process to expense** While we investigate an expense management system, reciepts should be sent, in bulk if possible, to accounting@fishtownanalytics.com. Expenses will be reimbursed through direct deposit within 30 days.
+**Process to expense** While we investigate an expense management system, employees should fill out [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/copy#gid=444102166) and submit with all receipts to accounting@fishtownanalytics.com. Please try to send in bulk if possible. Expenses will be reimbursed through direct deposit within 30 days.
 
 #### Annual Home Office Budget
 
@@ -208,4 +208,4 @@ For each subsequent year, all remote employees will receive an *annual* reimburs
 
 **Covid-19/Extenuating Circumstances Rider:** Philadelphia employees that would normally *not* be eligible for this benefit, given access to the resources the office has to offer, will also be eligible for this benefit while the office is closed.
 
-**Process to expense** While we investigate an expense management system, reciepts should be sent, in bulk if possible, to accounting@fishtownanalytics.com. Expenses will be reimbursed through direct deposit within 30 days.
+**Process to expense** While we investigate an expense management system, employees should fill out [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/copy#gid=444102166) and submit with all receipts to accounting@fishtownanalytics.com. Please try to send in bulk if possible. Expenses will be reimbursed through direct deposit within 30 days.
