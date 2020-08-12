@@ -156,6 +156,10 @@ Once the background check is completed, company administrators will review the r
 
 Employees will have access to an employer-sponsored 401K plan. Immediately upon hire, Fishtown Analytics will contribute 3% of employee’s monthly salary into the retirement account on a monthly basis. Employees can additionally opt to contribute up to the federal maximum to their retirement account. Fishtown Analytics will contribute to the retirement account regardless of any supplemental employee contributions.
 
+### Hardware
+
+Fishtown Analytics will provide whatever hardware you need to be effective in your role. All employees will receive a MacBook laptop (size to be chosen by employee). Employees may request supplemental office supplies or hardware from their managers as needed.
+
 ### Health Insurance
 
 Fishtown Analytics provides medical, dental and vision benefits to employees and their dependents. Health benefits are paid in part by the company. The remainder of the costs is the employee’s responsibility. Please login to Gusto for additional information about available benefits.
@@ -163,45 +167,3 @@ Fishtown Analytics provides medical, dental and vision benefits to employees and
 ### Stock Options
 
 Some employees at Fishtown Analytics will be granted stock options as a part of their compensation package. Please ask your direct manager or Tristan if you have any questions about this topic.
-
-### Office Expense Reimbursement
-
-There are many advantages to building a remote-first culture. One of the more practical advantages is the savings on overhead costs (office space, furniture, etc.) for each employee. That being said, we understand that the cost of some of those things can, in turn, become a burden on the employee that now needs to set up a home office that is conducive to their work. This policy is to help mitigate some of that burden and pass our savings onto those team members. 
-
-#### Initial Office Set Up - New Hires
-
-Upon starting with Fishtown Analytics, we will provide you with a MacBook Pro. In addition to the computer, each team member will be able to expense up to $1,500 towards their office set up. Items to be reimbursed could include:
-
-- Monitor
-- Mouse
-- Keyboard
-- Desk
-- Chair
-- Headphones
-- Laptop stand
-- Webcam/microphone
-- Monitor privacy filter
-- White board
-- Printer
-- Exercise ball to sit on
-- Office supplies (pens, paper, printer cartridges)
-- Monitor riser
-- Standing desk topper
-- Adapter/cords to connect the above items to your laptop computer
-- Lighting
-
-This list is not-exhaustive and could include anything that will help make your office experience a comfortable and productive environment where you can do your best work. 
-
-**Who is eligible?** This budget is provided for both remote employees setting up their home offices as well as employees whose primarily work location is a Fishtown Analytics office.
-
-**Process to expense** While we investigate an expense management system, employees should fill out [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/copy#gid=444102166) and submit with all receipts to accounting@fishtownanalytics.com. Please try to send in bulk if possible. Expenses will be reimbursed through direct deposit within 30 days.
-
-#### Annual Home Office Budget
-
-For each subsequent year, all remote employees will receive an *annual* reimbursement budget of $400 to make improvements to your working and office environment, this could include anything from the above as well as updating old or broken accessories.
-
-**Who is eligible?** Any team member that is a remote employee the majority of the time (3+ days/week).
-
-**Covid-19/Extenuating Circumstances Rider:** Philadelphia employees that would normally *not* be eligible for this benefit, given access to the resources the office has to offer, will also be eligible for this benefit while the office is closed.
-
-**Process to expense** While we investigate an expense management system, employees should fill out [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/copy#gid=444102166) and submit with all receipts to accounting@fishtownanalytics.com. Please try to send in bulk if possible. Expenses will be reimbursed through direct deposit within 30 days.
