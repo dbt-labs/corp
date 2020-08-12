@@ -192,7 +192,11 @@ Upon starting with Fishtown Analytics, we will provide you with a MacBook Pro. I
 
 This list is not-exhaustive and could include anything that will help make your office experience a comfortable and productive environment where you can do your best work. 
 
-**Who is eligible?** This budget is provided for both remote employees setting up their home offices as well as employees whose primarily work location is a Fishtown Analytics office.
+**Who is eligible?** All employees.
+
+   - **Remote Employees** - this budget is to be used to set up your home office.
+
+   - **HQ Employees** - this budget is to be used to set up your space at the Fishtown Analytics office. Anything that is purchased during the work from home period    will be expected to be brought to the office once it is opened.
 
 **Process to expense** While we investigate an expense management system, employees should fill out [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/copy#gid=444102166) and submit with all receipts to accounting@fishtownanalytics.com. Please try to send in bulk if possible. Expenses will be reimbursed through direct deposit within 30 days.
 
