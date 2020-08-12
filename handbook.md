@@ -206,6 +206,6 @@ For each subsequent year, all remote employees will receive an *annual* reimburs
 
 **Who is eligible?** Any team member that is a remote employee the majority of the time (3+ days/week).
 
-**Covid-19/Extenuating Circumstances Rider:** Philadelphia employees that would generally *not* be eligible for this perk, given access to the resources the office has to offer, will be eligible for up to $200 per calendar year in office expenses while the office is closed.
+**Covid-19/Extenuating Circumstances Rider:** Philadelphia employees that would normally *not* be eligible for this benefit, given access to the resources the office has to offer, will also be eligible for this benefit while the office is closed.
 
 **Process to expense** While we investigate an expense management system, reciepts should be sent, in bulk if possible, to accounting@fishtownanalytics.com. Expenses will be reimbursed through direct deposit within 30 days.
