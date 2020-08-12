@@ -156,10 +156,6 @@ Once the background check is completed, company administrators will review the r
 
 Employees will have access to an employer-sponsored 401K plan. Immediately upon hire, Fishtown Analytics will contribute 3% of employee’s monthly salary into the retirement account on a monthly basis. Employees can additionally opt to contribute up to the federal maximum to their retirement account. Fishtown Analytics will contribute to the retirement account regardless of any supplemental employee contributions.
 
-### Hardware
-
-Fishtown Analytics will provide whatever hardware you need to be effective in your role. All employees will receive a MacBook laptop (size to be chosen by employee). Employees may request supplemental office supplies or hardware from their managers as needed.
-
 ### Health Insurance
 
 Fishtown Analytics provides medical, dental and vision benefits to employees and their dependents. Health benefits are paid in part by the company. The remainder of the costs is the employee’s responsibility. Please login to Gusto for additional information about available benefits.
