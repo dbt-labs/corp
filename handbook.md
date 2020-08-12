@@ -174,7 +174,7 @@ There are many advantages to building a remote-first culture. One of the more pr
 
 #### Initial Office Set Up - New Hires
 
-Upon starting with Fishtown Analytics, we will provide you with a MacBook Pro. In addition to the computer, each team member will be able to expense up to $1,000 towards their office set up. Items to be reimbursed could include:
+Upon starting with Fishtown Analytics, we will provide you with a MacBook Pro. In addition to the computer, each team member will be able to expense up to $1,500 towards their office set up. Items to be reimbursed could include:
 
 - Monitor
 - Mouse
@@ -202,7 +202,7 @@ This list is not-exhaustive and could include anything that will help make your 
 
 #### Annual Home Office Budget
 
-For each subsequent year, all remote employees will receive an *annual* reimbursement budget of $200 to make improvements to your working and office environment, this could include anything from the above as well as updating old or broken accessories.
+For each subsequent year, all remote employees will receive an *annual* reimbursement budget of $400 to make improvements to your working and office environment, this could include anything from the above as well as updating old or broken accessories.
 
 **Who is eligible?** Any team member that is a remote employee the majority of the time (3+ days/week).
 
