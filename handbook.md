@@ -167,3 +167,45 @@ Fishtown Analytics provides medical, dental and vision benefits to employees and
 ### Stock Options
 
 Some employees at Fishtown Analytics will be granted stock options as a part of their compensation package. Please ask your direct manager or Tristan if you have any questions about this topic.
+
+### Office Expense Reimbursement
+
+There are many advantages to building a remote-first culture. One of the more practical advantages is the savings on overhead costs (office space, furniture, etc.) for each employee. That being said, we understand that the cost of some of those things can, in turn, become a burden on the employee that now needs to set up a home office that is conducive to their work. This policy is to help mitigate some of that burden and pass our savings onto those team members. 
+
+#### Initial Office Set Up - New Hires
+
+Upon starting with Fishtown Analytics, we will provide you with a MacBook Pro. In addition to the computer, each team member will be able to expense up to $1,000 towards their office set up. Items to be reimbursed could include:
+
+- Monitor
+- Mouse
+- Keyboard
+- Desk
+- Chair
+- Headphones
+- Laptop stand
+- Webcam/microphone
+- Monitor privacy filter
+- White board
+- Printer
+- Exercise ball to sit on
+- Office supplies (pens, paper, printer cartridges)
+- Monitor riser
+- Standing desk topper
+- Adapter/cords to connect the above items to your laptop computer
+- Lighting
+
+This list is not-exhaustive and could include anything that will help make your office experience a comfortable and productive environment where you can do your best work. 
+
+**Who is eligible?** This budget is provided for both remote employees setting up their home offices as well as employees whose primarily work location is a Fishtown Analytics office.
+
+**Process to expense** While we investigate an expense management system, reciepts should be sent, in bulk if possible, to accounting@fishtownanalytics.com. Expenses will be reimbursed through direct deposit within 30 days.
+
+#### Annual Home Office Budget
+
+For each subsequent year, all remote employees will receive an *annual* reimbursement budget of $200 to make improvements to your working and office environment, this could include anything from the above as well as updating old or broken accessories.
+
+**Who is eligible?** Any team member that is a remote employee the majority of the time (3+ days/week).
+
+**Covid-19/Extenuating Circumstances Rider:** Philadelphia employees that would generally *not* be eligible for this perk, given access to the resources the office has to offer, will be eligible for up to $200 per calendar year in office expenses while the office is closed.
+
+**Process to expense** While we investigate an expense management system, reciepts should be sent, in bulk if possible, to accounting@fishtownanalytics.com. Expenses will be reimbursed through direct deposit within 30 days.
