@@ -66,7 +66,7 @@ While employees rarely need to travel for work, it is sometimes required. If you
 
 ### Payday
 
-Employees are paid on the 15th of the month, every month, for work done the month prior.
+Employees are paid semimonthly by direct deposit on the 15th (for work performed the 1st to the 15th) and the last day of the month (for work performed the 16th to the last day). If payday happens to fall on a weekend or holiday, payment will be processed on the previous business day.
 
 ## Expense Policies
 
