@@ -66,7 +66,7 @@ While employees rarely need to travel for work, it is sometimes required. If you
 
 ### Payday
 
-Employees are paid on the 15th of the month, every month, for work done the month prior.
+Employees are paid semimonthly by direct deposit on the 15th (for work performed the 1st to the 15th) and the last day of the month (for work performed the 16th to the last day). If payday happens to fall on a weekend or holiday, payment will be processed on the previous business day.
 
 ## Expense Policies
 
@@ -192,7 +192,11 @@ Upon starting with Fishtown Analytics, we will provide you with a MacBook Pro. I
 
 This list is not-exhaustive and could include anything that will help make your office experience a comfortable and productive environment where you can do your best work. 
 
-**Who is eligible?** This budget is provided for both remote employees setting up their home offices as well as employees whose primarily work location is a Fishtown Analytics office.
+**Who is eligible?** All employees.
+
+   - **Remote Employees** - This budget is to be used to set up your home office.
+
+   - **Office-based Employees** - This budget can be used on equipment you will use at a Fishtown Analytics office or on equipment in a home office you maintain for when you work from home. Your monitor / mouse / keyboard at your office location count against this budget.
 
 **Process to expense** While we investigate an expense management system, employees should fill out [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/copy#gid=444102166) and submit with all receipts to accounting@fishtownanalytics.com. Please try to send in bulk if possible. Expenses will be reimbursed through direct deposit within 30 days.
 
@@ -202,6 +206,6 @@ For each subsequent year, all remote employees will receive an *annual* reimburs
 
 **Who is eligible?** Any team member that is a remote employee the majority of the time (3+ days/week).
 
-**Covid-19/Extenuating Circumstances Rider:** Philadelphia employees that would normally *not* be eligible for this benefit, given access to the resources the office has to offer, will also be eligible for this benefit while the office is closed.
+**Covid-19/Extenuating Circumstances Rider:** Office-based employees that would normally *not* be eligible for this benefit, given access to the resources the office has to offer, will also be eligible for this benefit while the office is closed.
 
 **Process to expense** While we investigate an expense management system, employees should fill out [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/copy#gid=444102166) and submit with all receipts to accounting@fishtownanalytics.com. Please try to send in bulk if possible. Expenses will be reimbursed through direct deposit within 30 days.
