@@ -194,9 +194,9 @@ This list is not-exhaustive and could include anything that will help make your 
 
 **Who is eligible?** All employees.
 
-   - **Remote Employees** - this budget is to be used to set up your home office.
+   - **Remote Employees** - This budget is to be used to set up your home office.
 
-   - **HQ Employees** - this budget is to be used to set up your space at the Fishtown Analytics office. Anything that is purchased during the work from home period    will be expected to be brought to the office once it is opened.
+   - **Office-based Employees** - This budget can be used on equipment you will use at a Fishtown Analytics office or on equipment in a home office you maintain for when you work from home. Your monitor / mouse / keyboard at your office location count against this budget.
 
 **Process to expense** While we investigate an expense management system, employees should fill out [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/copy#gid=444102166) and submit with all receipts to accounting@fishtownanalytics.com. Please try to send in bulk if possible. Expenses will be reimbursed through direct deposit within 30 days.
 
@@ -206,6 +206,6 @@ For each subsequent year, all remote employees will receive an *annual* reimburs
 
 **Who is eligible?** Any team member that is a remote employee the majority of the time (3+ days/week).
 
-**Covid-19/Extenuating Circumstances Rider:** Philadelphia employees that would normally *not* be eligible for this benefit, given access to the resources the office has to offer, will also be eligible for this benefit while the office is closed.
+**Covid-19/Extenuating Circumstances Rider:** Office-based employees that would normally *not* be eligible for this benefit, given access to the resources the office has to offer, will also be eligible for this benefit while the office is closed.
 
 **Process to expense** While we investigate an expense management system, employees should fill out [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/copy#gid=444102166) and submit with all receipts to accounting@fishtownanalytics.com. Please try to send in bulk if possible. Expenses will be reimbursed through direct deposit within 30 days.
