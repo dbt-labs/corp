@@ -1,5 +1,35 @@
 # dbt coding conventions
 
+## Model Naming
+Our models (typically) fit into three main categories: staging, marts, base/intermediate. The file and naming structures are as follows:
+```
+├── dbt_project.yml
+└── models
+    ├── marts
+    |   └── core
+    |       ├── intermediate
+    |       |   ├── intermediate.yml
+    |       |   ├── customers__unioned.sql
+    |       |   ├── customers__grouped.sql
+    |       └── core.yml
+    |       └── core.docs
+    |       └── dim_customers.sql
+    |       └── fct_orders.sql
+    └── staging
+        └── stripe
+            ├── base
+            |   ├── base__stripe_invoices.sql
+            ├── src_stripe.yml
+            ├── src_stripe.docs
+            ├── stg_stripe.yml
+            ├── stg_stripe__customers.sql
+            └── stg_stripe__invoices.sql
+```
+- All objects should be plural, such as: `stg_stripe__invoices`
+- Base tables are prefixed with `base__`, such as: `base__<source>_<object>`
+- Intermediate tables should end with a past tense verb indicating the action performed on the object, such as: `customers__unioned`
+- Marts are categorized between fact (immutable, verbs) and dimensions (mutable, nouns) with a prefix that indicates either, such as: `fct_orders` or `dim_customers`
+
 ## Model configuration
 
 - Model-specific attributes (like sort/dist keys) should be specified in the model.
@@ -15,7 +45,7 @@
   )
 }}
 ```
-
+- Marts should always be configured as tables
 
 ## dbt conventions
 * Only `stg_` models (or `base_` models if your project requires them) should select from `source`s.
@@ -108,8 +138,11 @@ final as (
 
         -- use line breaks to visually separate calculations into blocks
         case
-            when my_data.cancellation_date is null and my_data.expiration_date is not null then expiration_date
-            when my_data.cancellation_date is null then my_data.start_date + 7
+            when my_data.cancellation_date is null
+                and my_data.expiration_date is not null
+                then expiration_date
+            when my_data.cancellation_date is null
+                then my_data.start_date + 7
             else my_data.cancellation_date
         end as cancellation_date,
 
@@ -118,10 +151,8 @@ final as (
         max(some_cte.field_5)
 
     from my_data
-
     left join some_cte  
         on my_data.id = some_cte.id
-
     where my_data.field_1 = 'abc'
       and (
           my_data.field_2 = 'def' or
@@ -145,10 +176,8 @@ select
     riders.rating as rider_rating
 
 from trips
-
 left join users as drivers
     on trips.driver_id = drivers.user_id
-
 left join users as riders
     on trips.rider_id = riders.user_id
 
