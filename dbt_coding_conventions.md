@@ -147,8 +147,8 @@ final as (
         end as cancellation_date,
 
         -- use a line break before aggregations
-        sum(some_cte.field_4),
-        max(some_cte.field_5)
+        sum(some_cte.field_4) as total_field_4,
+        max(some_cte.field_5) as max_field_5
 
     from my_data
     left join some_cte  
