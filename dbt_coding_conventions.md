@@ -154,11 +154,10 @@ final as (
     left join some_cte  
         on my_data.id = some_cte.id
     where my_data.field_1 = 'abc'
-      and (
-          my_data.field_2 = 'def' or
-          my_data.field_2 = 'ghi'
-      )
-
+        and (
+            my_data.field_2 = 'def' or
+            my_data.field_2 = 'ghi'
+        )
     group by 1, 2, 3, 4
     having count(*) > 1
 
