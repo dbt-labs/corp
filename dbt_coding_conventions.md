@@ -60,9 +60,9 @@ Our models (typically) fit into three main categories: staging, marts, base/inte
 
 * Schema, table and column names should be in `snake_case`.
 * Use names based on the _business_ terminology, rather than the source terminology.
-* Table names should be plurals, e.g. `accounts`.
 * Each model should have a primary key.
 * The primary key of a model should be named `<object>_id`, e.g. `account_id` – this makes it easier to know what `id` is being referenced in downstream joined models.
+* For base/staging models, fields should be ordered in categories, where identifiers are first and timestamps are at the end.
 * Timestamp columns should be named `<event>_at`, e.g. `created_at`, and should be in UTC. If a different timezone is being used, this should be indicated with a suffix, e.g `created_at_pt`.
 * Booleans should be prefixed with `is_` or `has_`.
 * Price/revenue fields should be in decimal currency (e.g. `19.99` for $19.99; many app databases store prices as integers in cents). If non-decimal currency is used, indicate this with suffix, e.g. `price_in_cents`.
@@ -104,6 +104,7 @@ select * from filtered_events
 - Field names and function names should all be lowercase
 - The `as` keyword should be used when aliasing a field or table
 - Fields should be stated before aggregates / window functions
+- Aggregations should be executed as early as possible before joining to another table.
 - Ordering and grouping by a number (eg. group by 1, 2) is preferred. Note that if you are grouping by more than a few columns, it may be worth revisiting your model design.
 - Specify join keys - do not use `using`. Certain warehouses have inconsistencies in `using` results (specifically Snowflake).
 - Prefer `union all` to `union` [*](http://docs.aws.amazon.com/redshift/latest/dg/c_example_unionall_query.html)
@@ -129,6 +130,18 @@ some_cte as (
 
 ),
 
+some_cte_agg as (
+
+    select
+        id,
+        sum(field_4) as total_field_4,
+        max(field_5) as max_field_5
+
+    from some_cte
+    group by 1
+
+),
+
 final as (
 
     select [distinct]
@@ -146,9 +159,8 @@ final as (
             else my_data.cancellation_date
         end as cancellation_date,
 
-        -- use a line break before aggregations
-        sum(some_cte.field_4) as total_field_4,
-        max(some_cte.field_5) as max_field_5
+        some_cte_agg.total_field_4,
+        some_cte_agg.max_field_5
 
     from my_data
     left join some_cte  
