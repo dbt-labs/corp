@@ -163,8 +163,8 @@ final as (
         some_cte_agg.max_field_5
 
     from my_data
-    left join some_cte  
-        on my_data.id = some_cte.id
+    left join some_cte_agg  
+        on my_data.id = some_cte_agg.id
     where my_data.field_1 = 'abc'
         and (
             my_data.field_2 = 'def' or
