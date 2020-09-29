@@ -1,5 +1,35 @@
 # dbt coding conventions
 
+## Model Naming
+Our models (typically) fit into three main categories: staging, marts, base/intermediate. The file and naming structures are as follows:
+```
+├── dbt_project.yml
+└── models
+    ├── marts
+    |   └── core
+    |       ├── intermediate
+    |       |   ├── intermediate.yml
+    |       |   ├── customers__unioned.sql
+    |       |   ├── customers__grouped.sql
+    |       └── core.yml
+    |       └── core.docs
+    |       └── dim_customers.sql
+    |       └── fct_orders.sql
+    └── staging
+        └── stripe
+            ├── base
+            |   ├── base__stripe_invoices.sql
+            ├── src_stripe.yml
+            ├── src_stripe.docs
+            ├── stg_stripe.yml
+            ├── stg_stripe__customers.sql
+            └── stg_stripe__invoices.sql
+```
+- All objects should be plural, such as: `stg_stripe__invoices`
+- Base tables are prefixed with `base__`, such as: `base__<source>_<object>`
+- Intermediate tables should end with a past tense verb indicating the action performed on the object, such as: `customers__unioned`
+- Marts are categorized between fact (immutable, verbs) and dimensions (mutable, nouns) with a prefix that indicates either, such as: `fct_orders` or `dim_customers`
+
 ## Model configuration
 
 - Model-specific attributes (like sort/dist keys) should be specified in the model.
@@ -15,7 +45,7 @@
   )
 }}
 ```
-
+- Marts should always be configured as tables
 
 ## dbt conventions
 * Only `stg_` models (or `base_` models if your project requires them) should select from `source`s.
@@ -30,9 +60,9 @@
 
 * Schema, table and column names should be in `snake_case`.
 * Use names based on the _business_ terminology, rather than the source terminology.
-* Table names should be plurals, e.g. `accounts`.
 * Each model should have a primary key.
 * The primary key of a model should be named `<object>_id`, e.g. `account_id` – this makes it easier to know what `id` is being referenced in downstream joined models.
+* For base/staging models, fields should be ordered in categories, where identifiers are first and timestamps are at the end.
 * Timestamp columns should be named `<event>_at`, e.g. `created_at`, and should be in UTC. If a different timezone is being used, this should be indicated with a suffix, e.g `created_at_pt`.
 * Booleans should be prefixed with `is_` or `has_`.
 * Price/revenue fields should be in decimal currency (e.g. `19.99` for $19.99; many app databases store prices as integers in cents). If non-decimal currency is used, indicate this with suffix, e.g. `price_in_cents`.
@@ -74,6 +104,7 @@ select * from filtered_events
 - Field names and function names should all be lowercase
 - The `as` keyword should be used when aliasing a field or table
 - Fields should be stated before aggregates / window functions
+- Aggregations should be executed as early as possible before joining to another table.
 - Ordering and grouping by a number (eg. group by 1, 2) is preferred. Note that if you are grouping by more than a few columns, it may be worth revisiting your model design.
 - Specify join keys - do not use `using`. Certain warehouses have inconsistencies in `using` results (specifically Snowflake).
 - Prefer `union all` to `union` [*](http://docs.aws.amazon.com/redshift/latest/dg/c_example_unionall_query.html)
@@ -99,6 +130,18 @@ some_cte as (
 
 ),
 
+some_cte_agg as (
+
+    select
+        id,
+        sum(field_4) as total_field_4,
+        max(field_5) as max_field_5
+
+    from some_cte
+    group by 1
+
+),
+
 final as (
 
     select [distinct]
@@ -108,27 +151,25 @@ final as (
 
         -- use line breaks to visually separate calculations into blocks
         case
-            when my_data.cancellation_date is null and my_data.expiration_date is not null then expiration_date
-            when my_data.cancellation_date is null then my_data.start_date + 7
+            when my_data.cancellation_date is null
+                and my_data.expiration_date is not null
+                then expiration_date
+            when my_data.cancellation_date is null
+                then my_data.start_date + 7
             else my_data.cancellation_date
         end as cancellation_date,
 
-        -- use a line break before aggregations
-        sum(some_cte.field_4),
-        max(some_cte.field_5)
+        some_cte_agg.total_field_4,
+        some_cte_agg.max_field_5
 
     from my_data
-
-    left join some_cte  
-        on my_data.id = some_cte.id
-
+    left join some_cte_agg  
+        on my_data.id = some_cte_agg.id
     where my_data.field_1 = 'abc'
-      and (
-          my_data.field_2 = 'def' or
-          my_data.field_2 = 'ghi'
-      )
-
-    group by 1, 2, 3, 4
+        and (
+            my_data.field_2 = 'def' or
+            my_data.field_2 = 'ghi'
+        )
     having count(*) > 1
 
 )
@@ -145,10 +186,8 @@ select
     riders.rating as rider_rating
 
 from trips
-
 left join users as drivers
     on trips.driver_id = drivers.user_id
-
 left join users as riders
     on trips.rider_id = riders.user_id
 
