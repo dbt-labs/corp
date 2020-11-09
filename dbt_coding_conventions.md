@@ -76,6 +76,7 @@ Our models (typically) fit into three main categories: staging, marts, base/inte
 - CTE names should be as verbose as needed to convey what they do
 - CTEs with confusing or noteable logic should be commented
 - CTEs that are duplicated across models should be pulled out into their own models
+- create a `final` or similar CTE that you select from as your last line of code. This makes it easier to debug code within a model (without having to comment out code!)
 - CTEs should be formatted like this:
 
 ``` sql
