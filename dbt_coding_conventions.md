@@ -53,7 +53,7 @@ Our models (typically) fit into three main categories: staging, marts, base/inte
 
 ## Testing
 
-- Every subdirectory should contain a `schema.yml` file, in which each model in the subdirectory is tested.
+- Every subdirectory should contain a `stg_<source>.yml` file, in which each model in the subdirectory is tested.
 - At a minimum, unique and not_null tests should be applied to the primary key of each model.
 
 ## Naming and field conventions
