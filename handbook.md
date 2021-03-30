@@ -10,7 +10,7 @@ This handbook is intended to answer many of the questions you might have after j
 
 ### Equal Opportunity Employment
 
-Fishtown Analytics is an equal opportunity employer and does not unlawfully discriminate against employees or applicants for employment on the basis of an individual’s race, color, religion, creed, sex, national origin, age, disability, marital status, veteran status or any other status protected by applicable law. This policy applies to all terms, conditions and privileges of employment, including recruitment, hiring, placement, compensation, promotion, discipline and termination. Whenever possible, the company makes reasonable accommodations for qualified individuals with disabilities to the extent required by law. Employees who would like to request a reasonable accommodation should contact Drew Banin.
+Fishtown Analytics is an equal opportunity employer and does not unlawfully discriminate against employees or applicants for employment on the basis of an individual’s race, color, religion, creed, sex, national origin, age, disability, marital status, veteran status or any other status protected by applicable law. This policy applies to all terms, conditions and privileges of employment, including recruitment, hiring, placement, compensation, promotion, discipline and termination. Whenever possible, the company makes reasonable accommodations for qualified individuals with disabilities to the extent required by law. Employees who would like to request a reasonable accommodation should contact Meghan Colón (Email: meg@fishtownanalytics or Slack: @meg).
 
 ### Non-Harassment / Non-Discrimination Policy
 
@@ -30,7 +30,7 @@ Examples of sexual harassment include: unwelcome or unsolicited sexual advances;
 
 ### Complaint Procedure
 
-**Any company employee who feels that they have been harassed or discriminated against, or has witnessed or become aware of discrimination or harassment in violation of these policies, should bring the matter to the immediate attention of Drew Banin or Erin Vaughan.** The company will promptly investigate all allegations of discrimination and harassment, and take action as appropriate based on the outcome of the investigation. An investigation and its results will be treated as confidential to the extent feasible, and permitted by law, and the company will take appropriate action based on the outcome of the investigation. No employee will be retaliated against for making a complaint in good faith regarding a violation of these policies, or for participating in good faith in an investigation pursuant to these policies. If an employee feels they have been retaliated against, the employee should file a complaint using the procedures set forth above.
+**Any company employee who feels that they have been harassed or discriminated against, or has witnessed or become aware of discrimination or harassment in violation of these policies, should bring the matter to the immediate attention of Meghan Colón (Email: meg@fishtownanalytics or Slack: @meg).** The company will promptly investigate all allegations of discrimination and harassment, and take action as appropriate based on the outcome of the investigation. An investigation and its results will be treated as confidential to the extent feasible, and permitted by law, and the company will take appropriate action based on the outcome of the investigation. No employee will be retaliated against for making a complaint in good faith regarding a violation of these policies, or for participating in good faith in an investigation pursuant to these policies. If an employee feels they have been retaliated against, the employee should file a complaint using the procedures set forth above.
 
 ### Open Door Policy
 
@@ -40,7 +40,7 @@ Fishtown Analytics has an open-door policy and takes employee concerns and probl
 
 If Fishtown Analytics determines that a violation has occurred, we will take appropriate disciplinary action against the offending party, which can include counseling, warnings, suspensions, and termination. Employees who report, in good faith, violations of these policies and employees who cooperate with investigations into alleged violations will not be subject to retaliation.
 
-**We take our commitment to our employees seriously, and we will not tolerate any breach of these commitments. Failure to abide by these commitments may cause you to lose your job. If you have any questions regarding these commitments, do not hesitate to seek clarification from Drew Banin or Erin Vaughan.**
+**We take our commitment to our employees seriously, and we will not tolerate any breach of these commitments. Failure to abide by these commitments may cause you to lose your job. If you have any questions regarding these commitments, do not hesitate to seek clarification from Meghan Colón.**
 
 ## Company Policies and Procedures
 
@@ -72,7 +72,6 @@ Employees are paid semimonthly by direct deposit on the 15th (for work performed
 
 Many employees incur expenses over the course of their regular duties. We have two goals with these expense policies: a) make sure that there is accountability when spending company money, and b) make the process of spending money as frictionless as possible, given (a). Given these goals, we've arrived at the following policies.
 
-- For distributed employees: please work with your manager to plan all trips to Philadelphia. Your manager will have a budget for travel and will work with you to create a travel frequency that works for you and for that budget.
 - For all corporate travel, please refer to [these expense guidelines](https://docs.google.com/document/d/1D6TciMqWz5E-4F9Nw3DuVOhvAfoEZDFZmtgHYFq2Uk0/edit?ts=5e287129#) when booking flights and hotels and expensing meals and other incidentals. 
 - Most non-travel purchases should be able to be made by either a company office administrator or your manager; please feel free to make requests as appropriate via these channels. If you do have other items that you'd like to submit for reimbursement, make sure that you have approval from your manager before doing so, and use [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/edit#gid=444102166).
 - In certain rare cases, if your job requires frequent expenditures of company money, you'll be issued a corporate American Express card to conduct company business. In such a case, your manager will work with you to define specific expectations around what will and will not be charged on this card, as well as a specific budget for these charges. Failure to abide by these expectations may result in disciplinary action, including termination, and in the worst case, criminal proceedings. **While we absolutely do not expect this to be an issue, it's important to be clear that misappropriation of our shared resources will be taken extremely seriously.**
@@ -85,13 +84,14 @@ Fishtown Analytics does not have “required” working hours. There is an expec
 
 ### Time off
 
-Fishtown Analytics has an unlimited paid vacation policy, allowing employees to take as much time off as they need. Employees should utilize this benefit in a way that is conducive to their productivity. We understand, appreciate (and encourage!) turning off your brain, traveling, and spending time with friends and family!
+Fishtown Analytics has an unlimited paid vacation policy, allowing employees to take as much time off as they need. We do ask that employees aim for a minimun of 2 weeks off per year. Employees should utilize this benefit in a way that is conducive to their productivity. We understand, appreciate (and encourage!) turning off your brain, traveling, and spending time with friends and family!
 
 Employees are obligated to:
 
 - Communicate and collaborate with their team to ensure everyone takes leave without disrupting operations.
 - Notify their supervisor as soon as the absence is scheduled, and no less than one month  in advance of a full week of absence.
 - Mark the planned time off on their Fishtown Analytics Google calendar as full day events so that other employees can effectively plan events or meetings.
+- Request the time off in Gusto, for tracking purposes.
 - Avoid abusing the policy by taking time off that negatively impacts their job and the company.
 
 ### Working from home
@@ -106,33 +106,38 @@ If you are working from home, you are expected to be actually working and availa
 
 Fishtown Analytics observes the following federal holidays:
 
-- New Year's Day (January 1)
 - Memorial Day (Last Monday in May)
-- Independence Day (July 4)
+- Independence Day (Observed July 5, 2021)
 - Labor Day (First Monday in September)
 - Thanksgiving Day (Fourth Thursday in November)
-- Christmas Day (December 25)
+- Christmas Day (Observed December 24, 2021)
+- New Year's Day (Observed December 31, 2021)
 
-The Fishtown Analytics sprint model operates on a pretty rigid two-week cadence. Sometimes, holidays interfere with the delivery of these sprints. When possible, employees should strive to deliver their sprints on or before their due dates. If holidays make this infeasible, then employees can push back their sprint delivery date. Please consult your manager (and the client) in the event that a holiday interferes with your sprint delivery.
 
 ## Leave Policies
 
-Fishtown Analytics happily provides parental leave for both adoptive and natural parents.
+Fishtown Analytics offers anyone (regardless of gender) up to **12 weeks of 100% paid time off** during the first year of parenthood. This includes anyone who becomes a parent through childbirth or adoption. The 12-week balance is per birth or adoption event. If you live in a country where a statutory parental leave benefit is available, you will be required to claim statutory parental leave pay (if you are eligible) and we will supplement any gaps.
 
-Prior to the start of leave, the employee and Fishtown Analytics will create a Leave Plan. This plan will detail steps for a smooth transition back to work following the scheduled leave. The employee is expected to communicate with Fishtown Analytics if the Leave Plan needs to be amended while on leave.
+We encourage parents to take the time they need. Fishtown Analytics team-members will be encouraged to decide for themselves the appropriate amount of time to take and how to take it. For many reasons, a team member may require more time off for parental leave. Some countries have longer standard parental leaves, occasionally births have complications, and sometimes 12 weeks just isn't enough. Any Fishtown Analytics team member can request additional unpaid parental leave, up to 8 weeks. We are happy to address anyone with additional leave requests on a one-on-one basis. All of the parental leave should be taken in the first year. There is no tenure requirement to be eligible for leave.
 
-Parental Leave includes the following benefits:  
+If applicable, commissions are paid while on parental leave at 100% of plan. On the day you return from leave and going forward, your commissions will be based on current performance only. If your country of employment has specific laws regarding the payout of commissions when on leave, those would supersede our policy.
 
-- 100% of employee salary for the first one month of leave.
-- Employees may request up to two months of additional unpaid leave.
+### Plan for leave
 
-Leave may also be used for medical procedures and bereavement. Speak with your immediate supervisor as soon as you’re aware of the need for extended leave.
+We understand that exact timing can't always be planned so, as early as possible, please start working with your manager and your team to plan for your leave. This includes:
+
+- Planning projects to wrap up ahead of leave and avoiding taking on new large projects right before.
+- Assigning owners  for your day to day work and beginning to train and hand-off work as needed.
+- Documenting as much as possible to set your team up for success while you're gone.
+- You should also email People Ops with an estimated leave timeframe so they can keep track.
+
+You are more than welcome to slack or email People Ops (@Meg or meghan@fishtownanalytics.com) if you have any questions about taking Parental Leave.
 
 ## Background Checks
 
 Fishtown Analytics is concerned about the safety of its team members and about maintaining appropriate controls to ensure that assets of Fishtown Analytics and our customer relationships and information are protected. To reduce these risks, we will obtain and review background information of covered prospective, and, as applicable, current employees.
 
-Fishtown Analytics has contracted with Sterling Talent Solutions to perform these background checks, which will cover criminal history for the last 7 years and employment history for the last 5 years and/or the three most recent employers. Fishtown Analytics may use the returned background check information to make decisions regarding employment. For certain positions where the candidates financial history is relevant to the position, we may also run a check in the federal database for any financial related offenses.
+Fishtown Analytics has contracted with Checkr (https://checkr.com/) to perform these background checks, which will cover criminal history for the last 7 years, sex offender search, SSN trace and Global Watchlist search. Fishtown Analytics may use the returned background check information to make decisions regarding employment. For certain positions where the candidates financial history is relevant to the position, we may also run a check in the federal database for any financial related offenses.
 
 All candidates who make it to the offer stage with Fishtown Analytics must undergo a background screening according to this policy as part of the employment screening process. All contracts will state that employment is subject to obtaining results from an approved background screening that are satisfactory to Fishtown Analytics. If a candidate is unwilling to follow this process we are unable to proceed with their candidacy for any position at Fishtown Analytics. In the event the background check is not available at the time of hire (switching vendors or delays in processing), Fishtown Analytics will run the background check as soon as possible. The same adjudication guidelines will apply to current employees as they do with prospective employees.
 
@@ -140,9 +145,7 @@ All candidates who make it to the offer stage with Fishtown Analytics must under
 
 Candidates (as applicable, employees) will receive an email to fill out the background check application. The application will ask for personal and professional information. The application process includes signing a disclosure and a consent form which explains the rights of an individual undergoing a background examination. The application process is designed to take less than fifteen minutes to complete.
 
-To prepare for the employment verification, candidates should gather each previous employer's name and address, position title held, employment start and end dates, manager’s name and title, their phone number, and email address. Details for a Human Resources contact can be entered instead of a manager's contact details.
-
-Occasionally, Sterling will reach out to the candidate to retrieve additional information, such as backup documentation to act as proof of previous employment or picture IDs. Proof of employment can typically be provided in various ways, such as tax returns (e.g. W2s), pay stubs, LLC documentation, official company registrations, etc.
+Occasionally, Checkr will reach out to the candidate to retrieve additional information, such as backup documentation to act as proof of previous employment or picture IDs. Proof of employment can typically be provided in various ways, such as tax returns (e.g. W2s), pay stubs, LLC documentation, official company registrations, etc.
 
 Background checks will act as an additional mechanism of transparency and will help to build trust with our clients.
 
@@ -209,3 +212,47 @@ For each subsequent year, all remote employees will receive an *annual* reimburs
 **Covid-19/Extenuating Circumstances Rider:** Office-based employees that would normally *not* be eligible for this benefit, given access to the resources the office has to offer, will also be eligible for this benefit while the office is closed.
 
 **Process to expense** While we investigate an expense management system, employees should fill out [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/copy#gid=444102166) and submit with all receipts to accounting@fishtownanalytics.com. Please try to send in bulk if possible. Expenses will be reimbursed through direct deposit within 30 days.
+
+### Professional Development Stipend
+
+### Policy
+
+At Fishtown Analytics we believe in moving up the stack. We encourage our team to seek out learning opportunities and will reimburse up to **$500 per employee per year** on learning and development expenses including, but not limited to:
+
+- Subscriptions
+- Books
+- Software
+- Courses
+- Certifications
+- Professional membership fees
+
+**Does it need to be related to my role?**
+
+It doesn’t; but it does need to be considered professional development as it relates to the career you have or the career you want. This can be defined in two ways:
+
+1. Core Training: "On the job" learning, training of core skills, experience levels growth, area training, deepening expertise in one's domain.
+2. Stretch Learning: Outside of the role's scope, bridging the gaps between departments, change careers, or better general context.
+
+**What if I want to take a course or attend a conference that costs more than $500?**
+
+Occasionally, expenses beyond the initial $500 will be reimbursed with prior manager approval. This is most relevant as it relates to in person conferences (fees, travel and expenses). We don't expect much of this in 2021 and we will expand the program as needed in 2022. 
+
+**Can you give me some examples as a jumping off point?**
+
+- Courses using online platforms like:
+    - [Udemy](https://www.udemy.com/courses/) – Online courses with a range of topics
+    - [Skillshare](https://www.skillshare.com/) – Online courses for creators
+    - [Highbrow](http://gohighbrow.com/) – Get 5-minute lessons delivered to your inbox every morning
+    - [Datacamp](https://www.datacamp.com/) – Learn Data Science online
+    - [Treehouse](https://teamtreehouse.com/) – Learn Web Design, Coding, and more
+- Books to learn more about a subject or to dive into how other companies do things; for People Ops this may look like:
+    - [Measure What Matters](https://www.whatmatters.com/the-book/) (OKRs)
+    - [Powerful](https://pattymccord.com/book/) (Netflix Culture)
+    - [Work Rules!](https://www.workrules.net/) (Google Culture)
+- Certifications or Professional memberships:
+    - [People Ops Society Membership](https://www.peopleopssociety.com)
+    - CPA Renewal
+
+### Reimbursement process
+
+Use [this](https://docs.google.com/spreadsheets/d/10zRgKyL4qRJibIf-LaZaGrGBf1GOo-G4RhuMwPYjkGo/edit#gid=444102166) link to fill out the expense form, include "professional development" and what the item is  in the description (example: "Professional Development - Book about Python"). Send completed expense reimbursement form with link to receipts to accounting@fishtownanalytics.com
