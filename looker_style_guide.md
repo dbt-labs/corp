@@ -27,7 +27,7 @@ fishtown project
 
 Explores should be optimized for the business stakeholder where we're getting the best represented business unit to run our analyses off of. This means that explores should be organized based on department or category of the business unit. For example, we have several Slack views, but maybe they all join under a singular `Slack Messages` explore, which should fall under the `Community` category.
 
-Building off of our above analogy, explores are the packaged items that can be combined to suit a department's needs. We can utilize various views to create different explores.
+Building off of our above analogy, explores are the packaged items that can combine ingredients (views) to suit a customer's needs. We can utilize various views to create different explores.
 
 
 ## Views
