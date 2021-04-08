@@ -49,12 +49,11 @@ Building off of our above analogy, explores are the packaged items that can comb
 view: intercom_conversations {
   sql_table_name:
   -- if prod -- analytics.analytics.fct_intercom_conversations
-  -- if dev -- analytics.{{_user_attributes['dbt_schema']}}.fct_intercom_conversations
-  ;;
+  -- if dev -- analytics.{{_user_attributes['dbt_schema']}}.fct_intercom_conversations ;;
 
+# =============================================== DIMENSIONS
 
 # ==================== IDs
-
   dimension: conversation_id {
     description: "Primary key for the table. Links to the intercom conversation thread."
     primary_key: yes
@@ -75,12 +74,12 @@ view: intercom_conversations {
   }
 
 # ==================== DATES
- dimension_group: updated {
-   group_label: Dates
-   description: "Timestamp of last alterations EST"
-   hidden: yes
-   type: time
-   timeframes: [
+  dimension_group: updated {
+    group_label: Dates
+    description: "Timestamp of last alterations EST"
+    hidden: yes
+    type: time
+    timeframes: [
      raw,
      time,
      date,
@@ -88,39 +87,48 @@ view: intercom_conversations {
      month,
      quarter,
      year
-   ]
-   sql: ${TABLE}."UPDATED_AT" ;;
-   convert_tz: no
- }
+    ]
+    sql: ${TABLE}."UPDATED_AT" ;;
+    convert_tz: no
+  }
 
+# =============================================== DRILL FIELDS
+
+  set: account_information {
+    fields: [
+      account_id,
+      account_name,
+      plan,
+      created_date
+      ]
+  }
 
 # =============================================== MEASURES
 
 # ==================== SLA PERFORMANCE   
-measure: total_responses {
-  group_label: "SLA Performance"
-  description: "The total responses within an Intercom conversation (both admin and user)"
-  type: sum
-  sql: ${responses} ;;
-  value_format_name: percent_1
-}
+  measure: total_responses {
+    group_label: "SLA Performance"
+    description: "The total responses within an Intercom conversation (both admin and user)"
+    type: sum
+    sql: ${responses} ;;
+    value_format_name: percent_1
+  }
 
-measure: total_responses_enterprise {
-  label: "Total Responses by Enterprise Customers"
-  group_label: "SLA Performance"
-  description: Total responses within an Intercom conversation for Enterprise accounts"
-  type: sum
-  sql: ${responses} ;;
-  filters: [plan: "Enterprise"]
-  drill_fields: [account_information*]
-}
+  measure: total_responses_enterprise {
+    label: "Total Responses by Enterprise Customers"
+    group_label: "SLA Performance"
+    description: Total responses within an Intercom conversation for Enterprise accounts"
+    type: sum
+    sql: ${responses} ;;
+    filters: [plan: "Enterprise"]
+    drill_fields: [account_information*]
+  }
 ```
 
 ## Models
 * Explores should be organized by group label and group labels should be organized alphabetically
 * Every explore should be listed under a `group_label` (see how we categorize explores in the "Structure of our LookML project" section)
 * Explores should have only a few joins at max. If you're finding yourself joining several views to a single explore, it might mean you'll need to: 1. Model this in dbt 2. Rethink which table should be the base of the explore you're creating
-
 
 ```
 connection: "snowflake"
@@ -144,27 +152,24 @@ include: "/feedback/*.view"
 explore: cloud_ide_sessions {
   label: "IDE Sessions"
   group_label: "dbt Cloud"
-
-  join: customers {
-    view_label: "Cloud Customers"
-    sql_on: ${cloud_ide_sessions.account_id} = ${customers.account_id} ;;
-    type: left_outer
-    relationship: one_to_one
-  }
   join: cloud_accounts {
     view_label: "Cloud Accounts"
     sql_on: ${cloud_ide_sessions.account_id} = ${cloud_accounts.account_id} ;;
     type: left_outer
     relationship: many_to_one
   }
-
   join: cloud_users {
     view_label: "Cloud Users"
     sql_on: ${cloud_ide_sessions.user_id} = ${cloud_users.user_id} ;;
     type: left_outer
     relationship: many_to_one
   }
-
+  join: customers {
+    view_label: "Cloud Customers"
+    sql_on: ${cloud_ide_sessions.account_id} = ${customers.account_id} ;;
+    type: left_outer
+    relationship: one_to_one
+  }
 }
 
 ```
