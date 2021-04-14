@@ -35,11 +35,12 @@ Building off of our above analogy, explores are the packaged items that can comb
 #### Structure
 * A view's name should represent the business unit (i.e. the level of granularity of the table). For example, if we're taking `fct_intercom_conversations`, then the view name should be: `intercom_conversations`.
 * The `sql_table_name` should always have the [user attribute feature](https://blog.getdbt.com/how-to-integrate-dbt-and-looker-with-user-attributes/).
-* Dimensions and measures should be organized by group label (Note: for dimensions, date groupings should always be last)
+* Dimensions and measures should be organized by group label
 
 #### Dimensions & Measures
 * Dimensions and measures should be ordered as (if fields are applicable): name, label, group_label, description, hidden, type, sql, value_format_name, filter
-* Both should have a description
+* Both should have a description. This is especially important when we have common dimension/measure names across views (e.g. `created_at`). Descriptions should describe the definition, use case and/or calculation.
+* There should be a dimension for every field that exists in the table that the view is built off of. If the dimension is not useful for visualizations (e.g. an `id` field created via the surrogate key) then it should be flagged as hidden.
 * We prefer `value_format_name` over `value_format`
 * Measures should reference the dimension (e.g. ${order_total} over ${TABLE}.order_total)
 
@@ -55,14 +56,22 @@ view: intercom_conversations {
 
 # ==================== IDs
   dimension: conversation_id {
+    group_label: "Identifiers"
     description: "Primary key for the table. Links to the intercom conversation thread."
     primary_key: yes
+    hidden: yes
     type: string
     sql: ${TABLE}."CONVERSATION_ID" ;;
     link: {
       label: "Intercom Link"
       url: "https://app.intercom.com/a/apps/c15gqki8/inbox/inbox/all/conversations/{{ value }}"
     }
+  }
+  dimension: customer_id {
+    group_label: "Identifiers"
+    description: "The identifier for the customer."
+    type: string
+    sql: ${TABLE}."CUSTOMER_ID" ;;
   }
 
 # ==================== CONVERSATIONS
@@ -73,9 +82,9 @@ view: intercom_conversations {
     sql: ${TABLE}."TOTAL_RESPONSES" ;;
   }
 
-# ==================== DATES
+# ==================== TIMESTAMPS
   dimension_group: updated {
-    group_label: Dates
+    group_label: "Timestamps"
     description: "Timestamp of last alterations EST"
     hidden: yes
     type: time
