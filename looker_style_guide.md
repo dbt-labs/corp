@@ -35,18 +35,19 @@ Building off of our above analogy, explores are the packaged items that can comb
 #### Structure
 * A view's name should represent the business unit (i.e. the level of granularity of the table). For example, if we're taking `fct_intercom_conversations`, then the view name should be: `intercom_conversations`.
 * The `sql_table_name` should always have the [user attribute feature](https://blog.getdbt.com/how-to-integrate-dbt-and-looker-with-user-attributes/). You can set your dbt schema in your [Account settings](https://fishtown.looker.com/account).
+* Parameters and their dimensions should be listed first
 * Dimensions and measures should be organized by group label
+
+### Drill fields
+ * These should be listed under the `Dimensions` section where the name of the drill set should reflect the level of granularity/information that the set offers (e.g. "Account Information" - this contains all information about the account such as: identifier, name, plan, and created date). See the below example as a reference.
 
 #### Dimensions & Measures
 * Dimensions and measures should be ordered as (if fields are applicable): name, label, group_label, description, hidden, type, sql, value_format_name, filter
 * Primary keys for the view should be the first dimension listed (IDs always come first, similar to our [SQL Style Guide](https://github.com/fishtown-analytics/corp/blob/master/dbt_coding_conventions.md)) and most times should be hidden. This allows us to understand the granularity of the view and is required if you want to use joins on the view.
 * All dimensions and measures should have a description. This is especially important when we have common dimension/measure names across views (e.g. `created_at`). Descriptions should describe the definition, use case and/or calculation.
 * There should be a dimension for every field that exists in the table that the view is built off of. If the dimension is not useful for visualizations (e.g. an `id` field created via the surrogate key) then it should be flagged as hidden.
-* Parameterized dimensions should have their own separate sub-section under `Dimensions`
 * We prefer `value_format_name` over `value_format`
 * Measures should reference the dimension (e.g. `${order_total}` over `${TABLE}.order_total`). This is because if you were to change the definition of `${order_total}` in the dimension, then it wouldn't be reflected in the measure aggregation if you used `${TABLE}.order_total`
-* Parameters and their dimensions should be listed first
-* Drill fields - These should be listed under the `Dimensions` section where the name of the drill set should reflect the level of granularity/information that the set offers (e.g. "Account Information" - this contains all information about the account such as: identifier, name, plan, and created date).
 
 #### Example
 
