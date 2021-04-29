@@ -1,7 +1,7 @@
 # dbt Style Guide
 
 ## Model Naming
-Our models (typically) fit into three main categories: staging, marts, base/intermediate. The file and naming structures are as follows:
+Our models (typically) fit into three main categories: staging, marts, base/intermediate. For more detail about why we use this structure, check out [this discourse post](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355). The file and naming structures are as follows:
 ```
 ├── dbt_project.yml
 └── models
