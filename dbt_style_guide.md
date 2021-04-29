@@ -71,6 +71,8 @@ Our models (typically) fit into three main categories: staging, marts, base/inte
 
 ## CTEs
 
+For more information about why we use so many CTEs, check out [this discourse post](https://discourse.getdbt.com/t/why-the-fishtown-sql-style-guide-uses-so-many-ctes/1091).
+
 - All `{{ ref('...') }}` statements should be placed in CTEs at the top of the file
 - Where performance permits, CTEs should perform a single, logical unit of work.
 - CTE names should be as verbose as needed to convey what they do
