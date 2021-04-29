@@ -53,7 +53,7 @@ Our models (typically) fit into three main categories: staging, marts, base/inte
 
 ## Testing
 
-- Every subdirectory should contain a `schema.yml` file, in which each model in the subdirectory is tested.
+- Every subdirectory should contain a `.yml` file, in which each model in the subdirectory is tested. For staging folders, the naming structure should be `src_sourcename.yml`. For other folders, the structure should be `foldername.yml` (example `core.yml`).
 - At a minimum, unique and not_null tests should be applied to the primary key of each model.
 
 ## Naming and field conventions
