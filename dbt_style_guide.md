@@ -1,4 +1,4 @@
-# dbt coding conventions
+# dbt Style Guide
 
 ## Model Naming
 Our models (typically) fit into three main categories: staging, marts, base/intermediate. The file and naming structures are as follows:
