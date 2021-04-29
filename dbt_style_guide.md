@@ -109,7 +109,7 @@ select * from filtered_events
 - The `as` keyword should be used when aliasing a field or table
 - Fields should be stated before aggregates / window functions
 - Aggregations should be executed as early as possible before joining to another table.
-- Ordering and grouping by a number (eg. group by 1, 2) is preferred. Note that if you are grouping by more than a few columns, it may be worth revisiting your model design.
+- Ordering and grouping by a number (eg. group by 1, 2) is preferred over listing the column names (see [this rant](https://blog.getdbt.com/write-better-sql-a-defense-of-group-by-1/) for why). Note that if you are grouping by more than a few columns, it may be worth revisiting your model design.
 - Specify join keys - do not use `using`. Certain warehouses have inconsistencies in `using` results (specifically Snowflake).
 - Prefer `union all` to `union` [*](http://docs.aws.amazon.com/redshift/latest/dg/c_example_unionall_query.html)
 - Avoid table aliases in join conditions (especially initialisms) – it's harder to understand what the table called "c" is compared to "customers".
