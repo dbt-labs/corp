@@ -102,6 +102,7 @@ select * from filtered_events
 
 ## SQL style guide
 
+- Use trailing commas
 - Indents should be four spaces (except for predicates, which should line up with the `where` keyword)
 - Lines of SQL should be no longer than 80 characters
 - Field names and function names should all be lowercase
