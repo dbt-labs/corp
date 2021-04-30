@@ -1,7 +1,7 @@
-# dbt coding conventions
+# dbt Style Guide
 
 ## Model Naming
-Our models (typically) fit into three main categories: staging, marts, base/intermediate. The file and naming structures are as follows:
+Our models (typically) fit into three main categories: staging, marts, base/intermediate. For more detail about why we use this structure, check out [this discourse post](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355). The file and naming structures are as follows:
 ```
 ├── dbt_project.yml
 └── models
@@ -53,7 +53,7 @@ Our models (typically) fit into three main categories: staging, marts, base/inte
 
 ## Testing
 
-- Every subdirectory should contain a `schema.yml` file, in which each model in the subdirectory is tested.
+- Every subdirectory should contain a `.yml` file, in which each model in the subdirectory is tested. For staging folders, the naming structure should be `src_sourcename.yml`. For other folders, the structure should be `foldername.yml` (example `core.yml`).
 - At a minimum, unique and not_null tests should be applied to the primary key of each model.
 
 ## Naming and field conventions
@@ -70,6 +70,8 @@ Our models (typically) fit into three main categories: staging, marts, base/inte
 * Consistency is key! Use the same field names across models where possible, e.g. a key to the `customers` table should be named `customer_id` rather than `user_id`.
 
 ## CTEs
+
+For more information about why we use so many CTEs, check out [this discourse post](https://discourse.getdbt.com/t/why-the-fishtown-sql-style-guide-uses-so-many-ctes/1091).
 
 - All `{{ ref('...') }}` statements should be placed in CTEs at the top of the file
 - Where performance permits, CTEs should perform a single, logical unit of work.
@@ -100,13 +102,14 @@ select * from filtered_events
 
 ## SQL style guide
 
+- Use trailing commas
 - Indents should be four spaces (except for predicates, which should line up with the `where` keyword)
 - Lines of SQL should be no longer than 80 characters
 - Field names and function names should all be lowercase
 - The `as` keyword should be used when aliasing a field or table
 - Fields should be stated before aggregates / window functions
 - Aggregations should be executed as early as possible before joining to another table.
-- Ordering and grouping by a number (eg. group by 1, 2) is preferred. Note that if you are grouping by more than a few columns, it may be worth revisiting your model design.
+- Ordering and grouping by a number (eg. group by 1, 2) is preferred over listing the column names (see [this rant](https://blog.getdbt.com/write-better-sql-a-defense-of-group-by-1/) for why). Note that if you are grouping by more than a few columns, it may be worth revisiting your model design.
 - Specify join keys - do not use `using`. Certain warehouses have inconsistencies in `using` results (specifically Snowflake).
 - Prefer `union all` to `union` [*](http://docs.aws.amazon.com/redshift/latest/dg/c_example_unionall_query.html)
 - Avoid table aliases in join conditions (especially initialisms) – it's harder to understand what the table called "c" is compared to "customers".
