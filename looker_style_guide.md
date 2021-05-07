@@ -1,4 +1,4 @@
-# LookML Style Guide
+# Looker Style Guide
 To understand what goes in dbt vs Looker, please reference Tristan's article: "[How do you decide what to model in dbt vs LookML?](https://blog.getdbt.com/-how-do-you-decide-what-to-model-in-dbt-vs-lookml--/)". We believe that all business logic should live within dbt and we rarely ever use PDTs or extended views. If you find yourself reaching to create a PDT, then perhaps consider whether it should be a dbt model.
 
 ## Structure of our LookML project
