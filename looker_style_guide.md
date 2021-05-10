@@ -1,5 +1,5 @@
-# LookML Style Guide
-
+# Looker Style Guide
+To understand what goes in dbt vs Looker, please reference Tristan's article: "[How do you decide what to model in dbt vs LookML?](https://blog.getdbt.com/-how-do-you-decide-what-to-model-in-dbt-vs-lookml--/)". We believe that all business logic should live within dbt and we rarely ever use PDTs or extended views. If you find yourself reaching to create a PDT, then perhaps consider whether it should be a dbt model.
 
 ## Structure of our LookML project
 When structuring our LookML project, our views' folders should loosely reflect the structure of our dbt project with the name of the views representing our business units. For example, we have our core business units (e.g. customers) and our dbt Cloud business units (e.g. accounts, cloud projects, etc) which are similar to our [marts folder](https://github.com/fishtown-analytics/internal-analytics/tree/main/models/marts).
