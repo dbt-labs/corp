@@ -34,7 +34,7 @@ Building off of our above analogy, explores are the packaged items that can comb
 
 #### Structure
 * A view's name should represent the business unit (i.e. the level of granularity of the table). For example, if we're taking `fct_intercom_conversations`, then the view name should be: `intercom_conversations`.
-* The `sql_table_name` should always have the [user attribute feature](https://blog.getdbt.com/how-to-integrate-dbt-and-looker-with-user-attributes/). You can set your dbt schema in your [Account settings](https://fishtown.looker.com/account).
+* The `sql_table_name` should always have the [user attribute feature](https://blog.getdbt.com/how-to-integrate-dbt-and-looker-with-user-attributes/). One is for the production schema (`{{_user_attributes['prod_dbt_schema']}}` - this is not configurable) and the other is your dev schema (`{{_user_attributes['dbt_schema']}}`). You can set your dbt schema in your [Account settings](https://fishtown.looker.com/account). Reference the below example for how to format these.
 * Parameters and their dimensions should be listed first
 * Dimensions and measures should be organized by group label
 
@@ -65,7 +65,7 @@ Building off of our above analogy, explores are the packaged items that can comb
 ```
 view: intercom_conversations {
   sql_table_name:
-  -- if prod -- analytics.analytics.fct_intercom_conversations
+  -- if prod -- analytics.{{_user_attributes['prod_dbt_schema']}}.fct_intercom_conversations
   -- if dev -- analytics.{{_user_attributes['dbt_schema']}}.fct_intercom_conversations ;;
 
 
@@ -177,6 +177,7 @@ view: intercom_conversations {
 ## Models
 * Explores should be organized by group label and group labels should be organized alphabetically
 * Every explore should be listed under a `group_label` (see how we categorize explores in the "Structure of our LookML project" section)
+* Every explore should also have a description which should describe the explore's functionality and any nuances.
 * Explores should have only a few joins at max. If you're finding yourself joining several views to a single explore, it might mean you'll need to: 1. Model this in dbt 2. Rethink which table should be the base of the explore you're creating
 * There are occasions, particularly for views with many dimensions, where you want to limit the dimensions of the joining view or if the joining view has repeated dimensions that the right table already has where you'd want to exclude dimensions (see below for examples).
 
