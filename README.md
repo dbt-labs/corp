@@ -1,2 +1,2 @@
 # corp
-Assets related to the operation of Fishtown Analytics.
+Assets related to the operation of dbt Labs.
