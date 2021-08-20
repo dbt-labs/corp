@@ -1,20 +1,20 @@
-# The Fishtown Analytics Employee Handbook
+# The dbt Labs Employee Handbook
 
 ## Welcome to Fishtown
 
-Hello and Welcome to Fishtown Analytics. We’re thrilled to have you as a member of the team!
+Hello and Welcome to dbt Labs. We’re thrilled to have you as a member of the team!
 
-This handbook is intended to answer many of the questions you might have after joining, and should serve as a valuable resource throughout your employment at Fishtown Analytics. Read on to learn about important company policies and procedures, as well as the commitments of this company to our employees.
+This handbook is intended to answer many of the questions you might have after joining, and should serve as a valuable resource throughout your employment at dbt Labs. Read on to learn about important company policies and procedures, as well as the commitments of this company to our employees.
 
 ## Workplace Commitments
 
 ### Equal Opportunity Employment
 
-Fishtown Analytics is an equal opportunity employer and does not unlawfully discriminate against employees or applicants for employment on the basis of an individual’s race, color, religion, creed, sex, national origin, age, disability, marital status, veteran status or any other status protected by applicable law. This policy applies to all terms, conditions and privileges of employment, including recruitment, hiring, placement, compensation, promotion, discipline and termination. Whenever possible, the company makes reasonable accommodations for qualified individuals with disabilities to the extent required by law. Employees who would like to request a reasonable accommodation should contact Meghan Colón (Email: meg@fishtownanalytics or Slack: @meg).
+dbt Labs is an equal opportunity employer and does not unlawfully discriminate against employees or applicants for employment on the basis of an individual’s race, color, religion, creed, sex, national origin, age, disability, marital status, veteran status or any other status protected by applicable law. This policy applies to all terms, conditions and privileges of employment, including recruitment, hiring, placement, compensation, promotion, discipline and termination. Whenever possible, the company makes reasonable accommodations for qualified individuals with disabilities to the extent required by law. Employees who would like to request a reasonable accommodation should contact Meghan Colón (Email: meg@fishtownanalytics or Slack: @meg).
 
 ### Non-Harassment / Non-Discrimination Policy
 
-Fishtown Analytics prohibits discrimination or harassment based on race, color, religion, creed, sex, national origin, age, disability, marital status, veteran status or any other status protected by applicable law. Each individual has the right to work in a professional atmosphere that promotes equal employment opportunities and is free from discriminatory practices, including, without limitation, harassment. Consistent with its workplace policy of equal employment opportunity, Fishtown Analytics prohibits and will not tolerate harassment on the basis of race, color, religion, creed, sex, national origin, age, disability, marital status, veteran status or any other status protected by applicable law. Violations of this policy will not be tolerated.
+dbt Labs prohibits discrimination or harassment based on race, color, religion, creed, sex, national origin, age, disability, marital status, veteran status or any other status protected by applicable law. Each individual has the right to work in a professional atmosphere that promotes equal employment opportunities and is free from discriminatory practices, including, without limitation, harassment. Consistent with its workplace policy of equal employment opportunity, dbt Labs prohibits and will not tolerate harassment on the basis of race, color, religion, creed, sex, national origin, age, disability, marital status, veteran status or any other status protected by applicable law. Violations of this policy will not be tolerated.
 
 Discrimination includes, but is not limited to: making any employment decision or employment-related action on the basis of race, color, religion, creed, age, sex, disability, national origin, marital or veteran status, or any other status protected by applicable law. Harassment is generally defined as unwelcome verbal or nonverbal conduct, based upon a person’s protected characteristic, that denigrates or shows hostility or aversion toward the person because of the characteristic, and which affects the person’s employment opportunities or benefits, has the purpose or effect of unreasonably interfering with the person’s work performance, or has the purpose or effect of creating an intimidating, hostile or offensive working environment.
 
@@ -34,11 +34,11 @@ Examples of sexual harassment include: unwelcome or unsolicited sexual advances;
 
 ### Open Door Policy
 
-Fishtown Analytics has an open-door policy and takes employee concerns and problems seriously. The company values each employee and strives to provide a positive work experience. Employees are encouraged to bring any workplace concerns or problems they might have or know about to one of the designated members of the leadership team.
+dbt Labs has an open-door policy and takes employee concerns and problems seriously. The company values each employee and strives to provide a positive work experience. Employees are encouraged to bring any workplace concerns or problems they might have or know about to one of the designated members of the leadership team.
 
 ### Breach of Workplace Commitments
 
-If Fishtown Analytics determines that a violation has occurred, we will take appropriate disciplinary action against the offending party, which can include counseling, warnings, suspensions, and termination. Employees who report, in good faith, violations of these policies and employees who cooperate with investigations into alleged violations will not be subject to retaliation.
+If dbt Labs determines that a violation has occurred, we will take appropriate disciplinary action against the offending party, which can include counseling, warnings, suspensions, and termination. Employees who report, in good faith, violations of these policies and employees who cooperate with investigations into alleged violations will not be subject to retaliation.
 
 **We take our commitment to our employees seriously, and we will not tolerate any breach of these commitments. Failure to abide by these commitments may cause you to lose your job. If you have any questions regarding these commitments, do not hesitate to seek clarification from Meghan Colón.**
 
@@ -46,15 +46,15 @@ If Fishtown Analytics determines that a violation has occurred, we will take app
 
 ### Trust and Flexibility
 
-Fishtown Analytics trusts and respects its employees. With this trust comes flexibility. If you are unsure about appropriate conduct in a given situation, bias towards Doing The Right Thing, or consult your immediate supervisor for clarification.
+dbt Labs trusts and respects its employees. With this trust comes flexibility. If you are unsure about appropriate conduct in a given situation, bias towards Doing The Right Thing, or consult your immediate supervisor for clarification.
 
 ### Code of Professional Conduct
 
-Fishtown Analytics expects its employees to adhere to a standard of professional conduct and integrity. This ensures that the work environment is safe, comfortable and productive. Employees should be respectful, courteous, and mindful of others’ feelings and needs. General cooperation between coworkers and supervisors is expected. Individuals who act in an unprofessional manner may be subject to disciplinary action.
+dbt Labs expects its employees to adhere to a standard of professional conduct and integrity. This ensures that the work environment is safe, comfortable and productive. Employees should be respectful, courteous, and mindful of others’ feelings and needs. General cooperation between coworkers and supervisors is expected. Individuals who act in an unprofessional manner may be subject to disciplinary action.
 
 ### Performance Reviews
 
-Employees at Fishtown Analytics will participate in quarterly reviews and more frequent one-on-ones with their immediate supervisors. These reviews are a good opportunity to discuss employee performance, professional growth, and other big-picture topics.
+Employees at dbt Labs will participate in quarterly reviews and more frequent one-on-ones with their immediate supervisors. These reviews are a good opportunity to discuss employee performance, professional growth, and other big-picture topics.
 
 ### Dress Code
 
@@ -80,31 +80,31 @@ Many employees incur expenses over the course of their regular duties. We have t
 
 ### Hours of Work
 
-Fishtown Analytics does not have “required” working hours. There is an expectation that employees are in the office or available to remotely call in to required meetings and scheduled client calls. The company workweek is generally from Monday through Friday, with “normal operating hours” from 9:00 a.m. to 5:00 p.m. Employee’s personal operating hours may vary depending on client time zones and the nature of the projects that you’re working on.
+dbt Labs does not have “required” working hours. There is an expectation that employees are in the office or available to remotely call in to required meetings and scheduled client calls. The company workweek is generally from Monday through Friday, with “normal operating hours” from 9:00 a.m. to 5:00 p.m. Employee’s personal operating hours may vary depending on client time zones and the nature of the projects that you’re working on.
 
 ### Time off
 
-Fishtown Analytics has an unlimited paid vacation policy, allowing employees to take as much time off as they need. We do ask that employees aim for a minimun of 2 weeks off per year. Employees should utilize this benefit in a way that is conducive to their productivity. We understand, appreciate (and encourage!) turning off your brain, traveling, and spending time with friends and family!
+dbt Labs has an unlimited paid vacation policy, allowing employees to take as much time off as they need. We do ask that employees aim for a minimun of 2 weeks off per year. Employees should utilize this benefit in a way that is conducive to their productivity. We understand, appreciate (and encourage!) turning off your brain, traveling, and spending time with friends and family!
 
 Employees are obligated to:
 
 - Communicate and collaborate with their team to ensure everyone takes leave without disrupting operations.
 - Notify their supervisor as soon as the absence is scheduled, and no less than one month  in advance of a full week of absence.
-- Mark the planned time off on their Fishtown Analytics Google calendar as full day events so that other employees can effectively plan events or meetings.
+- Mark the planned time off on their dbt Labs Google calendar as full day events so that other employees can effectively plan events or meetings.
 - Request the time off in Gusto, for tracking purposes.
 - Avoid abusing the policy by taking time off that negatively impacts their job and the company.
 
 ### Working from home
 
-Working from home can be a great idea in the event of inclement weather, errands, deliveries, etc. Further, working from home can can be great for productivity and stress management if you have many scheduled client calls or an impending deadline. Some of us can write code twice as fast with shoes and socks off, for instance. Whatever your reason, Fishtown Analytics values your ability to work from home.
+Working from home can be a great idea in the event of inclement weather, errands, deliveries, etc. Further, working from home can can be great for productivity and stress management if you have many scheduled client calls or an impending deadline. Some of us can write code twice as fast with shoes and socks off, for instance. Whatever your reason, dbt Labs values your ability to work from home.
 
-Fishtown Analytics has a very flexible remote work policy. Employees are allowed to work from home as long as this is approved by their immediate supervisor, and such approval will not be unduly withheld. It may not be a good idea to work from home (and your supervisor may not approve) if your physical presence at work is important for a particular project or you are currently in your first few months on the job.
+dbt Labs has a very flexible remote work policy. Employees are allowed to work from home as long as this is approved by their immediate supervisor, and such approval will not be unduly withheld. It may not be a good idea to work from home (and your supervisor may not approve) if your physical presence at work is important for a particular project or you are currently in your first few months on the job.
 
 If you are working from home, you are expected to be actually working and available for both clients and team members to contact throughout the day. If you know that you will be working from home on a given day, please add an all-day event to your Google Calendar, and give a quick update the day of in Slack.
 
 ### Holidays
 
-Fishtown Analytics observes the following federal holidays:
+dbt Labs observes the following federal holidays:
 
 - Memorial Day (Last Monday in May)
 - Independence Day (Observed July 5, 2021)
@@ -116,9 +116,9 @@ Fishtown Analytics observes the following federal holidays:
 
 ## Leave Policies
 
-Fishtown Analytics offers anyone (regardless of gender) up to **12 weeks of 100% paid time off** during the first year of parenthood. This includes anyone who becomes a parent through childbirth or adoption. The 12-week balance is per birth or adoption event. If you live in a country where a statutory parental leave benefit is available, you will be required to claim statutory parental leave pay (if you are eligible) and we will supplement any gaps.
+dbt Labs offers anyone (regardless of gender) up to **12 weeks of 100% paid time off** during the first year of parenthood. This includes anyone who becomes a parent through childbirth or adoption. The 12-week balance is per birth or adoption event. If you live in a country where a statutory parental leave benefit is available, you will be required to claim statutory parental leave pay (if you are eligible) and we will supplement any gaps.
 
-We encourage parents to take the time they need. Fishtown Analytics team-members will be encouraged to decide for themselves the appropriate amount of time to take and how to take it. For many reasons, a team member may require more time off for parental leave. Some countries have longer standard parental leaves, occasionally births have complications, and sometimes 12 weeks just isn't enough. Any Fishtown Analytics team member can request additional unpaid parental leave, up to 8 weeks. We are happy to address anyone with additional leave requests on a one-on-one basis. All of the parental leave should be taken in the first year. There is no tenure requirement to be eligible for leave.
+We encourage parents to take the time they need. dbt Labs team-members will be encouraged to decide for themselves the appropriate amount of time to take and how to take it. For many reasons, a team member may require more time off for parental leave. Some countries have longer standard parental leaves, occasionally births have complications, and sometimes 12 weeks just isn't enough. Any dbt Labs team member can request additional unpaid parental leave, up to 8 weeks. We are happy to address anyone with additional leave requests on a one-on-one basis. All of the parental leave should be taken in the first year. There is no tenure requirement to be eligible for leave.
 
 If applicable, commissions are paid while on parental leave at 100% of plan. On the day you return from leave and going forward, your commissions will be based on current performance only. If your country of employment has specific laws regarding the payout of commissions when on leave, those would supersede our policy.
 
@@ -135,11 +135,11 @@ You are more than welcome to slack or email People Ops (@Meg or meghan@fishtowna
 
 ## Background Checks
 
-Fishtown Analytics is concerned about the safety of its team members and about maintaining appropriate controls to ensure that assets of Fishtown Analytics and our customer relationships and information are protected. To reduce these risks, we will obtain and review background information of covered prospective, and, as applicable, current employees.
+dbt Labs is concerned about the safety of its team members and about maintaining appropriate controls to ensure that assets of dbt Labs and our customer relationships and information are protected. To reduce these risks, we will obtain and review background information of covered prospective, and, as applicable, current employees.
 
-Fishtown Analytics has contracted with Checkr (https://checkr.com/) to perform these background checks, which will cover criminal history for the last 7 years, sex offender search, SSN trace and Global Watchlist search. Fishtown Analytics may use the returned background check information to make decisions regarding employment. For certain positions where the candidates financial history is relevant to the position, we may also run a check in the federal database for any financial related offenses.
+dbt Labs has contracted with Checkr (https://checkr.com/) to perform these background checks, which will cover criminal history for the last 7 years, sex offender search, SSN trace and Global Watchlist search. dbt Labs may use the returned background check information to make decisions regarding employment. For certain positions where the candidates financial history is relevant to the position, we may also run a check in the federal database for any financial related offenses.
 
-All candidates who make it to the offer stage with Fishtown Analytics must undergo a background screening according to this policy as part of the employment screening process. All contracts will state that employment is subject to obtaining results from an approved background screening that are satisfactory to Fishtown Analytics. If a candidate is unwilling to follow this process we are unable to proceed with their candidacy for any position at Fishtown Analytics. In the event the background check is not available at the time of hire (switching vendors or delays in processing), Fishtown Analytics will run the background check as soon as possible. The same adjudication guidelines will apply to current employees as they do with prospective employees.
+All candidates who make it to the offer stage with dbt Labs must undergo a background screening according to this policy as part of the employment screening process. All contracts will state that employment is subject to obtaining results from an approved background screening that are satisfactory to dbt Labs. If a candidate is unwilling to follow this process we are unable to proceed with their candidacy for any position at dbt Labs. In the event the background check is not available at the time of hire (switching vendors or delays in processing), dbt Labs will run the background check as soon as possible. The same adjudication guidelines will apply to current employees as they do with prospective employees.
 
 ### Disclosure and Authorization
 
@@ -157,15 +157,15 @@ Once the background check is completed, company administrators will review the r
 
 ### Retirement Plan
 
-Employees will have access to an employer-sponsored 401K plan. Immediately upon hire, Fishtown Analytics will contribute 3% of employee’s monthly salary into the retirement account on a monthly basis. Employees can additionally opt to contribute up to the federal maximum to their retirement account. Fishtown Analytics will contribute to the retirement account regardless of any supplemental employee contributions.
+Employees will have access to an employer-sponsored 401K plan. Immediately upon hire, dbt Labs will contribute 3% of employee’s monthly salary into the retirement account on a monthly basis. Employees can additionally opt to contribute up to the federal maximum to their retirement account. dbt Labs will contribute to the retirement account regardless of any supplemental employee contributions.
 
 ### Health Insurance
 
-Fishtown Analytics provides medical, dental and vision benefits to employees and their dependents. Health benefits are paid in part by the company. The remainder of the costs is the employee’s responsibility. Please login to Gusto for additional information about available benefits.
+dbt Labs provides medical, dental and vision benefits to employees and their dependents. Health benefits are paid in part by the company. The remainder of the costs is the employee’s responsibility. Please login to Gusto for additional information about available benefits.
 
 ### Stock Options
 
-Some employees at Fishtown Analytics will be granted stock options as a part of their compensation package. Please ask your direct manager or Tristan if you have any questions about this topic.
+Some employees at dbt Labs will be granted stock options as a part of their compensation package. Please ask your direct manager or Tristan if you have any questions about this topic.
 
 ### Office Expense Reimbursement
 
@@ -173,7 +173,7 @@ There are many advantages to building a remote-first culture. One of the more pr
 
 #### Initial Office Set Up - New Hires
 
-Upon starting with Fishtown Analytics, we will provide you with a MacBook Pro. In addition to the computer, each team member will be able to expense up to $1,500 towards their office set up. Items to be reimbursed could include:
+Upon starting with dbt Labs, we will provide you with a MacBook Pro. In addition to the computer, each team member will be able to expense up to $1,500 towards their office set up. Items to be reimbursed could include:
 
 - Monitor
 - Mouse
@@ -199,7 +199,7 @@ This list is not-exhaustive and could include anything that will help make your 
 
    - **Remote Employees** - This budget is to be used to set up your home office.
 
-   - **Office-based Employees** - This budget can be used on equipment you will use at a Fishtown Analytics office or on equipment in a home office you maintain for when you work from home. Your monitor / mouse / keyboard at your office location count against this budget.
+   - **Office-based Employees** - This budget can be used on equipment you will use at a dbt Labs office or on equipment in a home office you maintain for when you work from home. Your monitor / mouse / keyboard at your office location count against this budget.
 
 **Process to expense** While we investigate an expense management system, employees should fill out [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/copy#gid=444102166) and submit with all receipts to accounting@fishtownanalytics.com. Please try to send in bulk if possible. Expenses will be reimbursed through direct deposit within 30 days.
 
@@ -217,7 +217,7 @@ For each subsequent year, all remote employees will receive an *annual* reimburs
 
 ### Policy
 
-At Fishtown Analytics we believe in moving up the stack. We encourage our team to seek out learning opportunities and will reimburse up to **$500 per employee per year** on learning and development expenses including, but not limited to:
+At dbt Labs we believe in moving up the stack. We encourage our team to seek out learning opportunities and will reimburse up to **$500 per employee per year** on learning and development expenses including, but not limited to:
 
 - Subscriptions
 - Books
