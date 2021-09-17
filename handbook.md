@@ -1,6 +1,6 @@
 # The dbt Labs Employee Handbook
 
-## Welcome to Fishtown
+## Welcome to dbt Labs
 
 Hello and Welcome to dbt Labs. We’re thrilled to have you as a member of the team!
 
@@ -30,7 +30,7 @@ Examples of sexual harassment include: unwelcome or unsolicited sexual advances;
 
 ### Complaint Procedure
 
-**Any company employee who feels that they have been harassed or discriminated against, or has witnessed or become aware of discrimination or harassment in violation of these policies, should bring the matter to the immediate attention of Meghan Colón (Email: meg@fishtownanalytics or Slack: @meg).** The company will promptly investigate all allegations of discrimination and harassment, and take action as appropriate based on the outcome of the investigation. An investigation and its results will be treated as confidential to the extent feasible, and permitted by law, and the company will take appropriate action based on the outcome of the investigation. No employee will be retaliated against for making a complaint in good faith regarding a violation of these policies, or for participating in good faith in an investigation pursuant to these policies. If an employee feels they have been retaliated against, the employee should file a complaint using the procedures set forth above.
+**Any company employee who feels that they have been harassed or discriminated against, or has witnessed or become aware of discrimination or harassment in violation of these policies, should bring the matter to the immediate attention of Meghan Colón (Email: meg@dbtlabs.com or Slack: @meg).** The company will promptly investigate all allegations of discrimination and harassment, and take action as appropriate based on the outcome of the investigation. An investigation and its results will be treated as confidential to the extent feasible, and permitted by law, and the company will take appropriate action based on the outcome of the investigation. No employee will be retaliated against for making a complaint in good faith regarding a violation of these policies, or for participating in good faith in an investigation pursuant to these policies. If an employee feels they have been retaliated against, the employee should file a complaint using the procedures set forth above.
 
 ### Open Door Policy
 
@@ -54,7 +54,7 @@ dbt Labs expects its employees to adhere to a standard of professional conduct a
 
 ### Performance Reviews
 
-Employees at dbt Labs will participate in quarterly reviews and more frequent one-on-ones with their immediate supervisors. These reviews are a good opportunity to discuss employee performance, professional growth, and other big-picture topics.
+Employees at dbt Labs will participate in quarterly reviews and more frequent one-on-ones with their immediate supervisors. These reviews are a good opportunity to discuss employee performance, professional growth, and other big-picture topics. 
 
 ### Dress Code
 
@@ -74,7 +74,7 @@ Many employees incur expenses over the course of their regular duties. We have t
 
 - For all corporate travel, please refer to [these expense guidelines](https://docs.google.com/document/d/1D6TciMqWz5E-4F9Nw3DuVOhvAfoEZDFZmtgHYFq2Uk0/edit?ts=5e287129#) when booking flights and hotels and expensing meals and other incidentals. 
 - Most non-travel purchases should be able to be made by either a company office administrator or your manager; please feel free to make requests as appropriate via these channels. If you do have other items that you'd like to submit for reimbursement, make sure that you have approval from your manager before doing so, and use [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/edit#gid=444102166).
-- In certain rare cases, if your job requires frequent expenditures of company money, you'll be issued a corporate American Express card to conduct company business. In such a case, your manager will work with you to define specific expectations around what will and will not be charged on this card, as well as a specific budget for these charges. Failure to abide by these expectations may result in disciplinary action, including termination, and in the worst case, criminal proceedings. **While we absolutely do not expect this to be an issue, it's important to be clear that misappropriation of our shared resources will be taken extremely seriously.**
+- In certain rare cases, if your job requires frequent expenditures of company money, you'll be issued a physical Airbase card to conduct company business. In such a case, your manager will work with you to define specific expectations around what will and will not be charged on this card, as well as a specific budget for these charges. Failure to abide by these expectations may result in disciplinary action, including termination, and in the worst case, criminal proceedings. **While we absolutely do not expect this to be an issue, it's important to be clear that misappropriation of our shared resources will be taken extremely seriously.**
 
 ## Attendance Policies
 
@@ -94,23 +94,18 @@ Employees are obligated to:
 - Request the time off in Gusto, for tracking purposes.
 - Avoid abusing the policy by taking time off that negatively impacts their job and the company.
 
-### Working from home
-
-Working from home can be a great idea in the event of inclement weather, errands, deliveries, etc. Further, working from home can can be great for productivity and stress management if you have many scheduled client calls or an impending deadline. Some of us can write code twice as fast with shoes and socks off, for instance. Whatever your reason, dbt Labs values your ability to work from home.
-
-dbt Labs has a very flexible remote work policy. Employees are allowed to work from home as long as this is approved by their immediate supervisor, and such approval will not be unduly withheld. It may not be a good idea to work from home (and your supervisor may not approve) if your physical presence at work is important for a particular project or you are currently in your first few months on the job.
-
-If you are working from home, you are expected to be actually working and available for both clients and team members to contact throughout the day. If you know that you will be working from home on a given day, please add an all-day event to your Google Calendar, and give a quick update the day of in Slack.
-
 ### Holidays
 
-dbt Labs observes the following federal holidays:
+dbt Labs observes the following holidays in 2021:
 
-- Memorial Day (Last Monday in May)
+- Memorial Day (Monday, May 31, 2021)
 - Independence Day (Observed July 5, 2021)
-- Labor Day (First Monday in September)
-- Thanksgiving Day (Fourth Thursday in November)
+- Friday before Labor Day (Friday, September 3, 2021)
+- Labor Day (Monday, September 6, 2021)
+- Thanksgiving Day (Thursday, November 25, 2021 )
+- Friday after Thanksgiving - Friday, November 26, 2021
 - Christmas Day (Observed December 24, 2021)
+- Winter Break - Monday, December 27, 2021 → Thursday December 30, 2021
 - New Year's Day (Observed December 31, 2021)
 
 
@@ -137,7 +132,7 @@ You are more than welcome to slack or email People Ops (@Meg or meghan@fishtowna
 
 dbt Labs is concerned about the safety of its team members and about maintaining appropriate controls to ensure that assets of dbt Labs and our customer relationships and information are protected. To reduce these risks, we will obtain and review background information of covered prospective, and, as applicable, current employees.
 
-dbt Labs has contracted with Checkr (https://checkr.com/) to perform these background checks, which will cover criminal history for the last 7 years, sex offender search, SSN trace and Global Watchlist search. dbt Labs may use the returned background check information to make decisions regarding employment. For certain positions where the candidates financial history is relevant to the position, we may also run a check in the federal database for any financial related offenses.
+dbt Labs has contracted with Checkr (https://checkr.com/) to perform these background checks for US based employees, which will cover criminal history for the last 7 years, sex offender search, SSN trace and Global Watchlist search. For all non-US employees, we use GoodHire (https://www.goodhire.com/). dbt Labs may use the returned background check information to make decisions regarding employment. For certain positions where the candidates financial history is relevant to the position, we may also run a check in the federal database for any financial related offenses.
 
 All candidates who make it to the offer stage with dbt Labs must undergo a background screening according to this policy as part of the employment screening process. All contracts will state that employment is subject to obtaining results from an approved background screening that are satisfactory to dbt Labs. If a candidate is unwilling to follow this process we are unable to proceed with their candidacy for any position at dbt Labs. In the event the background check is not available at the time of hire (switching vendors or delays in processing), dbt Labs will run the background check as soon as possible. The same adjudication guidelines will apply to current employees as they do with prospective employees.
 
@@ -145,7 +140,7 @@ All candidates who make it to the offer stage with dbt Labs must undergo a backg
 
 Candidates (as applicable, employees) will receive an email to fill out the background check application. The application will ask for personal and professional information. The application process includes signing a disclosure and a consent form which explains the rights of an individual undergoing a background examination. The application process is designed to take less than fifteen minutes to complete.
 
-Occasionally, Checkr will reach out to the candidate to retrieve additional information, such as backup documentation to act as proof of previous employment or picture IDs. Proof of employment can typically be provided in various ways, such as tax returns (e.g. W2s), pay stubs, LLC documentation, official company registrations, etc.
+Occasionally, Checkr or GoodHire will reach out to the candidate to retrieve additional information, such as backup documentation to act as proof of previous employment or picture IDs. Proof of employment can typically be provided in various ways, such as tax returns (e.g. W2s), pay stubs, LLC documentation, official company registrations, etc.
 
 Background checks will act as an additional mechanism of transparency and will help to build trust with our clients.
 
@@ -161,7 +156,11 @@ Employees will have access to an employer-sponsored 401K plan. Immediately upon 
 
 ### Health Insurance
 
-dbt Labs provides medical, dental and vision benefits to employees and their dependents. Health benefits are paid in part by the company. The remainder of the costs is the employee’s responsibility. Please login to Gusto for additional information about available benefits.
+dbt Labs provides medical, dental and vision benefits to employees and their dependents as well as FSA, DCFSA, and HSA options. Health benefits are paid in part by the company. The remainder of the costs is the employee’s responsibility. Please login to ADP for additional information about available benefits.
+
+### Disability and Life Insurance
+
+dbt Labs provides long term and short term disability as well as life insurance coverage to all US-based employees at no cost. Voluntary, additional, life insurance coverage for employees and dependants is available at the expense of the employee.
 
 ### Stock Options
 
@@ -193,13 +192,9 @@ Upon starting with dbt Labs, we will provide you with a MacBook Pro. In addition
 - Adapter/cords to connect the above items to your laptop computer
 - Lighting
 
-This list is not-exhaustive and could include anything that will help make your office experience a comfortable and productive environment where you can do your best work. 
+This list is not-exhaustive and could include anything that will help make your office experience a comfortable and productive environment where you can do your best work. We will not reimburse ipad or cell phones as part of this policy.
 
 **Who is eligible?** All employees.
-
-   - **Remote Employees** - This budget is to be used to set up your home office.
-
-   - **Office-based Employees** - This budget can be used on equipment you will use at a dbt Labs office or on equipment in a home office you maintain for when you work from home. Your monitor / mouse / keyboard at your office location count against this budget.
 
 **Process to expense** While we investigate an expense management system, employees should fill out [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/copy#gid=444102166) and submit with all receipts to accounting@fishtownanalytics.com. Please try to send in bulk if possible. Expenses will be reimbursed through direct deposit within 30 days.
 
@@ -207,9 +202,7 @@ This list is not-exhaustive and could include anything that will help make your 
 
 For each subsequent year, all remote employees will receive an *annual* reimbursement budget of $400 to make improvements to your working and office environment, this could include anything from the above as well as updating old or broken accessories.
 
-**Who is eligible?** Any team member that is a remote employee the majority of the time (3+ days/week).
-
-**Covid-19/Extenuating Circumstances Rider:** Office-based employees that would normally *not* be eligible for this benefit, given access to the resources the office has to offer, will also be eligible for this benefit while the office is closed.
+**Who is eligible?** All employees
 
 **Process to expense** While we investigate an expense management system, employees should fill out [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/copy#gid=444102166) and submit with all receipts to accounting@fishtownanalytics.com. Please try to send in bulk if possible. Expenses will be reimbursed through direct deposit within 30 days.
 
