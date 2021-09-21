@@ -196,7 +196,7 @@ This list is not-exhaustive and could include anything that will help make your 
 
 **Who is eligible?** All employees.
 
-**Process to expense** While we investigate an expense management system, employees should fill out [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/copy#gid=444102166) and submit with all receipts to accounting@fishtownanalytics.com. Please try to send in bulk if possible. Expenses will be reimbursed through direct deposit within 30 days.
+**Process to expense** Please use Airbase.
 
 #### Annual Home Office Budget
 
