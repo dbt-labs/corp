@@ -10,7 +10,7 @@ This handbook is intended to answer many of the questions you might have after j
 
 ### Equal Opportunity Employment
 
-dbt Labs is an equal opportunity employer and does not unlawfully discriminate against employees or applicants for employment on the basis of an individual’s race, color, religion, creed, sex, national origin, age, disability, marital status, veteran status or any other status protected by applicable law. This policy applies to all terms, conditions and privileges of employment, including recruitment, hiring, placement, compensation, promotion, discipline and termination. Whenever possible, the company makes reasonable accommodations for qualified individuals with disabilities to the extent required by law. Employees who would like to request a reasonable accommodation should contact Meghan Colón (Email: meg@fishtownanalytics or Slack: @meg).
+dbt Labs is an equal opportunity employer and does not unlawfully discriminate against employees or applicants for employment on the basis of an individual’s race, color, religion, creed, sex, national origin, age, disability, marital status, veteran status or any other status protected by applicable law. This policy applies to all terms, conditions and privileges of employment, including recruitment, hiring, placement, compensation, promotion, discipline and termination. Whenever possible, the company makes reasonable accommodations for qualified individuals with disabilities to the extent required by law. Employees who would like to request a reasonable accommodation should contact Meghan Colón (Email: meg@dbtlabs.com or Slack: @meg).
 
 ### Non-Harassment / Non-Discrimination Policy
 
@@ -72,8 +72,8 @@ Employees are paid semimonthly by direct deposit on the 15th (for work performed
 
 Many employees incur expenses over the course of their regular duties. We have two goals with these expense policies: a) make sure that there is accountability when spending company money, and b) make the process of spending money as frictionless as possible, given (a). Given these goals, we've arrived at the following policies.
 
-- For all corporate travel, please refer to [these expense guidelines](https://docs.google.com/document/d/1D6TciMqWz5E-4F9Nw3DuVOhvAfoEZDFZmtgHYFq2Uk0/edit?ts=5e287129#) when booking flights and hotels and expensing meals and other incidentals. 
-- Most non-travel purchases should be able to be made by either a company office administrator or your manager; please feel free to make requests as appropriate via these channels. If you do have other items that you'd like to submit for reimbursement, make sure that you have approval from your manager before doing so, and use [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/edit#gid=444102166).
+- For all corporate travel, please refer to [these expense guidelines](https://www.notion.so/dbtlabs/Expense-Policy-35e21b4e5e744e1292b503e713d50695#3bb95918c99848789a4ec3bb4a26972f) when booking flights and hotels and expensing meals and other incidentals. 
+- Most non-travel purchases should be able to be made by either a company office administrator or your manager; please feel free to make requests as appropriate via these channels. If you do have other items that you'd like to submit for reimbursement, make sure that you have approval from your manager before doing so, and follow these [reimbursement instructions](https://www.notion.so/dbtlabs/Expense-Policy-35e21b4e5e744e1292b503e713d50695#5c82855067f5484fb9a90229499bd0fc).
 - In certain rare cases, if your job requires frequent expenditures of company money, you'll be issued a physical Airbase card to conduct company business. In such a case, your manager will work with you to define specific expectations around what will and will not be charged on this card, as well as a specific budget for these charges. Failure to abide by these expectations may result in disciplinary action, including termination, and in the worst case, criminal proceedings. **While we absolutely do not expect this to be an issue, it's important to be clear that misappropriation of our shared resources will be taken extremely seriously.**
 
 ## Attendance Policies
@@ -91,7 +91,7 @@ Employees are obligated to:
 - Communicate and collaborate with their team to ensure everyone takes leave without disrupting operations.
 - Notify their supervisor as soon as the absence is scheduled, and no less than one month  in advance of a full week of absence.
 - Mark the planned time off on their dbt Labs Google calendar as full day events so that other employees can effectively plan events or meetings.
-- Request the time off in Gusto, for tracking purposes.
+- Request the time off in ADP, for tracking purposes.
 - Avoid abusing the policy by taking time off that negatively impacts their job and the company.
 
 ### Holidays
@@ -196,7 +196,7 @@ This list is not-exhaustive and could include anything that will help make your 
 
 **Who is eligible?** All employees.
 
-**Process to expense** While we investigate an expense management system, employees should fill out [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/copy#gid=444102166) and submit with all receipts to accounting@fishtownanalytics.com. Please try to send in bulk if possible. Expenses will be reimbursed through direct deposit within 30 days.
+**Process to expense** Employees should follow these [reimbursement instructions](https://www.notion.so/dbtlabs/Expense-Policy-35e21b4e5e744e1292b503e713d50695#5c82855067f5484fb9a90229499bd0fc). Expenses will be reimbursed through direct deposit within 30 days.
 
 #### Annual Home Office Budget
 
@@ -204,7 +204,7 @@ For each subsequent year, all remote employees will receive an *annual* reimburs
 
 **Who is eligible?** All employees
 
-**Process to expense** While we investigate an expense management system, employees should fill out [this reimbursement form](https://docs.google.com/spreadsheets/d/1YhFJmx5JDbG0katCQoZ-1SOlZQ0EA2BOulcaOlu-0l4/copy#gid=444102166) and submit with all receipts to accounting@fishtownanalytics.com. Please try to send in bulk if possible. Expenses will be reimbursed through direct deposit within 30 days.
+**Process to expense** Employees should follow these [reimbursement instructions](https://www.notion.so/dbtlabs/Expense-Policy-35e21b4e5e744e1292b503e713d50695#5c82855067f5484fb9a90229499bd0fc). Expenses will be reimbursed through direct deposit within 30 days.
 
 ### Professional Development Stipend
 
@@ -248,4 +248,4 @@ Occasionally, expenses beyond the initial $500 will be reimbursed with prior man
 
 ### Reimbursement process
 
-Use [this](https://docs.google.com/spreadsheets/d/10zRgKyL4qRJibIf-LaZaGrGBf1GOo-G4RhuMwPYjkGo/edit#gid=444102166) link to fill out the expense form, include "professional development" and what the item is  in the description (example: "Professional Development - Book about Python"). Send completed expense reimbursement form with link to receipts to accounting@fishtownanalytics.com
+Follow these [reimbursement instructions](https://www.notion.so/dbtlabs/Expense-Policy-35e21b4e5e744e1292b503e713d50695#5c82855067f5484fb9a90229499bd0fc), include "professional development" and what the item is in the description (example: "Professional Development - Book about Python").
