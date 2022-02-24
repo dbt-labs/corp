@@ -96,17 +96,20 @@ Employees are obligated to:
 
 ### Holidays
 
-dbt Labs observes the following holidays in 2021:
+dbt Labs observes the following holidays in 2022:
 
-- Memorial Day (Monday, May 31, 2021)
-- Independence Day (Observed July 5, 2021)
-- Friday before Labor Day (Friday, September 3, 2021)
-- Labor Day (Monday, September 6, 2021)
-- Thanksgiving Day (Thursday, November 25, 2021 )
-- Friday after Thanksgiving - Friday, November 26, 2021
-- Christmas Day (Observed December 24, 2021)
-- Winter Break - Monday, December 27, 2021 → Thursday December 30, 2021
-- New Year's Day (Observed December 31, 2021)
+- MLK Day (Monday, January 17, 2022)
+- Memorial Day (Monday, May 30, 2022)
+- Juneteenth (Observed Monday, June 20, 2022)
+- Friday before Independence Day (Friday, July 1, 2022)
+- Independence Day (Monday, July 4, 2022)
+- Friday before Labor Day (Friday, September 2, 2022)
+- Labor Day (Monday, September 5, 2022)
+- Thanksgiving Day (Thursday, November 24, 2022)
+- Friday after Thanksgiving (Friday, November 25, 2022)
+- Christmas Day (Observed Monday, December 26, 2022)
+- Winter Break (Tuesday, December 27, 2022 → Friday, December 30, 2022)
+- New Year's Day (Observed Monday, January 2, 2023)
 
 
 ## Leave Policies
