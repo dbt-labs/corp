@@ -39,20 +39,11 @@ Example: `stg_stripe__customers.sql`
   Examples: `base_stripe__invoices.sql`, `dim_customers.sql`
 ## Model configuration
 
-- Model-specific attributes (like sort/dist keys) should be specified in the model.
-- If a particular configuration applies to all models in a directory, it should be specified in the `dbt_project.yml` file.
-- In-model configurations should be specified like this:
-
-```python
-{{
-  config(
-    materialized = 'table',
-    sort = 'id',
-    dist = 'id'
-  )
-}}
-```
-- Marts should always be configured as tables
+- Model configurations at the [group level](https://docs.getdbt.com/reference/model-configs#configuring-directories-of-models-in-dbt_projectyml) should be considered (and if applicable, applied) first.
+- More specific configurations should be applied at the model level [using one of these methods](https://docs.getdbt.com/reference/model-configs#apply-configurations-to-one-model-only).
+- Models within the `marts` folder should be materialized as `table` or `incremental`.
+  - By default, `marts` should be materialized as `table` within `dbt_project.yml`.
+  - If switching to `incremental`, this should be specified in the model's configuration.
 
 ## dbt conventions
 * Only `stg_` models (or `base_` models if your project requires them) should select from `source`s.
