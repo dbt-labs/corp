@@ -6,19 +6,19 @@ Our models (typically) fit into three main categories: staging, marts, base/inte
 ├── dbt_project.yml
 └── models
     ├── marts
-    |   └── core
-    |       ├── intermediate
-    |       |   ├── intermediate.yml
-    |       |   ├── customers__unioned.sql
-    |       |   ├── customers__grouped.sql
-    |       └── core.yml
-    |       └── core.docs
-    |       └── dim_customers.sql
-    |       └── fct_orders.sql
+    |   ├── core
+    |   |   ├── core.yml
+    |   |   ├── core.docs
+    |   |   ├── dim_customers.sql
+    |   |   └── fct_orders.sql
+    |   └── intermediate
+    |       ├── intermediate.yml
+    |       ├── customers__unioned.sql
+    |       └── customers__grouped.sql
     └── staging
         └── stripe
             ├── base
-            |   ├── base__stripe_invoices.sql
+            |   └── base__stripe_invoices.sql
             ├── src_stripe.yml
             ├── src_stripe.docs
             ├── stg_stripe.yml
