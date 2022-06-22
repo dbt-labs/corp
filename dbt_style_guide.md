@@ -55,16 +55,61 @@ Example: `stg_stripe__customers.sql`
 
 ## Naming and field conventions
 
-* Schema, table and column names should be in `snake_case`.
-* Use names based on the _business_ terminology, rather than the source terminology.
-* Each model should have a primary key.
-* The primary key of a model should be named `<object>_id`, e.g. `account_id` – this makes it easier to know what `id` is being referenced in downstream joined models.
-* For base/staging models, fields should be ordered in categories, where identifiers are first and timestamps are at the end.
-* Timestamp columns should be named `<event>_at`, e.g. `created_at`, and should be in UTC. If a different timezone is being used, this should be indicated with a suffix, e.g `created_at_pt`.
-* Booleans should be prefixed with `is_` or `has_`.
-* Price/revenue fields should be in decimal currency (e.g. `19.99` for $19.99; many app databases store prices as integers in cents). If non-decimal currency is used, indicate this with suffix, e.g. `price_in_cents`.
-* Avoid reserved words as column names
-* Consistency is key! Use the same field names across models where possible, e.g. a key to the `customers` table should be named `customer_id` rather than `user_id`.
+- Schema, table and column names should be in `snake_case`.
+
+- Use names based on the _business_ terminology, rather than the source terminology.
+
+- Each model should have a primary key that can identify the unique row.
+
+- The primary key of a model should be named `<object>_id`, e.g. `account_id` – this makes it easier to know what `id` is being referenced in downstream joined models.
+
+- For `base` or `staging` models, columns should be ordered in categories, where identifiers are first and date/time fields are at the end.  
+  Example:
+  ```sql
+  transformed as (
+
+      select
+
+        -- ids
+        order_id,
+        customer_id,
+
+        -- dimensions
+        order_status,
+
+        -- numeric
+        order_total,
+
+        -- boolean
+        is_shipped,
+
+        -- date/times
+        created_at,
+        updated_at,
+        _sdc_batched_at
+
+      from source
+
+  )
+  ```
+
+- Date/time columns should be named according to these conventions:
+  - Timestamps: `<event>_at`
+    Format: UTC  
+    Example: `created_at`
+  
+  - Dates: `<event>_date`  
+    Format: Date  
+    Example: `created_date`
+
+- Booleans should be prefixed with `is_` or `has_`.
+
+- Price/revenue fields should be in decimal currency (e.g. `19.99` for $19.99; many app databases store prices as integers in cents). If non-decimal currency is used, indicate this with suffix, e.g. `price_in_cents`.
+
+- Avoid reserved words as column names.
+
+- Consistency is key! Use the same field names across models where possible.  
+Example: a key to the `customers` table should be named `customer_id` rather than `user_id`.
 
 ## CTEs
 
