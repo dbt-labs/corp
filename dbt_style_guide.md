@@ -51,8 +51,7 @@ Example: `stg_stripe__customers.sql`
 
 ## Testing
 
-- Every subdirectory should contain a `.yml` file, in which each model in the subdirectory is tested. For staging folders, the naming structure should be `src_sourcename.yml`. For other folders, the structure should be `foldername.yml` (example `core.yml`).
-- At a minimum, unique and not_null tests should be applied to the primary key of each model.
+- At a minimum, unique and not_null tests should be applied to the assumed primary key of each model.
 
 ## Naming and field conventions
 
@@ -196,31 +195,48 @@ left join users as riders
 
 ## YAML style guide
 
-* Indents should be two spaces
-* List items should be indented
-* Use a new line to separate list items that are dictionaries where appropriate
-* Lines of YAML should be no longer than 80 characters.
+- Every subdirectory contains their own `.yml` file(s) which contain configurations for the models within the subdirectory.
+
+- A separate `.yml` file is created per top-level configuration (`sources`, `models`) that applies to the models within the subdirectory. 
+
+- YAML files should be prefixed with an underscore to keep it at the top of the subdirectory.  
+  Example: `_sources.yml`, `_models.yml`
+
+- YAML files should be named for the top-level configuration it contains.  
+  Examples: `_sources.yml`, `_models.yml`
+
+- Indents should use two spaces over four.
+
+- List items should be indented.
+
+- Use a new line to separate list items that are dictionaries, where appropriate.
+
+- Lines of YAML should be no longer than 80 characters.
 
 ### Example YAML
 ```yaml
 version: 2
 
 models:
-  - name: events
+  - name: stg_snowplow__events
+    description: This model contains events from the core Jaffle Shop website.
     columns:
       - name: event_id
-        description: This is a unique identifier for the event
+        description: "{{ doc('event_id_description') }}"
         tests:
           - unique
           - not_null
 
-      - name: event_time
-        description: "When the event occurred in UTC (eg. 2018-01-01 12:00:00)"
+      - name: event_at
+        description: When the event occurred in UTC (eg. 2018-01-01 12:00:00)
         tests:
           - not_null
 
       - name: user_id
-        description: The ID of the user who recorded the event
+        description: >
+          The user id of the visitor to the site.
+          This only populates when the user logs in - this user id can be  
+          joined to the Jaffle Shop Users data.
         tests:
           - not_null
           - relationships:
