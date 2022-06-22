@@ -26,11 +26,17 @@ Our models (typically) fit into three main categories: staging, marts, base/inte
             ├── stg_stripe__customers.sql
             └── stg_stripe__invoices.sql
 ```
-- All objects should be plural, such as: `stg_stripe__invoices`
-- Base tables are prefixed with `base__`, such as: `base__<source>_<object>`
-- Intermediate tables should end with a past tense verb indicating the action performed on the object, such as: `customers__unioned`
-- Marts are categorized between fact (immutable, verbs) and dimensions (mutable, nouns) with a prefix that indicates either, such as: `fct_orders` or `dim_customers`
+- All objects should be plural.  
+  Example: `stg_stripe__invoices.sql` vs. `stg_stripe__invoice.sql`
 
+- All models in **staging** should follow the naming convention `<model_type>_<source>__<table>.sql`.  
+Example: `stg_stripe__customers.sql`
+
+- All models in **marts** should follow the naming convention `<model_type>_<object>.sql`  
+  Examples: `fct_orders.sql`
+
+- All models are prefixed with the model type (`base_`, `stg_`, `int_`, `dim_`, `fct_`, etc.)  
+  Examples: `base_stripe__invoices.sql`, `dim_customers.sql`
 ## Model configuration
 
 - Model-specific attributes (like sort/dist keys) should be specified in the model.
