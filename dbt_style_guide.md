@@ -164,19 +164,71 @@ select * from filtered_events
 ## SQL style guide
 
 - Use trailing commas
+
 - Indents should be two spaces (except for predicates, which should line up with the `where` keyword)
-- Lines of SQL should be no longer than 80 characters
+
+- Lines of SQL should be no longer than 80 characters and new lines should be used to ensure this.  
+  Example:
+  ```sql
+  sum(case
+    when order_status = 'complete'
+    then order_total
+  end) as monthly_total,
+
+
+  {{ get_windowed_values(
+        strategy='sum',
+        partition='order_id',
+        order_by='created_at',
+        column_list=[
+          'final_cost'
+        ]
+  ) }} as total_final_cost
+  ```
+
 - Field names and function names should all be lowercase
+
 - The `as` keyword should be used when aliasing a field or table
+
 - Fields should be stated before aggregates / window functions
+
 - Aggregations should be executed as early as possible before joining to another table.
+
 - Ordering and grouping by a number (eg. group by 1, 2) is preferred over listing the column names (see [this rant](https://blog.getdbt.com/write-better-sql-a-defense-of-group-by-1/) for why). Note that if you are grouping by more than a few columns, it may be worth revisiting your model design.
+
 - Prefer `union all` to `union` [*](http://docs.aws.amazon.com/redshift/latest/dg/c_example_unionall_query.html)
+
 - Avoid table aliases in join conditions (especially initialisms) – it's harder to understand what the table called "c" is compared to "customers".
+
 - If joining two or more tables, _always_ prefix your column names with the table alias. If only selecting from one table, prefixes are not needed.
+
 - Be explicit about your join (i.e. write `inner join` instead of `join`). `left joins` are normally the most useful, `right joins` often indicate that you should change which table you select `from` and which one you `join` to.
 
-- *DO NOT OPTIMIZE FOR A SMALLER NUMBER OF LINES OF CODE. NEWLINES ARE CHEAP, BRAIN TIME IS EXPENSIVE*
+- When filtering by multiple clauses, each clause and expression  should be on a new line.  
+Example:
+  ```sql
+  where user_id is not null
+  and status = 'pending'
+  and location = 'hq'
+  ```
+
+- Joins should list the "left" table first (i.e., the table you're joining data to):
+```sql
+select
+    
+    trips.*,
+    drivers.rating as driver_rating,
+    riders.rating as rider_rating
+
+from trips
+left join users as drivers
+    on trips.driver_id = drivers.user_id
+left join users as riders
+    on trips.rider_id = riders.user_id
+
+```
+
+- *DO NOT OPTIMIZE FOR A SMALLER NUMBER OF LINES OF CODE. NEWLINES ARE CHEAP, BRAIN TIME IS EXPENSIVE*  
 
 ### Example SQL
 ```sql
@@ -185,6 +237,7 @@ with
 my_data as (
 
     select * from {{ ref('my_data') }}
+    where not _is_deleted
 
 ),
 
@@ -197,6 +250,7 @@ some_cte as (
 some_cte_agg as (
 
     select
+
         id,
         sum(field_4) as total_field_4,
         max(field_5) as max_field_5
@@ -209,18 +263,23 @@ some_cte_agg as (
 final as (
 
     select [distinct]
+
         my_data.field_1,
         my_data.field_2,
         my_data.field_3,
 
         -- use line breaks to visually separate calculations into blocks
         case
+            
             when my_data.cancellation_date is null
-                and my_data.expiration_date is not null
-                then expiration_date
+            and my_data.expiration_date is not null
+            then expiration_date
+            
             when my_data.cancellation_date is null
-                then my_data.start_date + 7
+            then my_data.start_date + 7
+            
             else my_data.cancellation_date
+        
         end as cancellation_date,
 
         some_cte_agg.total_field_4,
@@ -230,30 +289,15 @@ final as (
     left join some_cte_agg  
         on my_data.id = some_cte_agg.id
     where my_data.field_1 = 'abc'
-        and (
-            my_data.field_2 = 'def' or
-            my_data.field_2 = 'ghi'
-        )
+    and (
+        my_data.field_2 = 'def'
+        or my_data.field_2 = 'ghi'
+    )
     having count(*) > 1
 
 )
 
 select * from final
-
-```
-
-- Your join should list the "left" table first (i.e. the table you are selecting `from`):
-```sql
-select
-    trips.*,
-    drivers.rating as driver_rating,
-    riders.rating as rider_rating
-
-from trips
-left join users as drivers
-    on trips.driver_id = drivers.user_id
-left join users as riders
-    on trips.rider_id = riders.user_id
 
 ```
 
