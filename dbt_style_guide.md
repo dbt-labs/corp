@@ -13,8 +13,8 @@ Our models (typically) fit into three main categories: staging, marts, base/inte
     |   |   └── fct_orders.sql
     |   └── intermediate
     |       ├── intermediate.yml
-    |       ├── customers__unioned.sql
-    |       └── customers__grouped.sql
+    |       ├── int_customers__unioned.sql
+    |       └── int_customers__grouped.sql
     └── staging
         └── stripe
             ├── base
