@@ -247,5 +247,37 @@ models:
 
 ## Jinja style guide
 
-* When using Jinja delimiters, use spaces on the inside of your delimiter, like `{{ this }}` instead of `{{this}}`
-* Use newlines to visually indicate logical blocks of Jinja
+- Jinja delimiters should have spaces inside of the delimiter between the brackets and your code.  
+  Example: `{{ this }}` instead of `{{this}}`
+- Use new lines to visually indicate logical blocks of Jinja or to enhance readability.  
+  Example:  
+  ```jinja 
+  {%- set orig_cols = adapter.get_columns_in_relation(ref('fct_orders')) %}
+
+  {%- set new_cols = dbt_utils.star(
+        from=ref('fct_order_items'),
+        except=orig_cols
+  ) %}
+
+  -- original columns
+  {%- for col in orig_cols %}
+  {{ col }}
+  {% endfor %}
+
+  -- column difference
+  {{ new_cols }}
+  ```
+- Use new lines within Jinja delimiters and arrays if there are multiple arguments.  
+  Example:
+  ```jinja
+  {%- dbt_utils.star(
+      from=ref('stg_jaffle_shop__orders'),
+      except=[
+        'order_id',
+        'ordered_at',
+        'status'
+      ],
+      prefix='order_'
+  ) %}
+  ```
+- Opt for code readability over compiled SQL readability.
