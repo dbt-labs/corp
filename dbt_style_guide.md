@@ -18,7 +18,7 @@ Our models (typically) fit into three main categories: staging, marts, base/inte
     └── staging
         └── stripe
             ├── base
-            |   └── base__stripe_invoices.sql
+            |   └── base_stripe__invoices.sql
             ├── src_stripe.yml
             ├── src_stripe.docs
             ├── stg_stripe.yml
