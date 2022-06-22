@@ -7,8 +7,8 @@ Our models (typically) fit into three main categories: staging, marts, base/inte
 └── models
     ├── marts
     |   ├── core
-    |   |   ├── core.yml
-    |   |   ├── core.docs
+    |   |   ├── _docs.md
+    |   |   ├── _models.yml
     |   |   ├── dim_customers.sql
     |   |   └── fct_orders.sql
     |   └── intermediate
@@ -18,10 +18,11 @@ Our models (typically) fit into three main categories: staging, marts, base/inte
     └── staging
         └── stripe
             ├── base
+            |   ├── _models.yml
             |   └── base_stripe__invoices.sql
-            ├── src_stripe.yml
-            ├── src_stripe.docs
-            ├── stg_stripe.yml
+            ├── _docs.md
+            ├── _models.yml
+            ├── _sources.yml
             ├── stg_stripe__customers.sql
             └── stg_stripe__invoices.sql
 ```
