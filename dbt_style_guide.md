@@ -46,8 +46,8 @@ Example: `stg_stripe__customers.sql`
   - If switching to `incremental`, this should be specified in the model's configuration.
 
 ## dbt conventions
-* Only `stg_` models (or `base_` models if your project requires them) should select from `source`s.
-* All other models should only select from other models.
+- Only models in the `staging` folder should select from [sources](https://docs.getdbt.com/docs/building-a-dbt-project/using-sources)
+- Models not in the `staging` folder should select from [refs](https://docs.getdbt.com/reference/dbt-jinja-functions/ref).
 
 ## Testing
 
