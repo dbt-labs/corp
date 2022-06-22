@@ -115,15 +115,31 @@ Example: a key to the `customers` table should be named `customer_id` rather tha
 
 ## CTEs
 
-For more information about why we use so many CTEs, check out [this discourse post](https://discourse.getdbt.com/t/why-the-fishtown-sql-style-guide-uses-so-many-ctes/1091).
+For more information about why we use so many CTEs, check out [this glossary entry](https://docs.getdbt.com/terms/cte).
 
-- All `{{ ref('...') }}` statements should be placed in CTEs at the top of the file
 - Where performance permits, CTEs should perform a single, logical unit of work.
-- CTE names should be as verbose as needed to convey what they do
-- CTEs with confusing or noteable logic should be commented
-- CTEs that are duplicated across models should be pulled out into their own models
-- create a `final` or similar CTE that you select from as your last line of code. This makes it easier to debug code within a model (without having to comment out code!)
-- CTEs should be formatted like this:
+
+- CTE names should be as verbose as needed to convey what they do.
+
+- CTEs with confusing or noteable logic should be commented with SQL comments, as you would with any complex functions.
+
+- CTEs that are duplicated across models should be pulled out and created as their own models.
+
+- CTEs and SQL within a model should follow this structure:
+  - `with` statement
+  - Import CTEs
+  - Logical CTEs
+  - Final CTE
+  - Simple `select` statement
+
+- All `{{ ref('...') }}` statements should be placed in CTEs at the top of the file ("import" CTEs)
+
+- SQL should end with a simple select statement. All other logic should be contained within CTEs.  
+  Example: `select * from final`
+
+- Where applicable, opt for filtering within import CTEs over filtering within logical CTEs.
+
+CTE Example:
 
 ``` sql
 with
@@ -131,6 +147,7 @@ with
 events as (
 
     ...
+    where not _is_deleted
 
 ),
 
@@ -147,7 +164,7 @@ select * from filtered_events
 ## SQL style guide
 
 - Use trailing commas
-- Indents should be four spaces (except for predicates, which should line up with the `where` keyword)
+- Indents should be two spaces (except for predicates, which should line up with the `where` keyword)
 - Lines of SQL should be no longer than 80 characters
 - Field names and function names should all be lowercase
 - The `as` keyword should be used when aliasing a field or table
