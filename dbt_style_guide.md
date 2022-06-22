@@ -63,6 +63,8 @@ Example: `stg_stripe__customers.sql`
 
 - The primary key of a model should be named `<object>_id`, e.g. `account_id` – this makes it easier to know what `id` is being referenced in downstream joined models.
 
+- If a surrogate key is created, it should be named `<object>_sk`.
+
 - For `base` or `staging` models, columns should be ordered in categories, where identifiers are first and date/time fields are at the end.  
   Example:
   ```sql
