@@ -128,7 +128,7 @@ For more detail about why we use this structure, check out [this discourse post]
 
 - Price/revenue fields should be in decimal currency (e.g. `19.99` for $19.99; many app databases store prices as integers in cents). If non-decimal currency is used, indicate this with suffix, e.g. `price_in_cents`.
 
-- Avoid reserved words as column names.
+- Avoid using reserved words (such as [these](https://docs.snowflake.com/en/sql-reference/reserved-keywords.html) for Snowflake) as column names.
 
 - Consistency is key! Use the same field names across models where possible.  
 Example: a key to the `customers` table should be named `customer_id` rather than `user_id`.
