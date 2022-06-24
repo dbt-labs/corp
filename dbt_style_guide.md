@@ -167,7 +167,7 @@ with
 events as (
 
     ...
-    where not _is_deleted
+    where not is_deleted
 
 ),
 
@@ -257,7 +257,7 @@ with
 my_data as (
 
     select * from {{ ref('my_data') }}
-    where not _is_deleted
+    where not is_deleted
 
 ),
 
