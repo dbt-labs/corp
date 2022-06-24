@@ -182,6 +182,8 @@ select * from filtered_events
 ```
 
 ## SQL style guide
+It's  
+*DO NOT OPTIMIZE FOR A SMALLER NUMBER OF LINES OF CODE. NEWLINES ARE CHEAP, BRAIN TIME IS EXPENSIVE* 
 
 - Use trailing commas
 
@@ -251,8 +253,6 @@ left join users as riders
 
 ```
 
-- *DO NOT OPTIMIZE FOR A SMALLER NUMBER OF LINES OF CODE. NEWLINES ARE CHEAP, BRAIN TIME IS EXPENSIVE*  
-
 ### Example SQL
 ```sql
 with
@@ -293,16 +293,12 @@ final as (
 
         -- use line breaks to visually separate calculations into blocks
         case
-            
             when my_data.cancellation_date is null
               and my_data.expiration_date is not null
-              then expiration_date
-
+              then expiration_data
             when my_data.cancellation_date is null
               then my_data.start_date + 7
-
             else my_data.cancellation_date
-        
         end as cancellation_date,
 
         some_cte_agg.total_field_4,
