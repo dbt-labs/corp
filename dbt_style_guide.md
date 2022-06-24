@@ -386,9 +386,10 @@ models:
         except=orig_cols
   ) %}
 
-  -- original columns
+  -- original columns. {{ col }} is indented here, but choose what will satisfy
+  -- your own balance for Jinja vs. SQL readability. 
   {%- for col in orig_cols %}
-  {{ col }}
+      {{ col }}
   {% endfor %}
 
   -- column difference
