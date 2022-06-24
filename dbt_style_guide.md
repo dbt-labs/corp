@@ -65,8 +65,8 @@ For more detail about why we use this structure, check out [this discourse post]
   - If switching to `incremental`, this should be specified in the model's configuration.
 
 ## dbt conventions
-- Only models in the `staging` folder should select from [sources](https://docs.getdbt.com/docs/building-a-dbt-project/using-sources)
-- Models not in the `staging` folder should select from [refs](https://docs.getdbt.com/reference/dbt-jinja-functions/ref).
+- Only `base_` and `stg_` models should select from [sources](https://docs.getdbt.com/docs/building-a-dbt-project/using-sources)
+- Models not within the `staging` folder should select from [refs](https://docs.getdbt.com/reference/dbt-jinja-functions/ref).
 
 ## Testing
 
@@ -75,6 +75,9 @@ For more detail about why we use this structure, check out [this discourse post]
 ## Naming and field conventions
 
 - Schema, table and column names should be in `snake_case`.
+
+- Limit use of abbreviations that are related to domain knowledge. An onboarding
+  employee will understand `current_order_status` better than `current_os`.
 
 - Use names based on the _business_ terminology, rather than the source terminology.
 
