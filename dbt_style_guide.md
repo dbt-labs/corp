@@ -172,13 +172,13 @@ events as (
 ),
 
 -- CTE comments go here
-filtered_events as (
+events_joined as (
 
     ...
 
 )
 
-select * from filtered_events
+select * from events_joined
 ```
 
 ## SQL style guide
