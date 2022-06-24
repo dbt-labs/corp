@@ -185,14 +185,14 @@ select * from filtered_events
 
 - Use trailing commas
 
-- Indents should be two spaces (except for predicates, which should line up with the `where` keyword)
+- Indents should be four spaces (except for predicates, which should line up with the `where` keyword)
 
 - Lines of SQL should be no longer than 80 characters and new lines should be used to ensure this.  
   Example:
   ```sql
   sum(case
-    when order_status = 'complete'
-    then order_total
+      when order_status = 'complete'
+      then order_total
   end) as monthly_total,
 
 
@@ -333,7 +333,7 @@ select * from final
 - YAML files should be named for the top-level configuration it contains.  
   Examples: `_sources.yml`, `_models.yml`
 
-- Indents should use two spaces over four.
+- Indents should use four spaces.
 
 - List items should be indented.
 
