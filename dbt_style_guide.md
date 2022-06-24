@@ -182,7 +182,6 @@ select * from filtered_events
 ```
 
 ## SQL style guide
-It's  
 *DO NOT OPTIMIZE FOR A SMALLER NUMBER OF LINES OF CODE. NEWLINES ARE CHEAP, BRAIN TIME IS EXPENSIVE* 
 
 - Use trailing commas
