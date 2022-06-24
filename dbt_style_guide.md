@@ -1,7 +1,24 @@
 # dbt Style Guide
 
 ## Model Naming
-Our models (typically) fit into three main categories: staging, marts, base/intermediate. For more detail about why we use this structure, check out [this discourse post](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355). The file and naming structures are as follows:
+
+- All objects should be plural.  
+  Example: `stg_stripe__invoices.sql` vs. `stg_stripe__invoice.sql`
+
+- All models should use the naming convention `<type/dag_stage>_<source/topic>__<additional_context>`. See [this article](https://docs.getdbt.com/blog/stakeholder-friendly-model-names) for more information.
+  - Within the **marts** and **intermediate** folders, `__<additional_context>` is optional. 
+  - Models in the **staging** folder should use the source's name as the `<source/topic>` and the entity name as the `additional_context`.
+
+  Examples:
+  - base_stripe__invoices.sql
+  - stg_stripe__customers.sql
+  - int_payments.sql
+  - int_customers__unioned.sql
+  - fct_orders.sql
+
+Our models (typically) fit into three main categories: staging, marts, and base/intermediate.  
+
+For more detail about why we use this structure, check out [this discourse post](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355). The file and naming structures are as follows:
 ```
 ├── dbt_project.yml
 └── models
@@ -27,17 +44,6 @@ Our models (typically) fit into three main categories: staging, marts, base/inte
             ├── stg_stripe__customers.sql
             └── stg_stripe__invoices.sql
 ```
-- All objects should be plural.  
-  Example: `stg_stripe__invoices.sql` vs. `stg_stripe__invoice.sql`
-
-- All models in **staging** should follow the naming convention `<model_type>_<source>__<table>.sql`.  
-Example: `stg_stripe__customers.sql`
-
-- All models in **marts** should follow the naming convention `<model_type>_<object>.sql`  
-  Examples: `fct_orders.sql`
-
-- All models are prefixed with the model type (`base_`, `stg_`, `int_`, `dim_`, `fct_`, etc.)  
-  Examples: `base_stripe__invoices.sql`, `dim_customers.sql`
 ## Model configuration
 
 - Model configurations at the [group level](https://docs.getdbt.com/reference/model-configs#configuring-directories-of-models-in-dbt_projectyml) should be considered (and if applicable, applied) first.
