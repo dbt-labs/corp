@@ -100,14 +100,12 @@ For more detail about why we use this structure, check out [this discourse post]
 
         -- dimensions
         order_status,
-
-        -- numeric
-        order_total,
-
-        -- boolean
         is_shipped,
 
-        -- date/times
+        -- measures
+        order_total,
+
+        -- metdata
         created_at,
         updated_at,
         _sdc_batched_at
