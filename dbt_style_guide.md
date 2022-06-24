@@ -185,15 +185,17 @@ select * from filtered_events
 
 - Use trailing commas
 
-- Indents should be four spaces (except for predicates, which should line up with the `where` keyword)
+- Indents should be four spaces 
+
+- When dealing with long `when` or `where` clauses, predicates should be on a new
+  line and indented.
 
 - Lines of SQL should be no longer than 80 characters and new lines should be used to ensure this.  
   Example:
   ```sql
-  sum(case
-      when order_status = 'complete'
-      then order_total
-  end) as monthly_total,
+  sum(
+    case when order_status = 'complete' then order_total end
+  ) as monthly_total,
 
 
   {{ get_windowed_values(
@@ -224,12 +226,13 @@ select * from filtered_events
 
 - Be explicit about your join (i.e. write `inner join` instead of `join`). `left joins` are normally the most useful, `right joins` often indicate that you should change which table you select `from` and which one you `join` to.
 
-- When filtering by multiple clauses, each clause and expression  should be on a new line.  
+- When filtering by multiple clauses, each clause and expression should be on a new line.  
 Example:
   ```sql
-  where user_id is not null
-  and status = 'pending'
-  and location = 'hq'
+  where 
+    user_id is not null
+    and status = 'pending'
+    and location = 'hq'
   ```
 
 - Joins should list the "left" table first (i.e., the table you're joining data to):
@@ -292,12 +295,12 @@ final as (
         case
             
             when my_data.cancellation_date is null
-            and my_data.expiration_date is not null
-            then expiration_date
-            
+              and my_data.expiration_date is not null
+              then expiration_date
+
             when my_data.cancellation_date is null
-            then my_data.start_date + 7
-            
+              then my_data.start_date + 7
+
             else my_data.cancellation_date
         
         end as cancellation_date,
@@ -308,11 +311,12 @@ final as (
     from my_data
     left join some_cte_agg  
         on my_data.id = some_cte_agg.id
-    where my_data.field_1 = 'abc'
-    and (
-        my_data.field_2 = 'def'
-        or my_data.field_2 = 'ghi'
-    )
+    where 
+      my_data.field_1 = 'abc'
+      and (
+          my_data.field_2 = 'def'
+          or my_data.field_2 = 'ghi'
+      )
     having count(*) > 1
 
 )
