@@ -5,6 +5,17 @@
 - All objects should be plural.  
   Example: `stg_stripe__invoices.sql` vs. `stg_stripe__invoice.sql`
 
+- All objects should have a prefix to indicate their purpose in the flow:
+  - `base_` is uncommon, but indicates a process needed before `stg_` - typically when multiple sources are rarely used independently. The stg_ model is then used to join or union the sources together before more robust transformations happen.  
+     
+     Example: Creating one table for all cleaned location data.
+     - `base_location__addresses.sql`, `base_location__countries.sql`, and `base_location__states.sql`  would serve to clean the data and be the 1:1 relationship between the source.
+     - `stg_location__locations.sql` would serve to join all location-related data as one entity.
+  - `stg_` is used to clean and standardize data before being fundamentally changed in downstream modeling.
+  - `int_` is used to indicate a step towards creating a final model surfaced to stakeholders
+  - `fct_` is used to indicate a final data set surfaced to stakeholders, and flags data which is in the form of an immutable event stream.
+  - `dim_` is used to indicate a final data set surfaced to stakeholders, and flags data which is used to describe an entity.  
+
 - All models should use the naming convention `<type/dag_stage>_<source/topic>__<additional_context>`. See [this article](https://docs.getdbt.com/blog/stakeholder-friendly-model-names) for more information.
   - Within the **marts** and **intermediate** folders, `__<additional_context>` is optional. 
   - Models in the **staging** folder should use the source's name as the `<source/topic>` and the entity name as the `additional_context`.
@@ -16,6 +27,7 @@
   - int_customers__unioned.sql
   - fct_orders.sql
 
+### Organization
 Our models (typically) fit into three main categories: staging, marts, and base/intermediate.  
 
 For more detail about why we use this structure, check out [this discourse post](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355). The file and naming structures are as follows:
