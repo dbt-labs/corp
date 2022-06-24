@@ -7,22 +7,23 @@ Our models (typically) fit into three main categories: staging, marts, base/inte
 └── models
     ├── marts
     |   ├── core
-    |   |   ├── _docs.md
-    |   |   ├── _models.yml
+    |   |   ├── _docs_core.md
+    |   |   ├── _models_core.yml
     |   |   ├── dim_customers.sql
     |   |   └── fct_orders.sql
     |   └── intermediate
-    |       ├── intermediate.yml
+    |       ├── _models_int_core.yml
+    |       ├── int_payments.sql
     |       ├── int_customers__unioned.sql
     |       └── int_customers__grouped.sql
     └── staging
         └── stripe
             ├── base
-            |   ├── _models.yml
+            |   ├── _models_base_stripe.yml
             |   └── base_stripe__invoices.sql
-            ├── _docs.md
-            ├── _models.yml
-            ├── _sources.yml
+            ├── _docs_stripe.md
+            ├── _models_stripe.yml
+            ├── _sources_stripe.yml
             ├── stg_stripe__customers.sql
             └── stg_stripe__invoices.sql
 ```
