@@ -328,10 +328,10 @@ select * from final
 - A separate `.yml` file is created per top-level configuration (`sources`, `models`) that applies to the models within the subdirectory. 
 
 - YAML files should be prefixed with an underscore to keep it at the top of the subdirectory.  
-  Example: `_sources.yml`, `_models.yml`
+  Example: `__sources_core.yml`, `_models_core.yml`
 
 - YAML files should be named for the top-level configuration it contains.  
-  Examples: `_sources.yml`, `_models.yml`
+  Examples: `_sources_core.yml`, `_models_core.yml`
 
 - Indents should use four spaces.
 
