@@ -341,21 +341,21 @@ models:
           - unique
           - not_null
 
-  - name: event_at
-    description: When the event occurred in UTC (eg. 2018-01-01 12:00:00)
-    tests:
-      - not_null
+      - name: event_at
+        description: When the event occurred in UTC (eg. 2018-01-01 12:00:00)
+        tests:
+          - not_null
 
-  - name: user_id
-    description: >
-      The user id of the visitor to the site.
-      This only populates when the user logs in - this user id can be  
-      joined to the Jaffle Shop Users data.
-    tests:
-      - not_null
-      - relationships:
-          to: ref('users')
-          field: id
+      - name: user_id
+        description: >
+          The user id of the visitor to the site.
+          This only populates when the user logs in - this user id can be  
+          joined to the Jaffle Shop Users data.
+        tests:
+          - not_null
+          - relationships:
+              to: ref('users')
+              field: id
 ```
 
 
