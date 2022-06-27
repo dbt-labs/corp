@@ -376,6 +376,11 @@ models:
 
 - Jinja delimiters should have spaces inside of the delimiter between the brackets and your code.  
   Example: `{{ this }}` instead of `{{this}}`
+
+- Use [whitespace control](https://jinja.palletsprojects.com/en/3.1.x/templates/#whitespace-control) to  make compiled SQL more readable. However, don't worry too much about making it perfect.
+
+- Opt for code readability over compiled SQL readability.
+
 - Use new lines to visually indicate logical blocks of Jinja or to enhance readability.  
   Example:  
   ```jinja 
@@ -395,6 +400,7 @@ models:
   -- column difference
   {{ new_cols }}
   ```
+
 - Use new lines within Jinja delimiters and arrays if there are multiple arguments.  
   Example:
   ```jinja
@@ -408,4 +414,3 @@ models:
       prefix='order_'
   ) %}
   ```
-- Opt for code readability over compiled SQL readability.
