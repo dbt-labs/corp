@@ -239,11 +239,9 @@ Example:
 - Joins should list the "left" table first (i.e., the table you're joining data to):
 ```sql
 select
-    
     trips.*,
     drivers.rating as driver_rating,
     riders.rating as rider_rating
-
 from trips
 left join users as drivers
     on trips.driver_id = drivers.user_id
@@ -257,35 +255,25 @@ left join users as riders
 with
 
 my_data as (
-
     select * from {{ ref('my_data') }}
     where not is_deleted
-
 ),
 
 some_cte as (
-
     select * from {{ ref('some_cte') }}
-
 ),
 
 some_cte_agg as (
-
     select
-
         id,
         sum(field_4) as total_field_4,
         max(field_5) as max_field_5
-
     from some_cte
     group by 1
-
 ),
 
 final as (
-
     select [distinct]
-
         my_data.field_1,
         my_data.field_2,
         my_data.field_3,
@@ -302,7 +290,6 @@ final as (
 
         some_cte_agg.total_field_4,
         some_cte_agg.max_field_5
-
     from my_data
     left join some_cte_agg  
         on my_data.id = some_cte_agg.id
@@ -313,11 +300,9 @@ final as (
           or my_data.field_2 = 'ghi'
       )
     having count(*) > 1
-
 )
 
 select * from final
-
 ```
 
 ## YAML style guide
