@@ -182,7 +182,9 @@ select * from events_joined
 ```
 
 ## SQL style guide
-*DO NOT OPTIMIZE FOR A SMALLER NUMBER OF LINES OF CODE. NEWLINES ARE CHEAP, BRAIN TIME IS EXPENSIVE* 
+- **DO NOT OPTIMIZE FOR A SMALLER NUMBER OF LINES OF CODE.**  
+  New lines are cheap, brain time is expensive; new lines should be used within  
+  reason to produce code that is easily read.
 
 - Use trailing commas
 
@@ -237,18 +239,18 @@ Example:
   ```
 
 - Joins should list the "left" table first (i.e., the table you're joining data to):
-```sql
-select
+  ```sql
+  select
     trips.*,
     drivers.rating as driver_rating,
     riders.rating as rider_rating
-from trips
-left join users as drivers
+  from trips
+  left join users as drivers
     on trips.driver_id = drivers.user_id
-left join users as riders
+  left join users as riders
     on trips.rider_id = riders.user_id
 
-```
+  ```
 
 ### Example SQL
 ```sql
