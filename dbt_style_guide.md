@@ -12,7 +12,7 @@
      - `base_location__addresses.sql`, `base_location__countries.sql`, and `base_location__states.sql`  would serve to clean the data and be the 1:1 relationship between the source.
      - `stg_location__locations.sql` would serve to join all location-related data as one entity.
   - `stg_` is used to clean and standardize data before being fundamentally changed in downstream modeling.
-  - `int_` is used to indicate a step towards creating a final model surfaced to stakeholders
+  - `int_` is used to indicate a step towards creating a final model surfaced to stakeholders.
   - `fct_` is used to indicate a final data set surfaced to stakeholders, and flags data which is in the form of an immutable event stream.
   - `dim_` is used to indicate a final data set surfaced to stakeholders, and flags data which is used to describe an entity.  
 
