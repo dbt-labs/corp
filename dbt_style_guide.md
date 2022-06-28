@@ -367,7 +367,7 @@ Example:
 - Jinja delimiters should have spaces inside of the delimiter between the brackets and your code.  
   Example: `{{ this }}` instead of `{{this}}`
 
-- Use [whitespace control](https://jinja.palletsprojects.com/en/3.1.x/templates/#whitespace-control) to  make compiled SQL more readable. However, don't worry too much about making it perfect.
+- Use [whitespace control](https://jinja.palletsprojects.com/en/3.1.x/templates/#whitespace-control) to make compiled SQL more readable.
 
 - Opt for code readability over compiled SQL readability.
 
