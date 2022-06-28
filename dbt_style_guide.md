@@ -6,7 +6,7 @@
   Example: `stg_stripe__invoices.sql` vs. `stg_stripe__invoice.sql`
 
 - All objects should have a prefix to indicate their purpose in the flow:
-  - `base_` is uncommon, but indicates a process needed before `stg_` - typically when multiple sources are rarely used independently. The stg_ model is then used to join or union the sources together before more robust transformations happen.  
+  - `base_` is uncommon, but indicates a process needed before `stg_` - typically when multiple sources are rarely used independently. The `stg_` model is then used to join or union the sources together before more robust transformations happen.  
      
      Example: Creating one table for all cleaned location data.
      - `base_location__addresses.sql`, `base_location__countries.sql`, and `base_location__states.sql`  would serve to clean the data and be the 1:1 relationship between the source.
@@ -20,14 +20,14 @@
   - Within the **marts** and **intermediate** folders, `__<additional_context>` is optional. 
   - Models in the **staging** folder should use the source's name as the `<source/topic>` and the entity name as the `additional_context`.
 
-  Examples:
-  - base_stripe__invoices.sql
-  - stg_stripe__customers.sql
-  - int_payments.sql
-  - int_customers__unioned.sql
-  - fct_orders.sql
+    Examples:
+    - base_stripe__invoices.sql
+    - stg_stripe__customers.sql
+    - int_payments.sql
+    - int_customers__unioned.sql
+    - fct_orders.sql
 
-### Organization
+## Model Organization  
 Our models (typically) fit into three main categories: staging, marts, and base/intermediate.  
 
 For more detail about why we use this structure, check out [this discourse post](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355). The file and naming structures are as follows:
@@ -70,7 +70,7 @@ For more detail about why we use this structure, check out [this discourse post]
 
 ## Testing
 
-- At a minimum, unique and not_null tests should be applied to the assumed primary key of each model.
+- At a minimum, `unique` and `not_null` tests should be applied to the assumed primary key of each model.
 
 ## Naming and field conventions
 
@@ -159,27 +159,27 @@ For more information about why we use so many CTEs, check out [this glossary ent
 
 - Where applicable, opt for filtering within import CTEs over filtering within logical CTEs.
 
-CTE Example:
+- ### Example CTE
 
-``` sql
-with
+  ``` sql
+  with
 
-events as (
+  events as (
 
-    ...
-    where not is_deleted
+      ...
+      where not is_deleted
 
-),
+  ),
 
--- CTE comments go here
-events_joined as (
+  -- CTE comments go here
+  events_joined as (
 
-    ...
+      ...
 
-)
+  )
 
-select * from events_joined
-```
+  select * from events_joined
+  ```
 
 ## SQL style guide
 - **DO NOT OPTIMIZE FOR A SMALLER NUMBER OF LINES OF CODE.**  
@@ -252,60 +252,60 @@ Example:
 
   ```
 
-### Example SQL
-```sql
-with
+- ### Example SQL
+  ```sql
+  with
 
-my_data as (
-    select * from {{ ref('my_data') }}
-    where not is_deleted
-),
+  my_data as (
+      select * from {{ ref('my_data') }}
+      where not is_deleted
+  ),
 
-some_cte as (
-    select * from {{ ref('some_cte') }}
-),
+  some_cte as (
+      select * from {{ ref('some_cte') }}
+  ),
 
-some_cte_agg as (
-    select
-        id,
-        sum(field_4) as total_field_4,
-        max(field_5) as max_field_5
-    from some_cte
-    group by 1
-),
+  some_cte_agg as (
+      select
+          id,
+          sum(field_4) as total_field_4,
+          max(field_5) as max_field_5
+      from some_cte
+      group by 1
+  ),
 
-final as (
-    select [distinct]
-        my_data.field_1,
-        my_data.field_2,
-        my_data.field_3,
+  final as (
+      select [distinct]
+          my_data.field_1,
+          my_data.field_2,
+          my_data.field_3,
 
-        -- use line breaks to visually separate calculations into blocks
-        case
-            when my_data.cancellation_date is null
-              and my_data.expiration_date is not null
-              then expiration_data
-            when my_data.cancellation_date is null
-              then my_data.start_date + 7
-            else my_data.cancellation_date
-        end as cancellation_date,
+          -- use line breaks to visually separate calculations into blocks
+          case
+              when my_data.cancellation_date is null
+                and my_data.expiration_date is not null
+                then expiration_data
+              when my_data.cancellation_date is null
+                then my_data.start_date + 7
+              else my_data.cancellation_date
+          end as cancellation_date,
 
-        some_cte_agg.total_field_4,
-        some_cte_agg.max_field_5
-    from my_data
-    left join some_cte_agg  
-        on my_data.id = some_cte_agg.id
-    where 
-      my_data.field_1 = 'abc'
-      and (
-          my_data.field_2 = 'def'
-          or my_data.field_2 = 'ghi'
-      )
-    having count(*) > 1
-)
+          some_cte_agg.total_field_4,
+          some_cte_agg.max_field_5
+      from my_data
+      left join some_cte_agg  
+          on my_data.id = some_cte_agg.id
+      where 
+        my_data.field_1 = 'abc'
+        and (
+            my_data.field_2 = 'def'
+            or my_data.field_2 = 'ghi'
+        )
+      having count(*) > 1
+  )
 
-select * from final
-```
+  select * from final
+  ```
 
 ## YAML style guide
 
@@ -327,36 +327,36 @@ select * from final
 
 - Lines of YAML should be no longer than 80 characters.
 
-### Example YAML
-```yaml
-version: 2
+- ### Example YAML
+  ```yaml
+  version: 2
 
-models:
-  - name: stg_snowplow__events
-    description: This model contains events from the core Jaffle Shop website.
-    columns:
-      - name: event_id
-        description: "{{ doc('event_id_description') }}"
-        tests:
-          - unique
-          - not_null
+  models:
+    - name: stg_snowplow__events
+      description: This model contains events from the core Jaffle Shop website.
+      columns:
+        - name: event_id
+          description: "{{ doc('event_id_description') }}"
+          tests:
+            - unique
+            - not_null
 
-      - name: event_at
-        description: When the event occurred in UTC (eg. 2018-01-01 12:00:00)
-        tests:
-          - not_null
+        - name: event_at
+          description: When the event occurred in UTC (eg. 2018-01-01 12:00:00)
+          tests:
+            - not_null
 
-      - name: user_id
-        description: >
-          The user id of the visitor to the site.
-          This only populates when the user logs in - this user id can be  
-          joined to the Jaffle Shop Users data.
-        tests:
-          - not_null
-          - relationships:
-              to: ref('users')
-              field: id
-```
+        - name: user_id
+          description: >
+            The user id of the visitor to the site.
+            This only populates when the user logs in - this user id can be  
+            joined to the Jaffle Shop Users data.
+          tests:
+            - not_null
+            - relationships:
+                to: ref('users')
+                field: id
+  ```
 
 
 ## Jinja style guide
