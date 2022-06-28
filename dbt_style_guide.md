@@ -369,7 +369,16 @@ Example:
 
 - Use [whitespace control](https://jinja.palletsprojects.com/en/3.1.x/templates/#whitespace-control) to make compiled SQL more readable.
 
-- Opt for code readability over compiled SQL readability.
+- An effort should be made for a good balance in readability for both templated 
+and compiled code. However, opt for code readability over compiled SQL readability
+when needed.
+
+- A macro file should be named after the _main_ macro it contains.
+
+- A file with more than one macro which will be used independently should follow
+these conventions:
+  - The macros are all related to a main idea 
+  - The file is named for the main idea 
 
 - Use new lines to visually indicate logical blocks of Jinja or to enhance readability.  
   Example:  
