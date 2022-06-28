@@ -15,12 +15,15 @@
   - `int_` is used to indicate a step towards creating a final model surfaced to stakeholders.
   - `fct_` is used to indicate a final data set surfaced to stakeholders, and flags data which is in the form of an immutable event stream.
   - `dim_` is used to indicate a final data set surfaced to stakeholders, and flags data which is used to describe an entity.  
+  - `seed_` is used to indicate that the data set was built from a CSV file
+  using `dbt seed`.
 
 - All models should use the naming convention `<type/dag_stage>_<source/topic>__<additional_context>`. See [this article](https://docs.getdbt.com/blog/stakeholder-friendly-model-names) for more information.
   - Within the **marts** and **intermediate** folders, `__<additional_context>` is optional. 
   - Models in the **staging** folder should use the source's name as the `<source/topic>` and the entity name as the `additional_context`.
 
     Examples:
+    - seed_snowflake_spend.csv
     - base_stripe__invoices.sql
     - stg_stripe__customers.sql
     - int_payments.sql
