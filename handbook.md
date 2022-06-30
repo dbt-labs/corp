@@ -84,7 +84,7 @@ dbt Labs does not have “required” working hours. There is an expectation tha
 
 ### Time off
 
-dbt Labs has an unlimited paid vacation policy, allowing employees to take as much time off as they need. We do ask that employees aim for a minimun of 2 weeks off per year. Employees should utilize this benefit in a way that is conducive to their productivity. We understand, appreciate (and encourage!) turning off your brain, traveling, and spending time with friends and family!
+dbt Labs has an unlimited paid vacation policy, allowing employees to take as much time off as they need. We do ask that employees aim for a minimum of 2 weeks off per year. Employees should utilize this benefit in a way that is conducive to their productivity. We understand, appreciate (and encourage!) turning off your brain, traveling, and spending time with friends and family!
 
 Employees are obligated to:
 
