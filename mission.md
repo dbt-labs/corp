@@ -1,3 +1,3 @@
 # dbt Labs Mission Statement
 
-To empower data humans to create and disseminate organizational knowledge.
+To empower data professionals to create and disseminate organizational knowledge.
