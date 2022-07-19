@@ -108,9 +108,11 @@ For more detail about why we use this structure, check out [this discourse post]
         -- measures
         order_total,
 
-        -- metdata
+        -- date/times
         created_at,
         updated_at,
+
+        -- metadata
         _sdc_batched_at
 
       from source
