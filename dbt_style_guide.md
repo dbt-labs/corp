@@ -129,7 +129,8 @@ For more detail about why we use this structure, check out [this discourse post]
     Format: Date  
     Example: `created_date`
 
-- Booleans should be prefixed with `is_` or `has_`.
+- Booleans should be prefixed with `is_` or `has_`.  
+  Example: `is_active_customer` and `has_admin_access`
 
 - Price/revenue fields should be in decimal currency (e.g. `19.99` for $19.99; many app databases store prices as integers in cents). If non-decimal currency is used, indicate this with suffix, e.g. `price_in_cents`.
 
