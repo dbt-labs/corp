@@ -73,7 +73,7 @@ For more detail about why we use this structure, check out [this discourse post]
 
 ## Testing
 
-- At a minimum, `unique` and `not_null` tests should be applied to the assumed primary key of each model.
+- At a minimum, `unique` and `not_null` tests should be applied to the expected primary key of each model.
 
 ## Naming and field conventions
 
