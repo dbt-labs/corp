@@ -5,18 +5,8 @@
 - All objects should be plural.  
   Example: `stg_stripe__invoices.sql` vs. `stg_stripe__invoice.sql`
 
-- All objects should have a prefix to indicate their purpose in the flow:
-  - `base_` is uncommon, but indicates a process needed before `stg_` - typically when multiple sources are rarely used independently. The `stg_` model is then used to join or union the sources together before more robust transformations happen.  
-     
-     Example: Creating one table for all cleaned location data.
-     - `base_location__addresses.sql`, `base_location__countries.sql`, and `base_location__states.sql`  would serve to clean the data and be the 1:1 relationship between the source.
-     - `stg_location__locations.sql` would serve to join all location-related data as one entity.
-  - `stg_` is used to clean and standardize data before being fundamentally changed in downstream modeling.
-  - `int_` is used to indicate a step towards creating a final model surfaced to stakeholders.
-  - `fct_` is used to indicate a final data set surfaced to stakeholders, and flags data which is in the form of an immutable event stream.
-  - `dim_` is used to indicate a final data set surfaced to stakeholders, and flags data which is used to describe an entity.  
-  - `seed_` is used to indicate that the data set was built from a CSV file
-  using `dbt seed`.
+- All objects should have a prefix to indicate their purpose in the flow.  
+  See [dbt Conventions](https://github.com/dbt-labs/corp/blob/main/dbt_style_guide.md#dbt-conventions) under "Model Usage and Prefixes" for more information.
 
 - All models should use the naming convention `<type/dag_stage>_<source/topic>__<additional_context>`. See [this article](https://docs.getdbt.com/blog/stakeholder-friendly-model-names) for more information.
   - Within the **marts** and **intermediate** folders, `__<additional_context>` is optional. 
@@ -67,9 +57,34 @@ For more detail about why we use this structure, check out [this discourse post]
   - By default, `marts` should be materialized as `table` within `dbt_project.yml`.
   - If switching to `incremental`, this should be specified in the model's configuration.
 
-## dbt conventions
+## dbt Conventions
 - Only `base_` and `stg_` models should select from [sources](https://docs.getdbt.com/docs/building-a-dbt-project/using-sources)
 - Models not within the `staging` folder should select from [refs](https://docs.getdbt.com/reference/dbt-jinja-functions/ref).
+- Model Usage and Prefixes:
+  <details>
+
+  <summary>Common</summary>
+
+    | prefix  | description                                                        |
+    |---------|--------------------------------------------------------------------|
+    | seed_   | <li> Indicates a data set is created using dbt seed. </li><li> Resides in the /data folder. </li>  |
+    | stg_    | <li> Indicates a data set that is being cleaned and standardized. </li><li> In absence of a base_ layer, it represents the 1:1 relationship between the source and first layer of models. </li> |                                                                                                           |
+    | int_    | <li> Indicates a logical step towards creating a final data set. </li> |
+    | dim_    | <li> Flags data which is used to describe an entity. </li><li> Indicates a final data which is robust, versatile, and ready for consumption. </li> |
+    | fct_    | <li> Flags data which is in the form of an immutable event stream. </li><li> Indicates a final data which is robust, versatile, and ready for consumption. </li> |
+  
+  </details>
+
+  <details>
+
+  <summary>Uncommon</summary>
+
+    | prefix  | description                                                        |
+    |---------|--------------------------------------------------------------------|
+    | base_   | <li> Indicates cleaning and standardization on a data set before joining to other data sets in `stg_` models.<li> Typically used when multiple sources are rarely used independently. <br/><br/> <strong><em>Example</strong></em>: <br>Location data in our org is seldom used partially, so we want to create one cleaned data set which puts it all together. <br/><br/> <em>Step 1</em>: Models to clean and standardize each data set:<br/><ul><li>base_location__addresses.sql</li><li>base_location__countries.sql</li><li>base_location__states.sql</li></ul><br/><em>Step 2</em>: A model to join all location data as one entity for use in downstream modeling:<ul><li>stg_location__locations.sql</li></ul> |
+    | report_ | Indicates that a final data sets are being modeled to pre-aggregate reports for use in outside tooling.                                                                                                                    |
+
+  </details>
 
 ## Testing
 
