@@ -1,32 +1,12 @@
 # dbt Style Guide
 
-## Model Naming
-
-- All objects should be plural.  
-  Example: `stg_stripe__invoices.sql` vs. `stg_stripe__invoice.sql`
-
-- All objects should have a prefix to indicate their DAG stage in the flow.  
-  See [dbt Conventions](https://github.com/dbt-labs/corp/blob/main/dbt_style_guide.md#dbt-conventions) for more information.
-
-- All models should use the naming convention `<type/dag_stage>_<source/topic>__<additional_context>`. See [this article](https://docs.getdbt.com/blog/stakeholder-friendly-model-names) for more information.
-  - Within the **marts** and **intermediate** folders, `__<additional_context>` is optional. 
-  - Models in the **staging** folder should use the source's name as the `<source/topic>` and the entity name as the `additional_context`.
-
-    Examples:
-    - seed_snowflake_spend.csv
-    - base_stripe__invoices.sql
-    - stg_stripe__customers.sql
-    - int_payments.sql
-    - int_customers__unioned.sql
-    - fct_orders.sql
-
 ## Model Organization  
 Our models (typically) fit into two main categories:
 
 | Category | Description                                             |
 |----------|---------------------------------------------------------|
 | Staging  | Contains models which clean and standardize data        |
-| Marts    | Contains moels which combine or heavily transform data |
+| Marts    | Contains models which combine or heavily transform data |
   
 Things to note:
 - There are different types of models
@@ -36,16 +16,8 @@ for more information.
 
 - Read [How we structure our dbt projects](https://docs.getdbt.com/guides/best-practices/how-we-structure/1-guide-overview) to see how we typically structure our projects and further thoughts around organization.
 
-## Model configurationd
-
-- Model configurations at the [folder level](https://docs.getdbt.com/reference/model-configs#configuring-directories-of-models-in-dbt_projectyml) should be considered (and if applicable, applied) first.
-- More specific configurations should be applied at the model level [using one of these methods](https://docs.getdbt.com/reference/model-configs#apply-configurations-to-one-model-only).
-- Models within the `marts` folder should be materialized as `table` or `incremental`.
-  - By default, `marts` should be materialized as `table` within `dbt_project.yml`.
-  - If switching to `incremental`, this should be specified in the model's configuration.
-
-## dbt Conventions
-- Only `base_` and `stg_` models should select from [sources](https://docs.getdbt.com/docs/building-a-dbt-project/using-sources)
+## Modeling Conventions
+- Only models in `staging` should select from [sources](https://docs.getdbt.com/docs/building-a-dbt-project/using-sources)
 - Models not within the `staging` folder should select from [refs](https://docs.getdbt.com/reference/dbt-jinja-functions/ref).
 - The following are the DAG stages that we tend to utilize:
   <details>
@@ -73,11 +45,27 @@ for more information.
 
   </details>
 
-## Testing
+## Model Naming
 
-- At a minimum, `unique` and `not_null` tests should be applied to the expected primary key of each model.
+- All objects should be plural.  
+  Example: `stg_stripe__invoices.sql` vs. `stg_stripe__invoice.sql`
 
-## Naming and field conventions
+- All objects should have a prefix to indicate their DAG stage in the flow.  
+  See [dbt Conventions](https://github.com/dbt-labs/corp/blob/main/dbt_style_guide.md#dbt-conventions) for more information.
+
+- All models should use the naming convention `<type/dag_stage>_<source/topic>__<additional_context>`. See [this article](https://docs.getdbt.com/blog/stakeholder-friendly-model-names) for more information.
+  - For models in the **marts** folder `__<additional_context>` is optional. 
+  - Models in the **staging** folder should use the source's name as the `<source/topic>` and the entity name as the `additional_context`.
+
+    Examples:
+    - seed_snowflake_spend.csv
+    - base_stripe__invoices.sql
+    - stg_stripe__customers.sql
+    - int_payments.sql
+    - int_customers__unioned.sql
+    - fct_orders.sql
+
+## Naming Conventions
 
 - Schema, table and column names should be in `snake_case`.
 
@@ -140,6 +128,18 @@ for more information.
 
 - Consistency is key! Use the same field names across models where possible.  
 Example: a key to the `customers` table should be named `customer_id` rather than `user_id`.
+
+## Model Configurations
+
+- Model configurations at the [folder level](https://docs.getdbt.com/reference/model-configs#configuring-directories-of-models-in-dbt_projectyml) should be considered (and if applicable, applied) first.
+- More specific configurations should be applied at the model level [using one of these methods](https://docs.getdbt.com/reference/model-configs#apply-configurations-to-one-model-only).
+- Models within the `marts` folder should be materialized as `table` or `incremental`.
+  - By default, `marts` should be materialized as `table` within `dbt_project.yml`.
+  - If switching to `incremental`, this should be specified in the model's configuration.
+
+## Testing
+
+- At a minimum, `unique` and `not_null` tests should be applied to the expected primary key of each model.
 
 ## CTEs
 
