@@ -26,41 +26,17 @@ Our models (typically) fit into two main categories:
 | Category | Description                                             |
 |----------|---------------------------------------------------------|
 | Staging  | Contains models which clean and standardize data        |
-| Marts    | Contains models which combine or heavily transform data |
+| Marts    | Contains moels which combine or heavily transform data |
 
-There are different types of models
-that typically exist in each of these catgories.  
+Things to note:
+- There are different types of models
+that typically exist in each of the above categories.  
 See [dbt Conventions](https://github.com/dbt-labs/corp/blob/main/dbt_style_guide.md#dbt-conventions) 
 for more information. 
-<br><br>
-### Example File Tree
-For more detail about why we use this structure, check out [this discourse post](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355).
-```
-├── dbt_project.yml
-└── models
-    ├── marts
-    |   ├── core
-    |   |   ├── _docs_core.md
-    |   |   ├── _models_core.yml
-    |   |   ├── dim_customers.sql
-    |   |   └── fct_orders.sql
-    |   └── intermediate
-    |       ├── _models_int_core.yml
-    |       ├── int_payments.sql
-    |       ├── int_customers__unioned.sql
-    |       └── int_customers__grouped.sql
-    └── staging
-        └── stripe
-            ├── base
-            |   ├── _models_base_stripe.yml
-            |   └── base_stripe__invoices.sql
-            ├── _docs_stripe.md
-            ├── _models_stripe.yml
-            ├── _sources_stripe.yml
-            ├── stg_stripe__customers.sql
-            └── stg_stripe__invoices.sql
-```
-## Model configuration
+
+- Read [How we structure our dbt projects](https://docs.getdbt.com/guides/best-practices/how-we-structure/1-guide-overview) to see how we typically structure our projects and further thoughts around organization.
+
+## Model configurationd
 
 - Model configurations at the [group level](https://docs.getdbt.com/reference/model-configs#configuring-directories-of-models-in-dbt_projectyml) should be considered (and if applicable, applied) first.
 - More specific configurations should be applied at the model level [using one of these methods](https://docs.getdbt.com/reference/model-configs#apply-configurations-to-one-model-only).
