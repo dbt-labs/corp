@@ -276,7 +276,7 @@ For more information about why we use so many CTEs, check out [this glossary ent
 
 - Be explicit about your join (i.e. write `inner join` instead of `join`). `left joins` are normally the most useful, `right joins` often indicate that you should change which table you select `from` and which one you `join` to.
 
-- When filtering by multiple clauses, each clause and expression should be on a new line.  
+
 Example:
   ```sql
   where 
