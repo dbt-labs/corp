@@ -58,7 +58,7 @@ for more information.
     | stg_      | /models/staging    | <li> Indicates a data set that is being cleaned and standardized. </li><li> In absence of a base_ layer, it represents the 1:1 relationship between the source and first layer of models. </li> |                                                                                                           |
     | int_      | /models/marts      | <li> Indicates a logical step towards creating a final data set. </li> |
     | dim_      | /models/marts      | <li> Flags data which is used to describe an entity. </li><li> Indicates a final data which is robust, versatile, and ready for consumption. </li> |
-    | fct_      | /models/marts      | <li> Flags data which is in the form of an immutable event stream. </li><li> Indicates a final data which is robust, versatile, and ready for consumption. </li> |
+    | fct_      | /models/marts      | <li> Flags data which is in the form of numeric facts observed during measurement events. </li><li> Indicates a final data which is robust, versatile, and ready for consumption. </li> |
   
   </details>
 
