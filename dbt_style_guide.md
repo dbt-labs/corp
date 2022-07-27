@@ -21,9 +21,20 @@
     - fct_orders.sql
 
 ## Model Organization  
-Our models (typically) fit into three main categories: staging, marts, and base/intermediate.  
+Our models (typically) fit into two main categories:
 
-For more detail about why we use this structure, check out [this discourse post](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355). The file and naming structures are as follows:
+| Category | Description                                             |
+|----------|---------------------------------------------------------|
+| Staging  | Contains models which clean and standardize data        |
+| Marts    | Contains models which combine or heavily transform data |
+
+There are different types of models
+that typically exist in each of these catgories.  
+See [dbt Conventions](https://github.com/dbt-labs/corp/blob/main/dbt_style_guide.md#dbt-conventions) 
+for more information. 
+<br><br>
+### Example File Tree
+For more detail about why we use this structure, check out [this discourse post](https://discourse.getdbt.com/t/how-we-structure-our-dbt-projects/355).
 ```
 ├── dbt_project.yml
 └── models
@@ -65,13 +76,13 @@ For more detail about why we use this structure, check out [this discourse post]
 
   <summary>Common</summary>
 
-    | dag_stage | description                                                        |
-    |-----------|--------------------------------------------------------------------|
-    | seed_     | <li> Indicates a data set is created using dbt seed. </li><li> Resides in the /data folder. </li>  |
-    | stg_      | <li> Indicates a data set that is being cleaned and standardized. </li><li> In absence of a base_ layer, it represents the 1:1 relationship between the source and first layer of models. </li> |                                                                                                           |
-    | int_      | <li> Indicates a logical step towards creating a final data set. </li> |
-    | dim_      | <li> Flags data which is used to describe an entity. </li><li> Indicates a final data which is robust, versatile, and ready for consumption. </li> |
-    | fct_      | <li> Flags data which is in the form of an immutable event stream. </li><li> Indicates a final data which is robust, versatile, and ready for consumption. </li> |
+    | dag_stage | Typically found in | description                                                        |
+    |-----------|--------------------|--------------------------------------------------------------------|
+    | seed_     | /data              | <li> Indicates a data set created from `dbt seed`. |
+    | stg_      | /models/staging    | <li> Indicates a data set that is being cleaned and standardized. </li><li> In absence of a base_ layer, it represents the 1:1 relationship between the source and first layer of models. </li> |                                                                                                           |
+    | int_      | /models/marts      | <li> Indicates a logical step towards creating a final data set. </li> |
+    | dim_      | /models/marts      | <li> Flags data which is used to describe an entity. </li><li> Indicates a final data which is robust, versatile, and ready for consumption. </li> |
+    | fct_      | /models/marts      | <li> Flags data which is in the form of an immutable event stream. </li><li> Indicates a final data which is robust, versatile, and ready for consumption. </li> |
   
   </details>
 
@@ -79,10 +90,10 @@ For more detail about why we use this structure, check out [this discourse post]
 
   <summary>Uncommon</summary>
 
-    | dag_stage | description                                                        |
-    |-----------|--------------------------------------------------------------------|
-    | base_     | <li> Indicates cleaning and standardization on a data set before joining to other data sets in `stg_` models.<li> Typically used when multiple sources are rarely used independently. <br/><br/> <strong><em>Example</strong></em>: <br>Location data in our org is seldom used partially, so we want to create one cleaned data set which puts it all together. <br/><br/> <em>Step 1</em>: Models to clean and standardize each data set:<br/><ul><li>base_location__addresses.sql</li><li>base_location__countries.sql</li><li>base_location__states.sql</li></ul><br/><em>Step 2</em>: A model to join all location data as one entity for use in downstream modeling:<ul><li>stg_location__locations.sql</li></ul> |
-    | report_   | Indicates that a final data sets are being modeled to pre-aggregate reports for use in outside tooling.                                                                                                                    |
+    | dag_stage | Typically found in | description                                                        |
+    |-----------|--------------------|--------------------------------------------------------------------|
+    | base_     | /models/staging    | <li> Indicates cleaning and standardization on a data set before joining to other data sets in `stg_` models.<li> Typically used when multiple sources are rarely used independently. <br/><br/> <strong><em>Example</strong></em>: <br>Location data in our org is seldom used partially, so we want to create one cleaned data set which puts it all together. <br/><br/> <em>Step 1</em>: Models to clean and standardize each data set:<br/><ul><li>base_location__addresses.sql</li><li>base_location__countries.sql</li><li>base_location__states.sql</li></ul><br/><em>Step 2</em>: A model to join all location data as one entity for use in downstream modeling:<ul><li>stg_location__locations.sql</li></ul> |
+    | report_   | /models/reports    | Indicates that a final data sets are being modeled to pre-aggregate reports for use in outside tooling.                                                                                                                    |
 
   </details>
 
