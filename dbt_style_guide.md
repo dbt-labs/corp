@@ -258,7 +258,9 @@ For more information about why we use so many CTEs, check out [this glossary ent
   ) }} as total_final_cost
   ```
 
-- Field names and function names should all be lowercase
+- Our convention is to use all lowercase unless a specific scenario needs us to
+  do otherwise. This means that keywords, field names, function names, and file names
+  should all be lowercased.
 
 - The `as` keyword should be used when aliasing a field or table
 
