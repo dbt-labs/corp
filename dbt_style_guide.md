@@ -363,8 +363,6 @@ Example:
 
 - Every subdirectory contains their own `.yml` file(s) which contain configurations for the models within the subdirectory.
 
-- A separate `.yml` file is created per top-level configuration (`sources`, `models`) that applies to the models within the subdirectory. 
-
 - YAML files should be prefixed with an underscore to keep it at the top of the subdirectory.  
   Example: `__sources_core.yml`, `_models_core.yml`
 
