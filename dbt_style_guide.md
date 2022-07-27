@@ -422,10 +422,11 @@ when needed.
 
 - A macro file should be named after the _main_ macro it contains.
 
-- A file with more than one macro which will be used independently should follow
-these conventions:
-  - The macros are all related to a main idea 
-  - The file is named for the main idea 
+- A file with more than one macro should follow these conventions:
+  - There is one main macro which is the main focal point
+  - The file is named for the main macro or idea
+  - All other macros within the file are only used for the purposes of the main 
+    idea and not used by other macros outside of the file.
 
 - Use new lines to visually indicate logical blocks of Jinja or to enhance readability.  
   Example:  
