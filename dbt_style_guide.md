@@ -27,7 +27,7 @@ Our models (typically) fit into two main categories:
 |----------|---------------------------------------------------------|
 | Staging  | Contains models which clean and standardize data        |
 | Marts    | Contains moels which combine or heavily transform data |
-
+  
 Things to note:
 - There are different types of models
 that typically exist in each of the above categories.  
@@ -149,44 +149,76 @@ For more information about why we use so many CTEs, check out [this glossary ent
 
 - CTE names should be as verbose as needed to convey what they do.
 
-- CTEs with confusing or noteable logic should be commented with SQL comments, as you would with any complex functions.
+- CTEs with confusing or noteable logic should be commented with SQL comments as you would with any complex functions, and should be located above the CTE.
 
 - CTEs that are duplicated across models should be pulled out and created as their own models.
+
+- All `{{ ref() }}` or `{{ source() }}` statements should be placed in CTEs at the top of the file (within "import" CTEs)
+
+- SQL should end with a simple select statement. All other logic should be contained within CTEs to make stepping through logic easier while troubleshooting.
+  Example: `select * from final`
 
 - CTEs and SQL within a model should follow this structure:
   - `with` statement
   - Import CTEs
   - Logical CTEs
-  - Final CTE
   - Simple `select` statement
 
-- All `{{ ref('...') }}` statements should be placed in CTEs at the top of the file ("import" CTEs)
-
-- SQL should end with a simple select statement. All other logic should be contained within CTEs.  
-  Example: `select * from final`
-
 - Where applicable, opt for filtering within import CTEs over filtering within logical CTEs.
-
-- ### Example CTE
+- ### Example SQL with CTEs
 
   ``` sql
-  with
+  with 
 
-  events as (
-
-      ...
-      where not is_deleted
-
+  -- Import CTEs
+  suppliers as (
+      select * from {{ ref('stg_tpch__suppliers') }}
   ),
 
-  -- CTE comments go here
-  events_joined as (
+  nations as (
+      select * from {{ ref('stg_tpch__nations') }}
+  ),
 
-      ...
+  regions as (
+      select * from {{ ref('stg_tpch__regions') }}
+  ),
 
+  -- Logical CTEs
+  locations as (
+    select
+      {{ dbt_utils.surrogate_key([
+          'regions.region_id',            
+          'nations.nation_id'
+      ]) }} as location_sk,
+
+      regions.region_id,
+      regions.name as region,
+      regions.comment as region_comment,
+
+      nations.nation_id,
+      nations.name as nation,
+      nations.comment as nation_comment
+    from regions
+    left join nations
+      on regions.region_id = nations.region_id
+  ),
+  
+  final as (
+      select
+          suppliers.supplier_id,
+          suppliers.supplier_name,
+          suppliers.supplier_address,
+          locations.nation,
+          locations.region,
+          suppliers.phone_number,
+          suppliers.account_balance
+      from suppliers
+      inner join locations
+          on suppliers.nation_id = locations.nation_id
   )
 
-  select * from events_joined
+  -- Simple select statement
+  select * from final
   ```
 
 ## SQL style guide
