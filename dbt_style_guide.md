@@ -350,7 +350,10 @@ Example:
             my_data.field_2 = 'def'
             or my_data.field_2 = 'ghi'
         )
-      having count(*) > 1
+      qualify row_number() over(
+        partition by my_data.field_1
+        order by my_data.start_date desc
+      ) = 1
   )
 
   select * from final
