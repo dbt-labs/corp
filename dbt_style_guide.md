@@ -363,12 +363,11 @@ Example:
 
 - Every subdirectory contains their own `.yml` file(s) which contain configurations for the models within the subdirectory.
 
-- YAML files should be prefixed with an underscore to keep it at the top of the subdirectory.  
-  Example: `__sources_core.yml`, `_models_core.yml`
+- YAML files should be prefixed with an underscore ( `_` ) to keep it at the top of the subdirectory.
 
-- YAML files should be named for the top-level configuration it contains.  
-  Examples: `_sources_core.yml`, `_models_core.yml`
-
+- YAML files should be named with the convention `_<config>_<description>.yml`, with the `config` being the thing you are configuring (i.e, `docs`, `models`, `sources`) and `description` typically being the folder of models you're configuring it for (i.e, `core`, `staging`, `intermediate`)  
+  Examples: `_sources_jaffle_shop.yml`, `_models_jaffle_shop.md`
+  
 - Indents should use four spaces.
 
 - List items should be indented.
