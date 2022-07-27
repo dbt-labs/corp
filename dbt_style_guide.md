@@ -38,7 +38,7 @@ for more information.
 
 ## Model configurationd
 
-- Model configurations at the [group level](https://docs.getdbt.com/reference/model-configs#configuring-directories-of-models-in-dbt_projectyml) should be considered (and if applicable, applied) first.
+- Model configurations at the [folder level](https://docs.getdbt.com/reference/model-configs#configuring-directories-of-models-in-dbt_projectyml) should be considered (and if applicable, applied) first.
 - More specific configurations should be applied at the model level [using one of these methods](https://docs.getdbt.com/reference/model-configs#apply-configurations-to-one-model-only).
 - Models within the `marts` folder should be materialized as `table` or `incremental`.
   - By default, `marts` should be materialized as `table` within `dbt_project.yml`.
