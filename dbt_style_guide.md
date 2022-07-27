@@ -153,18 +153,25 @@ For more information about why we use so many CTEs, check out [this glossary ent
 
 - CTEs that are duplicated across models should be pulled out and created as their own models.
 
-- All `{{ ref() }}` or `{{ source() }}` statements should be placed in CTEs at the top of the file (within "import" CTEs)
+- CTEs fall in to two main categories:
+  | Term    | Definition                                                                                                                                                             |
+  |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  | Import  | Used to bring data into a model. These are kept relatively simple and refrain from complex operations such as joins and column transformations.                        |
+  | Logical | Used to perform a logical step with the data that is brought into the model toward the end result. |
+
+- All `{{ ref() }}` or `{{ source() }}` statements should be placed within import CTEs so that dependent model references are easily seen and located.
+
+- Where applicable, opt for filtering within import CTEs over filtering within logical CTEs. This allows a developer to easily see which data contributes to the end result.
 
 - SQL should end with a simple select statement. All other logic should be contained within CTEs to make stepping through logic easier while troubleshooting.
   Example: `select * from final`
 
-- CTEs and SQL within a model should follow this structure:
+- SQL and CTEs within a model should follow this structure:
   - `with` statement
   - Import CTEs
   - Logical CTEs
-  - Simple `select` statement
+  - Simple select statement
 
-- Where applicable, opt for filtering within import CTEs over filtering within logical CTEs.
 - ### Example SQL with CTEs
 
   ``` sql
