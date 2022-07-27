@@ -379,6 +379,7 @@ Example:
 
 - Lines of YAML should be no longer than 80 characters.
 
+- Sources and models in a single .yml file should be sorted alphabetically to make it easier to find information in larger files.
 - ### Example YAML
   ```yaml
   version: 2
