@@ -276,7 +276,7 @@ For more information about why we use so many CTEs, check out [this glossary ent
 
 - If joining two or more tables, _always_ prefix your column names with the table alias. If only selecting from one table, prefixes are not needed.
 
-- Be explicit about your join (i.e. write `inner join` instead of `join`). `left joins` are normally the most useful, `right joins` often indicate that you should change which table you select `from` and which one you `join` to.
+- Be explicit about your join (i.e. write `inner join` instead of `join`). `left joins` are normally the most common, `right joins` often indicate that you should change which table you select `from` and which one you `join` to.
 
 
 Example:
