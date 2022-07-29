@@ -14,7 +14,7 @@ that typically exist in each of the above categories.
 See [dbt Conventions](https://github.com/dbt-labs/corp/blob/main/dbt_style_guide.md#dbt-conventions) 
 for more information. 
 
-- Read [How we structure our dbt projects](https://docs.getdbt.com/guides/best-practices/how-we-structure/1-guide-overview) to see how we typically structure our projects and further thoughts around organization.
+- Read [How we structure our dbt projects](https://docs.getdbt.com/guides/best-practices/how-we-structure/1-guide-overview) for an example and more details around organization.
 
 ## Modeling Conventions
 - Only models in `staging` should select from [sources](https://docs.getdbt.com/docs/building-a-dbt-project/using-sources)
@@ -168,7 +168,7 @@ For more information about why we use so many CTEs, check out [this glossary ent
   - Logical CTEs
   - Simple select statement
 
-- ### Example SQL with CTEs
+### Example SQL with CTEs
 
   ``` sql
   with 
