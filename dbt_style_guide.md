@@ -372,38 +372,57 @@ Example:
 
 - Lines of YAML should be no longer than 80 characters.
 
-- Sources and models in a single .yml file should be sorted alphabetically to make it easier to find information in larger files.
-- ### Example YAML
+- Sources and model list items in a single .yml file should be sorted alphabetically to make configurations easier to find in larger files.
+
+- Each top-level configuration should use a separate `.yml` file (i.e, sources, models)
+  Example:
+  ```bash
+  models
+  ├── marts
+  └── staging
+      └── jaffle_shop
+          ├── _jaffle_shop_docs.md
+          ├── _jaffle_shop__models.yml
+          ├── _jaffle_shop__sources.yml
+          ├── stg_jaffle_shop__customers.sql
+          ├── stg_jaffle_shop__orders.sql
+          └── stg_jaffle_shop__payments.sql
+  ```
+
+### Example YAML
+  `_tpch_models.yml`:
+
   ```yaml
   version: 2
 
   models:
-    - name: stg_snowplow__events
-      description: This model contains events from the core Jaffle Shop website.
+  
+    - name: base_tpch__nations
+      description: This model cleans the raw nations data
       columns:
-        - name: event_id
-          description: "{{ doc('event_id_description') }}"
+        - name: nation_id
+          tests:
+            - unique
+            - not_null   
+
+    - name: base_tpch__regions
+      description: >
+        This model cleans the raw regions data before being joined with nations
+        data to create one cleaned locations table for use in marts.
+      columns:
+        - name: region_id
           tests:
             - unique
             - not_null
 
-        - name: event_at
-          description: When the event occurred in UTC (eg. 2018-01-01 12:00:00)
+    - name: stg_tpch__locations
+      description: "{{ doc('tpch_location_details') }}"
+      columns:
+        - name: location_sk
           tests:
+            - unique
             - not_null
-
-        - name: user_id
-          description: >
-            The user id of the visitor to the site.
-            This only populates when the user logs in - this user id can be  
-            joined to the Jaffle Shop Users data.
-          tests:
-            - not_null
-            - relationships:
-                to: ref('users')
-                field: id
   ```
-
 
 ## Jinja style guide
 
