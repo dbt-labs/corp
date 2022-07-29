@@ -355,15 +355,18 @@ Example:
   select * from final
   ```
 
-## YAML style guide
+## YAML and Markdown style guide
 
 - Every subdirectory contains their own `.yml` file(s) which contain configurations for the models within the subdirectory.
 
-- YAML files should be prefixed with an underscore ( `_` ) to keep it at the top of the subdirectory.
+- YAML and markdown files should be prefixed with an underscore ( `_` ) to keep it at the top of the subdirectory.
 
-- YAML files should be named with the convention `_<config>_<description>.yml`, with the `config` being the thing you are configuring (i.e, `docs`, `models`, `sources`) and `description` typically being the folder of models you're configuring it for (i.e, `core`, `staging`, `intermediate`)  
-  Examples: `_sources_jaffle_shop.yml`, `_models_jaffle_shop.md`
-  
+- YAML and markdown files should be named with the convention `_<description>_<config>`.  
+  Examples: `_jaffle_shop_sources.yml`, `_jaffle_shop_docs.md`  
+  - `description` is typically the folder of models you're setting configurations for.  
+    Examples: `core`, `staging`, `intermediate`
+  - `config` is the top-level resource you are configuring.  
+    Examples: `docs`, `models`, `sources`
 - Indents should use two spaces.
 
 - List items should be indented.
@@ -372,7 +375,7 @@ Example:
 
 - Lines of YAML should be no longer than 80 characters.
 
-- Sources and model list items in a single .yml file should be sorted alphabetically to make configurations easier to find in larger files.
+- Items listed in a single .yml or .md file should be sorted alphabetically for ease of finding in larger files.
 
 - Each top-level configuration should use a separate `.yml` file (i.e, sources, models)
   Example:
@@ -391,7 +394,6 @@ Example:
 
 ### Example YAML
   `_tpch_models.yml`:
-
   ```yaml
   version: 2
 
@@ -424,6 +426,36 @@ Example:
             - not_null
   ```
 
+  ### Example Markdown
+  `_jaffle_shop_docs.md`:
+  ```markdown
+    {% docs enumerated_statuses %}
+      
+      Although most of our data sets have statuses attached, you may find some
+      that are enumerated. The following table can help you identify these statuses.
+      | Status | Description                                                                 |
+      |--------|---------------|
+      | 1      | ordered       |
+      | 2      | shipped       |
+      | 3      | pending       |
+      | 4      | order_pending | 
+
+      
+  {% enddocs %}
+
+  {% docs statuses %} 
+
+      Statuses can be found in many of our raw data sets. The following lists
+      statuses and their descriptions:
+      | Status        | Description                                                                 |
+      |---------------|-----------------------------------------------------------------------------|
+      | ordered       | A customer has paid at checkout.                                            |
+      | shipped       | An order has a tracking number attached.                                    |
+      | pending       | An order has been paid, but doesn't have a tracking number.                 |
+      | order_pending | A customer has not yet paid at checkout, but has items in their cart. | 
+
+  {% enddocs %}
+  ```
 ## Jinja style guide
 
 - Jinja delimiters should have spaces inside of the delimiter between the brackets and your code.  
