@@ -107,7 +107,7 @@ for more information.
   ```
 
 - Date/time columns should be named according to these conventions:
-  - Timestamps: `<event>_at`
+  - Timestamps: `<event>_at`  
     Format: UTC  
     Example: `created_at`
   
