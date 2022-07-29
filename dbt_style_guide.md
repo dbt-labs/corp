@@ -234,7 +234,14 @@ For more information about why we use so many CTEs, check out [this glossary ent
 - Indents should use four spaces. 
 
 - When dealing with long `when` or `where` clauses, predicates should be on a new
-  line and indented.
+  line and indented.  
+  Example:
+  ```sql
+  where 
+      user_id is not null
+      and status = 'pending'
+      and location = 'hq'
+  ```
 
 - Lines of SQL should be no longer than 80 characters and new lines should be used to ensure this.  
   Example:
@@ -272,18 +279,10 @@ For more information about why we use so many CTEs, check out [this glossary ent
 
 - If joining two or more tables, _always_ prefix your column names with the table alias. If only selecting from one table, prefixes are not needed.
 
-- Be explicit about your join (i.e. write `inner join` instead of `join`). `left joins` are normally the most common, `right joins` often indicate that you should change which table you select `from` and which one you `join` to.
+- Be explicit about your join (i.e. write `inner join` instead of `join`). `left joins` are the most common, `right joins` often indicate that you should change which table you select `from` and which one you `join` to.
 
-
-Example:
-  ```sql
-  where 
-      user_id is not null
-      and status = 'pending'
-      and location = 'hq'
-  ```
-
-- Joins should list the "left" table first (i.e., the table you're joining data to):
+- Joins should list the left table first (i.e., the table you're joining data to)  
+  Example:
   ```sql
   select
       trips.*,
@@ -297,7 +296,7 @@ Example:
 
   ```
 
-- ### Example SQL
+### Example SQL
   ```sql
   with
 
