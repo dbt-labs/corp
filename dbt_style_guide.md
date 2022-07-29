@@ -84,29 +84,25 @@ for more information.
   Example:
   ```sql
   transformed as (
-
       select
+          -- ids
+          order_id,
+          customer_id,
 
-        -- ids
-        order_id,
-        customer_id,
+          -- dimensions
+          order_status,
+          is_shipped,
 
-        -- dimensions
-        order_status,
-        is_shipped,
+          -- measures
+          order_total,
 
-        -- measures
-        order_total,
+          -- date/times
+          created_at,
+          updated_at,
 
-        -- date/times
-        created_at,
-        updated_at,
-
-        -- metadata
-        _sdc_batched_at
-
+          -- metadata
+          _sdc_batched_at
       from source
-
   )
   ```
 
@@ -192,22 +188,22 @@ For more information about why we use so many CTEs, check out [this glossary ent
 
   -- Logical CTEs
   locations as (
-    select
-      {{ dbt_utils.surrogate_key([
-          'regions.region_id',            
-          'nations.nation_id'
-      ]) }} as location_sk,
+      select
+          {{ dbt_utils.surrogate_key([
+              'regions.region_id',            
+              'nations.nation_id'
+          ]) }} as location_sk,
 
-      regions.region_id,
-      regions.name as region,
-      regions.comment as region_comment,
+          regions.region_id,
+          regions.name as region,
+          regions.comment as region_comment,
 
-      nations.nation_id,
-      nations.name as nation,
-      nations.comment as nation_comment
-    from regions
-    left join nations
-      on regions.region_id = nations.region_id
+          nations.nation_id,
+          nations.name as nation,
+          nations.comment as nation_comment
+        from regions
+      left join nations
+          on regions.region_id = nations.region_id
   ),
   
   final as (
@@ -235,7 +231,7 @@ For more information about why we use so many CTEs, check out [this glossary ent
 
 - Use trailing commas
 
-- Indents should be four spaces 
+- Indents should use four spaces. 
 
 - When dealing with long `when` or `where` clauses, predicates should be on a new
   line and indented.
@@ -244,7 +240,7 @@ For more information about why we use so many CTEs, check out [this glossary ent
   Example:
   ```sql
   sum(
-    case when order_status = 'complete' then order_total end
+      case when order_status = 'complete' then order_total end
   ) as monthly_total,
 
 
@@ -253,7 +249,7 @@ For more information about why we use so many CTEs, check out [this glossary ent
         partition='order_id',
         order_by='created_at',
         column_list=[
-          'final_cost'
+            'final_cost'
         ]
   ) }} as total_final_cost
   ```
@@ -282,22 +278,22 @@ For more information about why we use so many CTEs, check out [this glossary ent
 Example:
   ```sql
   where 
-    user_id is not null
-    and status = 'pending'
-    and location = 'hq'
+      user_id is not null
+      and status = 'pending'
+      and location = 'hq'
   ```
 
 - Joins should list the "left" table first (i.e., the table you're joining data to):
   ```sql
   select
-    trips.*,
-    drivers.rating as driver_rating,
-    riders.rating as rider_rating
+      trips.*,
+      drivers.rating as driver_rating,
+      riders.rating as rider_rating
   from trips
   left join users as drivers
-    on trips.driver_id = drivers.user_id
+     on trips.driver_id = drivers.user_id
   left join users as riders
-    on trips.rider_id = riders.user_id
+      on trips.rider_id = riders.user_id
 
   ```
 
@@ -332,10 +328,10 @@ Example:
           -- use line breaks to visually separate calculations into blocks
           case
               when my_data.cancellation_date is null
-                and my_data.expiration_date is not null
-                then expiration_data
+                  and my_data.expiration_date is not null
+                  then expiration_data
               when my_data.cancellation_date is null
-                then my_data.start_date + 7
+                  then my_data.start_date + 7
               else my_data.cancellation_date
           end as cancellation_date,
 
@@ -345,14 +341,14 @@ Example:
       left join some_cte_agg  
           on my_data.id = some_cte_agg.id
       where 
-        my_data.field_1 = 'abc'
-        and (
-            my_data.field_2 = 'def'
-            or my_data.field_2 = 'ghi'
-        )
+          my_data.field_1 = 'abc'
+          and (
+              my_data.field_2 = 'def'
+              or my_data.field_2 = 'ghi'
+          )
       qualify row_number() over(
-        partition by my_data.field_1
-        order by my_data.start_date desc
+          partition by my_data.field_1
+          order by my_data.start_date desc
       ) = 1
   )
 
@@ -368,7 +364,7 @@ Example:
 - YAML files should be named with the convention `_<config>_<description>.yml`, with the `config` being the thing you are configuring (i.e, `docs`, `models`, `sources`) and `description` typically being the folder of models you're configuring it for (i.e, `core`, `staging`, `intermediate`)  
   Examples: `_sources_jaffle_shop.yml`, `_models_jaffle_shop.md`
   
-- Indents should use four spaces.
+- Indents should use two spaces.
 
 - List items should be indented.
 
@@ -441,7 +437,7 @@ when needed.
   -- original columns. {{ col }} is indented here, but choose what will satisfy
   -- your own balance for Jinja vs. SQL readability. 
   {%- for col in orig_cols %}
-      {{ col }}
+        {{ col }}
   {% endfor %}
 
   -- column difference
@@ -452,12 +448,12 @@ when needed.
   Example:
   ```jinja
   {%- dbt_utils.star(
-      from=ref('stg_jaffle_shop__orders'),
-      except=[
-        'order_id',
-        'ordered_at',
-        'status'
-      ],
-      prefix='order_'
+        from=ref('stg_jaffle_shop__orders'),
+        except=[
+            'order_id',
+            'ordered_at',
+            'status'
+        ],
+        prefix='order_'
   ) %}
   ```
