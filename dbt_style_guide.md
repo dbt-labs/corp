@@ -398,7 +398,8 @@ For more information about why we use so many CTEs, check out [this glossary ent
   ```
 
 ### Example YAML
-  `_tpch_models.yml`:
+  `_jaffle_shop__models.yml`:
+
   ```yaml
   version: 2
 
