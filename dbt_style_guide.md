@@ -363,7 +363,8 @@ For more information about why we use so many CTEs, check out [this glossary ent
 
 - YAML and markdown files should be prefixed with an underscore ( `_` ) to keep it at the top of the subdirectory.
 
-- YAML and markdown files should be named with the convention `_<description>_<config>`.  
+- YAML and markdown files should be named with the convention `_<description>__<config>`.  
+
   Examples: `_jaffle_shop__sources.yml`, `_jaffle_shop__docs.md`  
 
   - `description` is typically the folder of models you're setting configurations for.  
