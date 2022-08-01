@@ -171,21 +171,22 @@ For more information about why we use so many CTEs, check out [this glossary ent
 ### Example SQL with CTEs
 
   ``` sql
-  with 
+   -- Jaffle shop went international!
+  with
 
   -- Import CTEs
-  suppliers as (
-      select * from {{ ref('stg_tpch__suppliers') }}
+  regions as (
+      select * from {{ ref('stg_jaffle_shop__regions') }}
   ),
 
   nations as (
-      select * from {{ ref('stg_tpch__nations') }}
+      select * from {{ ref('stg_jaffle_shop__nations') }}
   ),
-
-  regions as (
-      select * from {{ ref('stg_tpch__regions') }}
+  
+  suppliers as (
+      select * from {{ ref('stg_jaffle_shop__suppliers') }}
   ),
-
+  
   -- Logical CTEs
   locations as (
       select
@@ -193,15 +194,13 @@ For more information about why we use so many CTEs, check out [this glossary ent
               'regions.region_id',            
               'nations.nation_id'
           ]) }} as location_sk,
-
           regions.region_id,
-          regions.name as region,
-          regions.comment as region_comment,
-
+          regions.region,
+          regions.region_comment,
           nations.nation_id,
-          nations.name as nation,
-          nations.comment as nation_comment
-        from regions
+          nations.nation,
+          nations.nation_comment
+      from regions
       left join nations
           on regions.region_id = nations.region_id
   ),
@@ -209,17 +208,22 @@ For more information about why we use so many CTEs, check out [this glossary ent
   final as (
       select
           suppliers.supplier_id,
+          suppliers.location_id,
+          locations.region_id,
+          locations.nation_id,
           suppliers.supplier_name,
           suppliers.supplier_address,
-          locations.nation,
-          locations.region,
           suppliers.phone_number,
+          locations.region,
+          locations.region_comment,
+          locations.nation,
+          locations.nation_comment,
           suppliers.account_balance
       from suppliers
       inner join locations
-          on suppliers.nation_id = locations.nation_id
+          on suppliers.location_id = locations.location_sk
   )
-
+  
   -- Simple select statement
   select * from final
   ```
