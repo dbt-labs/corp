@@ -405,7 +405,8 @@ For more information about why we use so many CTEs, check out [this glossary ent
 
   models:
   
-    - name: base_tpch__nations
+    - name: base_jaffle_shop__nations
+
       description: This model cleans the raw nations data
       columns:
         - name: nation_id
