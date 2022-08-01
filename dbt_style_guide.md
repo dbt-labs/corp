@@ -414,7 +414,8 @@ For more information about why we use so many CTEs, check out [this glossary ent
             - unique
             - not_null   
 
-    - name: base_tpch__regions
+    - name: base_jaffle_shop__regions
+
       description: >
         This model cleans the raw regions data before being joined with nations
         data to create one cleaned locations table for use in marts.
