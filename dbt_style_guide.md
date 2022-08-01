@@ -437,7 +437,8 @@ For more information about why we use so many CTEs, check out [this glossary ent
   ```
 
   ### Example Markdown
-  `_jaffle_shop_docs.md`:
+  `_jaffle_shop__docs.md`:
+
   ```markdown
     {% docs enumerated_statuses %}
       
