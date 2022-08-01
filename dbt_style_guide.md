@@ -388,7 +388,8 @@ For more information about why we use so many CTEs, check out [this glossary ent
   ├── marts
   └── staging
       └── jaffle_shop
-          ├── _jaffle_shop_docs.md
+          ├── _jaffle_shop__docs.md
+
           ├── _jaffle_shop__models.yml
           ├── _jaffle_shop__sources.yml
           ├── stg_jaffle_shop__customers.sql
