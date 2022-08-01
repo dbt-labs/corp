@@ -425,7 +425,8 @@ For more information about why we use so many CTEs, check out [this glossary ent
             - unique
             - not_null
 
-    - name: stg_tpch__locations
+    - name: stg_jaffle_shop__locations
+
       description: "{{ doc('tpch_location_details') }}"
       columns:
         - name: location_sk
