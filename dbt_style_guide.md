@@ -61,7 +61,6 @@ for more information.
     - seed_snowflake_spend.csv
     - base_stripe__invoices.sql
     - stg_stripe__customers.sql
-    - int_payments.sql
     - int_customers__unioned.sql
     - fct_orders.sql
 
