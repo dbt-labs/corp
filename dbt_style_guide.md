@@ -231,8 +231,7 @@ For more information about why we use so many CTEs, check out [this glossary ent
 ## SQL style guide
 - **DO NOT OPTIMIZE FOR FEWER LINES OF CODE.**  
 
-  New lines are cheap, brain time is expensive; new lines should be used within  
-  reason to produce code that is easily read.
+  New lines are cheap, brain time is expensive; new lines should be used within reason to produce code that is easily read.
 
 - Use trailing commas
 
