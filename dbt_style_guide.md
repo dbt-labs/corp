@@ -252,8 +252,12 @@ For more information about why we use so many CTEs, check out [this glossary ent
   Example:
   ```sql
   sum(
-      case when order_status = 'complete' then order_total end
+      case
+          when order_status = 'complete'
+              then order_total 
+      end
   ) as monthly_total,
+
 
 
   {{ get_windowed_values(
