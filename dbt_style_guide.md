@@ -241,13 +241,20 @@ models:
 ```
 
 ## Metrics style guide
+dbt Metrics will naturally fall into four broad categories:
+1. Company metrics
+2. Team KPIs
+3. OKRs
+4. Specific metrics related to a product area, business unit, or business function that is not necessarily a team KPI, but important to track nonetheless.
 
-* dbt Metrics definitions are a special kind of YAML file, with additional conventions.
+Because of the wide socialization of these docs and downstream usage in the BI layer, consistency and clarity are _very_ important. Below are the general standards and examples of how we format and implement metrics at dbt Labs:
+
 * Metrics names must begin with a letter, cannot contain whitespace, and should be all lowercase.
+* The [minimum required properties](https://docs.getdbt.com/docs/building-a-dbt-project/metrics#available-properties) must be present in the metric definition.
 * Tags and/or Meta properties should be used to organize metrics at the business function level.
 * Meta properties should be used to track metric definition ownership.
-* The [minimum required properties](https://docs.getdbt.com/docs/building-a-dbt-project/metrics#available-properties) must be present in the metric definition.
 * For up-to-date information on metrics, please see the [metrics docs on defining a metric](https://docs.getdbt.com/docs/building-a-dbt-project/metrics#defining-a-metric) or the [dbt-labs/metrics README](https://github.com/dbt-labs/dbt_metrics#readme)
+
 
 
 ### Example Metric YAML
