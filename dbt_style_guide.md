@@ -259,8 +259,8 @@ metrics:
     label: Cumulative Weekly Active Projects
     model: ref('fct_dbt_project_activity')
     description: >
-      """The running total of dbt Projects with at least one
-      invocation in the last trailing 7 days for any given day."""
+      'The running total of dbt Projects with at least one
+      invocation in the last trailing 7 days for any given day.'
     tags: ['Company Metric']
 
     type: count_distinct
