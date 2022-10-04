@@ -247,7 +247,8 @@ models:
 * Tags and/or Meta properties should be used to organize metrics at the business function level.
 * Meta properties should be used to track metric definition ownership.
 * The [minimum required properties](https://docs.getdbt.com/docs/building-a-dbt-project/metrics#available-properties) must be present in the metric definition.
-* For up-to-date information on metrics, please see the [metrics docs on defining a metrics](https://docs.getdbt.com/docs/building-a-dbt-project/metrics#defining-a-metric) or the [dbt-labs/metrics README](https://github.com/dbt-labs/dbt_metrics#readme)
+* For up-to-date information on metrics, please see the [metrics docs on defining a metric](https://docs.getdbt.com/docs/building-a-dbt-project/metrics#defining-a-metric) or the [dbt-labs/metrics README](https://github.com/dbt-labs/dbt_metrics#readme)
+
 
 ### Example Metric YAML
 ```yaml
