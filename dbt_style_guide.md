@@ -251,7 +251,7 @@ Because of the wide socialization of these docs and downstream usage in the BI l
 
 * Metrics names must begin with a letter, cannot contain whitespace, and should be all lowercase.
 * The [minimum required properties](https://docs.getdbt.com/docs/building-a-dbt-project/metrics#available-properties) must be present in the metric definition.
-* Tags and/or Meta properties should be used to organize metrics at the business function level.
+* Tags and/or Meta properties should match the categories above and be used to organize metrics at the category or business function level.
 * Meta properties should be used to track metric definition ownership.
 * For up-to-date information on metrics, please see the [metrics docs on defining a metric](https://docs.getdbt.com/docs/building-a-dbt-project/metrics#defining-a-metric) or the [dbt-labs/metrics README](https://github.com/dbt-labs/dbt_metrics#readme)
 
