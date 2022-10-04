@@ -240,6 +240,47 @@ models:
               field: id
 ```
 
+## Metrics style guide
+
+* dbt Metrics definitions are a special kind of YAML file, with additional conventions.
+* Metrics names must begin with a letter, cannot contain whitespace, and should be all lowercase.
+* Tags and/or Meta properties should be used to organize metrics at the business function level.
+* Meta properties should be used to track metric definition ownership.
+* The [minimum required properties](https://docs.getdbt.com/docs/building-a-dbt-project/metrics#available-properties) must be present in the metric definition.
+* For up-to-date information on metrics, please see the [metrics docs on defining a metrics](https://docs.getdbt.com/docs/building-a-dbt-project/metrics#defining-a-metric) or the [dbt-labs/metrics README](https://github.com/dbt-labs/dbt_metrics#readme)
+
+### Example Metric YAML
+```yaml
+version: 2
+
+metrics:
+  - name: weekly_active_projects
+    label: Cumulative Weekly Active Projects
+    model: ref('fct_dbt_project_activity')
+    description: >
+      """The running total of dbt Projects with at least one
+      invocation in the last trailing 7 days for any given day."""
+    tags: ['Company Metric']
+
+    type: count_distinct
+    sql: project_id
+
+    timestamp: date_day
+    time_grains: [day]
+
+    dimensions:
+      - adapter
+
+    filters:
+      - field: t7d_active
+        operator: 'is'
+        value: true
+
+    meta:
+      metric_level: 'Company'
+      owner(s): 'Jane Doe'
+```
+
 
 ## Jinja style guide
 
