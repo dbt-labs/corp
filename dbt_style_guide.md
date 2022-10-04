@@ -10,25 +10,35 @@ Our models (typically) fit into three main categories: staging, marts, base/inte
     |       ├── intermediate
     |       |   ├── intermediate.yml
     |       |   ├── customers__unioned.sql
-    |       |   ├── customers__grouped.sql
-    |       └── core.yml
-    |       └── core.docs
-    |       └── dim_customers.sql
+    |       |   └── customers__grouped.sql
+    |       ├── core.yml
+    |       ├── core.docs
+    |       ├── dim_customers.sql
     |       └── fct_orders.sql
-    └── staging
-        └── stripe
-            ├── base
-            |   ├── base__stripe_invoices.sql
-            ├── src_stripe.yml
-            ├── src_stripe.docs
-            ├── stg_stripe.yml
-            ├── stg_stripe__customers.sql
-            └── stg_stripe__invoices.sql
+    ├── staging
+    |   └── stripe
+    |       ├── base
+    |       |   └── base__stripe_invoices.sql
+    |       ├── src_stripe.yml
+    |       ├── src_stripe.docs
+    |       ├── stg_stripe.yml
+    |       ├── stg_stripe__customers.sql
+    |       └── stg_stripe__invoices.sql
+    └── metrics
+        ├── projects
+        |   ├── active_projects.yml
+        ├── accounts
+        |   ├── active_cloud_accounts.yml
+        └── users
+            ├── base__net_promoter_score.yml
+            └── net_promoter_score.yml
+
 ```
 - All objects should be plural, such as: `stg_stripe__invoices`
 - Base tables are prefixed with `base__`, such as: `base__<source>_<object>`
 - Intermediate tables should end with a past tense verb indicating the action performed on the object, such as: `customers__unioned`
 - Marts are categorized between fact (immutable, verbs) and dimensions (mutable, nouns) with a prefix that indicates either, such as: `fct_orders` or `dim_customers`
+- Metrics are categorized by entity (object grain that the metrics occurs), and filenames directly correspond to metrics. Filenames are prefixed with `base__` only if they are pre-calculated inputs to derived metrics in other files.
 
 ## Model configuration
 
