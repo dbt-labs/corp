@@ -241,7 +241,7 @@ models:
 ```
 
 ## Metrics style guide
-dbt Metrics will naturally fall into four broad categories:
+dbt Metrics fall into four broad categories:
 1. Company metrics
 2. Team KPIs
 3. OKRs
@@ -262,31 +262,71 @@ Because of the wide socialization of these docs and downstream usage in the BI l
 version: 2
 
 metrics:
-  - name: weekly_active_projects
-    label: Cumulative Weekly Active Projects
-    model: ref('fct_dbt_project_activity')
+  - name: base__total_nps_respondents_cloud
+    label: (Base) Total of NPS Respondents (Cloud)
+    model: ref('fct_customer_nps')
     description: >
-      'The running total of dbt Projects with at least one
-      invocation in the last trailing 7 days for any given day.'
+      'The count of users responding to NPS surveys in dbt Cloud.'
     tags: ['Company Metric']
 
-    type: count_distinct
-    sql: project_id
+    type: count
+    sql: unique_id
 
-    timestamp: date_day
-    time_grains: [day]
+    timestamp: created_at
+    time_grains: [day, month, quarter, year]
 
     dimensions:
-      - adapter
+      - feedback_source
 
     filters:
-      - field: t7d_active
-        operator: 'is'
-        value: true
+      - field: feedback_source
+        operator: '='
+        value: "'dbt_cloud_nps'"
 
     meta:
       metric_level: 'Company'
       owner(s): 'Jane Doe'
+
+
+  - name: base__count_nps_promoters_cloud
+    label: (Base) Count of NPS Promoters (Cloud)
+    model: ref('fct_customer_nps')
+    description: >
+      'The count of dbt Cloud respondents that fall into the promoters segment.'
+    tags: ['Company Metric']
+
+    type: count
+    sql: unique_id
+
+    timestamp: created_at
+    time_grains: [day, month, quarter, year]
+
+    filters:
+      - field: feedback_source
+        operator: '='
+        value: "'dbt_cloud_nps'"
+      - field: nps_category
+        operator: '='
+        value: "'promoter'"
+
+    meta:
+      metric_level: 'Company'
+      owner(s): 'Jane Doe'
+
+  - name: promoters_pct
+    label: Percent Promoters (Cloud)
+    description: 'The percent of dbt Cloud users in the promoters segment.'
+    tags: ['Company Metric']
+
+    type: expression
+    sql: "{{metric('count_nps_promoters_cloud')}} / {{metric('total_nps_respondents_cloud')}}" 
+
+    timestamp: created_at
+    time_grains: [day, month, quarter, year]
+
+    meta:
+      metric_level: 'Company'
+      owner(s): 'Andrew Tom'
 ```
 
 
