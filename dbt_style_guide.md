@@ -319,14 +319,14 @@ metrics:
     tags: ['Company Metric']
 
     type: expression
-    sql: "{{metric('count_nps_promoters_cloud')}} / {{metric('total_nps_respondents_cloud')}}" 
+    sql: "{{metric('base__count_nps_promoters_cloud')}} / {{metric('base__total_nps_respondents_cloud')}}" 
 
     timestamp: created_at
     time_grains: [day, month, quarter, year]
 
     meta:
       metric_level: 'Company'
-      owner(s): 'Andrew Tom'
+      owner(s): 'Jane Doe'
 ```
 
 
