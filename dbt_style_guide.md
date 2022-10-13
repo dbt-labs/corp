@@ -556,6 +556,7 @@ Because of the wide socialization of these docs and downstream usage in the BI l
 * Tags and/or Meta properties should match the categories above and be used to organize metrics at the category or business function level.
 * Meta properties should be used to track metric definition ownership.
 * For up-to-date information on metrics, please see the [metrics docs on defining a metric](https://docs.getdbt.com/docs/building-a-dbt-project/metrics#defining-a-metric) or the [dbt-labs/metrics README](https://github.com/dbt-labs/dbt_metrics#readme)
+
 ### Example Metrics YAML
 ```yaml
 version: 2
@@ -627,108 +628,3 @@ metrics:
       metric_level: 'Company'
       owner(s): 'Jane Doe'
 ```
-
-
-      description: >
-        This model cleans the raw regions data before being joined with nations
-        data to create one cleaned locations table for use in marts.
-      columns:
-        - name: region_id
-          tests:
-            - unique
-            - not_null
-
-    - name: stg_jaffle_shop__locations
-
-      description: "{{ doc('jaffle_shop_location_details') }}"
-
-      columns:
-        - name: location_sk
-          tests:
-            - unique
-            - not_null
-  ```
-
-  ### Example Markdown
-  `_jaffle_shop__docs.md`:
-
-  ```markdown
-    {% docs enumerated_statuses %}
-      
-      Although most of our data sets have statuses attached, you may find some
-      that are enumerated. The following table can help you identify these statuses.
-      | Status | Description                                                                 |
-      |--------|---------------|
-      | 1      | ordered       |
-      | 2      | shipped       |
-      | 3      | pending       |
-      | 4      | order_pending | 
-
-      
-  {% enddocs %}
-
-  {% docs statuses %} 
-
-      Statuses can be found in many of our raw data sets. The following lists
-      statuses and their descriptions:
-      | Status        | Description                                                                 |
-      |---------------|-----------------------------------------------------------------------------|
-      | ordered       | A customer has paid at checkout.                                            |
-      | shipped       | An order has a tracking number attached.                                    |
-      | pending       | An order has been paid, but doesn't have a tracking number.                 |
-      | order_pending | A customer has not yet paid at checkout, but has items in their cart. | 
-
-  {% enddocs %}
-  ```
-## Jinja style guide
-
-- Jinja delimiters should have spaces inside of the delimiter between the brackets and your code.  
-  Example: `{{ this }}` instead of `{{this}}`
-
-- Use [whitespace control](https://jinja.palletsprojects.com/en/3.1.x/templates/#whitespace-control) to make compiled SQL more readable.
-
-- An effort should be made for a good balance in readability for both templated 
-and compiled code. However, opt for code readability over compiled SQL readability
-when needed.
-
-- A macro file should be named after the _main_ macro it contains.
-
-- A file with more than one macro should follow these conventions:
-  - There is one macro which is the main focal point
-  - The file is named for the main macro or idea
-  - All other macros within the file are only used for the purposes of the main 
-    idea and not used by other macros outside of the file.
-
-- Use new lines to visually indicate logical blocks of Jinja or to enhance readability.  
-  Example:  
-  ```jinja 
-  {%- set orig_cols = adapter.get_columns_in_relation(ref('fct_orders')) %}
-
-  {%- set new_cols = dbt_utils.star(
-        from=ref('fct_order_items'),
-        except=orig_cols
-  ) %}
-
-  -- original columns. {{ col }} is indented here, but choose what will satisfy
-  -- your own balance for Jinja vs. SQL readability. 
-  {%- for col in orig_cols %}
-        {{ col }}
-  {% endfor %}
-
-  -- column difference
-  {{ new_cols }}
-  ```
-
-- Use new lines within Jinja delimiters and arrays if there are multiple arguments.  
-  Example:
-  ```jinja
-  {%- dbt_utils.star(
-        from=ref('stg_jaffle_shop__orders'),
-        except=[
-            'order_id',
-            'ordered_at',
-            'status'
-        ],
-        prefix='order_'
-  ) %}
-  ```
