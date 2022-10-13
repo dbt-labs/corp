@@ -16,7 +16,7 @@ for more information.
 
 - Read [How we structure our dbt projects](https://docs.getdbt.com/guides/best-practices/how-we-structure/1-guide-overview) for an example and more details around organization.
 
-## Modeling Conventions
+## Model Layers
 - Only models in `staging` should select from [sources](https://docs.getdbt.com/docs/building-a-dbt-project/using-sources)
 - Models not within the `staging` folder should select from [refs](https://docs.getdbt.com/reference/dbt-jinja-functions/ref).
 - The following are the DAG stages that we tend to utilize:
@@ -45,7 +45,7 @@ for more information.
 
   </details>
 
-## Model Naming
+## Model File Naming and Coding
 
 - All objects should be plural.  
   Example: `stg_stripe__invoices.sql` vs. `stg_stripe__invoice.sql`
@@ -65,8 +65,6 @@ for more information.
     - int_customers__unioned.sql
     - fct_orders.sql
 
-## Naming Conventions
-
 - Schema, table and column names should be in `snake_case`.
 
 - Limit use of abbreviations that are related to domain knowledge. An onboarding
@@ -74,9 +72,7 @@ for more information.
 
 - Use names based on the _business_ terminology, rather than the source terminology.
 
-- Each model should have a primary key that can identify the unique row.
-
-- The primary key of a model should be named `<object>_id`, e.g. `account_id` – this makes it easier to know what `id` is being referenced in downstream joined models.
+- Each model should have a primary key that can identify the unique row, and should be named `<object>_id`, e.g. `account_id` – this makes it easier to know what `id` is being referenced in downstream joined models.
 
 - If a surrogate key is created, it should be named `<object>_sk`.
 
