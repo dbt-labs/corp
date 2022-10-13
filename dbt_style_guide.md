@@ -11,8 +11,7 @@ Our models (typically) fit into two main categories:
 Things to note:
 - There are different types of models
 that typically exist in each of the above categories.  
-See [dbt Conventions](https://github.com/dbt-labs/corp/blob/main/dbt_style_guide.md#dbt-conventions) 
-for more information. 
+See [Model Layers](#model-layers) for more information. 
 
 - Read [How we structure our dbt projects](https://docs.getdbt.com/guides/best-practices/how-we-structure/1-guide-overview) for an example and more details around organization.
 
@@ -51,7 +50,7 @@ for more information.
   Example: `stg_stripe__invoices.sql` vs. `stg_stripe__invoice.sql`
 
 - All objects should have a prefix to indicate their DAG stage in the flow.  
-  See [dbt Conventions](https://github.com/dbt-labs/corp/blob/main/dbt_style_guide.md#dbt-conventions) for more information.
+  See [Model Layers](#model-layers) for more information.
 
 - All models should use the naming convention `<type/dag_stage>_<source/topic>__<additional_context>`. See [this article](https://docs.getdbt.com/blog/stakeholder-friendly-model-names) for more information.
   - For models in the **marts** folder `__<additional_context>` is optional. 
