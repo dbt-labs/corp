@@ -30,6 +30,10 @@ We market our products and services by working with amazing humans, making them 
 
 While we believe that we are building something exceptional, that knowledge does not make us feel proud, it makes us feel humble. It imbues us with a deep sense of responsibility towards our clients, coworkers, and the community at large.
 
+### We value ourselves.
+
+We stand behind the products we have built and assign value to each of them according to the effort they represent and the resources needed to support them. This should apply to all of our products both on their own and in relation to one another. 
+
 ### We optimize for the long-term.
 
 While we pursue the mission with intense focus, we recognize that creating the change in the world that we wish to see will not happen overnight. We think, plan, and act for the long-term.
