@@ -32,7 +32,7 @@ While we believe that we are building something exceptional, that knowledge does
 
 ### We optimize for the long-term.
 
-While we pursue the mission with intense focus, we recognize that creating the change in the world that we wish to see will not happen overnight. We think, plan, and act for the long-term.
+We recognize that creating the change in the world that we wish to see will not happen overnight. Earning the right to pursue this work over decades requires both long-term vision and near-term execution, both user love and commercial success.
 
 ### We work hard and go home.
 
