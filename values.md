@@ -1,4 +1,4 @@
-### We’re here to build something that matters.
+### We’re here to build things that matter.
 
 We are a mission-driven company. We are inspired by creating things—software, a company, a community—that impact real people. We do not allow our attention to be diverted from this goal.
 
