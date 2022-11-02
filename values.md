@@ -1,6 +1,6 @@
-### Profits are exhaust.
+### We’re here to build something that matters.
 
-We are a mission-driven company. We believe that profits are an important tool in the pursuit of our mission, but they are not the mission itself.
+We are a mission-driven company. We are inspired by creating things—software, a company, a community—that impact real people. We do not allow our attention to be diverted from this goal.
 
 ### We contribute to the knowledge loop.
 
