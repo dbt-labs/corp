@@ -1,6 +1,6 @@
 ### Profits fund our mission
 
-We are a mission-driven company. Our software, company, and community have been designed to improve the lives of real people. Commercial success fuels the impact we are able to create.
+We are a mission-driven company. Our software, company, and community have been designed to improve the lives of real people. Commercial success fuels our pursuit of the mission.
 
 ### We contribute to the knowledge loop.
 
