@@ -1,6 +1,5 @@
-### We’re here to build things that matter.
-
-We are a mission-driven company. We are inspired by creating things—software, a company, a community—that impact real people. We do not allow our attention to be diverted from this goal.
+### Profits fund our mission
+We are a mission-driven company. Our software, company, and community have been designed to improve the lives of real people. Commercial success fuels the impact we are able to create.
 
 ### We contribute to the knowledge loop.
 
