@@ -175,7 +175,7 @@ There are many advantages to building a remote-first culture. One of the more pr
 
 #### Initial Office Set Up - New Hires
 
-Upon starting with dbt Labs, we will provide you with a MacBook Pro. In addition to the computer, each team member will be able to expense up to $1,500 towards their office set up. Items to be reimbursed could include:
+Upon starting with dbt Labs, we will provide you with a MacBook Pro. In addition to the computer, each full-time employee will be able to expense up to $1,500 towards their office set up. Apprentices will be able to expense up to $500 towards their office setup. If hired as a full-time employee, the apprentice will receive the balance of $1,000. Items to be reimbursed could include:
 
 - Monitor
 - Mouse
@@ -197,15 +197,15 @@ Upon starting with dbt Labs, we will provide you with a MacBook Pro. In addition
 
 This list is not-exhaustive and could include anything that will help make your office experience a comfortable and productive environment where you can do your best work. We will not reimburse ipad or cell phones as part of this policy.
 
-**Who is eligible?** All employees.
+**Who is eligible?** All employees and apprentices.
 
 **Process to expense** Employees should follow these [reimbursement instructions](https://www.notion.so/dbtlabs/Corporate-Travel-Expense-Policy-9d562e4218c941e4bd6b2710aec82c0d#16d5c74e900f45eb875b09361367dd69). Expenses will be reimbursed through direct deposit within 30 days.
 
 #### Annual Home Office Budget
 
-For each subsequent year, all remote employees will receive an *annual* reimbursement budget of $400 to make improvements to your working and office environment, this could include anything from the above as well as updating old or broken accessories.
+For each subsequent year, all full-time employees will receive an *annual* reimbursement budget of $400 to make improvements to your working and office environment, this could include anything from the above as well as updating old or broken accessories.
 
-**Who is eligible?** All employees
+**Who is eligible?** All employees.
 
 **Process to expense** Employees should follow these [reimbursement instructions](https://www.notion.so/dbtlabs/Corporate-Travel-Expense-Policy-9d562e4218c941e4bd6b2710aec82c0d#16d5c74e900f45eb875b09361367dd69). Expenses will be reimbursed through direct deposit within 30 days.
 
