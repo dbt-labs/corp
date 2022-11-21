@@ -568,8 +568,8 @@ metrics:
       'The count of users responding to NPS surveys in dbt Cloud.'
     tags: ['Company Metric']
 
-    type: count
-    sql: unique_id
+    calculation_method: count
+    expression: unique_id
 
     timestamp: created_at
     time_grains: [day, month, quarter, year]
@@ -594,8 +594,8 @@ metrics:
       'The count of dbt Cloud respondents that fall into the promoters segment.'
     tags: ['Company Metric']
 
-    type: count
-    sql: unique_id
+    calculation_method: count
+    expression: unique_id
 
     timestamp: created_at
     time_grains: [day, month, quarter, year]
@@ -617,8 +617,8 @@ metrics:
     description: 'The percent of dbt Cloud users in the promoters segment.'
     tags: ['Company Metric']
 
-    type: expression
-    sql: "{{metric('base__count_nps_promoters_cloud')}} / {{metric('base__total_nps_respondents_cloud')}}" 
+    calculation_method: derived
+    expression: "{{metric('base__count_nps_promoters_cloud')}} / {{metric('base__total_nps_respondents_cloud')}}" 
 
     timestamp: created_at
     time_grains: [day, month, quarter, year]
