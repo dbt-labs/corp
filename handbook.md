@@ -6,51 +6,11 @@ Hello and Welcome to dbt Labs. We’re thrilled to have you as a member of the t
 
 This handbook is intended to answer many of the questions you might have after joining, and should serve as a valuable resource throughout your employment at dbt Labs. Read on to learn about important company policies and procedures, as well as the commitments of this company to our employees.
 
-## Workplace Commitments
-
-### Equal Opportunity Employment
-
-dbt Labs is an equal opportunity employer and does not unlawfully discriminate against employees or applicants for employment on the basis of an individual’s race, color, religion, creed, sex, national origin, age, disability, marital status, veteran status or any other status protected by applicable law. This policy applies to all terms, conditions and privileges of employment, including recruitment, hiring, placement, compensation, promotion, discipline and termination. Whenever possible, the company makes reasonable accommodations for qualified individuals with disabilities to the extent required by law. Employees who would like to request a reasonable accommodation should contact Meghan Colón (Email: meg@fishtownanalytics or Slack: @meg).
-
-### Non-Harassment / Non-Discrimination Policy
-
-dbt Labs prohibits discrimination or harassment based on race, color, religion, creed, sex, national origin, age, disability, marital status, veteran status or any other status protected by applicable law. Each individual has the right to work in a professional atmosphere that promotes equal employment opportunities and is free from discriminatory practices, including, without limitation, harassment. Consistent with its workplace policy of equal employment opportunity, dbt Labs prohibits and will not tolerate harassment on the basis of race, color, religion, creed, sex, national origin, age, disability, marital status, veteran status or any other status protected by applicable law. Violations of this policy will not be tolerated.
-
-Discrimination includes, but is not limited to: making any employment decision or employment-related action on the basis of race, color, religion, creed, age, sex, disability, national origin, marital or veteran status, or any other status protected by applicable law. Harassment is generally defined as unwelcome verbal or nonverbal conduct, based upon a person’s protected characteristic, that denigrates or shows hostility or aversion toward the person because of the characteristic, and which affects the person’s employment opportunities or benefits, has the purpose or effect of unreasonably interfering with the person’s work performance, or has the purpose or effect of creating an intimidating, hostile or offensive working environment.
-
-Harassing conduct includes, but is not limited to: epithets; slurs or negative stereotyping; threatening, intimidating or hostile acts; or denigrating jokes and display or circulation in the workplace of written or graphic material that denigrates or shows hostility or aversion toward an individual or group based on their protected characteristic.
-
-Sexual harassment is defined as unwelcome sexual advances, requests for sexual favors and other verbal, visual or physical conduct of a sexual nature, when:
-
-1. Submission to such conduct is made either explicitly or implicitly a term or condition of an individual’s employment;
-2. Submission to or rejection of such conduct by an individual is used as the basis for employment decisions affecting such individual; or 
-3. Such conduct has the purpose or effect of unreasonably interfering with an individual’s work performance or creating an intimidating, hostile or offensive working environment.
-
-Examples of sexual harassment include: unwelcome or unsolicited sexual advances; displaying sexually suggestive material; unwelcome sexual flirtations, advances or propositions; suggestive comments; verbal abuse of a sexual nature; sexually-oriented jokes; crude or vulgar language or gestures; graphic or verbal commentaries about an individual’s body; display or distribution of obscene materials; physical contact such as patting, pinching or brushing against someone’s body; or physical assault of a sexual nature. 
-
-### Complaint Procedure
-
-**Any company employee who feels that they have been harassed or discriminated against, or has witnessed or become aware of discrimination or harassment in violation of these policies, should bring the matter to the immediate attention of Meghan Colón (Email: meg@dbtlabs.com or Slack: @meg).** The company will promptly investigate all allegations of discrimination and harassment, and take action as appropriate based on the outcome of the investigation. An investigation and its results will be treated as confidential to the extent feasible, and permitted by law, and the company will take appropriate action based on the outcome of the investigation. No employee will be retaliated against for making a complaint in good faith regarding a violation of these policies, or for participating in good faith in an investigation pursuant to these policies. If an employee feels they have been retaliated against, the employee should file a complaint using the procedures set forth above.
-
-### Open Door Policy
-
-dbt Labs has an open-door policy and takes employee concerns and problems seriously. The company values each employee and strives to provide a positive work experience. Employees are encouraged to bring any workplace concerns or problems they might have or know about to one of the designated members of the leadership team.
-
-### Breach of Workplace Commitments
-
-If dbt Labs determines that a violation has occurred, we will take appropriate disciplinary action against the offending party, which can include counseling, warnings, suspensions, and termination. Employees who report, in good faith, violations of these policies and employees who cooperate with investigations into alleged violations will not be subject to retaliation.
-
-**We take our commitment to our employees seriously, and we will not tolerate any breach of these commitments. Failure to abide by these commitments may cause you to lose your job. If you have any questions regarding these commitments, do not hesitate to seek clarification from Meghan Colón.**
-
 ## Company Policies and Procedures
 
-### Trust and Flexibility
+### Code of Conduct
 
-dbt Labs trusts and respects its employees. With this trust comes flexibility. If you are unsure about appropriate conduct in a given situation, bias towards Doing The Right Thing, or consult your immediate supervisor for clarification.
-
-### Code of Professional Conduct
-
-dbt Labs expects its employees to adhere to a standard of professional conduct and integrity. This ensures that the work environment is safe, comfortable and productive. Employees should be respectful, courteous, and mindful of others’ feelings and needs. General cooperation between coworkers and supervisors is expected. Individuals who act in an unprofessional manner may be subject to disciplinary action.
+Follow the guide for behavior described in the dbt Labs Code of Conduct.
 
 ### Performance Reviews
 
@@ -60,7 +20,7 @@ Employees at dbt Labs will participate in quarterly reviews and more frequent on
 
 Employees are encouraged to dress comfortably for work, while also maintaining appropriate attire for a business setting. Please do not wear anything that other employees might find offensive or that might make coworkers uncomfortable. Our goal is to provide a workplace environment that is comfortable and inclusive for all employees.
 
-We expect that your business attire, although casual, will exhibit common sense and professionalism. If you wouldn’t wear it in front of your grandmother, please don’t wear it to work! If you have any questions about what this means in practice, please consult your immediate supervisor.
+We expect that your business attire, although casual, will exhibit common sense and professionalism. If you have any questions about what this means in practice, please consult your immediate supervisor.
 
 While employees rarely need to travel for work, it is sometimes required. If you find yourself traveling to meet a client, be sure to ask about the dress code prior to your visit!
 
@@ -92,7 +52,7 @@ Employees are obligated to:
 - Notify their supervisor as soon as the absence is scheduled, and no less than one month  in advance of a full week of absence.
 - Mark the planned time off on their dbt Labs Google calendar as full day events so that other employees can effectively plan events or meetings.
 - Request the time off in Gusto, for tracking purposes.
-- Avoid abusing the policy by taking time off that negatively impacts their job and the company.
+- Avoid abusing the policy by taking time off at certain times that can negatively impact their job and the company.
 
 ### Holidays
 
