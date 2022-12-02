@@ -55,9 +55,10 @@ Building off of our above analogy, explores are the packaged items that can comb
   - filter _(optional)_
   - drill_field _(optional)_
 * Primary keys for the view should be the first dimension listed (IDs always come first, similar to our [SQL Style Guide](https://github.com/fishtown-analytics/corp/blob/master/dbt_coding_conventions.md)) and most times should be hidden. This allows us to understand the granularity of the view and is required if you want to use joins on the view.
-* All dimensions and measures should have a description when the name itself is not intuitive or if the field is complex. This is especially important when we have common dimension/measure names across views (e.g. `created_at`). Descriptions can describe the definition, use case and/or calculation.
+* All dimensions and measures should have a description when the name itself is not intuitive or if the field is complex. This is especially important when we have common dimension/measure names across views (e.g. `created_at`). Descriptions can describe the definition, use case and/or calculation.  
 * There should be a dimension for every field that exists in the table that the view is built off of. If the dimension is not useful for visualizations (e.g. an `id` field created via the surrogate key) then it should be flagged as hidden.
 * We prefer `value_format_name` over `value_format`
+* Regarding timestamps, all `type: time` dimension_groups must have `convert_tz = no` in the logic to standardize timestamps and ensure accuracy in reporting.
 * Measures should reference the dimension (e.g. `${order_total}` over `${TABLE}.order_total`). This is because if you were to change the definition of `${order_total}` in the dimension, then it wouldn't be reflected in the measure aggregation if you used `${TABLE}.order_total`
 
 #### Example

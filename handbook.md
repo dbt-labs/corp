@@ -32,8 +32,8 @@ Employees are paid semimonthly by direct deposit on the 15th (for work performed
 
 Many employees incur expenses over the course of their regular duties. We have two goals with these expense policies: a) make sure that there is accountability when spending company money, and b) make the process of spending money as frictionless as possible, given (a). Given these goals, we've arrived at the following policies.
 
-- For all corporate travel, please refer to [these expense guidelines](https://docs.google.com/document/d/1D6TciMqWz5E-4F9Nw3DuVOhvAfoEZDFZmtgHYFq2Uk0/edit?ts=5e287129#) when booking flights and hotels and expensing meals and other incidentals. 
-- Most non-travel purchases should be able to be made by either a company office administrator or your manager; please feel free to make requests as appropriate via these channels. If you do have other items that you'd like to submit for reimbursement, make sure that you have approval from your manager before doing so, and submit the expenses in airbase.
+- For all corporate travel, please refer to [these expense guidelines](https://www.notion.so/dbtlabs/Corporate-Travel-Expense-Policy-9d562e4218c941e4bd6b2710aec82c0d) when booking flights and hotels and expensing meals and other incidentals. 
+- Most non-travel purchases should be able to be made by either a company office administrator or your manager; please feel free to make requests as appropriate via these channels. If you do have other items that you'd like to submit for reimbursement, make sure that you have approval from your manager before doing so, and follow these [reimbursement instructions](https://www.notion.so/dbtlabs/Corporate-Travel-Expense-Policy-9d562e4218c941e4bd6b2710aec82c0d#16d5c74e900f45eb875b09361367dd69).
 - In certain rare cases, if your job requires frequent expenditures of company money, you'll be issued a physical Airbase card to conduct company business. In such a case, your manager will work with you to define specific expectations around what will and will not be charged on this card, as well as a specific budget for these charges. Failure to abide by these expectations may result in disciplinary action, including termination, and in the worst case, criminal proceedings. **While we absolutely do not expect this to be an issue, it's important to be clear that misappropriation of our shared resources will be taken extremely seriously.**
 
 ## Attendance Policies
@@ -44,29 +44,32 @@ dbt Labs does not have “required” working hours. There is an expectation tha
 
 ### Time off
 
-dbt Labs has an unlimited paid vacation policy, allowing employees to take as much time off as they need. We do ask that employees aim for a minimun of 2 weeks off per year. Employees should utilize this benefit in a way that is conducive to their productivity. We understand, appreciate (and encourage!) turning off your brain, traveling, and spending time with friends and family!
+dbt Labs has an unlimited paid vacation policy, allowing employees to take as much time off as they need. We do ask that employees aim for a minimum of 2 weeks off per year. Employees should utilize this benefit in a way that is conducive to their productivity. We understand, appreciate (and encourage!) turning off your brain, traveling, and spending time with friends and family!
 
 Employees are obligated to:
 
 - Communicate and collaborate with their team to ensure everyone takes leave without disrupting operations.
 - Notify their supervisor as soon as the absence is scheduled, and no less than one month  in advance of a full week of absence.
 - Mark the planned time off on their dbt Labs Google calendar as full day events so that other employees can effectively plan events or meetings.
-- Request the time off in Gusto, for tracking purposes.
-- Avoid abusing the policy by taking time off at certain times that can negatively impact their job and the company.
+- Request the time off in ADP, for tracking purposes.
+- Avoid abusing the policy by taking time off that negatively impacts their job and the company.
 
 ### Holidays
 
-dbt Labs observes the following holidays in 2021:
+dbt Labs observes the following holidays in 2022:
 
-- Memorial Day (Monday, May 31, 2021)
-- Independence Day (Observed July 5, 2021)
-- Friday before Labor Day (Friday, September 3, 2021)
-- Labor Day (Monday, September 6, 2021)
-- Thanksgiving Day (Thursday, November 25, 2021 )
-- Friday after Thanksgiving - Friday, November 26, 2021
-- Christmas Day (Observed December 24, 2021)
-- Winter Break - Monday, December 27, 2021 → Thursday December 30, 2021
-- New Year's Day (Observed December 31, 2021)
+- MLK Day (Monday, January 17, 2022)
+- Memorial Day (Monday, May 30, 2022)
+- Juneteenth (Observed Monday, June 20, 2022)
+- Friday before Independence Day (Friday, July 1, 2022)
+- Independence Day (Monday, July 4, 2022)
+- Friday before Labor Day (Friday, September 2, 2022)
+- Labor Day (Monday, September 5, 2022)
+- Thanksgiving Day (Thursday, November 24, 2022)
+- Friday after Thanksgiving (Friday, November 25, 2022)
+- Christmas Day (Observed Monday, December 26, 2022)
+- Winter Break (Tuesday, December 27, 2022 → Friday, December 30, 2022)
+- New Year's Day (Observed Monday, January 2, 2023)
 
 
 ## Leave Policies
@@ -92,7 +95,7 @@ You are more than welcome to slack or email People Ops (@Meg or meg@dbtlabs.com)
 
 dbt Labs is concerned about the safety of its team members and about maintaining appropriate controls to ensure that assets of dbt Labs and our customer relationships and information are protected. To reduce these risks, we will obtain and review background information of covered prospective, and, as applicable, current employees.
 
-dbt Labs has contracted with Checkr (https://checkr.com/) to perform these background checks for US based employees, which will cover criminal history for the last 7 years, sex offender search, SSN trace and Global Watchlist search. For all non-US employees, we use GoodHire (https://www.goodhire.com/). dbt Labs may use the returned background check information to make decisions regarding employment. For certain positions where the candidates financial history is relevant to the position, we may also run a check in the federal database for any financial related offenses.
+dbt Labs has contracted with Checkr (https://checkr.com/) to perform these background checks for US based employees, which will cover criminal history for the last 7 years, sex offender search, SSN trace, education verification, employment verification and Global Watchlist search. For all non-US employees, we use GoodHire (https://www.goodhire.com/). dbt Labs may use the returned background check information to make decisions regarding employment. For certain positions where the candidates financial history is relevant to the position, we may also run a check in the federal database for any financial related offenses.
 
 All candidates who make it to the offer stage with dbt Labs must undergo a background screening according to this policy as part of the employment screening process. All contracts will state that employment is subject to obtaining results from an approved background screening that are satisfactory to dbt Labs. If a candidate is unwilling to follow this process we are unable to proceed with their candidacy for any position at dbt Labs. In the event the background check is not available at the time of hire (switching vendors or delays in processing), dbt Labs will run the background check as soon as possible. The same adjudication guidelines will apply to current employees as they do with prospective employees.
 
@@ -132,7 +135,7 @@ There are many advantages to building a remote-first culture. One of the more pr
 
 #### Initial Office Set Up - New Hires
 
-Upon starting with dbt Labs, we will provide you with a MacBook Pro. In addition to the computer, each team member will be able to expense up to $1,500 towards their office set up. Items to be reimbursed could include:
+Upon starting with dbt Labs, we will provide you with a MacBook Pro. In addition to the computer, each full-time employee will be able to expense up to $1,500 towards their office set up. Apprentices will be able to expense up to $500 towards their office setup. If hired as a full-time employee, the apprentice will receive the balance of $1,000. Items to be reimbursed could include:
 
 - Monitor
 - Mouse
@@ -154,15 +157,15 @@ Upon starting with dbt Labs, we will provide you with a MacBook Pro. In addition
 
 This list is not-exhaustive and could include anything that will help make your office experience a comfortable and productive environment where you can do your best work. We will not reimburse ipad or cell phones as part of this policy.
 
-**Who is eligible?** All employees.
+**Who is eligible?** All employees and apprentices.
 
 **Process to expense** Please access airbase for all expense reimbursements. 
 
 #### Annual Home Office Budget
 
-For each subsequent year, all remote employees will receive an *annual* reimbursement budget of $400 to make improvements to your working and office environment, this could include anything from the above as well as updating old or broken accessories.
+For each subsequent year, all full-time employees will receive an *annual* reimbursement budget of $400 to make improvements to your working and office environment, this could include anything from the above as well as updating old or broken accessories.
 
-**Who is eligible?** All employees
+**Who is eligible?** All employees.
 
 **Process to expense** Please access airbase for all expense reimbursements. 
 

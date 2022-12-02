@@ -1,6 +1,6 @@
-### Profits are exhaust.
+### We are a mission-driven company.
 
-We are a mission-driven company. We believe that profits are an important tool in the pursuit of our mission, but they are not the mission itself.
+We believe that profits are an important tool in the pursuit of our mission, but they are not the mission itself.
 
 ### We contribute to the knowledge loop.
 

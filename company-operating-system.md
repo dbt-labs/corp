@@ -12,7 +12,7 @@ Companies will naturally build operating systems whether or not decisions are pr
 
 Changing norms of human behavior is far harder than establishing them. As such, we choose to form those norms proactively.
 
-### The Fishtown Analytics Operating System
+### The dbt Labs Operating System
 
 #### 1. Making Decisions
 
