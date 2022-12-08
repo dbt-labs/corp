@@ -185,7 +185,7 @@ For more information about why we use so many CTEs, check out [this glossary ent
   -- Logical CTEs
   locations as (
       select
-          {{ dbt_utils.surrogate_key([
+          {{ dbt_utils.generate_surrogate_key([
               'regions.region_id',            
               'nations.nation_id'
           ]) }} as location_sk,
