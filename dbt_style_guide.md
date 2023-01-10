@@ -396,6 +396,15 @@ For more information about why we use so many CTEs, check out [this glossary ent
           └── stg_jaffle_shop__payments.sql
   ```
 
+- `dbt_project.yml` configurtions should be prefixed with `+` to avoid namespace collision with directories.
+  Example:
+  ```bash
+  models:
+    my_project:
+      marts:
+        +materialized: table
+  ```
+
 ### Example YAML
   `_jaffle_shop__models.yml`:
 
