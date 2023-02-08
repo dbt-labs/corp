@@ -283,6 +283,8 @@ For more information about why we use so many CTEs, check out [this glossary ent
 
 - Be explicit about your join (i.e. write `inner join` instead of `join`). `left joins` are the most common, `right joins` often indicate that you should change which table you select `from` and which one you `join` to.
 
+- Avoid the `using` clause in joins, prefering instead to explicitly list the CTEs and associated join keys with an `on` clause.
+
 - Joins should list the left table first (i.e., the table you're joining data to)  
   Example:
   ```sql
