@@ -291,7 +291,7 @@ Salary bands in their simplest form is the compensation range for a given role w
 
 As dbt labs has continued to grow and mature, so has our our compensation and total rewards strategy. In the following pages, you can reference a deeper dive into these changes as we’ve added 4 additional data sets and have a greater ability to more accurately benchmark specific roles instead of more functional buckets.
 
-[How Salary Bands are Made]((#How-Salary-Bands-Are-Made)
+[How Salary Bands are Made](#How-Salary-Bands-Are-Made)
 
 ### What ranges are built?
 
