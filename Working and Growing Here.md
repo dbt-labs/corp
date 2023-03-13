@@ -1,7 +1,5 @@
 # Working and Growing at dbt Labs
 
-## Global Employment: https://www.notion.so/dbtlabs/Global-Employment-at-dbt-Labs-a0c8faf3a9234d6a83280654caff0424
-
 ## Annual Review Cadence
 
 <aside>
@@ -136,12 +134,86 @@ Because of the relationship between performance, and compensation/ promotions, t
     - Promotions: 6 hours per team member (including writing, collecting and meetings)
     - Merit: 2 hours for requests and calibrations plus 30 minutes for each eligible team member for the discussion.
 
-###
+
+## Internal Mobility
+
+### Overview
+
+This document applies to those interested in applying to a role outside of your immediate team. Typically, this role will need to be an open requisition with an approved headcount.
+
+Below is also a link to our internal career site, where we post open roles (this is regularly updated, and we are posting roles based on the quarter it is allocated for):
+
+[Greenhouse](https://app5.greenhouse.io/internal_job_board/)
+
+### Eligibility
+
+#### Intra-Department Transfers
+
+We recommend employees be in their role for at least 9 months before applying to an open requisition within their own department. *(Example: Analytics Engineer → Technical Instructor)*
+
+**Why a minimum of 9 months?** The reason we are asking for 9 months for an intra-department transfer is because we recognize that there are more transferrable skills and knowledge that exist across roles within a department. 
+
+#### Cross-Department Transfers
+
+We ask that employees be in their role for **at least** 12 months before applying to an open requisition within another department. *(Example: Customer Support Engineer → Solutions Architect)*
+
+**Why the minimum of 12 months?** We ask for at least 12 months for a cross-department transfer because it can take about 3 months to onboard onto a new role and another 3 months to become completely ramped into that role (totaling up to 6 months). We would want someone to be working as a ramped member of the team for at **least** 6, ideally 12 months, before moving on. Additionally it could take us longer to backfill your role meaning there are more limitations for the team during the transition period and beyond if you’re switching to a new department. 
+
+**Exceptions:** Changes or movement between teams could happen at any time due to business need. If your tenure with dbt Labs is less than the 9 or 12 months and you are interested in moving internally, bring this up to your People Business Partner - People Ops and your current leadership team will need to approve the business exception.
+
+**Again, please ensure you’re actively talking to your manager about your career goals and development wants/needs.** 
+
+## Internal Transfer and Application Process
+
+### Step 1: Explore your interests
+
+1. Look at the [internal career site](https://app5.greenhouse.io/internal_job_board/) to see which roles you might be interested in.
+2. Reach out to your [People Business Partner](https://www.notion.so/People-Business-Partners-7c4b9fca56e245e684bd8d8e79f65910) to confirm eligibility for internal mobility.
+3. Reach out to the [recruiter](https://www.notion.so/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8) and hiring manager to have an introductory call:
+    1. Explain why you are interested in learning more about this role. In your conversation, understand the role expectations and hiring profile.
+    2. If you would like to learn more about the role, we recommend shadowing someone who is on the existing team or in the current role to learn more about the day to day.
+    3. Feel free to also meet with existing members of the team to understand the landscape of the team, advise they may have, or general mentorship.
+4. At the end of the introductory call, you can also ask the hiring manager if they think you would be good fit for the role at this time. The hiring manager might be able to help you identify areas you can develop prior to pursuing the role, or recommend other roles to look into if they conclude another team or role would be better suited for you, your interests, and/or skill set.
+
+### Step 2: Apply
+
+1. If after intro conversation you want to formally apply:
+    1. First have a conversation with your current manager about your intention to apply.
+        - While you do not need their permission to apply for the new role, we encourage you to be transparent with them as it's unfair to have them find out through the grapevine (which they inevitably will in our smaller org).
+        - You can also use this as an opportunity to discuss any feedback and your reasons for pursuing the new opportunity.
+        - This will also be a great way to open up the discussion for performance feedback and career progression.
+    2. Apply to the role in [Greenhouse](https://app5.greenhouse.io/internal_job_board/).
+
+### Step 3: Interview
+
+1. After you have applied to the role in Greenhouse, a recruiter or the hiring manager will reach out to you to move you through the interview process. 
+    - With the Recruiter, there will be a series of questions to answer:
+        - How long have you been in your current role?
+        - Have you chatted with your current manager about your interest?
+        - Why do you want this specific role?
+        - Have you reached out to someone to learn about this role?
+
+The interview process will be a shortened version of the external process, but overall will vary department by department based on role and skills required. Some roles might require a task or skills assessment. If you have questions about this, the recruiting team can share more with you.
+
+### Step 4: Application Status
+
+After you go through the interview process, you will hear back from the hiring manager or recruiter about your application and if you will be getting the role or not.
+
+**If you do not get the role**, do not be discouraged! The hiring manager will pass over feedback to your current manager and we hope this will be an opportunity to come up with a development plan for you. You are always welcome to apply again.
+
+**If you do get the role**, you can expect a confirmation in writing from the hiring manager or People Ops. You will also have a meeting scheduled with your current manager and new manager to go over things like:
+
+1. Transition plan - knowledge transfer timing and actions
+    1. Don’t worry if you do not transfer to your new team immediately, there is a minimum of a 2-week transition period. ***This may be extended to allow time to backfill your role**
+        
+        Your transfer date will be established by your current and new manager based on the time it will take to close out current projects and/or hiring a backfill. This will vary team to team.
+        
+2. Your career goals and going over what you may have already worked on with your current manager (progress towards your goals)
+3. Your past performance reviews
+4. Expectations in the new role (30/60/90 day plan)
 
 
-
-
-Note: for global employment
+## Global Employment: https://www.notion.so/dbtlabs/Global-Employment-at-dbt-Labs-a0c8faf3a9234d6a83280654caff0424
 
 | Data Set 	| Weight 	| Data Cut                                       	| Data Type                                                                                              	| Description of Data set                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	|
 |----------	|--------	|------------------------------------------------	|--------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
