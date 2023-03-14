@@ -216,7 +216,7 @@ After you go through the interview process, you will hear back from the hiring m
 
 ## [Performance Reviews](https://www.notion.so/Performance-Reviews-at-dbt-Labs-054564274f6042a09e1e8515df579e06) 
 
-## [Compensation Reviews and Promoation Cycles](https://www.notion.so/Compensation-Reviews-and-Promotion-Cycles-3cd43b727be1471c991cb6964bae4ccd) 
+## [Compensation Reviews and Promotion Cycles](https://www.notion.so/Compensation-Reviews-and-Promotion-Cycles-3cd43b727be1471c991cb6964bae4ccd) 
 
 ## [Embedded Roles](https://www.notion.so/dbtlabs/Embedded-Roles-at-dbt-Labs-348e63b53dcf41e0a103b1fbf682e3af?pvs=4)
 
