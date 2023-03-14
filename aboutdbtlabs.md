@@ -14,7 +14,7 @@ This handbook is intended to answer many of the questions you might have after j
 ### [Training and Policies]
 
 
-## [**How do we think about the Distributed Experience?**](https://www.notion.so/dbtlabs/How-we-think-about-the-Distributed-Experience-5edaf90eafad420b9a05ffc03a3cc5c7?pvs=4)
+## [How do we think about the Distributed Experience?](https://www.notion.so/dbtlabs/How-we-think-about-the-Distributed-Experience-5edaf90eafad420b9a05ffc03a3cc5c7?pvs=4)
 
 ### 📘 First, let’s define some terms…
 
