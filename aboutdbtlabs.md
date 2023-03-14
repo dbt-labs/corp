@@ -9,7 +9,7 @@ This handbook is intended to answer many of the questions you might have after j
 Learn about our [Mission](mission.md) and [Values](values.md).
 
 
-## **How do we think about the Distributed Experience?**
+## [**How do we think about the Distributed Experience?**](https://www.notion.so/dbtlabs/How-we-think-about-the-Distributed-Experience-5edaf90eafad420b9a05ffc03a3cc5c7?pvs=4)
 
 ### 📘 First, let’s define some terms…
 
@@ -101,8 +101,6 @@ Learn more about the offices, building access and offsite information [here](htt
 
 ### San Francisco, CA 
 
-**Address:**
-
 dbt Labs
 650 California Street
 Suite 1501 / 1502
@@ -110,8 +108,6 @@ San Francisco, CA 94108
 
 
 ### Philly Office
-
-**Address:**
 
 dbt Labs
 915 Spring Garden St
