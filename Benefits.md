@@ -1,13 +1,12 @@
 # Benefits and Perks
 
 ## Overview
-#### [Global Benefits Strategy & Stipend](#Global-Benefits-Strategy-&-Stipend)
+#### [Global Benefits Strategy & Stipend](#Global-Benefits-Strategy-&-Stipend-1)
 #### Healthcare Benefits
-#### [Stipends](#Stipends)
-#### [Time Off Policy](#Time-Off-Policy)
+#### [Stipends](#Stipends-1)
+#### [Time Off Policy](#Time-Off-Policy-1)
 #### [2023 Company Holidays](#2023-Company-Holidays)
-#### [Leave of Absence Programs](#Leave-of-Absence-Programs)
-#### Parental Leave Policy
+#### [Leave of Absence Programs](#Leave-of-Absence-Programs-1)
 #### Workplace Rental
 #### Employee Discounts
 #### Wellness Program
