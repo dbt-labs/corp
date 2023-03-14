@@ -93,3 +93,27 @@ This is a big and important topic. A remote work guide that answers this questio
 - **Intentional and explicit:** Our organizational practices and systems are designed with intention to support our distributed workforce. In a remote environment, social cues and cultural norms aren’t obvious. We are explicit with our communication to provide clarity and context for all.
 - **Default to asynchronous:** While async communication may not always be the ultimate way to get work done, it should be the default. Starting with async communication first allows for more effective synchronous communication when needed. It also helps your teammates retain their focus and flexibility by reducing interruptions and distractions.
 - **Progress > perfection:** Immediate answers aren’t expected. With the proper communication and tools in play, employees are empowered to keep iterating and making progress, backed with trust and support.
+
+## [Regional Offices](https://www.notion.so/dbtlabs/dbt-Labs-Office-Strategy-adad4eeeb29a406493a1ea23299b5278)
+In regions with high employee count, dbt Labs has office space to support async-first collaboration and promote our culture and values when teams meet onsite. Designed with intention, these spaces are not used to incentivize local collaboration but instead support community development and foster connection with cross-functional teams during onsites.
+
+Learn more about the offices, building access and offsite information [here](https://www.notion.so/dbtlabs/Workplace-7a798fcfa1eb4fba9e061577b6fbb33b?pvs=4)
+
+### San Francisco, CA 
+
+**Address:**
+
+dbt Labs
+650 California Street
+Suite 1501 / 1502
+San Francisco, CA 94108
+
+
+### Philly Office
+
+**Address:**
+
+dbt Labs
+915 Spring Garden St
+STE 500
+Philadelphia, PA 19123
