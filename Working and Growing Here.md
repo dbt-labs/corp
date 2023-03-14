@@ -371,3 +371,33 @@ What you do in your own time is your business, including additional employment. 
 Lastly, moonlighting is not an excusable reason for lesser or poor performance for work at dbt Labs. dbt Labs reserves the right to prohibit (or revoke a prior opinion that the activity was not prohibited) an employee from engaging in any moonlighting it deems may not be in the best interest of the company.
 
 Thanks to all our employees whose energy and commitment makes dbt Labs and the larger community a better place!
+
+## [Conscientious Objection](https://www.notion.so/dbtlabs/Conscientious-Objection-371207f8f01c4e94bd4e62eb5c85087c?pvs=4)
+
+### Conscientious objection is the right of an individual to withhold their labor.
+
+Individual employees have the ability to opt out of working on a project or with a client that violates a deeply-held conviction.
+
+We each commit to bringing our whole self to work. Conscientious objection makes space for when a major part of our self conflicts with a major part of our work. 
+
+An example from [Tristan’s writing on this](https://docs.google.com/document/d/12nAw4podecG2JWNcslAMlakujmATzXdgkCbfwLPR0sI/view#):
+
+“We ask an employee, who happens to be vegan, to work closely with Tyson Foods. This employee does the work and does it well, but it’s a major engagement that takes ~a third of their time for many months. After a month, this employee becomes frustrated and starts to look for other jobs.
+
+The problem we’re trying to solve here is individual misery created by forcing someone to do work that violates a deeply-held conviction.”
+
+Conscientious objection applies when a high percentage of your time is directed towards a single client or project for a prolonged period (weeks or months). This will mostly apply to the pro-serv team, some SA and SD relationships, and some implementation engineering. 
+
+🗣️ **If your work conflicts with your deeply held beliefs, talk to your manager.**
+
+If you are assigned to a project or long-term relationship with a client that violates your deeply held beliefs, communicate to your manger that you want to be reassigned to a different project or client. Your manager must work in good faith to accommodate the request. If your work is going to make you miserable and hurt your soul, the whole team will suffer— it’s in everyone’s best interest to make a change. [Again, from Tristan](https://docs.google.com/document/d/12nAw4podecG2JWNcslAMlakujmATzXdgkCbfwLPR0sI/view#): 
+
+“This is not their direct report ‘not being a team player’—rather, it is their direct report optimizing for the long-term. Managers who fail to accommodate such requests risk having high-turnover teams, which will limit their own ability to be successful.”
+
+If you need additional support working with your manager to figure out an accommodation, you can reach out to your People Business Partner, @Meg Colon (Head of People), or @Morgan Russell (DEI Coordinator). 
+
+🛠 **We can help find other solutions when conscientious objection doesn’t solve the problem**
+
+If work that conflicts with your deeply held beliefs is a regular and predictable part of your role rather than an exception, and your right to conscientious objection is impeding the team’s overall success, the best long-term solution may be to look for a role that’s a better fit. You can work with your manager and your People Business Partner to move towards a different role within the company that is more aligned with your personal values. 
+
+💡 You can see some of the discussion that led to this policy in [Working Document: Conscientious Objection](https://www.notion.so/Working-Document-Conscientious-Objection-31977f6aa61b447fabc4f5ac6a20f02f).
