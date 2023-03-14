@@ -146,7 +146,7 @@ At the end of your employment with dbt Labs, if you have unused time off accrued
 
 - If your time off balance is negative, note that we will not deduct any amounts from your final paycheck
 
-## 🌍 If you are employed through Remote.com
+#### 🌍 If you are employed through Remote.com
 
 The above explanation of how accrued time works and pay out upon termination is the same for Remote employees. This is because in your contracts, you still have a set number of days that is shown. You can take any days off as long as you have manager approval.
 
@@ -318,6 +318,8 @@ In accordance with dbt Labs’ open time off policy, employees already are able 
 Time off granted in accordance with this policy shall not be credited as time worked for the purpose of computing overtime.
 
 ### ***Unpaid Leave - United States specific***
+
+We offer the following types of unpaid leave: Medical Leave (FMLA), Discretionary Medical Leave (ADA), Military Leave, and Mandatory Unpaid Leave.
 
 #### **Medical Leave (FMLA)**
 
