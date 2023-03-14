@@ -300,7 +300,7 @@ In the past, dbt Labs would hire in any country except those we had already dete
 
 ### Global Compensation and Benefits
 
-[dbt Labs Compensation Principles](Compensation.md/compensation-principles) 
+[dbt Labs Compensation Principles](Compensation.md#compensation-principles) 
 
 [Global Benefits Strategy & Stipend](https://www.notion.so/Global-Benefits-Strategy-Stipend-03b4ebfbb278451f894a4cca46c90607)
 
