@@ -8,7 +8,7 @@ This handbook is intended to answer many of the questions you might have after j
 ## Overview
 #### [Mission](mission.md) and [Values](values.md)
 #### [Our Distributed Work Experience](#Our-Distributed-Work-Experience)
-#### [Working and Growing Here](/Working-and-Growing-Here.md)
+#### [Working and Growing Here](/workingandgrowinghere.md)
 #### [Compensation](/compensation.md)
 #### [Benefits and Perks](/Benefits.md)
 #### [Training and Policies]
