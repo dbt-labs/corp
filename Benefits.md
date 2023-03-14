@@ -74,83 +74,82 @@ As previously mentioned we look to target locally relevant and competitive benef
 ## 2023 Company Holidays
 
 ### US Company Holidays
-New Years Day (observed)-  Monday, January 2, 2023
-MLK Day- Monday, January 16, 2023
-Memorial Day- Monday, May 29, 2023
-Juneteenth- Monday, June 19, 2023
-Monday before Independence Day- Monday, July 3, 2023
-Independence Day- Tuesday, July 4, 2023
-Friday before Labor Day, Friday, September 1, 2023
-Labor Day- Monday, September 4, 2023
-Thanksgiving- Thursday, November 23, 2023
-Friday after Thanksgiving- Friday, November 24, 2023
-Christmas- Monday, December 25, 2023
-Winter Break- Tuesday, December 26, 2023→Friday, December 29, 2023
-New Year’s Day- Monday, January 1, 2024
+- New Years Day (observed)-  Monday, January 2, 2023
+- MLK Day- Monday, January 16, 2023
+- Memorial Day- Monday, May 29, 2023
+- Juneteenth- Monday, June 19, 2023
+- Monday before Independence Day- Monday, July 3, 2023
+- Independence Day- Tuesday, July 4, 2023
+- Friday before Labor Day, Friday, September 1, 2023
+- Labor Day- Monday, September 4, 2023
+- Thanksgiving- Thursday, November 23, 2023
+- Friday after Thanksgiving- Friday, November 24, 2023
+- Christmas- Monday, December 25, 2023
+- Winter Break- Tuesday, December 26, 2023→Friday, December 29, 2023
+- New Year’s Day- Monday, January 1, 2024
 
 ## United Kingdom Holidays
-New Year’s Day- Monday, January 2, 2023
-Good Friday-Friday, April 7, 2023
-Easter Monday- Monday, April 10, 2023
-Early May Bank Holiday- Monday, May 1, 2023
-Spring Bank Holiday- Monday, May 29, 2023
-Summer Bank Holiday- Monday, August 28, 2023
-Christmas- Monday, December 25, 2023
-Boxing Day- Tuesday, December 26, 2023
-Winter Break- Wednesday, December 27, 2023→Friday, December 29, 2023
+- New Year’s Day- Monday, January 2, 2023
+- Easter Monday- Monday, April 10, 2023
+- Early May Bank Holiday- Monday, May 1, 2023
+- Spring Bank Holiday- Monday, May 29, 2023
+- Summer Bank Holiday- Monday, August 28, 2023
+- Christmas- Monday, December 25, 2023
+- Boxing Day- Tuesday, December 26, 2023
+- Winter Break- Wednesday, December 27, 2023→Friday, December 29, 2023
 
 ## Ireland Holidays
-New Year’s Day- Monday, January 2, 2023
-Saint Patrick’s Day- Friday, March 17, 2023
-Easter Monday- Monday, April 10, 2023
-Early May Bank Holiday- Monday, May 1, 2023
-June Bank Holiday- Monday, June 5, 2023
-August Bank Holiday- Monday, August 7, 2023
-October Bank Holiday- Monday, October 30, 2023
-Christmas- Monday, December 25, 2023
-Saint Stephen’s Day- Tuesday, December 26, 2023
-Winter Break- Wednesday, December 27 → Friday, December 29, 2023
+- New Year’s Day- Monday, January 2, 2023
+- Saint Patrick’s Day- Friday, March 17, 2023
+- Easter Monday- Monday, April 10, 2023
+- Early May Bank Holiday- Monday, May 1, 2023
+- June Bank Holiday- Monday, June 5, 2023
+- August Bank Holiday- Monday, August 7, 2023
+- October Bank Holiday- Monday, October 30, 2023
+- Christmas- Monday, December 25, 2023
+- Saint Stephen’s Day- Tuesday, December 26, 2023
+- Winter Break- Wednesday, December 27 → Friday, December 29, 2023
 
 ## Germany Holidays
-New Year’s Day- Monday, January 2, 2023
-Epiphany (BW,BY & ST)- Friday, January 6, 2023
-Good Friday- Friday, April 7, 2023
-Easter Monday- Monday, April 10, 2023
-Labour Day- Monday, May 1, 2023
-Ascension Day- Thursday, May 18, 2023
-Whit Monday- Monday, May 29, 2023
-Corpus Christi (BW, BY, HE, NW, RP, SL, SN & TH)- Thursday, June 8, 2023
-Assumption Day (BT & SL)- Tuesday, August 15, 2023
-German Unity Day- Tuesday, October 3, 2023
-Christmas Day- Monday, December 25, 2023
-Saint Stephen’s Day- Tuesday, December 26, 2023
-Winter Break- Wednesday, December 27 → Friday, December 29, 2023
+- New Year’s Day- Monday, January 2, 2023
+- Epiphany (BW,BY & ST)- Friday, January 6, 2023
+- Good Friday- Friday, April 7, 2023
+- Easter Monday- Monday, April 10, 2023
+- Labour Day- Monday, May 1, 2023
+- Ascension Day- Thursday, May 18, 2023
+- Whit Monday- Monday, May 29, 2023
+- Corpus Christi (BW, BY, HE, NW, RP, SL, SN & TH)- Thursday, June 8, 2023
+- Assumption Day (BT & SL)- Tuesday, August 15, 2023
+- German Unity Day- Tuesday, October 3, 2023
+- Christmas Day- Monday, December 25, 2023
+- Saint Stephen’s Day- Tuesday, December 26, 2023
+- Winter Break- Wednesday, December 27 → Friday, December 29, 2023
 
 ## Australia Holidays
-New Year’s Day- Monday, January 2, 2023
-Australia Day- Thursday, January 26, 2023
-Labour Day (WA)- Monday, March 6, 2023 
-Canberra Day (ACT)- Monday, March 13, 2023
-Labour Day (VIC, TAS)- Monday, March 13, 2023
-Good Friday- Friday, April 7, 2023
-Easter Monday- Monday, April 10, 2023
-Anzac Day- Tuesday, April 25, 2023
-Reconciliation Day (ACT)- Monday, May 29, 2023
-Melbourne Cup Day (VIC)- Tuesday, November 7, 2023
-Christmas Day- Monday, December 25, 2023
-Boxing Day- Tuesday, December 26, 2023
-Winter Break- Wednesday, December 27 → Friday, December 29, 2023
+- New Year’s Day- Monday, January 2, 2023
+- Australia Day- Thursday, January 26, 2023
+- Labour Day (WA)- Monday, March 6, 2023 
+- Canberra Day (ACT)- Monday, March 13, 2023
+- Labour Day (VIC, TAS)- Monday, March 13, 2023
+- Good Friday- Friday, April 7, 2023
+- Easter Monday- Monday, April 10, 2023
+- Anzac Day- Tuesday, April 25, 2023
+- Reconciliation Day (ACT)- Monday, May 29, 2023
+- Melbourne Cup Day (VIC)- Tuesday, November 7, 2023
+- Christmas Day- Monday, December 25, 2023
+- Boxing Day- Tuesday, December 26, 2023
+- Winter Break- Wednesday, December 27 → Friday, December 29, 2023
 
 ## New Zealand Holidays
-New Years Day- Monday, January 2
-New Year Holiday- Tuesday, January 3
-Waitangi Day- Monday, February 6 
-Good Friday- Friday, April 7
-Easter Monday- Monday, April 10 
-ANZAC Day- Tuesday, April 25 
-King’s Birthday- Monday, June 5
-Matariki- Friday, July 14
-Labour Day- Monday, October 23
-Chatham Islands Anniversary- Monday, November 27
-Christmas Day- Monday, December 25
-Boxing Day- Tuesday, December 26
+- New Years Day- Monday, January 2
+- New Year Holiday- Tuesday, January 3
+- Waitangi Day- Monday, February 6 
+- Good Friday- Friday, April 7
+- Easter Monday- Monday, April 10 
+- ANZAC Day- Tuesday, April 25 
+- King’s Birthday- Monday, June 5
+- Matariki- Friday, July 14
+- Labour Day- Monday, October 23
+- Chatham Islands Anniversary- Monday, November 27
+- Christmas Day- Monday, December 25
+- Boxing Day- Tuesday, December 26
