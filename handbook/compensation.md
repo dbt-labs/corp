@@ -1,6 +1,12 @@
 # Compensation 
 
-## Compensation Principles
+#### [Compensation Principles](#Compensation-Principles-1)
+#### [Salary Bands Philosophy](#Salary-Bands-Philosophy-1)
+#### [Global Compensation and Benefits](#Global-Compensation-and-Benefits-1)
+#### [How Salary Bands are Made](How-Salary-Bands-are-Made-1)
+#### [FY24 Salary Bands](FY24-Salary-Bands-1)
+
+## [Compensation Principles](https://www.notion.so/dbtlabs/dbt-Labs-Compensation-Principles-0d570903e75e45fc8f9f3fca13a77d00?pvs=4)
 Learn more about how we think about compensation at dbt Labs. Below are our compensation principles which we reference when making all compensation decisions.
 
 ### The Why
@@ -91,13 +97,13 @@ If you have a specific question around your compensation, one of your direct rep
 [^5]: We leverage data from Radford, Mercer, Carta, Pave and Options Impact.
 [^6]: ISOs are specifically US-based because they are an outcome of US tax law.
 
-# Salary Bands Philosophy
+## Salary Bands Philosophy
 
 Learn more about our historical practice on how we’ve built and implemented updated salary bands as well as how that methodology has evolved.
 
 </aside>
 
-## **Current Pay Band Structure**
+### **Current Pay Band Structure**
 
 Our previous bands were developed using Options Impact data for Tech / Enterprise companies using an “All US” of companies that had raised similar amounts of $. This approach has previously served us well in our earlier stages as it aligned our bands with similar companies, at similar funding levels as well as a reflection of our widely distributed workforce. Salary Bands were then built using the **60th percentile as the bottom of the range and used the 90th percentile as top of band.**
 
@@ -105,7 +111,7 @@ You can find an in depth overview of our how our previous bands were developed o
 
 [(Archived) US Salary Bands FY23](https://www.notion.so/Archived-US-Salary-Bands-FY23-8811acc0c58c42afb1d2471ef2d3f995)
 
-## Update to Compensation Philosophy / Band Structures
+### Update to Compensation Philosophy / Band Structures
 
 As mentioned in the[dbt Labs Compensation Principles](#Compensation-Principles), we shifted to using the 75th Percentile as the basis for the midpoint as well as using a consistent range spread based on job level. We continue to use industry specific data as well as targeting all country data sets.  This allows us to build consistency in bands as well as making the bands slightly wider. With this updated methodology, most of our bands minimums may stretch down to the 50th Percentile and the maximum’s push slightly past the 90th percentile in most if not all cases. This will allow further flexibility and utilization of an entire range for a role.
 
@@ -129,7 +135,7 @@ As mentioned in the[dbt Labs Compensation Principles](#Compensation-Principles),
 |   L8  	|    17.5%    	|
 |   L9  	|    17.5%    	|
 
-## Increased Data points
+### Increased Data points
 
 As dbt labs has continued to grow, so has our need for more robust data sources to further develop and benchmark our compensation structure to. This is a common next step as we continue to mature and evolve our compensation benchmarking practices. After evaluating a handful of data sources, we found that using a combination of the following data sets creates a solid and diverse base to build our updated ranges from (Radford, Mercer, Pave, Carta and Options Impact).
 
@@ -137,7 +143,7 @@ We believe that with more data we can better target [more specific roles[^7] wit
 
 Another common practice in salary band development is to assess and utilize data based on the quality and veracity of that data set. While we believe that each of the sources we are using has its own merit for use, we have chosen to use a weighting structure to develop the midpoint of our ranges instead of using a straight average. This allows us to better index on data sources like Radford and Mercer which are considered a ‘Gold standard’ data sets within the compensation community. 
 
-## Data Sources & Weighted Average Approach
+### Data Sources & Weighted Average Approach
 
 | Data Set 	| Weight 	| Data Cut                                       	| Data Type                                                                                              	| Description of Data set                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	|
 |----------	|--------	|------------------------------------------------	|--------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
@@ -156,7 +162,7 @@ Additionally, we have outlined the step by step process of how we go from Raw da
 
 [dbt Labs Compensation Principles](#Compensation-Principles)
 
-[Global Benefits Strategy & Stipend](https://www.notion.so/Global-Benefits-Strategy-Stipend-03b4ebfbb278451f894a4cca46c90607)
+[Global Benefits Strategy & Stipend](/handbook/benefits.md/#Global-Benefits-Strategy-&-Stipend)
 
 In the past, we have hired internationally using our US-based compensation bands. As we are growing that presence internationally, our approach here will have to change in order to create efficiency and scalability with our growth. To that end, we will apply our compensation philosophy to each country we employ in. 
 
@@ -164,19 +170,14 @@ This is because the labor markets, benefits, pension/superannuation schemes and 
 
 We are paying **local country rates** based on [cost of market (also referred to as cost of labor)](https://www.erieri.com/blog/post/cost-of-labor-vs-cost-of-living). This means we will align our compensation with the top (75th - 90th percentile) in each country (looking at ”All UK” “All Germany”, “All Australia”, etc.)
 
-### Relocation (Permanent or Semi-permanent)
+#### Relocation (Permanent or Semi-permanent)
 
-<aside>
 📌 All international relocation requests must be approved by the People team, Finance team and the team members management. To initiate a request, please contact your People Business Partner.
-
-</aside>
 
 [People Business Partners](https://www.notion.so/People-Business-Partners-7c4b9fca56e245e684bd8d8e79f65910)
 
-<aside>
 📌 Relocation requests within country may need approval by the team members management due to time zone or regional requirements. Please communicate with your manager if you plan a move to a different region in your country.
 
-</aside>
 
 If a team member chooses to relocate within each country (ex. from London → Manchester or Boston → Chicago), their compensation will not change. However, if the relocation is to a different country, they will be re-aligned to the new country’s compensation bands. This applies both when moving to a lower and higher cost market. 
 
@@ -184,10 +185,8 @@ Compensation bands for each country we have an entity in will be listed in our c
 
 **What to consider before moving?**
 
-<aside>
 ⏳ Please initiate a move at least 3 months before your target move date. This allows us to process necessary approvals and make sure we’re able to execute the transfer.
 
-</aside>
 
 1. If the team member is moving to a new country, the move must have prior approval by their People Business Partner, the dbt Labs finance team, their manager and their team’s leadership.
     1. Please allow for one month for approvals.
@@ -200,10 +199,7 @@ Compensation bands for each country we have an entity in will be listed in our c
 
 ### Short term relocation.
 
-<aside>
 📅 Generally, team members may live or work outside their permanent residence for an aggregate amount of 183 days (6 months) per year. However, the amount does depend on the particular country (or state) and what it considers to be a "resident" for tax purposes, as well as what it considers the tax year.
-
-</aside>
 
 Any work being done in a country where we do not have a current presence must be approved by security to ensure access to our systems remains secure. Please submit a ticket with IT prior to confirming your working arrangements in that country. 
 
@@ -221,13 +217,10 @@ There are different tax consequences for ISO and NSO options.  Additionally, tax
 
 ‼️ **If there is a lapse in providing services to the Company, this will qualify as a termination and all unvested options will be canceled.  If a team member is rehired and resumes providing services to the Company, any grant associated with employment will need to go through the new hire process for equity.  This means that a team member would receive a new strike price, vesting period, etc.**
 
-</aside>
 
 ## How Salary Bands are Made
-<aside>
-📌 Compensation & salary band development is both an art and a science and we strive to leverage data and best practice to develop bands that will allow us to both attract and retain talent. The science is the clear process of developing and selecting data to produce a target market percentage. The art is the sifting through the nuances of this imperfect data to ensure that career progression as well as cross company comparisons align.
 
-</aside>
+📌 Compensation & salary band development is both an art and a science and we strive to leverage data and best practice to develop bands that will allow us to both attract and retain talent. The science is the clear process of developing and selecting data to produce a target market percentage. The art is the sifting through the nuances of this imperfect data to ensure that career progression as well as cross company comparisons align.
 
 ### Process of Developing Salary Bands
 
