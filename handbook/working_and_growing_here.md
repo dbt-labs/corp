@@ -1,11 +1,18 @@
 # Working and Growing at dbt Labs
 
+#### [Annual Review Cadence](#annual-review-cadence-1)
+#### [Performance Reviews](#performance-reviews-1) 
+#### [Internal Mobility](#internal-mobility-1)
+#### [Compensation Reviews and Promotion Cycles](#compensation-reviews-and-promotion-cycles-1) 
+#### [Embedded Roles](#embedded-roles-1)
+#### [Global Employment](#global-employement-1)
+#### [Moonlighting Guidance](#moonlighting-guidance-1)
+#### [Conscientious Objection](#conscientious-objection-1)
+
 ## Annual Review Cadence
 
-<aside>
-🌏 **Note that all dates below are formatted by US dates, so it will be MM/DD**
+🌏 *Note that all dates below are formatted by US dates, so it will be MM/DD*
 
-</aside>
 
 ### There are two types of review cycles at dbt Labs.
 
@@ -135,6 +142,9 @@ Because of the relationship between performance, and compensation/ promotions, t
     - Promotions: 6 hours per team member (including writing, collecting and meetings)
     - Merit: 2 hours for requests and calibrations plus 30 minutes for each eligible team member for the discussion.
 
+## [Performance Reviews](https://www.notion.so/Performance-Reviews-at-dbt-Labs-054564274f6042a09e1e8515df579e06) 
+
+## [Compensation Reviews and Promotion Cycles](https://www.notion.so/Compensation-Reviews-and-Promotion-Cycles-3cd43b727be1471c991cb6964bae4ccd) 
 
 ## Internal Mobility
 
@@ -212,11 +222,6 @@ After you go through the interview process, you will hear back from the hiring m
 2. Your career goals and going over what you may have already worked on with your current manager (progress towards your goals)
 3. Your past performance reviews
 4. Expectations in the new role (30/60/90 day plan)
-
-
-## [Performance Reviews](https://www.notion.so/Performance-Reviews-at-dbt-Labs-054564274f6042a09e1e8515df579e06) 
-
-## [Compensation Reviews and Promotion Cycles](https://www.notion.so/Compensation-Reviews-and-Promotion-Cycles-3cd43b727be1471c991cb6964bae4ccd) 
 
 ## [Embedded Roles](https://www.notion.so/dbtlabs/Embedded-Roles-at-dbt-Labs-348e63b53dcf41e0a103b1fbf682e3af?pvs=4)
 
