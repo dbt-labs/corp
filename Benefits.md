@@ -2,7 +2,7 @@
 
 ## Overview
 #### [Global Benefits Strategy & Stipend](#Global-Benefits-Strategy-&-Stipend-1)
-#### Healthcare Benefits
+#### [Healthcare Benefits](#Healthcare-Benefits-1)
 #### [Stipends](#Stipends-1)
 #### [Time Off Policy](#Time-Off-Policy-1)
 #### [2023 Company Holidays](#2023-Company-Holidays)
