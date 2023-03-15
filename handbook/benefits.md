@@ -1,6 +1,5 @@
 # Benefits and Perks
 
-## Overview
 #### [Global Benefits Strategy & Stipend](#Global-Benefits-Strategy-&-Stipend-1)
 #### [Healthcare Benefits](#Healthcare-Benefits-1)
 #### [Stipends](#Stipends-1)
@@ -9,8 +8,9 @@
 #### [Leave of Absence Programs](#Leave-of-Absence-Programs-1)
 #### [Workplace Rental](#Workplace-Rental-1)
 #### [Employee Discounts](#Employee-Discounts-1)
-#### Wellness Program
-#### Employee Assistance Programs & Resources
+#### [Wellness Program](#Wellness-Program-1)
+#### [Employee Assistance Programs & Resources](#Employee-Assistance-Programs-&-Resources-1)
+#### [Anonymous Hotline](#Anonymous-Hotline-1)
 
 
 ## [Global Benefits Strategy & Stipend](https://www.notion.so/dbtlabs/Global-Benefits-Strategy-Stipend-03b4ebfbb278451f894a4cca46c90607?pvs=4)
@@ -493,3 +493,46 @@ You can find savings on things like:
 - Bright’s sessions are live and interactive to help you feel connected to your team and to Bright’s educators.
 
 Learn more about setting up your account [here](https://www.notion.so/dbtlabs/Bright-Wellness-Program-699cfc7511f743f887226ed218adf676?pvs=4#4be0b7d338ef47feb3a7dfbd8ae278d1).
+
+## [Employee Assistance Programs & Resources](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4)
+
+## [Anonymous Hotline](https://www.notion.so/dbtlabs/Anonymous-Hotline-309767332cbc4fdf8b8fee1bc7c5e9ce?pvs=4)
+dbt Labs has an anonymous hotline for employees to be able to report workplace issues or *suspected illegal or unethical conduct* anonymously. 
+
+📌 **This service is implemented to provide an additional option for anonymous reporting but please remember you can always approach your manager, Meg Colón (Head of People), your People Business Partner, or leadership directly about any issues you are having.**
+
+Additionally, for any questions or feedback that you may not be comfortable raising directly, you can always leverage the Peer Advocate Program.
+
+[Peer Advocate Program](https://www.notion.so/Peer-Advocate-Program-ef66f66a1b2f40a385b2efb578bfb4c1)
+
+### Initiating a report
+
+To initiate a report, you should either call the hotline (833-602-7944), fill out the [mobile intake form](https://dbtlabs.navexone.com/), or fill out [website intake form](https://secure.ethicspoint.com/domain/en/report_custom.asp?clientid=83870).
+
+There is a wide variety of issues that you can choose to report, including:
+
+- Conflicts of interest
+- Discrimination or harassment
+- Misconduct or inappropriate behavior
+- Accounting and auditing matters
+- Anti-bribery
+- Confidentiality and misappropriation
+
+If you have any questions about the service, please contact Meg Colón, Helena Gorman, or Vanessa Yeh.
+
+### More about Ethicspoint
+
+- **Who has access to see the information submitted?**
+    - Only Ethicspoint System Administrators (Meg Colón and Helena Gorman) and the System Advocates (Vanessa Yeh and Gabriel Bolatiwa) have access to the reports.
+    - If one system admin is listed in the report, then the other one would have access. If both are listed in the report, then Vanessa or Gabriel, the system advocates, would have access to the report.
+- **SLA for actions taken / investigation / follow up**
+    - A team member will initiate the report, chose the type of report and fill out the report details.
+        - Please note that the reporter will be required to create a password for the report and at the end of the process, the team member will be given a report key that they should store somewhere. Both the password and the key will allow the team member to follow up on their report.
+        - If the team member would like to follow up, they can do so by calling the hotline or visiting the website.
+    - Once a report is made, the administrator assigned will get a notification and can view the open case.
+        - This will initiate an investigation; the people team will thoroughly investigate the claims being made through both interviews and collecting evidence through other avenues.
+            - Ethicspoint does allow us to communicate with the reporter while maintaining anonymity if additional information is required.
+        - We will comment on the case as the investigation progresses and when it has been completed.
+            - If any wrongdoing or breach of policy has been determined, we will take disciplinary action up to and including termination.
+- **Reminder of our no-retaliation policy**
+    - It is important to remember that, dbt Labs has a no-retaliation policy. This means that no team member will be retaliated against for making a complaint in good faith through **any of our reporting avenues**. If a team member feels they have been retaliated against, they should file a complaint using the procedures set forth on this page.
