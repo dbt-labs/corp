@@ -484,3 +484,12 @@ You can find savings on things like:
 - Electronics
 - and more!
 
+## [Wellness Program](https://www.notion.so/dbtlabs/Bright-Wellness-Program-699cfc7511f743f887226ed218adf676?pvs=4)
+
+🚨 At dbt Labs self-care is not a luxury; its a priority. dbt Labs partnered with [Bright](https://choosebright.com/dbt/), the creators of a well-being platform for teams, to offer you a comprehensive well-being program - the Bright Pass - for free!
+
+- Keynotes and other events are also included each week covering a range of topics, such as financial well-being, sleep,  and coping with stress.
+- The Bright Pass gives you access to over 250 live, virtual classes each week. Sessions include daily yoga, fitness, meditation, and nutrition!
+- Bright’s sessions are live and interactive to help you feel connected to your team and to Bright’s educators.
+
+Learn more about setting up your account [here](https://www.notion.so/dbtlabs/Bright-Wellness-Program-699cfc7511f743f887226ed218adf676?pvs=4#4be0b7d338ef47feb3a7dfbd8ae278d1).
