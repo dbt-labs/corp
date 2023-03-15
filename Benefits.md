@@ -61,6 +61,8 @@ As previously mentioned we look to target locally relevant and competitive benef
 
 ## [Healthcare Benefits](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
 
+Learn more about our medical plans [here](https://app.strivebenefits.com/dbt/2022-2023-medical?country=us).
+
 ## Stipends
 
 ### Office Stipend
@@ -155,6 +157,12 @@ Please discuss your time off schedule ahead of time with your manager, as they d
 
 
 ## 2023 Company Holidays
+
+In addition to our unlimited vacation policy, dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. You are asked to observe your local holidays (for the country you reside in).
+
+We recognize that there are many other cultural, religious or location based holiday's and encourage our team members to work with their manager to take the time they need.
+
+Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please reference the list of public holidays provided via Remote's Platform.
 
 ### US Company Holidays
 - New Years Day (observed)-  Monday, January 2, 2023
@@ -399,3 +407,60 @@ b) submit your request via this [**leave request form](https://form.asana.com/?k
 The People Support team will introduce you to a Sparrow Leave Specialist as soon as your leave is approved. Sparrow will schedule a call with you to discuss your leave plans, identify the key dates when they need to be involved, and gather the necessary information to file your leave paperwork on your behalf.
 
 Employees who will be going on a leave of absence should review the related policy outlined above.
+
+## Workplace Rental 
+
+Working from home does not work for everyone. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
+
+### Goals/Values of Enabling Work Outside of the Home:
+
+1. **Productivity**: dbt’s remote-first / async culture is designed to allow employees to “work from anywhere” vs just “work from home”.  The ***primary goal*** of supporting workplaces outside the home is to enable employees to build the optimal environment for their work.
+2. **Inclusiveness:** In-person / outside the home workplace benefits must not compromise remote employees’ ability to collaborate.  
+3. **Community:** Provide opportunities for team members to build rapport with one another, engage cross-functionally, and strengthen a sense of shared values and goals.
+
+🖐️ Please keep in mind that the main goal of this is to enhance your personal work environment. If you choose to collaborate in a co-working space with co-workers, you are mindful that everyone who needs to be involved in a conversation is.  If your project/collaboration can be accomplished over zoom or asynchronously, then it should be done that way to avoid excluding others. 
+
+### By enabling employees to rent workspaces outside the home to optimize productivity! We offer:
+
+1. $250 per month in workplace rental coverage for all employees through Liquidspace 
+2. $1500 per quarter workplace rental stipend for Directors (L7+) and above to book large conference room / work spaces through Liquidspace to support in-person meetings for teams
+
+### Frequently Asked Questions
+
+#### What is Liquidspace and how do I use it?
+
+About Liquidspace:   Liquidspace is an online marketplace for renting workplaces and offices.  It is considered the “airbnb of workplace rentals”  in that it utilizes a number of companies and private hosts to allow for over 10,000 locations to choose from. Liquidspace will be a new tile added to your Okta board.  Simply login from there and begin searching. 
+
+#### When should I use Liquidspace vs a dbt Office?
+
+When in the vicinity / metro area of a dbt Labs office, leverage the office instead of liquidspace to the best of your ability.   If you are local to an office but the office is full or doesn’t suit your needs (e.g. you need a bigger space for a customer / team meeting) feel free to leverage liquidspace as needed. 
+
+#### What if I want to rent a different workspace for the day that is not available on liquidspace?
+
+We do not reimburse one-time workplace rental expense for locations outside the Liquidspace platform. 
+
+However, if you are looking for a space and there are no viable or available options near you in LiquidSpace, and you can find space elsewhere, you may use your personal card and expense the cost up to $250/month.  Please use the expense code “Office Space” in Airbase. 
+
+#### Can I go over my budget on liquidspace?
+
+No - the $250 rental benefit is strictly enforced within Liquidspace.  For example, if you have used $230 of the monthly benefit, and want to book a day pass for $35, liquidspace will not process the rental. 
+
+#### Is there an exception process if i want to rent a monthly space that is more expensive than my monthly budget?
+
+YES! - If you are a team member who does not have an optimal at-home workplace, **and expects to be going into the office 3 times a week or more**, we want to support you in finding the right work environment! 
+
+Most monthly subscriptions are more than the $250 limit, so liquidspace will not allow you to book on the company plan.  In order to book the space, you can use your own credit card (on liquidspace OR another platform) and then claim the $250 credit through Airbase.  You must book an unlimited monthly subscription or permanent desk at a coworking space to be eligible for the airbase refund (we do not offer this for day passes).
+
+#### Non-US-based Employees:
+
+LiquidSpace is available in many countries as well. If there is not a space near you on LiquidSpace, we want you to be able to work from anywhere as well!  If this is the case, you can find space elsewhere, pay for your space with your personal card and expense, per month, up to:
+
+- $250 USD 
+- €228.58 EUR
+- £189.00 GBP
+- $336.61 AUD 
+- $364.86 NZD
+- $234.17 CHF
+- $318.38 CAD
+
+Learn more about how to use LiquidSpace and how to book larger meeting spaces [here](https://www.notion.so/dbtlabs/Booking-Larger-Meeting-Spaces-083779ac7ddb4845b81d07e03680cfa7?pvs=4)
