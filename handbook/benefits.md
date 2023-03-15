@@ -200,7 +200,7 @@ The above explanation of how accrued time works and pay out upon termination is 
 Please discuss your time off schedule ahead of time with your manager, as they do not have visibility into requests within the Remote platform.
 
 
-## 2023 Company Holidays
+## [2023 Company Holidays](https://www.notion.so/dbtlabs/2023-Company-Holidays-9e0e48bb8404496a868161e170e0a494?pvs=4)
 
 In addition to our unlimited vacation policy, dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. You are asked to observe your local holidays (for the country you reside in).
 
