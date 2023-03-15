@@ -469,5 +469,18 @@ LiquidSpace is available in many countries as well. If there is not a space near
 
 Learn more about how to use LiquidSpace and how to book larger meeting spaces [here](https://www.notion.so/dbtlabs/Booking-Larger-Meeting-Spaces-083779ac7ddb4845b81d07e03680cfa7?pvs=4)
 
-## Employee Discounts
+## [Employee Discounts](https://www.notion.so/dbtlabs/US-Benefit-Resources-22-23-9bb7ff3a7a944918bbca648f27ce8eb8?pvs=4#53c3890f26c540db82516fa51ba988ae)
+
+Employee discounts are available through [LifeMart](https://lm.lifemart.com/group/lifemart/home). 
+
+*Login using the same email you use to login to ADP. (Currently, this should be your FA email)*
+
+You can find savings on things like:
+
+- Travel
+- Car rentals
+- Home items
+- Childcare
+- Electronics
+- and more!
 
