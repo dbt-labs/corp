@@ -7,8 +7,8 @@
 #### [Time Off Policy](#Time-Off-Policy-1)
 #### [2023 Company Holidays](#2023-Company-Holidays)
 #### [Leave of Absence Programs](#Leave-of-Absence-Programs-1)
-#### Workplace Rental
-#### Employee Discounts
+#### [Workplace Rental](#Workplace-Rental-1)
+#### [Employee Discounts](#Employee-Discounts-1)
 #### Wellness Program
 #### Employee Assistance Programs & Resources
 
@@ -62,6 +62,10 @@ As previously mentioned we look to target locally relevant and competitive benef
 ## [Healthcare Benefits](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
 
 Learn more about our medical plans [here](https://app.strivebenefits.com/dbt/2022-2023-medical?country=us).
+
+New hires may enroll themselves and dependents in health benefits online through ADP within the first 30 days of employment. There is a strict 30 day enrollment window. After benefit elections are submitted, enrollments go into effect the first day of employment (your start date) at dbt Labs.
+
+To enroll in benefits as a new hire, existing employee during open enrollment or at a time of a qualifying life event, follow our [guide](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4). Note: Employees who currently have a High Deductible Health Plan coverage selection are able to adjust their HSA contributions throughout the year. This is the only benefit adjustment that does not require a Qualifying Life or Work Event.
 
 ## Stipends
 
@@ -464,3 +468,6 @@ LiquidSpace is available in many countries as well. If there is not a space near
 - $318.38 CAD
 
 Learn more about how to use LiquidSpace and how to book larger meeting spaces [here](https://www.notion.so/dbtlabs/Booking-Larger-Meeting-Spaces-083779ac7ddb4845b81d07e03680cfa7?pvs=4)
+
+## Employee Discounts
+
