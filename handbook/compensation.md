@@ -1,9 +1,9 @@
 # Compensation 
 
-#### [Compensation Principles](#Compensation-Principles-1)
-#### [Global Compensation and Benefits](#Global-Compensation-and-Benefits-1)
-#### [Salary Bands Philosophy](#Salary-Bands-Philosophy-1)
-#### [How Salary Bands are Made](How-Salary-Bands-are-Made-1)
+### [Compensation Principles](#Compensation-Principles-1)
+### [Global Compensation and Benefits](#Global-Compensation-and-Benefits-1)
+### [Salary Bands Philosophy](#Salary-Bands-Philosophy-1)
+- ### [How Salary Bands are Made](How-Salary-Bands-are-Made-1)
 #### [FY24 Salary Bands](FY24-Salary-Bands-1)
 
 ## [Compensation Principles](https://www.notion.so/dbtlabs/dbt-Labs-Compensation-Principles-0d570903e75e45fc8f9f3fca13a77d00?pvs=4)
@@ -65,9 +65,7 @@ Our compensation philosophy has been arrived at over the course of many years, c
 8. We base compensation on current market data for a role / level / country. The point in the range a candidate is offered is dependent on the candidate’s experience in the market and internal pay equity. A candidate’s previous pay is not a factor in setting their compensation at dbt Labs.
     1. In competitive offer scenarios, we may leverage sign-on bonuses. This lever is reserved for special cases and used sparingly.
     
-    [Making Offers Using Pay & Equity Ranges](https://www.notion.so/Making-Offers-Using-Pay-Equity-Ranges-f0a8c7d90b6347569dcce539cf21867e)
-    
-    [Sign-on Bonus Best Practice](https://www.notion.so/Sign-on-Bonus-Best-Practice-e7eddbcf24d84f2db7592898654f305c)
+    [Pay & Equity Ranges in Job Offers](https://www.notion.so/Making-Offers-Using-Pay-Equity-Ranges-f0a8c7d90b6347569dcce539cf21867e) 
     
 9. We won’t reduce compensation in role within the same market (country). A permanent or semi-permanent move to a new country will result in moving to that new local rate. More details on relocation can be found here:
     
@@ -393,3 +391,56 @@ Hiring globally is a business and people decision that has many factors attached
 
 ## [Equity Bands](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5)
 
+## [Pay & Equity Ranges in Job Offers](https://www.notion.so/Making-Offers-Using-Pay-Equity-Ranges-f0a8c7d90b6347569dcce539cf21867e) 
+
+### Using Salary Ranges
+
+When determining an offer for a candidate, we consider two primary and two secondary factors in conjunction with the approved salary band.
+
+[US Salary Bands FY24](https://www.notion.so/0425a64c1fd64ac0a861586e97143367)
+[International Salary Bands FY24](https://www.notion.so/dbtlabs/a667a8e4294a49efb255151b64c75a85?v=4abc278c7f114911983163d92e12e5b2)
+
+**Primary Factors**
+
+1. The applicants knowledge, skills and experience compared to what’s needed for the role.
+    1. How does this candidates interview feedback compare against the hiring plan (what are the strengths and tradeoffs we are working with)
+2. Internal Equity - How does this applicant compare or slot relative to other team members that are in the same role and where are they placed with in the range.
+
+**Secondary Factors**
+
+1. Applicant's salary expectations or other competitive offers
+2. Budgets: Approved budgeted headcount has already been budgeted at the midpoint of the range.
+
+**All of these factors are considered and viewed on a sliding scale when determining the appropriate offer relative to the established pay range.** 
+
+### **Understanding salary ranges and targets**
+
+When looking at the established salary range, we consider 3 key aspects of the salary range on a sliding scale in conjunction with the factors outlined above. 
+
+![Min,Mid,Max](https://user-images.githubusercontent.com/127452841/225728109-639ee762-dfa0-44bb-9dcb-f45444f90686.png)
+
+1. Minimum: target for applicants that just meet the minimum job requirements and would be considered early in ‘developing’ into the role duties and expectations.
+2. Midpoint: Target for applicants that match most of the criteria and are considered readily ‘proficient’ at this level relative to job expectations.
+3. Maximum: should be used **extremely** sparingly as an employee who is at or approaching the maximum of a pay range is an indicator that the individual is distinctly more ‘advanced’ or experienced than the job expectations. With maximum or higher end placements, individuals would be quickly approaching a promotion (if internal) or is potentially overqualified for the existing job level which may lead to potentially up-leveling a role assuming there is sufficient business need.
+    -  The question we always ask as a best practice - “would this person be ready to move into the next level role within the next 12 months?” 
+
+### Using Equity Ranges
+
+The use of equity ranges largely follows a similar practice as salary ranges with a key difference around internal equity. 
+
+Internal equity is framed around how a candidate compares to the rest of the team holistically rather than based on equity. This is because equity amounts & values will continue to change over time and is direct comparison like comparing and evaluating cash comp (ie. Someone who joined post Series B ≠ Post Series D)
+
+We use the [Equity Bands](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5) as the basis for the equity offering.
+
+Then we use an internal [Equity Scenario Calculation tool](https://docs.google.com/spreadsheets/d/13GM9fLEZjUv_T5dVB-6LvVKWkbqq24CD8ngSmYT0PMQ/edit#gid=1621073057) to determine what a candidate should be offered within the equity range (# of Shares, Net Value, Gross Value).
+
+### **FAQ**
+
+How do we navigate applicants that request higher salaries than the established range or whats recommended?
+
+- A few aspects / questions to consider is how does this applicants history / current role compare with the role being offered and is this an apples to apples conversation. (ex. Applicant is currently a Sr. Manager but is moving into a Sr. IC role - We wouldn’t be targeting similar salaries in this case as the applicant profile is different than the role to be filled)
+- Two additional things to consider here: are we actually looking for 1 ) the right profile or 2) have the right hiring plan based on business need.
+
+What happens if the applicant is the right fit and would be considered ‘proficient’ but is requesting higher than the midpoint of the salary range or equity?
+
+- Weigh out the talent you are assessing and consider if this is an applicant that you are willing to pay above the recommended amount. Additionally, consider the impact that this would have compared to existing staff that may be similarly situated in terms of experience and expertise.
