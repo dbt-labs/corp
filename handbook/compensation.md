@@ -3,8 +3,12 @@
 ### [Compensation Principles](#Compensation-Principles-1)
 ### [Global Compensation and Benefits](#Global-Compensation-and-Benefits-1)
 ### [Salary Bands Philosophy](#Salary-Bands-Philosophy-1)
-- ### [How Salary Bands are Made](How-Salary-Bands-are-Made-1)
-#### [FY24 Salary Bands](FY24-Salary-Bands-1)
+- #### [How Salary Bands are Made](How-Salary-Bands-are-Made-1)
+- #### [FY24 Salary Bands](salary-bands-fy24-1)
+- #### [International Salary Bands](#international-salary-bands)
+### [Equity](#equity-1)
+- #### [FY24 Equity Bands](#equity-bands-fy24-1)
+### [Pay & Equity Ranges in Job Offers](#pay--equity-ranges-in-job-offers)
 
 ## [Compensation Principles](https://www.notion.so/dbtlabs/dbt-Labs-Compensation-Principles-0d570903e75e45fc8f9f3fca13a77d00?pvs=4)
 Learn more about how we think about compensation at dbt Labs. Below are our compensation principles which we reference when making all compensation decisions.
@@ -350,7 +354,7 @@ As mentioned in [How Salary Bands are Made](#How-Salary-Bands-Are-Made), the fir
 All employees have access to our salary bands.
 
 - [US Salary Bands FY24](https://www.notion.so/dbtlabs/0425a64c1fd64ac0a861586e97143367?v=9db7a2df831b4448bcb133bfedead3e3)
-- [International Sarlary Bands FY24](https://www.notion.so/dbtlabs/International-Salary-Bands-FY24-771a98d468154bf4af3f08baf90ec45b?pvs=4)
+- [International Salary Bands FY24](https://www.notion.so/dbtlabs/International-Salary-Bands-FY24-771a98d468154bf4af3f08baf90ec45b?pvs=4)
 
 ## [International Salary Bands](https://www.notion.so/dbtlabs/International-Salary-Bands-FY24-771a98d468154bf4af3f08baf90ec45b?pvs=4)
 
@@ -387,9 +391,9 @@ You can find more information in [Global Benefits Strategy & Stipend](/handbook/
 
 Hiring globally is a business and people decision that has many factors attached to it, from total cost, talent density, business need (sales presence, locale expertise etc). While we grow and expand into various countries we hold true to our [values](/values.md) and our [Compensation Principles](#compensation-principles-1) to ensure we are rewarding people in a locally competitive, relevant and equitable way.
 
-## [Equity Overview](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171)
+## [Equity](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171)
 
-## [Equity Bands](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5)
+### [Equity Bands FY24](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5)
 
 ## [Pay & Equity Ranges in Job Offers](https://www.notion.so/Making-Offers-Using-Pay-Equity-Ranges-f0a8c7d90b6347569dcce539cf21867e) 
 
