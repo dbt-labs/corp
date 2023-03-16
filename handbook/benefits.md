@@ -1,23 +1,23 @@
 # Benefits and Perks
 
-#### [Global Benefits Strategy & Stipend](#Global-Benefits-Strategy--Stipend-1)
-#### [Healthcare Benefits](#Healthcare-Benefits-1)
+### [Global Benefits Strategy & Stipend](#Global-Benefits-Strategy--Stipend-1)
+### [Healthcare Benefits](#Healthcare-Benefits-1)
 - #### [Medical Plans](#medical-plans-1)
 - #### [Health Related Travel Benefit (US)](#health-related-travel-benefit-us-1)
 - #### [International Travel Emergency Health Benefits (US)](#International-Travel-Emergency-Health-Benefits-(US))
-#### [Stipends](#Stipends-1)
+### [Time Off Policy](#Time-Off-Policy-1)
+- #### [2023 Company Holidays](#2023-company-holidays-1)
+- #### [Leave of Absence Programs](#Leave-of-Absence-Programs-1)
+### [Stipends](#Stipends-1)
 - #### [Office Stipend](#office-stipend-1)
 - #### [Phone & Internet Stipend](#phone--internet-stipend-1)
 - #### [Health & Wellness Stipend](#health--wellness-stipend-1)
 - #### [Professional Development Reimbursement](professional-development-reimbursement-1)
-#### [Time Off Policy](#Time-Off-Policy-1)
-#### [2023 Company Holidays](#2023-company-holidays-1)
-#### [Leave of Absence Programs](#Leave-of-Absence-Programs-1)
-#### [Workplace Rental](#Workplace-Rental-1)
-#### [Employee Discounts](#Employee-Discounts-1)
-#### [Wellness Program](#Wellness-Program-1)
-#### [Employee Assistance Programs & Resources](#employee-assistance-programs--resources-1)
-#### [Anonymous Hotline](#anonymous-hotline-1)
+### [Workplace Rental](#Workplace-Rental-1)
+### [Employee Discounts](#Employee-Discounts-1)
+### [Wellness Program](#Wellness-Program-1)
+### [Employee Assistance Programs & Resources](#employee-assistance-programs--resources-1)
+### [Anonymous Hotline](#anonymous-hotline-1)
 
 
 ## [Global Benefits Strategy & Stipend](https://www.notion.so/dbtlabs/Global-Benefits-Strategy-Stipend-03b4ebfbb278451f894a4cca46c90607?pvs=4)
@@ -114,13 +114,6 @@ Both Cigna and Kaiser have access to Registered Nurses who are available 24/7 to
 
 Learn more about this benefit [here](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4).
 
-## Stipends
-
-### Office Stipend
-### Phone & Internet Stipend
-### Health & Wellness Stipend
-### Professional Development Reimbursement
-
 ## [Time Off Policy](https://www.notion.so/dbtlabs/Time-Off-Policy-cb5363a73ca1485dbf94619c4c57aa6f?pvs=4)
 
 In alignment with our core value, **“We Work Hard and Go Home”**, dbt Labs offers unlimited paid time off to support you to recharge, spend time with your family, and/or take care of personal matters. To encourage you to turn off your brain, travel, and spend time with your family, recommend you take a *minimum* amount of vacation days **(2 weeks, aka 10 business days)** each calendar year. 
@@ -135,7 +128,7 @@ We ask that you input your time-off requests into ADP and categorize them accord
 
 When in doubt, please discuss with your manager about your plans
 
-### ❓When would time off be declined?
+#### ❓When would time off be declined?
 
 - It shows blatant abuse of the unlimited time off policy. For example (but not limited to the following):
     - Using open vacation in place of a leave of absence (see below).
@@ -143,7 +136,7 @@ When in doubt, please discuss with your manager about your plans
 - Amount of (or dates of request for) PTO negatively impacts your team or the company.
 - Performance is affected negatively.
 
-### ➡️ Types of time off plans & definitions
+#### ➡️ Types of time off plans & definitions
 
 👉 For time off plans outside of Personal Time Off: if you need to take more than 2 consecutive weeks off, your manager or People team will be reaching out to see if a Leave of Absence may need to be utilized instead to support you through your specific life event.
 
@@ -166,7 +159,7 @@ Note that because in the United States, your time off is not accrued, you will n
 
 For international employees, see [below](#International-Considerations-for-accrued-time-and-pay-out-upon-termination-with-the-company) for respective details.
 
-### 💪 Best practices for being out of the office
+#### 💪 Best practices for being out of the office
 
 ADP has a limitation at the moment, where teams cannot see each other’s time-off requests. 
 
@@ -182,7 +175,7 @@ Additionally, some teams may have team time off calendars within Google Calendar
 
 Learn how to requet time off in ADP [here](https://www.notion.so/dbtlabs/Time-Off-Policy-cb5363a73ca1485dbf94619c4c57aa6f?pvs=4#b819ac73f9994db6a5f4572571b44cc5).
 
-### 🌐 International Considerations for accrued time and pay out upon termination with the company
+#### 🌐 International Considerations for accrued time and pay out upon termination with the company
 
 In your employment contracts, you will see that you are eligible for a specific number of annual leave (or holidays) days to be accrued over the course of the plan year (to be used as personal time off). There is a clause in your contracts that once your annual leave (or holiday) entitlements have been used up, you are eligible to take an unlimited number of days, as long as you have manager approval. 
 
@@ -198,7 +191,7 @@ At the end of your employment with dbt Labs, if you have unused time off accrued
 
 - If your time off balance is negative, note that we will not deduct any amounts from your final paycheck
 
-#### 🌍 If you are employed through Remote.com
+**🌍 If you are employed through Remote.com**
 
 The above explanation of how accrued time works and pay out upon termination is the same for Remote employees. This is because in your contracts, you still have a set number of days that is shown. You can take any days off as long as you have manager approval.
 
@@ -207,7 +200,7 @@ The above explanation of how accrued time works and pay out upon termination is 
 Please discuss your time off schedule ahead of time with your manager, as they do not have visibility into requests within the Remote platform.
 
 
-## [2023 Company Holidays](https://www.notion.so/dbtlabs/2023-Company-Holidays-9e0e48bb8404496a868161e170e0a494?pvs=4)
+### [2023 Company Holidays](https://www.notion.so/dbtlabs/2023-Company-Holidays-9e0e48bb8404496a868161e170e0a494?pvs=4)
 
 In addition to our unlimited vacation policy, dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. You are asked to observe your local holidays (for the country you reside in).
 
@@ -215,7 +208,7 @@ We recognize that there are many other cultural, religious or location based hol
 
 Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please reference the list of public holidays provided via Remote's Platform.
 
-### US Company Holidays
+#### US Company Holidays
 - New Years Day (observed)-  Monday, January 2, 2023
 - MLK Day- Monday, January 16, 2023
 - Memorial Day- Monday, May 29, 2023
@@ -230,7 +223,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - Winter Break- Tuesday, December 26, 2023→Friday, December 29, 2023
 - New Year’s Day- Monday, January 1, 2024
 
-## United Kingdom Holidays
+#### United Kingdom Holidays
 - New Year’s Day- Monday, January 2, 2023
 - Easter Monday- Monday, April 10, 2023
 - Early May Bank Holiday- Monday, May 1, 2023
@@ -240,7 +233,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - Boxing Day- Tuesday, December 26, 2023
 - Winter Break- Wednesday, December 27, 2023→Friday, December 29, 2023
 
-## Ireland Holidays
+#### Ireland Holidays
 - New Year’s Day- Monday, January 2, 2023
 - Saint Patrick’s Day- Friday, March 17, 2023
 - Easter Monday- Monday, April 10, 2023
@@ -252,7 +245,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - Saint Stephen’s Day- Tuesday, December 26, 2023
 - Winter Break- Wednesday, December 27 → Friday, December 29, 2023
 
-## Germany Holidays
+#### Germany Holidays
 - New Year’s Day- Monday, January 2, 2023
 - Epiphany (BW,BY & ST)- Friday, January 6, 2023
 - Good Friday- Friday, April 7, 2023
@@ -267,7 +260,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - Saint Stephen’s Day- Tuesday, December 26, 2023
 - Winter Break- Wednesday, December 27 → Friday, December 29, 2023
 
-## Australia Holidays
+#### Australia Holidays
 - New Year’s Day- Monday, January 2, 2023
 - Australia Day- Thursday, January 26, 2023
 - Labour Day (WA)- Monday, March 6, 2023 
@@ -282,7 +275,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - Boxing Day- Tuesday, December 26, 2023
 - Winter Break- Wednesday, December 27 → Friday, December 29, 2023
 
-## New Zealand Holidays
+#### New Zealand Holidays
 - New Years Day- Monday, January 2
 - New Year Holiday- Tuesday, January 3
 - Waitangi Day- Monday, February 6 
@@ -296,7 +289,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - Christmas Day- Monday, December 25
 - Boxing Day- Tuesday, December 26
 
-## [Leave of Absence Programs](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4)
+### [Leave of Absence Programs](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4)
 
 We offer paid and unpaid leave of absence programs. All leave types will run concurrent with all company holidays and will not add additional days to the established leave policy unless legally required. 
 
@@ -311,7 +304,7 @@ Below is a summary of our paid leave programs.
 | Miscarriage Leave 	| 2 Weeks                  	| Continuous      	| N/A                             	|                                                                                   	|
 | Bereavement Leave 	| 2 Weeks                  	| Continuous      	| N/A                             	| 2 additional weeks may be granted if a team member requires more time to grieve.  	|
 
-### ***Paid Parental Leave***
+#### ***Paid Parental Leave***
 
 **Time off & Pay**
 
@@ -335,7 +328,7 @@ Stock options will continue to vest at their regular rate during paid or unpaid 
 
 Employees returning from Parental Leave will be reinstated to the same position, or if that position is no longer available due to reasons unrelated to the employee’s leave, a comparable position. Employees will receive pay and benefits equivalent to those received prior to their leave.
 
-### **Paid Medical Leave**
+#### **Paid Medical Leave**
 
 **Time off & Pay**
 
@@ -365,11 +358,11 @@ A serious health condition is an illness, an injury, an impairment, or a physica
 
 Under some circumstances, employees may take this leave intermittently, which means taking leave in blocks of time or reducing the employee's normal weekly or daily work schedule. An employee may take leave intermittently whenever it is medically necessary to care for a seriously ill individual. Leave taken intermittently may be taken in increments of no less than one week.
 
-### Miscarriage Leave
+#### Miscarriage Leave
 
 Employees who experience or have a partner who experiences a miscarriage are eligible for two (2) weeks of leave paid at 100% of their base salary. In the event that the employee experiences medical difficulties beyond this time frame, they may be eligible for a Medical Leave.
 
-### **Paid Bereavement Leave**
+#### **Paid Bereavement Leave**
 
 In accordance with dbt Labs’ open time off policy, employees already are able to take up to two (2) weeks of Bereavement Time Off to grieve for a loss of life. If additional time is needed beyond the two (2) weeks, employees will be eligible to take an additional two (2) weeks to grieve under Paid Bereavement Leave on a case-by-case basis.
 
@@ -458,6 +451,13 @@ b) submit your request via this [**leave request form](https://form.asana.com/?k
 The People Support team will introduce you to a Sparrow Leave Specialist as soon as your leave is approved. Sparrow will schedule a call with you to discuss your leave plans, identify the key dates when they need to be involved, and gather the necessary information to file your leave paperwork on your behalf.
 
 Employees who will be going on a leave of absence should review the related policy outlined above.
+
+## Stipends
+
+### [Office Stipend](https://www.notion.so/dbtlabs/Office-Stipend-5f5a37d1026d4fb78ee3c6439fada6dc?pvs=4)
+### [Phone & Internet Stipend](https://www.notion.so/dbtlabs/Phone-Internet-Stipend-afc584bf27f24a9f81267022f30557af?pvs=4)
+### [Health & Wellness Stipend](https://www.notion.so/dbtlabs/Health-Wellness-Stipend-092dcde477b246638bab319183054668?pvs=4)
+### [Professional Development Reimbursement](https://www.notion.so/dbtlabs/Professional-Development-Reimbursement-d35cf1246a0c4c8e96b25cc22fe9d1cb?pvs=4)
 
 ## Workplace Rental 
 
