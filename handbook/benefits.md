@@ -4,7 +4,7 @@
 ### [Healthcare Benefits](#Healthcare-Benefits-1)
 - #### [Medical Plans](#medical-plans-1)
 - #### [Health Related Travel Benefit (US)](#health-related-travel-benefit-us-1)
-- #### [International Travel Emergency Health Benefits (US)](#International-Travel-Emergency-Health-Benefits-(US))
+- #### [International Travel Emergency Health Benefits (US)](#international-travel-emergency-health-benefits-us-1)
 ### [Time Off Policy](#Time-Off-Policy-1)
 - #### [2023 Company Holidays](#2023-company-holidays-1)
 - #### [Leave of Absence Programs](#Leave-of-Absence-Programs-1)
