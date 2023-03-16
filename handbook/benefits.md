@@ -1,18 +1,23 @@
 # Benefits and Perks
 
-#### [Global Benefits Strategy & Stipend](#Global-Benefits-Strategy-&-Stipend-1)
+#### [Global Benefits Strategy & Stipend](#Global-Benefits-Strategy--Stipend-1)
 #### [Healthcare Benefits](#Healthcare-Benefits-1)
-#### [Health Related Travel Benefit (US)](#Health-Related-Travel-Benefit-(US)-1)
-#### [International Travel Emergency Health Benefits (US)](#International-Travel-Emergency-Health-Benefits-(US))
+- #### [Medical Plans](#medical-plans-1)
+- #### [Health Related Travel Benefit (US)](#health-related-travel-benefit-us-1)
+- #### [International Travel Emergency Health Benefits (US)](#International-Travel-Emergency-Health-Benefits-(US))
 #### [Stipends](#Stipends-1)
+- #### [Office Stipend](#office-stipend-1)
+- #### [Phone & Internet Stipend](#phone--internet-stipend-1)
+- #### [Health & Wellness Stipend](#health--wellness-stipend-1)
+- #### [Professional Development Reimbursement](professional-development-reimbursement-1)
 #### [Time Off Policy](#Time-Off-Policy-1)
-#### [2023 Company Holidays](#2023-Company-Holidays)
+#### [2023 Company Holidays](#2023-company-holidays-1)
 #### [Leave of Absence Programs](#Leave-of-Absence-Programs-1)
 #### [Workplace Rental](#Workplace-Rental-1)
 #### [Employee Discounts](#Employee-Discounts-1)
 #### [Wellness Program](#Wellness-Program-1)
-#### [Employee Assistance Programs & Resources](#Employee-Assistance-Programs-&-Resources-1)
-#### [Anonymous Hotline](#Anonymous-Hotline-1)
+#### [Employee Assistance Programs & Resources](#employee-assistance-programs--resources-1)
+#### [Anonymous Hotline](#anonymous-hotline-1)
 
 
 ## [Global Benefits Strategy & Stipend](https://www.notion.so/dbtlabs/Global-Benefits-Strategy-Stipend-03b4ebfbb278451f894a4cca46c90607?pvs=4)
@@ -62,6 +67,8 @@ The benefits stipend will automatically be added to your monthly payroll. You do
 As previously mentioned we look to target locally relevant and competitive benefit options and retirement and pension plans fall under the same philosophy. We are currently working towards getting each required Pension scheme and retirement plan solidified. More details will be forthcoming.
 
 ## [Healthcare Benefits](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
+
+### [Medical Plans](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
 
 Learn more about our medical plans [here](https://app.strivebenefits.com/dbt/2022-2023-medical?country=us).
 
@@ -148,12 +155,12 @@ When in doubt, please discuss with your manager about your plans
 - **Other country specific categories**: As dbt Labs has presence in multiple countries, we can’t categorize every mandatory time off type. If your time off is not due to one of the above, please use the “Other” reason code in ADP and put in the comments what it is.
 - **Leaves of Absences:** If you need to be absent for an extended period of time due to any reason, it may be better to consider taking a leave of absence. Examples of different paid leave of absence types and policy documents can be found below (paid leave below indicates 100% base and commission payments during these durations):
     
-    [Leave of Absence Programs](#Leave-of-Absence-Programs) 
+    [Leave of Absence Programs](#leave-of-absence-programs-1) 
     
     - ***Paid Parental Leave** - to be taken within the first year of parenthood; any dbt Labs employees who needs to care for a newborn as a result of birth or adoption is able to take up to 12 weeks of paid leave*
     - ***Paid Medical Leave** - any dbt Labs employee who needs to take dedicated time off to recover from their own medical event (i.e. physical or mental illness, surgery, etc) is able to take up to 4 weeks of paid leave*
     - ***Paid Caregiver Leave -** any dbt Labs employee who needs to take dedicated time off to care for a seriously ill person is able to take up to 4 weeks of paid leave*
-- **Company Holidays**: dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. See [2023 Company Holidays ](#2023-Company-Holidays) for days observed. You are asked to observe your local holidays (for the country you reside in).
+- **Company Holidays**: dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. See [2023 Company Holidays ](#2023-Company-Holidays-1) for days observed. You are asked to observe your local holidays (for the country you reside in).
 
 Note that because in the United States, your time off is not accrued, you will not be paid out for any unused time offered under this policy when your employment with dbt Labs ends.
 
@@ -535,6 +542,48 @@ You can find savings on things like:
 Learn more about setting up your account [here](https://www.notion.so/dbtlabs/Bright-Wellness-Program-699cfc7511f743f887226ed218adf676?pvs=4#4be0b7d338ef47feb3a7dfbd8ae278d1).
 
 ## [Employee Assistance Programs & Resources](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4)
+
+### What is an EAP?
+
+*An Employee Assistance Program (EAP) is a voluntary, work-based program that offers free and confidential assessments, short-term counseling, referrals, and follow-up services to employees who have personal and/or work-related problems.*
+
+### How do you use it?
+
+We offer 2 EAP programs.
+
+#### UNUM EAP
+
+UNUM’s EAP services are eligible for all employees **globally.**
+
+[UNUM](https://app.strivebenefits.com/dbt/eap?country=us) is also our life and disability provider. 
+    
+    Benefits include:
+    
+    - Three face‐to‐face visits with a local counselor to help address personal concerns.
+    - Unlimited and confidential phone/online support
+    - Access to information and referrals for work/life resources including child care, elder care, legal questions, financial services, relocation support, and more.
+    - Service extends to employees, their spouses or domestic partners, dependent children (26 and younger), parents and parents-in-law.
+
+Learn more about UNUM EAP and how to access this service [here](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4#8d2c2e91ce7b4bb9a2628ca00f6e5dcd).
+
+[2021 EAP - Employee Flyer.pdf](https://github.com/dbt-labs/corp/files/10994740/2021.EAP.-.Employee.Flyer.pdf)
+
+#### ADP - LifeCare EAP (US)
+
+ADP - LifeCare EAP services are eleigilbe for US employees only.
+
+Learn more about the ADP - Lifecare EAP and how to access this service [here](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4#c41a81f919e64558930b2050ee44230c).
+
+[LifeCare EAP Brochure.pdf](https://github.com/dbt-labs/corp/files/10994732/LifeCare.EAP.Brochure.pdf)
+
+    
+#### Time Off
+
+Sometimes people just need to disconnect from work and they should take advantage of our [Time Off Policy](#time-off-policy-1). However, there are occasions when we strongly encourage you take an extended period time off of work to care for yourself or loved ones.
+
+If you are in a situation where you may need extended time off, you may want to consider taking a formal leave of absence. 
+
+Reasons for LOAs vary and amounts of time can also vary (i.e. 1 month to 3 months, etc). Discuss this option in detail with your [People Business Partner](https://www.notion.so/dbtlabs/People-Business-Partners-7c4b9fca56e245e684bd8d8e79f65910?pvs=4#e9211ed8d0c04cdda5ea7af9b8190e26). You can read more about our leave offerings at [Leave of Absence Programs](#leave-of-absence-programs-1).
 
 ## [Anonymous Hotline](https://www.notion.so/dbtlabs/Anonymous-Hotline-309767332cbc4fdf8b8fee1bc7c5e9ce?pvs=4)
 dbt Labs has an anonymous hotline for employees to be able to report workplace issues or *suspected illegal or unethical conduct* anonymously. 
