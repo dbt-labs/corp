@@ -7,6 +7,7 @@
 #### [Embedded Roles](#embedded-roles-1)
 #### [Global Employment](#global-employement-1)
 #### [Moonlighting Guidance](#moonlighting-guidance-1)
+#### [Diversity, Equity, and Inclusion](#diversity-equity-and-inclusion-1)
 #### [Conscientious Objection](#conscientious-objection-1)
 
 ## Annual Review Cadence
@@ -360,6 +361,13 @@ Team members are expected to communicate with their manager and team to ensure t
 
 ‼️ **If there is a lapse in providing services to the Company, this will qualify as a termination and all unvested options will be canceled.  If a team member is rehired and resumes providing services to the Company, any grant associated with employment will need to go through the new hire process for equity.  This means that a team member would receive a new strike price, vesting period, etc.**
 
+## Diversity, Equity, and Inclusion
+dbt Labs is committed to diversity, equity, and inclusion. DEI impacts high-level company decisions, and is woven into the culture of everyday work.
+
+We have three DEI committees dedicated to Team Diversity, Culture, and Company Stance and Action. Together, these committees make sure we build a diverse team, equitable company structures, and an environment that gives everyone the support and opportunities they need to thrive.
+
+Learn more about DEI at dbt Labs [here](https://www.getdbt.com/dbt-labs/dei/).
+
 ## Moonlighting Guidance
 What you do in your own time is your business, including additional employment. We understand that many employees are involved in their communities in a variety of ways, paid and unpaid. However, dbt Labs employees are expected to comply with certain guidelines for work and other activities spent outside of your dbt Labs working hours (”[moonlighting](https://dictionary.cambridge.org/us/dictionary/english/moonlighting)”), to ensure such activities do not interfere with, conflict with or put the company at risk.  We encourage transparency, and provide these guidelines for you to consider and discuss with your manager. Acceptable moonlighting:
 
@@ -406,3 +414,9 @@ If you need additional support working with your manager to figure out an accomm
 If work that conflicts with your deeply held beliefs is a regular and predictable part of your role rather than an exception, and your right to conscientious objection is impeding the team’s overall success, the best long-term solution may be to look for a role that’s a better fit. You can work with your manager and your People Business Partner to move towards a different role within the company that is more aligned with your personal values. 
 
 💡 You can see some of the discussion that led to this policy in [Working Document: Conscientious Objection](https://www.notion.so/Working-Document-Conscientious-Objection-31977f6aa61b447fabc4f5ac6a20f02f).
+
+## [Employee Referral Program](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201)
+
+Who better to find great people to work here than great people that already work here? We don't have a referral bonus program but that shouldn't stop employees from sending any and all referrals to our Talent Acquisition team!
+
+Learn more about how to submit a referral [here](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201).
