@@ -1,8 +1,8 @@
 # Compensation 
 
 #### [Compensation Principles](#Compensation-Principles-1)
-#### [Salary Bands Philosophy](#Salary-Bands-Philosophy-1)
 #### [Global Compensation and Benefits](#Global-Compensation-and-Benefits-1)
+#### [Salary Bands Philosophy](#Salary-Bands-Philosophy-1)
 #### [How Salary Bands are Made](How-Salary-Bands-are-Made-1)
 #### [FY24 Salary Bands](FY24-Salary-Bands-1)
 
@@ -97,67 +97,6 @@ If you have a specific question around your compensation, one of your direct rep
 [^5]: We leverage data from Radford, Mercer, Carta, Pave and Options Impact.
 [^6]: ISOs are specifically US-based because they are an outcome of US tax law.
 
-## Salary Bands Philosophy
-
-Learn more about our historical practice on how we’ve built and implemented updated salary bands as well as how that methodology has evolved.
-
-</aside>
-
-### **Current Pay Band Structure**
-
-Our previous bands were developed using Options Impact data for Tech / Enterprise companies using an “All US” of companies that had raised similar amounts of $. This approach has previously served us well in our earlier stages as it aligned our bands with similar companies, at similar funding levels as well as a reflection of our widely distributed workforce. Salary Bands were then built using the **60th percentile as the bottom of the range and used the 90th percentile as top of band.**
-
-You can find an in depth overview of our how our previous bands were developed on archived Salary Bands Page below. 
-
-[(Archived) US Salary Bands FY23](https://www.notion.so/Archived-US-Salary-Bands-FY23-8811acc0c58c42afb1d2471ef2d3f995)
-
-### Update to Compensation Philosophy / Band Structures
-
-As mentioned in the[dbt Labs Compensation Principles](#Compensation-Principles), we shifted to using the 75th Percentile as the basis for the midpoint as well as using a consistent range spread based on job level. We continue to use industry specific data as well as targeting all country data sets.  This allows us to build consistency in bands as well as making the bands slightly wider. With this updated methodology, most of our bands minimums may stretch down to the 50th Percentile and the maximum’s push slightly past the 90th percentile in most if not all cases. This will allow further flexibility and utilization of an entire range for a role.
-
-- Consistent Band Spreads
-    
-    **these indicate the % from midpoint used to get the high and low points of each band. The spread increases as the roles become more senior because more senior roles may be career-roles, where folks will remain and therefore require more room for growth in the band.* 
-    
-    Ex. L1 with a midpoint (75th percentile) of $100,000 will have a range of $90,000 - $110,000
-    
-    L5 with a midpoint (75th percentile) of $200,000 will have a rang of $170,000 - $230,000.
-    
-| Level 	| Band Spread 	|
-|:-----:	|:-----------:	|
-|   L1  	|     10%     	|
-|   L2  	|     10%     	|
-|   L3  	|    12.5%    	|
-|   L4  	|    12.5%    	|
-|   L5  	|     15%     	|
-|   L6  	|     15%     	|
-|   L7  	|    17.5%    	|
-|   L8  	|    17.5%    	|
-|   L9  	|    17.5%    	|
-
-### Increased Data points
-
-As dbt labs has continued to grow, so has our need for more robust data sources to further develop and benchmark our compensation structure to. This is a common next step as we continue to mature and evolve our compensation benchmarking practices. After evaluating a handful of data sources, we found that using a combination of the following data sets creates a solid and diverse base to build our updated ranges from (Radford, Mercer, Pave, Carta and Options Impact).
-
-We believe that with more data we can better target [more specific roles[^7] within dbt labs as well as better navigate data outliers that are a result low counts of specific data points (ex. Small or insufficient # of companies/employees reporting salaries for a specific role & level).
-
-Another common practice in salary band development is to assess and utilize data based on the quality and veracity of that data set. While we believe that each of the sources we are using has its own merit for use, we have chosen to use a weighting structure to develop the midpoint of our ranges instead of using a straight average. This allows us to better index on data sources like Radford and Mercer which are considered a ‘Gold standard’ data sets within the compensation community. 
-
-### Data Sources & Weighted Average Approach
-
-| Data Set 	| Weight 	| Data Cut                                       	| Data Type                                                                                              	| Description of Data set                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	|
-|----------	|--------	|------------------------------------------------	|--------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Radford  	| 40%    	| All US - Private Companies - Software          	| Total Cash -  75th Percentile                                                                          	| Radford (AON) data is considered a gold standard in the compensation space and is a trusted data sources. Our radford data is cut for All US companies, Technology (Software), and Private companies. This allows us to more specifically target similar companies (peer's) in our bench marking with out getting to refined which can reduce available data. *We did review and audit a more refined filter approach (Head counts, Revenue, Capital Raised) and in general didn't find a sufficient delta in salaries compared to the reduced data available.                                                                                                                                             	|
-| Mercer   	| 30%    	| All US - Software SAAS                         	| Total Cash Actual -  75th Percentile                                                                   	| Mercer \| Comptryx, is a premier online solution for Private and Public technology-focused companies. This Addition data source is a quality robust data source that is specifically for Tech companies. This will broaden our compensation data that has more robust job leveling and job matches that can scale with dbt as we continue to grow. Mercer data is cut for All US companies, SAAS companies and if there is insufficient SAAS data we have included all companies to help round out our Salary ranges with this data set.                                                                                                                                                                   	|
-| Pave     	| 10%    	| All US - Valuation → 1B+                       	| Total Cash Compensation - 75th Percentile                                                              	| "Pave's data is sourced directly from employers HRIS systems and matched based on their internal job title system structure. The Data is cut by All Us Companies with a Valuation over 1 Billion. Valuation is the recommended data cut for for Pave and provides the best comparable data to benchmark against. As with all of our data cuts we are using total cash comp (Base + Variable + Bonuses) and does not include any Stock or Options valuations.   We decided to include Pave for the exposure to high paying tech start ups which is reflected in the data. Pave is weighted at 10% due to its lack of data quality, incumbent counts as well as a less robust data source / matching scheme. 	|
-| OI       	| 10%    	| All US - Tech → Raised $250M - $500M           	| Total Target Pay - 75th Percentile                                                                     	| Options Impacts data is reported via survey submission and matching from companies. Options impact has been the data that we anchored our bands to historically and continues to give exposure to to similar tech companies but as we've grown and matured it is limited in the levels, descriptions and quantity of data for other companies that we would consider peers. This data cut is Tech (enterprise) companies that have raised over $250 Million in capital and all US. Additionally this creates a layer of continuity in salary survey use but is weighted to 10% due to its limited leveling and matching data points.                                                                       	|
-| Carta    	| 10%    	| All Data → San Francisco-Oakland-Berkeley, CA  	| Salary data - 75th Percentile  *Not used for variable comp roles since OTE isn’t reflected in the data 	| Carta Data is sourced directly from employers HRIS systems and matched based on their internal job title system structure. Their data does not cut to an all US as is our practice for data cuts so have aligned this market point with CA, Bay Area salaries. We are including this source as this data will be sourced from start ups which will continue to give direct exposure to similar start up companies. We discounted this data and gave it a 10% weighting due to the lack of All US approach / other data sifting that we would want. Lastly, Carta's data isn't overtly robust in terms of incumbents as well as depth of different matches.                                                 	|
-
-Additionally, we have outlined the step by step process of how we go from Raw data to a refined Salary band for roles as well as the additional synthesis and analysis of the data.
-
-
-[^7]: Specific Roles - Both Radford and Mercer have 100+ different jobs / roles that we can match to that allows to get more specific with the roles and duties to ensure that our role’s bands are developed using the most correlated data and skill set. This is vital to ensure we aren’t over or under targeting pay for roles that have been lumped into 1 large bucket.
-
 ## Global Compensation and Benefits
 
 [dbt Labs Compensation Principles](#Compensation-Principles)
@@ -217,6 +156,96 @@ There are different tax consequences for ISO and NSO options.  Additionally, tax
 
 ‼️ **If there is a lapse in providing services to the Company, this will qualify as a termination and all unvested options will be canceled.  If a team member is rehired and resumes providing services to the Company, any grant associated with employment will need to go through the new hire process for equity.  This means that a team member would receive a new strike price, vesting period, etc.**
 
+## Salary Bands Philosophy
+
+### Compensation Philosophy / Band Structures
+
+As mentioned in the [dbt Labs Compensation Principles](#Compensation-Principles), we use 75th Percentile as the basis for the midpoint as well as using a consistent range spread based on job level. We continue to use industry specific data as well as targeting all country data sets. This allows us to build consistency in bands and makes the bands slightly wider. With this methodology, most of our bands' minimums may stretch down to the 50th percentile and the maximum’s push slightly past the 90th percentile. This allows further flexibility and utilization of an entire range for a role.
+
+- Consistent Band Spreads
+    
+    **these indicate the % from midpoint used to get the high and low points of each band. The spread increases as the roles become more senior because more senior roles may be career-roles, where folks will remain and therefore require more room for growth in the band.* 
+    
+    Ex. L1 with a midpoint (75th percentile) of $100,000 will have a range of $90,000 - $110,000
+    
+    L5 with a midpoint (75th percentile) of $200,000 will have a rang of $170,000 - $230,000.
+    
+| Level 	| Band Spread 	|
+|:-----:	|:-----------:	|
+|   L1  	|     10%     	|
+|   L2  	|     10%     	|
+|   L3  	|    12.5%    	|
+|   L4  	|    12.5%    	|
+|   L5  	|     15%     	|
+|   L6  	|     15%     	|
+|   L7  	|    17.5%    	|
+|   L8  	|    17.5%    	|
+|   L9  	|    17.5%    	|
+
+### Increased Data points
+
+As dbt labs has continued to grow, so has our need for more robust data sources to further develop and benchmark our compensation structure to. This is a common next step as we continue to mature and evolve our compensation benchmarking practices. After evaluating a handful of data sources, we found that using a combination of the following data sets creates a solid and diverse base to build our updated ranges from (Radford, Mercer, Pave, Carta and Options Impact).
+
+We believe that with more data we can better target [more specific roles[^7] within dbt labs as well as better navigate data outliers that are a result low counts of specific data points (ex. Small or insufficient # of companies/employees reporting salaries for a specific role & level).
+
+Another common practice in salary band development is to assess and utilize data based on the quality and veracity of that data set. While we believe that each of the sources we are using has its own merit for use, we have chosen to use a weighting structure to develop the midpoint of our ranges instead of using a straight average. This allows us to better index on data sources like Radford and Mercer which are considered a ‘Gold standard’ data sets within the compensation community. 
+
+### Data Sources & Weighted Average Approach
+
+| Data Set 	| Weight 	| Data Cut                                       	| Data Type                                                                                              	| Description of Data set                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	|
+|----------	|--------	|------------------------------------------------	|--------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
+| Radford  	| 40%    	| All US - Private Companies - Software          	| Total Cash -  75th Percentile                                                                          	| Radford (AON) data is considered a gold standard in the compensation space and is a trusted data sources. Our radford data is cut for All US companies, Technology (Software), and Private companies. This allows us to more specifically target similar companies (peer's) in our bench marking with out getting to refined which can reduce available data. *We did review and audit a more refined filter approach (Head counts, Revenue, Capital Raised) and in general didn't find a sufficient delta in salaries compared to the reduced data available.                                                                                                                                             	|
+| Mercer   	| 30%    	| All US - Software SAAS                         	| Total Cash Actual -  75th Percentile                                                                   	| Mercer \| Comptryx, is a premier online solution for Private and Public technology-focused companies. This Addition data source is a quality robust data source that is specifically for Tech companies. This will broaden our compensation data that has more robust job leveling and job matches that can scale with dbt as we continue to grow. Mercer data is cut for All US companies, SAAS companies and if there is insufficient SAAS data we have included all companies to help round out our Salary ranges with this data set.                                                                                                                                                                   	|
+| Pave     	| 10%    	| All US - Valuation → 1B+                       	| Total Cash Compensation - 75th Percentile                                                              	| "Pave's data is sourced directly from employers HRIS systems and matched based on their internal job title system structure. The Data is cut by All Us Companies with a Valuation over 1 Billion. Valuation is the recommended data cut for for Pave and provides the best comparable data to benchmark against. As with all of our data cuts we are using total cash comp (Base + Variable + Bonuses) and does not include any Stock or Options valuations.   We decided to include Pave for the exposure to high paying tech start ups which is reflected in the data. Pave is weighted at 10% due to its lack of data quality, incumbent counts as well as a less robust data source / matching scheme. 	|
+| OI       	| 10%    	| All US - Tech → Raised $250M - $500M           	| Total Target Pay - 75th Percentile                                                                     	| Options Impacts data is reported via survey submission and matching from companies. Options impact has been the data that we anchored our bands to historically and continues to give exposure to to similar tech companies but as we've grown and matured it is limited in the levels, descriptions and quantity of data for other companies that we would consider peers. This data cut is Tech (enterprise) companies that have raised over $250 Million in capital and all US. Additionally this creates a layer of continuity in salary survey use but is weighted to 10% due to its limited leveling and matching data points.                                                                       	|
+| Carta    	| 10%    	| All Data → San Francisco-Oakland-Berkeley, CA  	| Salary data - 75th Percentile  *Not used for variable comp roles since OTE isn’t reflected in the data 	| Carta Data is sourced directly from employers HRIS systems and matched based on their internal job title system structure. Their data does not cut to an all US as is our practice for data cuts so have aligned this market point with CA, Bay Area salaries. We are including this source as this data will be sourced from start ups which will continue to give direct exposure to similar start up companies. We discounted this data and gave it a 10% weighting due to the lack of All US approach / other data sifting that we would want. Lastly, Carta's data isn't overtly robust in terms of incumbents as well as depth of different matches.                                                 	|
+
+Additionally, we have outlined the step by step process of how we go from Raw data to a refined Salary band for roles as well as the additional synthesis and analysis of the data.
+
+
+[^7]: Specific Roles - Both Radford and Mercer have 100+ different jobs / roles that we can match to that allows to get more specific with the roles and duties to ensure that our role’s bands are developed using the most correlated data and skill set. This is vital to ensure we aren’t over or under targeting pay for roles that have been lumped into 1 large bucket.
+
+## Salary Bands Overview
+
+Salary bands in their simplest form is the compensation range for a given role within an organization. These ranges are built and developed using market data that allows companies to benchmark their roles compare to others in their industry. The market data used, is a direct reflection of a companies compensation strategy and philosophy as it determines how competitive they will be in attracting and retaining talent. As mentioned in our [dbt Labs Compensation Principles](#compensation-principles-1), we build our salary bands using tech specific data as well using the 75th Percentile as the basis or target of our ranges (In short, this ensures that we are competing with other tech companies and that our pay should meet or exceed 75% of other companies for similar roles and level).
+
+### How we built our salary bands?
+
+As dbt labs has continued to grow and mature, so has our our compensation and total rewards strategy. In the following pages, you can reference a deeper dive into these changes as we’ve added 4 additional data sets and have a greater ability to more accurately benchmark specific roles instead of more functional buckets.
+
+[Process: How Salary Bands are Made](#how-salary-bands-are-made-1)
+
+### What ranges are built?
+
+These salary range databases are meant to include all roles +/- one level for every role we currently have filled or is on the hiring plan for each given location. This is *not* a comprehensive database of every role we will ever hire and plans may even change mid-year and we may hire roles that are not on here (at which point, they will be added). 
+
+### How often will bands get updated?
+
+These bands will be reviewed and updated on a annual basis during Q4 with a Q1 effective date. We can and will review specific roles / functions should the ‘market’ for these shift significantly that requires ad-hoc review and changes (example of factors that could trigger this is -  resources and research conducted by the TR team, TA’s ability to hire and fill roles, consistent candidate/ internal retention feedback).
+
+### What is OTE and why do some roles have it?
+
+You'll see that some roles have a note about OTE. OTE stands for ‘on target earnings’; this means that, in order to make that number, these folks need to be meet 100% of their revenue goals / metrics. Folks that have ‘OTE’ next to their comp band have ‘risk’ associated with their total cash compensation. Part of that number is base salary and the rest in variable compensation (commission) tied to revenue goals. Total rewards uses data to identify common roles that have commission eligibility as well as will work with leaders to establish any new roles that could be commission eligible.
+
+**The breakdowns for our teams are:**
+
+- Partnerships: 80% Base, 20% Variable
+- Solutions Architecture: 70% Base, 30% Variable
+- Sales Directors: 50% Base, 50% Variable
+- Sales Development: 70% Base, 30% Variable
+- Revenue Marketing: 80% Base, 20% Variable
+
+### Roles & Levels
+
+As mentioned in [How Salary Bands are Made](#how-salary-bands-are-made-1), the first step in building salary bands is determining all planned and existing roles. Roles describe a career path that has a common set of core responsibility and duties within a giving field of work. Levels then are used to further extrapolate the progression of expertise, complexity and scope of a role. While we will be providing a more robust framework regarding levels, for simplicity you can reference the title structure below as a generalized progression.
+
+1. Entry-level / Associate
+2. Developing
+3. Proficient / Career level
+4. Senior / Lead
+5. Staff / Expert
+6. Principal / Advisory
+7. Distinguished / Strategist
 
 ## How Salary Bands are Made
 
@@ -318,8 +347,49 @@ As mentioned in [How Salary Bands are Made](#How-Salary-Bands-Are-Made), the fir
 6. Principal / Advisory
 7. Distinguished / Strategist
 
-## [US Salary Bands FY24](https://www.notion.so/dbtlabs/0425a64c1fd64ac0a861586e97143367?v=9db7a2df831b4448bcb133bfedead3e3&pvs=4)
-## [International Salary Bands FY24](https://www.notion.so/dbtlabs/International-Salary-Bands-FY24-771a98d468154bf4af3f08baf90ec45b)
-## Equity Overview https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171
-## Equity Bands https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5
+## [Salary Bands FY24]
+
+All employees have access to our salary bands.
+
+- [US Salary Bands FY24](https://www.notion.so/dbtlabs/0425a64c1fd64ac0a861586e97143367?v=9db7a2df831b4448bcb133bfedead3e3)
+- [International Sarlary Bands FY24](https://www.notion.so/dbtlabs/International-Salary-Bands-FY24-771a98d468154bf4af3f08baf90ec45b?pvs=4)
+
+## [International Salary Bands](https://www.notion.so/dbtlabs/International-Salary-Bands-FY24-771a98d468154bf4af3f08baf90ec45b?pvs=4)
+
+### Global Pay Practice
+
+As mentioned in [Compensation Principles](#compensation-principles-1), we localize all compensation ranges at a company level using the same methodologies based on the specific country's local market. This practice and decision becomes increasingly important as companies scale and grow globally, especially when considering the all encompassing Total Rewards Strategy which is a blend of monetary and nonmonetary rewards (countries have differences in government provided healthcare, pension plan requirement ranges, cost of labor based on market data and cost of living). This means each country has nuances that must be considered when creating a total rewards offerings. We consistently leverage various data sources and reports as well as external consultants to help ensure we are leveraging ‘best practices’ as our foundation to build upon.
+
+💡 Reference our [Globalization Strategy](https://www.notion.so/dbt-Labs-Globalization-Strategy-WIP-12e6742f4b254d9ca239dfb6af468f4b) for additional context around our global expansion strategy
+
+
+### How are international salary bands built differently from US Bands?
+
+The same practice, process and philosophy is used to build all salary bands. We use the 75th percentile of the data within each country and use an all cash compensation to ensure we are paying above average and above 74% of other companies in that country based on the associated data set. The core difference between international salary bands and US salary bands is that many of the survey sources do not have a robust repository of international data which required us to use [Mercer - Comptryx](https://www.imercer.com/products/comptryx) as the sole data point at this time. While Mercer is a gold standard, we will be adding additional data sets to help further build out the available data sets globally.
+
+### [FAQ's about International Pay](https://www.notion.so/dbtlabs/FAQ-s-International-Pay-ad3050bc18eb428e802fe0c0eb7ac41c?pvs=4)
+
+#### Why don’t we pay US salary everywhere?
+
+While there are a lot of factors taken into consideration, there are 2 main reasons.
+
+1. Best Practice - Its largely seen as best practice to make this shift as companies mature and grow globally. The main reason for is because Total Reward Strategy and compensation mix. As companies grow international, it becomes more apparent that each country has its own unique labor market (ie: Salaries), benefit coverage/requirements, retirement plans, taxes, cost of living etc. Because of this, we target consistency in our approach to be locally competitive. We will continue to build our ranges using the 75th Percentile as the anchor point for cash comp and leverage international benefits brokers and feedback for locally relevant coverage.
+2. [Golden Handcuffs](https://www.inhersight.com/blog/salary/golden-handcuffs) - This can be a major concern when considering the long term implications for an individual that feels ‘[stuck](https://www.linkedin.com/pulse/menace-golden-handcuffs-tomas-kucera/)’ with a company or role due to higher than market salary, benefits or equity. 
+
+#### You mention total rewards strategy includes a blend of monetary(compensation) and non-monetary rewards(benefits). How do we know we are actually competitive?
+
+Due to the complex and robust nature of US & International compensation and benefits, we leverage external resources, international consultants and firms to help ensure that we are: 
+1. compliant with local labor laws 
+2. locally competitive using local benchmark data 
+3. locally relevant
+
+You can find more information in [Global Benefits Strategy & Stipend](/handbook/benefits.md#Global-Benefits-Strategy-&-Stipend). 
+
+#### Is hiring in lower cost of labor locations fair / equitable?
+
+Hiring globally is a business and people decision that has many factors attached to it, from total cost, talent density, business need (sales presence, locale expertise etc). While we grow and expand into various countries we hold true to our [values](/values.md) and our [Compensation Principles](#compensation-principles-1) to ensure we are rewarding people in a locally competitive, relevant and equitable way.
+
+## [Equity Overview](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171)
+
+## [Equity Bands](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5)
 
