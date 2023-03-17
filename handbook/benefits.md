@@ -3,7 +3,7 @@
 ### [Global Benefits Strategy & Stipend](#Global-Benefits-Strategy--Stipend-1)
 ### [Healthcare Benefits](#Healthcare-Benefits-1)
 - #### [Medical Plans](#medical-plans-1)
-- #### [Disability and Life Insurance)(#disability-and-life-insurance-1)
+- #### [Disability and Life Insurance])(#disability-and-life-insurance-1)
 - #### [Health Related Travel Benefit (US)](#health-related-travel-benefit-us-1)
 - #### [International Travel Emergency Health Benefits (US)](#international-travel-emergency-health-benefits-us-1)
 ### [Retirement](#retirement-1)
