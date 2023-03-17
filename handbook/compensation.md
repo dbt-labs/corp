@@ -66,7 +66,7 @@ Our compensation philosophy has been arrived at over the course of many years, c
 8. We base compensation on current market data for a role / level / country. The point in the range a candidate is offered is dependent on the candidate’s experience in the market and internal pay equity. A candidate’s previous pay is not a factor in setting their compensation at dbt Labs.
     1. In competitive offer scenarios, we may leverage sign-on bonuses. This lever is reserved for special cases and used sparingly.
     
-9. We won’t reduce compensation in role within the same market (country). A permanent or semi-permanent move to a new country will result in moving to that new local rate. More details on relocation can be found [here](#Global-Benefits-Strategy--Stipend-1).
+9. We won’t reduce compensation in role within the same market (country). A permanent or semi-permanent move to a new country will result in moving to that new local rate. More details on relocation can be found [here](#global-compensation-and-benefits-1).
     
 10. Changes in compensation may happen during the following events:
     1. For promotions, increases are based on the new role’s market range.
