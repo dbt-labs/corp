@@ -1,13 +1,13 @@
 # Compensation 
 
 ### [Compensation Principles](#Compensation-Principles-1)
-### [Global Compensation and Benefits](#Global-Compensation-and-Benefits-1)
+### [Global Compensation and Benefits](#global-compensation-and-benefits-1)
 ### [Salary Bands Philosophy](#Salary-Bands-Philosophy-1)
 - #### [How Salary Bands are Made](How-Salary-Bands-are-Made-1)
-- #### [FY24 Salary Bands](salary-bands-fy24-1)
+- #### [FY24 Salary Bands](salary-bands-fy24)
 - #### [International Salary Bands](#international-salary-bands)
 ### [Equity](#equity-1)
-- #### [FY24 Equity Bands](#equity-bands-fy24-1)
+- #### [FY24 Equity Bands](#equity-bands-fy24)
 ### [Pay & Equity Ranges in Job Offers](#pay--equity-ranges-in-job-offers)
 
 ## [Compensation Principles](https://www.notion.so/dbtlabs/dbt-Labs-Compensation-Principles-0d570903e75e45fc8f9f3fca13a77d00?pvs=4)
@@ -393,7 +393,7 @@ Hiring globally is a business and people decision that has many factors attached
 
 ## [Equity](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171)
 
-### [Equity Bands FY24](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5)
+- ### [Equity Bands FY24](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5)
 
 ## [Pay & Equity Ranges in Job Offers](https://www.notion.so/Making-Offers-Using-Pay-Equity-Ranges-f0a8c7d90b6347569dcce539cf21867e) 
 
