@@ -82,7 +82,7 @@ To enroll in benefits as a new hire, existing employee during open enrollment or
 
 **Employees enrolled in our health insurance are eligible for the following benefits as well:**
 
-### [Disability and Life Insurance]
+### Disability and Life Insurance
 We provide long term and short term disability as well as life insurance coverage to all US-based employees at no cost. Voluntary, additional, life insurance coverage for employees and dependants is available at the expense of the employee.
 
 ### [Health Related Travel Benefit (US)](https://www.notion.so/dbtlabs/Health-Related-Travel-Benefit-1b3541b3eec3444d883de4ecf601dd9f?pvs=4)
