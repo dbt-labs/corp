@@ -7,6 +7,7 @@
 ### [Involuntary Terminations](#involuntary-terminations-1)
 ### [US Employement Posters](#us-employement-posters-1)
 ### [Privacy Notices](#privacy-notices-1)
+### [Background Checks](#background-checks-1)
 ### [Addendums](#addendums-1)
 
 ## Code of Conduct
@@ -304,6 +305,8 @@ Please review the employment posters for the state you live in, and also the fed
 ## Privacy Notices
 
 Pelase review the privacy notices located [here](https://www.notion.so/dbtlabs/US-Employment-Posters-de219cf7a3774a73b206060831193c0c).
+
+## [Background Checks](https://github.com/dbt-labs/corp/blob/new-handbook-launch/handbook.md#background-checks)
 
 ## Addendums
 
