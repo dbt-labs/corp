@@ -8,7 +8,7 @@
 ### [Global Employment](#global-employment-1)
 ### [Moonlighting Guidance](#moonlighting-guidance-1)
 ### [Conscientious Objection](#conscientious-objection-1)
-### [Diversity, Equity and Inclusion] 
+### [Diversity, Equity and Inclusion](#diversity-equity-and-inclusion-1)
 
 ## Annual Review Cadence
 
