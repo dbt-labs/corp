@@ -17,9 +17,9 @@
 
 ### There are two types of review cycles at dbt Labs.
 
-[Performance Reviews at dbt Labs](https://www.notion.so/Performance-Reviews-at-dbt-Labs-054564274f6042a09e1e8515df579e06) 
+1. [Performance Reviews](https://www.notion.so/Performance-Reviews-at-dbt-Labs-054564274f6042a09e1e8515df579e06) 
 
-[Compensation Reviews and Promotion Cycles](https://www.notion.so/Compensation-Reviews-and-Promotion-Cycles-3cd43b727be1471c991cb6964bae4ccd) 
+2. [Compensation Reviews and Promotion Cycles](https://www.notion.so/Compensation-Reviews-and-Promotion-Cycles-3cd43b727be1471c991cb6964bae4ccd) 
 
 ### Cadence
 
