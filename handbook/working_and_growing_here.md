@@ -4,7 +4,6 @@
 - #### [Performance Reviews](#performance-reviews-1) 
 - #### [Compensation Reviews and Promotion Cycles](#compensation-reviews-and-promotion-cycles-1)
 #### [Internal Mobility](#internal-mobility-1)
-#### [Compensation Reviews and Promotion Cycles](#compensation-reviews-and-promotion-cycles-1) 
 #### [Embedded Roles](#embedded-roles-1)
 #### [Global Employment](#global-employment-1)
 #### [Moonlighting Guidance](#moonlighting-guidance-1)
@@ -299,7 +298,7 @@ In the past, dbt Labs would hire in any country except those we had already dete
 
 ### Global Compensation and Benefits
 
-Learn more about our [Compensation Principles](/handbook/compensation.md#compensation-principles) and [Global Compensation and Benefits](/handbook/compensation.md#global-compensation-and-benefits-1).
+Learn more about our [Compensation Principles](/handbook/compensation.md#compensation-principles-1) and [Global Compensation and Benefits](/handbook/compensation.md#global-compensation-and-benefits-1).
 
 ### Relocation (Permanent or Semi-permanent)
 
