@@ -3,10 +3,10 @@
 ### [Compensation Principles](#Compensation-Principles-1)
 ### [Global Compensation and Benefits](#global-compensation-and-benefits-1)
 ### [Salary Bands Philosophy](#Salary-Bands-Philosophy-1)
-- #### [How Salary Bands are Made](How-Salary-Bands-are-Made-1)
-- #### [FY24 Salary Bands](salary-bands-fy24)
-- #### [International Salary Bands](#international-salary-bands)
-### [Equity](#equity-1)
+- #### [How Salary Bands are Made](#how-salary-bands-are-made-1)
+- #### [FY24 Salary Bands](#fy24-salary-bands-1)
+- #### [International Salary Bands](#international-salary-bands-1)
+### [Equity](#equity-2)
 - #### [FY24 Equity Bands](#equity-bands-fy24)
 ### [Pay & Equity Ranges in Job Offers](#pay--equity-ranges-in-job-offers-1)
 
@@ -35,10 +35,7 @@ Our compensation philosophy has been arrived at over the course of many years, c
     2. feedback from applicants and team members
     3. candidate data.
 4. We localize compensation ranges at the country level based on local market data.
-    - *Why do we take this approach?*
-        
-        *Labor markets, benefits, pension/superannuation schemes and payroll taxes can vary greatly country to country. This approach insures that we are offering equitable (not equal) compensation in each market.*
-        
+    - **Why do we take this approach?** Labor markets, benefits, pension/superannuation schemes and payroll taxes can vary greatly country to country. This approach insures that we are offering equitable (not equal) compensation in each market.
 5. Our compensation bands are set using the 75th percentile within our competitive landscape in each country as the **mid point** and setting the low and high points using the spreads outlined in the table below. 
     
     
@@ -69,11 +66,7 @@ Our compensation philosophy has been arrived at over the course of many years, c
 8. We base compensation on current market data for a role / level / country. The point in the range a candidate is offered is dependent on the candidate’s experience in the market and internal pay equity. A candidate’s previous pay is not a factor in setting their compensation at dbt Labs.
     1. In competitive offer scenarios, we may leverage sign-on bonuses. This lever is reserved for special cases and used sparingly.
     
-    [Pay & Equity Ranges in Job Offers](#pay--equity-ranges-in-job-offers-1) 
-    
-9. We won’t reduce compensation in role within the same market (country). A permanent or semi-permanent move to a new country will result in moving to that new local rate. More details on relocation can be found here:
-    
-    [Global Employment at dbt Labs](https://www.notion.so/Global-Employment-at-dbt-Labs-a0c8faf3a9234d6a83280654caff0424)
+9. We won’t reduce compensation in role within the same market (country). A permanent or semi-permanent move to a new country will result in moving to that new local rate. More details on relocation can be found [here](#Global-Benefits-Strategy--Stipend-1).
     
 10. Changes in compensation may happen during the following events:
     1. For promotions, increases are based on the new role’s market range.
@@ -249,7 +242,7 @@ As mentioned in [How Salary Bands are Made](#how-salary-bands-are-made-1), the f
 6. Principal / Advisory
 7. Distinguished / Strategist
 
-## How Salary Bands are Made
+## [How Salary Bands are Made](https://www.notion.so/dbtlabs/Process-How-Salary-Bands-are-Made-4928ec6f5a42407391bb290ab6722ce6)
 
 📌 Compensation & salary band development is both an art and a science and we strive to leverage data and best practice to develop bands that will allow us to both attract and retain talent. The science is the clear process of developing and selecting data to produce a target market percentage. The art is the sifting through the nuances of this imperfect data to ensure that career progression as well as cross company comparisons align.
 
@@ -305,8 +298,6 @@ As mentioned in [How Salary Bands are Made](#how-salary-bands-are-made-1), the f
 [^9]: “Best” - When matching our internal roles against built descriptions within each data set, we frequently find that an 80% match agains
 [^10]: Removing data outliers is a pretty standard and common practice once you start involving multiple data sources to help prevent outlier data from skewing the average due to small incumbent counts being reported
 
-## FY24 Salary Bands
-
 ### Salary Band Overview
 
 Salary bands in their simplest form is the compensation range for a given role within an organization. These ranges are built and developed using market data that allows companies to benchmark their roles compare to others in their industry. The market data used, is a direct reflection of a companies compensation strategy and philosophy as it determines how competitive they will be in attracting and retaining talent. As mentioned in our [dbt Labs Compensation Principles](#Compensation-Principles), we have chosen to build our salary bands using tech specific data as well using the 75th Percentile as the basis or target of our ranges (In short, this ensures that we are competing with other tech companies and that our pay should meet or exceed 75% of other companies for similar roles and level).
@@ -349,7 +340,7 @@ As mentioned in [How Salary Bands are Made](#How-Salary-Bands-Are-Made), the fir
 6. Principal / Advisory
 7. Distinguished / Strategist
 
-## [Salary Bands FY24]
+## Salary Bands FY24
 
 All employees have access to our salary bands.
 
