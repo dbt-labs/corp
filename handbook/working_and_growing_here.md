@@ -1,7 +1,8 @@
 # Working and Growing at dbt Labs
 
-#### [Annual Review Cadence](#annual-review-cadence-1)
-#### [Performance Reviews](#performance-reviews-1) 
+### [Annual Review Cadence](#annual-review-cadence-1)
+- #### [Performance Reviews](#performance-reviews-1) 
+- #### [Compensation Reviews and Promotion Cycles](#compensation-reviews-and-promotion-cycles-1)
 #### [Internal Mobility](#internal-mobility-1)
 #### [Compensation Reviews and Promotion Cycles](#compensation-reviews-and-promotion-cycles-1) 
 #### [Embedded Roles](#embedded-roles-1)
@@ -22,10 +23,7 @@
 
 ### Cadence
 
-<aside>
 👉 Each review cycle happens twice per year, meaning we have 4 cycles **total**.
-
-</aside>
 
 Because of the relationship between performance, and compensation/ promotions, the review cycles are close together, while being separate. This also means that our operating calendar has space for large events (company kick off and Coalesce, for example) to happen without a review cycle in tandem.
 ![image](https://user-images.githubusercontent.com/127452841/224829035-3fed8ef2-3de1-4098-8167-b978d98ea295.png)
@@ -142,19 +140,17 @@ Because of the relationship between performance, and compensation/ promotions, t
     - Promotions: 6 hours per team member (including writing, collecting and meetings)
     - Merit: 2 hours for requests and calibrations plus 30 minutes for each eligible team member for the discussion.
 
-## [Performance Reviews](https://www.notion.so/Performance-Reviews-at-dbt-Labs-054564274f6042a09e1e8515df579e06) 
+### [Performance Reviews](https://www.notion.so/Performance-Reviews-at-dbt-Labs-054564274f6042a09e1e8515df579e06) 
 
-## [Compensation Reviews and Promotion Cycles](https://www.notion.so/Compensation-Reviews-and-Promotion-Cycles-3cd43b727be1471c991cb6964bae4ccd) 
+### [Compensation Reviews and Promotion Cycles](https://www.notion.so/Compensation-Reviews-and-Promotion-Cycles-3cd43b727be1471c991cb6964bae4ccd) 
 
-## Internal Mobility
+## [Internal Mobility](https://www.notion.so/dbtlabs/Internal-Mobility-d70f84f1c4bf4215aa017960123a2bfc?pvs=4)
 
 ### Overview
 
 This document applies to those interested in applying to a role outside of your immediate team. Typically, this role will need to be an open requisition with an approved headcount.
 
-Below is also a link to our internal career site, where we post open roles (this is regularly updated, and we are posting roles based on the quarter it is allocated for):
-
-[Greenhouse](https://app5.greenhouse.io/internal_job_board/)
+We post open roles on our internal career site, [Greenhouse](https://app5.greenhouse.io/internal_job_board/). It is regularly updated, and post roles based on the quarter they are allocated for.
 
 ### Eligibility
 
@@ -183,7 +179,7 @@ We ask that employees be in their role for **at least** 12 months before applyin
 3. Reach out to the [recruiter](https://www.notion.so/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8) and hiring manager to have an introductory call:
     1. Explain why you are interested in learning more about this role. In your conversation, understand the role expectations and hiring profile.
     2. If you would like to learn more about the role, we recommend shadowing someone who is on the existing team or in the current role to learn more about the day to day.
-    3. Feel free to also meet with existing members of the team to understand the landscape of the team, advise they may have, or general mentorship.
+    3. Feel free to also meet with existing members of the team to understand the landscape of the team and gain advice advice or general mentorship.
 4. At the end of the introductory call, you can also ask the hiring manager if they think you would be good fit for the role at this time. The hiring manager might be able to help you identify areas you can develop prior to pursuing the role, or recommend other roles to look into if they conclude another team or role would be better suited for you, your interests, and/or skill set.
 
 #### Step 2: Apply
@@ -229,9 +225,9 @@ After you go through the interview process, you will hear back from the hiring m
 
 ### **Country Hiring Guidelines**
 
-The dbt Labs team has members in countries and regions all over the world and from all walks of life. We value diversity. As we grow we will continue to explore our hiring capabilities in a variety of geographies.
+We have members in countries and regions all over the world and from all walks of life. We value diversity. As we grow, we will continue to explore our hiring capabilities in a variety of geographies.
 
-All of our roles are remote, however some roles may carry specific location or time zone-based eligibility requirements. Our Talent Acquisition team can help answer any questions applicants may have about location after starting the recruiting process.
+All of our roles are remote, however some roles may carry specific location or time zone eligibility requirements. Our [Talent Acquisition team](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8) can help answer any questions applicants may have about location after starting the recruiting process.
 
 In the past, dbt Labs would hire in any country except those we had already determined were not feasible due to certain restrictions. At present we are focusing our hiring in countries where we have entities; exceptions will be made rarely and must have approval by our CFO*. For exceptions, we ask for a 6 month lead time so that we can properly investigate employing someone in that country and take necessary steps to be able to do so legally.
 
@@ -303,15 +299,7 @@ In the past, dbt Labs would hire in any country except those we had already dete
 
 ### Global Compensation and Benefits
 
-[dbt Labs Compensation Principles](compensation.md#compensation-principles) 
-
-[Global Benefits Strategy & Stipend](https://www.notion.so/Global-Benefits-Strategy-Stipend-03b4ebfbb278451f894a4cca46c90607)
-
-In the past, we have hired internationally using our US-based compensation bands. As we are growing that presence internationally, our approach here will have to change in order to create efficiency and scalability with our growth. To that end, we will apply our compensation philosophy to each country we employ in. 
-
-This is because the labor markets, benefits, pension/superannuation schemes and payroll taxes can vary greatly country to country. This approach insures that we are offering equitable (not equal) compensation in each market.
-
-We are paying **local country rates** based on [cost of market (also referred to as cost of labor)](https://www.erieri.com/blog/post/cost-of-labor-vs-cost-of-living). This means we will align our compensation with the top (75th - 90th percentile) in each country (looking at ”All UK” “All Germany”, “All Australia”, etc.)
+Learn more about our [Compensation Principles](/handbook/compensation.md#compensation-principles) and [Global Compensation and Benefits](/handbook/compensation.md#global-compensation-and-benefits-1).
 
 ### Relocation (Permanent or Semi-permanent)
 
