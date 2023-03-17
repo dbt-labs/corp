@@ -561,24 +561,23 @@ Learn more about setting up your account [here](https://www.notion.so/dbtlabs/Br
 
 We offer 2 EAP programs.
 
-#### UNUM EAP
+#### 1. UNUM EAP
 
 UNUM’s EAP services are eligible for all employees **globally.**
 
 [UNUM](https://app.strivebenefits.com/dbt/eap?country=us) is also our life and disability provider. 
-    
-    Benefits include:
-    
-    - Three face‐to‐face visits with a local counselor to help address personal concerns.
-    - Unlimited and confidential phone/online support
-    - Access to information and referrals for work/life resources including child care, elder care, legal questions, financial services, relocation support, and more.
-    - Service extends to employees, their spouses or domestic partners, dependent children (26 and younger), parents and parents-in-law.
+
+Benefits include:
+- Three face‐to‐face visits with a local counselor to help address personal concerns.
+- Unlimited and confidential phone/online support
+- Access to information and referrals for work/life resources including child care, elder care, legal questions, financial services, relocation support, and more.
+- Service extends to employees, their spouses or domestic partners, dependent children (26 and younger), parents and parents-in-law.
 
 Learn more about UNUM EAP and how to access this service [here](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4#8d2c2e91ce7b4bb9a2628ca00f6e5dcd).
 
 [2021 EAP - Employee Flyer.pdf](https://github.com/dbt-labs/corp/files/10994740/2021.EAP.-.Employee.Flyer.pdf)
 
-#### ADP - LifeCare EAP (US)
+#### 2. ADP - LifeCare EAP (US)
 
 ADP - LifeCare EAP services are eleigilbe for US employees only.
 
