@@ -73,10 +73,7 @@ Our compensation philosophy has been arrived at over the course of many years, c
     2. For job changes through internal mobility you will be offered a salary in the range for the new role using the parameters outlines in #8.
     3. Everyone is eligible for an annual merit cycle in either Q4 (effective 2/1) or Q2 (effective 8/1). The cycle you are included in will be the one closest to the anniversary of your start date in your current role. Merit increases will ensure alignment to the market (by being within the entire range of the band) at your performance and experience level and resources will be allocated to top performing team members within the organization.
     4. Market adjustments are determined on an annual basis when we pull fresh market data. When we update the band for a role we will move all team members into the new salary band.
-11. We strive to offer benefit packages that provide our team members with strong medical coverage regardless of their location or care needs. 
-    
-    [Global Benefits Strategy & Stipend](https://www.notion.so/Global-Benefits-Strategy-Stipend-03b4ebfbb278451f894a4cca46c90607)
-    
+11. We strive to offer benefit packages that provide our team members with strong medical coverage regardless of their location or care needs.    
 12. We hire across the globe but are not location agnostic. A candidate’s time zone, the market pay in a region, proximity to users, customers, and partners, and the presence or absence of a dbt Labs legal entity can all be factors in the hiring process.
 
 ## Questions
@@ -94,33 +91,25 @@ If you have a specific question around your compensation, one of your direct rep
 
 ## Global Compensation and Benefits
 
-[dbt Labs Compensation Principles](#Compensation-Principles)
+Our [compensation principles](compensation.md#compensation-principles-1) are applied to each country we employ in. This is because the labor markets, benefits, pension/superannuation schemes and payroll taxes can vary greatly country to country. This approach insures that we are offering equitable (not equal) compensation in each market.
 
-[Global Benefits Strategy & Stipend](/handbook/benefits.md/#Global-Benefits-Strategy-&-Stipend)
+We pay **local country rates** based on [cost of market (also referred to as cost of labor)](https://www.erieri.com/blog/post/cost-of-labor-vs-cost-of-living). This means we will align our compensation with the top (75th - 90th percentile) in each country (looking at ”All UK” “All Germany”, “All Australia”, etc.)
 
-In the past, we have hired internationally using our US-based compensation bands. As we are growing that presence internationally, our approach here will have to change in order to create efficiency and scalability with our growth. To that end, we will apply our compensation philosophy to each country we employ in. 
-
-This is because the labor markets, benefits, pension/superannuation schemes and payroll taxes can vary greatly country to country. This approach insures that we are offering equitable (not equal) compensation in each market.
-
-We are paying **local country rates** based on [cost of market (also referred to as cost of labor)](https://www.erieri.com/blog/post/cost-of-labor-vs-cost-of-living). This means we will align our compensation with the top (75th - 90th percentile) in each country (looking at ”All UK” “All Germany”, “All Australia”, etc.)
+Learn more about our [Global Benefits Strategy & Stipend](/handbook/benefits.md/#Global-Benefits-Strategy-&-Stipend).
 
 #### Relocation (Permanent or Semi-permanent)
 
-📌 All international relocation requests must be approved by the People team, Finance team and the team members management. To initiate a request, please contact your People Business Partner.
+📌 All international relocation requests must be approved by the People team, Finance team and the team member's management. To initiate a request, please contact your [People Business Partner](https://www.notion.so/People-Business-Partners-7c4b9fca56e245e684bd8d8e79f65910).
 
-[People Business Partners](https://www.notion.so/People-Business-Partners-7c4b9fca56e245e684bd8d8e79f65910)
-
-📌 Relocation requests within country may need approval by the team members management due to time zone or regional requirements. Please communicate with your manager if you plan a move to a different region in your country.
-
+📌 Relocation requests within country may need approval by the team member's management due to time zone or regional requirements. Please communicate with your manager if you plan a move to a different region in your country.
 
 If a team member chooses to relocate within each country (ex. from London → Manchester or Boston → Chicago), their compensation will not change. However, if the relocation is to a different country, they will be re-aligned to the new country’s compensation bands. This applies both when moving to a lower and higher cost market. 
 
-Compensation bands for each country we have an entity in will be listed in our compensation database. As we grow, new data will be added to capture roles located in each country.
+Compensation bands will be listed in our compensation database for each country where we have an entity. As we grow, new data will be added to capture roles located in each country.
 
 **What to consider before moving?**
 
 ⏳ Please initiate a move at least 3 months before your target move date. This allows us to process necessary approvals and make sure we’re able to execute the transfer.
-
 
 1. If the team member is moving to a new country, the move must have prior approval by their People Business Partner, the dbt Labs finance team, their manager and their team’s leadership.
     1. Please allow for one month for approvals.
@@ -155,7 +144,7 @@ There are different tax consequences for ISO and NSO options.  Additionally, tax
 
 ### Compensation Philosophy / Band Structures
 
-As mentioned in the [dbt Labs Compensation Principles](#Compensation-Principles), we use 75th Percentile as the basis for the midpoint as well as using a consistent range spread based on job level. We continue to use industry specific data as well as targeting all country data sets. This allows us to build consistency in bands and makes the bands slightly wider. With this methodology, most of our bands' minimums may stretch down to the 50th percentile and the maximum’s push slightly past the 90th percentile. This allows further flexibility and utilization of an entire range for a role.
+As mentioned in our [Compensation Principles](#compensation-principles-1), we use 75th Percentile as the basis for the midpoint as well as using a consistent range spread based on job level. We continue to use industry specific data as well as targeting all country data sets. This allows us to build consistency in bands and makes the bands slightly wider. With this methodology, most of our bands' minimums may stretch down to the 50th percentile and the maximum’s push slightly past the 90th percentile. This allows further flexibility and utilization of an entire range for a role.
 
 - Consistent Band Spreads
     
@@ -181,7 +170,7 @@ As mentioned in the [dbt Labs Compensation Principles](#Compensation-Principles)
 
 As dbt labs has continued to grow, so has our need for more robust data sources to further develop and benchmark our compensation structure to. This is a common next step as we continue to mature and evolve our compensation benchmarking practices. After evaluating a handful of data sources, we found that using a combination of the following data sets creates a solid and diverse base to build our updated ranges from (Radford, Mercer, Pave, Carta and Options Impact).
 
-We believe that with more data we can better target [more specific roles[^7] within dbt labs as well as better navigate data outliers that are a result low counts of specific data points (ex. Small or insufficient # of companies/employees reporting salaries for a specific role & level).
+We believe that with more data we can better target more specific roles[^7] within dbt labs as well as better navigate data outliers that are a result low counts of specific data points (ex. Small or insufficient # of companies/employees reporting salaries for a specific role & level).
 
 Another common practice in salary band development is to assess and utilize data based on the quality and veracity of that data set. While we believe that each of the sources we are using has its own merit for use, we have chosen to use a weighting structure to develop the midpoint of our ranges instead of using a straight average. This allows us to better index on data sources like Radford and Mercer which are considered a ‘Gold standard’ data sets within the compensation community. 
 
@@ -195,20 +184,20 @@ Another common practice in salary band development is to assess and utilize data
 | OI       	| 10%    	| All US - Tech → Raised $250M - $500M           	| Total Target Pay - 75th Percentile                                                                     	| Options Impacts data is reported via survey submission and matching from companies. Options impact has been the data that we anchored our bands to historically and continues to give exposure to to similar tech companies but as we've grown and matured it is limited in the levels, descriptions and quantity of data for other companies that we would consider peers. This data cut is Tech (enterprise) companies that have raised over $250 Million in capital and all US. Additionally this creates a layer of continuity in salary survey use but is weighted to 10% due to its limited leveling and matching data points.                                                                       	|
 | Carta    	| 10%    	| All Data → San Francisco-Oakland-Berkeley, CA  	| Salary data - 75th Percentile  *Not used for variable comp roles since OTE isn’t reflected in the data 	| Carta Data is sourced directly from employers HRIS systems and matched based on their internal job title system structure. Their data does not cut to an all US as is our practice for data cuts so have aligned this market point with CA, Bay Area salaries. We are including this source as this data will be sourced from start ups which will continue to give direct exposure to similar start up companies. We discounted this data and gave it a 10% weighting due to the lack of All US approach / other data sifting that we would want. Lastly, Carta's data isn't overtly robust in terms of incumbents as well as depth of different matches.                                                 	|
 
-Additionally, we have outlined the step by step process of how we go from Raw data to a refined Salary band for roles as well as the additional synthesis and analysis of the data.
+Additionally, we have outlined the step by step process of how we go from raw data to a refined salary band for roles as well as the additional synthesis and analysis of the data.
 
 
 [^7]: Specific Roles - Both Radford and Mercer have 100+ different jobs / roles that we can match to that allows to get more specific with the roles and duties to ensure that our role’s bands are developed using the most correlated data and skill set. This is vital to ensure we aren’t over or under targeting pay for roles that have been lumped into 1 large bucket.
 
 ## Salary Bands Overview
 
-Salary bands in their simplest form is the compensation range for a given role within an organization. These ranges are built and developed using market data that allows companies to benchmark their roles compare to others in their industry. The market data used, is a direct reflection of a companies compensation strategy and philosophy as it determines how competitive they will be in attracting and retaining talent. As mentioned in our [dbt Labs Compensation Principles](#compensation-principles-1), we build our salary bands using tech specific data as well using the 75th Percentile as the basis or target of our ranges (In short, this ensures that we are competing with other tech companies and that our pay should meet or exceed 75% of other companies for similar roles and level).
+Salary bands in their simplest form is the compensation range for a given role within an organization. These ranges are built and developed using market data that allows companies to benchmark their roles compare to others in their industry. The market data used, is a direct reflection of a companies compensation strategy and philosophy as it determines how competitive they will be in attracting and retaining talent. We build our salary bands using tech specific data as well, using the 75th Percentile as the basis or target of our ranges (In short, this ensures that we are competing with other tech companies and that our pay should meet or exceed 75% of other companies for similar roles and level).
 
 ### How we built our salary bands?
 
 As dbt labs has continued to grow and mature, so has our our compensation and total rewards strategy. In the following pages, you can reference a deeper dive into these changes as we’ve added 4 additional data sets and have a greater ability to more accurately benchmark specific roles instead of more functional buckets.
 
-[Process: How Salary Bands are Made](#how-salary-bands-are-made-1)
+Learn more about how our salary bands are made [here](#how-salary-bands-are-made-1).
 
 ### What ranges are built?
 
