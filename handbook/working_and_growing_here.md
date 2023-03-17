@@ -3,11 +3,12 @@
 ### [Annual Review Cadence](#annual-review-cadence-1)
 - #### [Performance Reviews](#performance-reviews-1) 
 - #### [Compensation Reviews and Promotion Cycles](#compensation-reviews-and-promotion-cycles-1)
-#### [Internal Mobility](#internal-mobility-1)
-#### [Embedded Roles](#embedded-roles-1)
-#### [Global Employment](#global-employment-1)
-#### [Moonlighting Guidance](#moonlighting-guidance-1)
-#### [Conscientious Objection](#conscientious-objection-1)
+### [Internal Mobility](#internal-mobility-1)
+### [Embedded Roles](#embedded-roles-1)
+### [Global Employment](#global-employment-1)
+### [Moonlighting Guidance](#moonlighting-guidance-1)
+### [Conscientious Objection](#conscientious-objection-1)
+### [Diversity, Equity and Inclusion] 
 
 ## Annual Review Cadence
 
@@ -391,3 +392,11 @@ If you need additional support working with your manager to figure out an accomm
 If work that conflicts with your deeply held beliefs is a regular and predictable part of your role rather than an exception, and your right to conscientious objection is impeding the team’s overall success, the best long-term solution may be to look for a role that’s a better fit. You can work with your manager and your People Business Partner to move towards a different role within the company that is more aligned with your personal values. 
 
 💡 You can see some of the discussion that led to this policy in [Working Document: Conscientious Objection](https://www.notion.so/Working-Document-Conscientious-Objection-31977f6aa61b447fabc4f5ac6a20f02f).
+
+## Diversity, Equity and Inclusion
+
+We are committed to diversity, equity, and inclusion. DEI impacts high-level company decisions, and is woven into the culture of everyday work.
+
+We have three DEI committees dedicated to Team Diversity, Culture, and Company Stance and Action. Together, these committees make sure we build a diverse team, equitable company structures, and an environment that gives everyone the support and opportunities they need to thrive.
+
+Learn more [here](https://www.getdbt.com/dbt-labs/dei/).
