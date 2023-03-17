@@ -1,19 +1,19 @@
 # Policies and Training
 
 ### [Code of Conduct](#code-of-conduct-1)
-### [Anti-Harassment Training](
-### Corporate Travel & Expense Policy
-### Computer Refresh Policy
-### Involuntary Terminations
-### US Employement Posters
-### Privacy Notices
-### Addendums
+### [Anti-Harassment Training](#anti-harassment-training-1)
+### [Corporate Travel & Expense Policy](#corporate-travel--expense-policy-1)
+### [Computer Refresh Policy](#computer-refresh-policy-1)
+### [Involuntary Terminations](#involuntary-terminations-1)
+### [US Employement Posters](#us-employement-posters-1)
+### [Privacy Notices](#privacy-notices-1)
+### [Addendums](#addendums-1)
 
 ## Code of Conduct
 
 Review our Code of Conduct [here](/#dbt-Labs-Code-of-Conduct.md).
 
-### Anti-Harassment Training
+## Anti-Harassment Training
 
 We are committed to taking all steps possible to prevent employee harassment. Anti-harassment training and policies are either highly recommended or mandated in most countries to guarantee a basic right to be free from bias and harassment within the workplace. We aim to provide best-in-class training and clear policies that support a healthy workplace culture.
 
@@ -104,18 +104,18 @@ But employee termination is one of those areas where the interests of individual
 
 There are a lot of ways to end any relationship, and we want employment relationships at dbt Labs to always end in the best way possible.
 
-# Types of Terminations
+### Types of Terminations
 
 There are generally speaking three types of terminations:
 
-1. Layoffs and business-needs based terminations
+1. Layoffs and business-needs based terminations:
 Layoffs typically happen due to economic circumstances. The most common reason a company does layoffs is if it underperforms its financial plan. And there are situations where the needs of the business change and old roles are eliminated or new skill sets are needed. Both of these situations can lead to terminations that are unrelated to the performance of the individual employee.
-2. Terminations for misconduct
-Terminations for misconduct are exceptional situations and often result in immediate termination. These may involve things like inappropriate conduct, negligence, and violation of employee agreement, among others. This does not include *making a mistake*—see [this section](https://www.notion.so/Involuntary-Terminations-2ae0d5393458432d87ce270fa7530765) if you're curious about this.
-3. Performance-related terminations
+2. Terminations for misconduct:
+Terminations for misconduct are exceptional situations and often result in immediate termination. These may involve things like inappropriate conduct, negligence, and violation of employee agreement, among others. This does not include *making a mistake*.
+3. Performance-related terminations:
 These terminations are where an employee is not performing in their role and the company decides to terminate the relationship. This is the most common type of termination that arises in the normal course of business.
 
-*The focus of this section is performance-related terminations.*
+**The focus of this section is performance-related terminations.**
 
 ### On Governing Law
 
@@ -297,14 +297,14 @@ We regularly conduct retrospectives on terminations. The purpose of this retrosp
 
 As in all things, our goal here is to be as transparent as possible. In going through these meetings we will look to share as many learnings from these retrospectives as possible without violating employee privacy.
 
-### US Employement Posters
+## US Employement Posters
 
 Please review the employment posters for the state you live in, and also the federal posters which apply to each US employee. All posters can be found [here](https://www.notion.so/dbtlabs/US-Employment-Posters-de219cf7a3774a73b206060831193c0c?pvs=4).
 
-### Privacy Notices
+## Privacy Notices
 
 Pelase review the privacy notices located [here](https://www.notion.so/dbtlabs/US-Employment-Posters-de219cf7a3774a73b206060831193c0c).
 
-### Addendums
+## Addendums
 
-TBD.
+TBD
