@@ -563,9 +563,7 @@ We offer 2 EAP programs.
 
 #### 1. UNUM EAP
 
-UNUM’s EAP services are eligible for all employees **globally.**
-
-[UNUM](https://app.strivebenefits.com/dbt/eap?country=us) is also our life and disability provider. 
+UNUM’s EAP services are eligible for all employees **globally.** [UNUM](https://app.strivebenefits.com/dbt/eap?country=us) is also our life and disability provider. 
 
 Benefits include:
 - Three face‐to‐face visits with a local counselor to help address personal concerns.
