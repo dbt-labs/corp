@@ -372,6 +372,162 @@ Hiring globally is a business and people decision that has many factors attached
 
 ## [Equity](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171)
 
+We believe that employee ownership is a way for employees to share in the success of the Company. As such, we issue stock options as part of most employees' compensation packages.
+
+If equity aand stock options are a brand new concept for you and you'd like to learn more about the general concepts, check out these resources [here](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171?pvs=4#2a3d7a2987cd4658ab69054caefac0f2).
+
+### Why Issue Options?
+
+We want all employees to act with the financial interests of the company in mind. There is no better way to align incentives in this way than to give everyone a financial stake in the company. Granting ownership in a company via a stock option is common practice in high-growth businesses for exactly this reason.
+
+We *do not*, however, see equity as a way to "bridge the gap" to below-market cash compensation. This is fairly standard practice at early-stage businesses (seed and prior)—because companies at this stage are extremely cash-poor, they offer employees minimal cash-based compensation and instead offer very large option grants to "make up the difference" with equity. dbt Labs is at a stage where we pay market rates in the cash component of our compensation packages, and so we encourage employees to think of equity upside as an amazing potential outcome but not a primary reason to take a job here.
+
+💡 All startups are risky, and the value of any particular option grant (at dbt Labs or elsewhere!) could go to zero. Our [compensation principles](#compensation-principles-1) ensure that employees are well-compensated (via the cash and other components of their package) even in such a scenario.
+
+### When do we Issue Stock Option Grants?
+
+There are generally 3 reasons or scenarios that will result in a grant - 
+
+**New Hire Grants:** All new hires will be eligible for an equity grant based on the level of the job they are hired into.
+
+**Promotion Grants:** As employees progress in their role within dbt labs, promotion grants equal to 50% of a new hire grant of the job level they are moving into and will be given to employees for their increased contribution and growth with dbt labs.
+
+**Refresh Grants:** Refresh grants are designed to refresh employees’ stock options as shares vest over time. These grants are generally awarded after an employee has been with dbt labs for 2 years and will be eligible for a 25% of new hire grant of their current job level in conjunction with additional eligibility requirements.
+
+You can find the current equity information on the page below as well as more detailed information about each of these grant types.
+
+[Equity Bands]([https://www.notion.so/Equity-Bands-Series-D-V1-8d1ad810637441b798af6b5207f9c0ba](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5?pvs=4))
+
+### What Type of Options Do We Issue?
+
+At dbt Labs, we give equity grants in the form of Incentive Stock Options (ISOs) and Non-Qualified Stock Options (NSOs). The difference in these two types of grants are, generally, as follows: ISOs are issued to US employees and carry a special form of tax treatment recognized by the US Internal Revenue Service (IRS). NSOs were granted to employees prior to August 2020 (see company history for more information) and are currently granted to contractors and non-US employees. 
+
+This financial instrument is called an "option" because you have the *option* to buy dbt Labs stock at a later date, subject to vesting terms, at the exercise price provided at the time of grant. Solely for the purposes of example, if you are granted stock options with an exercise price of $1 per share of common stock today, and if dbt Labs grows and its common stock is worth $20 per share, you will still be able to buy the common stock upon exercise of your option for $1 per share.
+
+### How does Vesting Work?
+
+Vesting means that you have to remain employed by, or are otherwise a service provider to, dbt Labs for a certain period of time before you can fully purchase and own the stock within your stock option agreement. This means that, over time, you will have the right to purchase the stock based on the schedule defined in your stock agreement. This process is called vesting and different companies offer vesting schedules of different lengths.
+
+At dbt Labs, our standard practice is that all new hire grants are issued with a four-year vesting schedule and a 1 year cliff. This means would have the option to purchase 25% of your stock after 12 months, 50% of your stock after two years, and all of it after 4 years. Our vesting occurs on a monthly basis (so you vest 1/48 of your options each month); however, many vesting schedules include a cliff. A cliff is a period at the beginning of the vesting period where your equity does not vest monthly, but instead a portion vests at the end of the cliff period. At most companies, including dbt Labs, this cliff period is generally one year for **new hire grants**. This means that if you leave your job either voluntarily or involuntarily before you’ve worked for a whole year, none of your options will be vested. At the end of the first year, you’ll vest the entire first year’s worth (12 months) of equity all at once. This helps keep the ownership of dbt Labs stock to folks who have worked at the Company for a meaningful amount of time.
+
+***Promotion Grants & Refresh Grants are issued with a four-year vesting schedule with no cliff, meaning they will vest 1/48 each month.**
+
+### What is a Stock Split?
+
+A Stock Split is a decision by a Company to increase the number of shares outstanding by issuing more shares to current shareholders.  As the number of shares increases, the stock price decreases at the same proportion. ****An example of this would be if you took a large pizza that was worth $20 and cut it into 4 slices each worth $5. A stock split is the equivalent to cutting those 4 slices into 8 slices which still leads to the same size pizza worth $20 except each slice is now worth $2.50 and you have 2 slices instead of 1. **This does not change the overall value of the company.**
+
+**If the value does not change, why do a Stock Split?**
+
+A Stock Split lowers the share price, which makes the stock appear more attractive to investors and future shareholders.  The new outstanding share count should now be comparable to other companies at our stage which should make the equity component of an offer in line with other offers that a candidate might receive (purely on a share count basis).
+
+As part of the Series D financing, dbt Labs announced a 5:1 stock split. For more information, check out that update.
+
+[Series D: 409A & Stock Split](https://www.notion.so/Series-D-409A-Stock-Split-087debe81c00497ebef90ad41e149d7c)
+
+### What is Dilution and How Does it Work?
+
+Dilution happens to all companies as companies issue new equity over time. For example, if company XYZ needs to raise money from outside investors, it typically needs to create new shares of stock to sell to those investors. The effect of additional stock issuances by company XYZ is that, while you will own the same number of shares as you did before such issuance, there will be more total shares outstanding. As a result, you will own a smaller percentage of the Company. This is called dilution.
+
+### Important Dates to Understand
+
+- **Grant Date**: The grant date is the date that the board approves the grant. Your grant date will almost always be after your vesting date.
+- **Vesting Date**: The vesting date will generally align to either your hire date (for new hire grants) or your promotion or review date (for refresh or promotion grants). This is when your vesting schedule starts.  If the grant date occurs after your vesting date, that does not change your vesting date.
+- **Exercise window:** If you leave the company and have ISOs you will have 90 days to exercise your option for any shares that are vested (from the last day of service). For NSOs, you will have 180 days to exercise your options for any shares that are vested (from last day of service).
+    - As of December 8, 2021, dbt Labs extending the exercise window to 5 years from termination. Please see this [update](https://www.notion.so/Employee-Option-Update-e915ac846d2e4982b272dfa6e39eefe6) for details. **If you have an ISO and elect not to exercise your option in the 90-day period, it will convert to an NSO.**
+- **Option expiration:** If not otherwise expired (through termination of your employment and not exercising within the exercise period), your stock options expire 10 years after the grant date.
+
+### Taxes
+
+<aside>
+🚧 **Tax law is complex and you should consult a tax attorney or other tax advisor who is familiar with startup stock options before making any decisions.**
+
+</aside>
+
+**Incentive Stock Options (ISOs)**
+
+- No tax is due at the time of exercise unless the $100k ISO limit is reached. This is based on FMV of the original grant. Read more about that [here](https://carta.com/blog/what-is-the-100k-iso-limit/).
+- Alternative Minimum Tax (AMT) may be applicable in the year the option is exercised.
+- In most cases, tax will be due when the shares are sold. The amount of tax due will be determined by the holding period of the shares once exercised. Again, there are many nuances here so it is recommended that you consult a tax advisor regarding any questions about your personal circumstances.
+- Must be exercised within 90 days of the termination date. This is a requirement of the IRS in order to qualify for ISO tax treatment.
+- Can only be issued to US employees.
+- Can only be issued by Corporations.
+
+**Non-Qualified Stock Options (NSOs)**
+
+- Tax due at time of exercise.
+    - The difference between the strike price of your grant and the current FMV is subject to ordinary income tax.
+- NSOs allow for longer exercise periods. At dbt Labs, the default is 180 days after the termination date.
+- NSOs can be issued to employees and non-employees.
+- Can be issued by any entity.
+
+Tax Resources: 
+
+[https://turbotax.intuit.com/tax-tips/investments-and-taxes/incentive-stock-options/L4azWgfwy](https://turbotax.intuit.com/tax-tips/investments-and-taxes/incentive-stock-options/L4azWgfwy)
+
+[https://turbotax.intuit.com/tax-tips/investments-and-taxes/non-qualified-stock-options/L8zsxRi7B](https://turbotax.intuit.com/tax-tips/investments-and-taxes/non-qualified-stock-options/L8zsxRi7B)
+
+<aside>
+💼 **You are strongly encouraged to consult a tax advisor.**
+
+</aside>
+
+## Option Plan Administration
+
+All option grants must be approved by the Board of Directors. Grants are typically approved on a monthly basis unless the Company is going through a financing round or waiting on a 409A valuation. Once your grant is approved you will receive a grant notice by email from [Carta](https://carta.com/). The email will be sent to the personal email you provided in ADP. The grant notice will contain all of the relevant information about your grant including the number of shares, exercise price, vesting schedule, and vesting start date. Clicking through this email will allow you to set up an account in Carta. There you will have access to your equity award document and the dbt Labs, Inc. 2019 Equity Incentive Plan. These documents contain the terms and conditions of your equity award.
+
+<aside>
+💡 A note on the "2019" moniker: option plan names are like wine vintages: until we make substantive changes to our plan, we'll continue to issue grants out of the "2019" plan.
+
+</aside>
+
+### Exercising your Options
+
+"Exercising your options" means that you are purchasing the shares guaranteed by your options. Options can only be exercised if they are vested. Exercises should be initiated through Carta, please follow the steps below:
+
+1. Log into Carta account
+2. Add Payment Account by selecting "Payment Information" from the Account dropdown
+3. If options are eligible for exercise, there will be a green "Exercise" button
+4. Select "Exercise" and follow the system prompts
+5. Once the exercise is approved by the equity administrator, the funds will automatically be deducted from the account you input into "Payment Information"
+
+If you are unable to exercise your options in Carta because a prior exercise is still "pending" or your bank account is unable to be verified. You have the option of **exercising manually**. This should absolutely only be used as a last resort, processing through Carta provides a clean paper trail and eliminates a lot of manual process for you and the equity admin, @Mike Haruff.
+
+1. Use the template below to draft an email. Send email to @Mike Haruff and @Meg Colon.
+    
+    [dbt Labs, Inc. - Form of Notice of Exercise of Incentive Stock Option.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/470f9db0-b129-4d98-8621-d3c5286b5765/dbt_Labs_Inc._-_Form_of_Notice_of_Exercise_of_Incentive_Stock_Option.pdf)
+    
+    [dbt Labs, Inc. - Form of Notice of Exercise of Non-Qualified Stock Option.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/72b7ccec-e0f8-4a04-b680-804131db7d0f/dbt_Labs_Inc._-_Form_of_Notice_of_Exercise_of_Non-Qualified_Stock_Option.pdf)
+    
+
+2. There are 2 options for payment:
+
+1. Check - if paying with a check, include an attachment to your email with the image of the check (make sure the check date aligns with the date you send the email of your exercise request).
+    
+    Check should then be mailed to the Philadelphia office:
+    
+    dbt Labs, Inc.
+    915 Spring Garden Street
+    Suite 500
+    Philadelphia, PA 19123
+    
+2. Wire/ACH - if paying with a wire or ACH, please use these [banking details](https://www.notion.so/New-Customer-FAQ-491c93fe6571446aa74ba875bd61d8a4). Print confirmation of payment and send as an attachment to exercise request email.
+
+## Relevant Company History
+
+### Company Timeline
+
+- In May of 2016, Fishtown Analytics was formed as an LLC.
+- In June 2019, the 2019 Equity Plan was created, kicking off the first 409A.
+- On November 4, 2019, the Company converted from an LLC to a C Corporation as a part of the seed financing. This required another 409A valuation.
+- April 2020, Series A was closed. This required another 409A valuation.
+- August 2020, Series B was closed. This required another 409A valuation.
+- May 2021, Series C was closed.  This required another 409A valuation.
+- February 2022, Series D was closed.  This required another 409A valuation.
+- May 2022, a Tender Offer was presented to employees that have been employed for 2+ years. Details can be found here: [2022 Tender Offer](https://www.notion.so/2022-Tender-Offer-c2348dbcb8324553bbb31725106ba933). The company will continue to explore this as an option each year, but is not guaranteed to occur.
+- February 2023, annual 409A valuation complete.
+
+
+
 - ### [Equity Bands FY24](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5)
 
 ## [Pay & Equity Ranges in Job Offers](https://www.notion.so/Making-Offers-Using-Pay-Equity-Ranges-f0a8c7d90b6347569dcce539cf21867e) 
