@@ -302,9 +302,7 @@ Learn more about our [Compensation Principles](/handbook/compensation.md#compens
 
 ### Relocation (Permanent or Semi-permanent)
 
-📌 All international relocation requests must be approved by the People team, Finance team and the team members management. To initiate a request, please contact your People Business Partner.
-
-[People Business Partners](https://www.notion.so/People-Business-Partners-7c4b9fca56e245e684bd8d8e79f65910)
+📌 All international relocation requests must be approved by the People team, Finance team and the team members management. To initiate a request, please contact your [People Business Partner](https://www.notion.so/People-Business-Partners-7c4b9fca56e245e684bd8d8e79f65910).
 
 📌 Relocation requests within country may need approval by the team members management due to time zone or regional requirements. Please communicate with your manager if you plan a move to a different region in your country.
 
