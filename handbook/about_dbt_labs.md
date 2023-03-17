@@ -6,12 +6,12 @@ Hello and Welcome to dbt Labs. We’re thrilled to have you as a member of the t
 This handbook is intended to answer many of the questions you might have after joining, and should serve as a valuable resource throughout your employment at dbt Labs. Read on to learn about important company policies and procedures, as well as the commitments of this company to our employees.
 
 ## Overview
-#### [Mission](mission.md) and [Values](values.md)
+#### [Mission](/mission.md) and [Values](/values.md)
 #### [Our Distributed Work Experience](#Our-Distributed-Work-Experience)
 #### [Working and Growing Here](/handbook/working_and_growing_here.md)
 #### [Compensation](/handbook/compensation.md)
 #### [Benefits and Perks](/handbook/benefits.md)
-#### [Training and Policies]
+#### [Training and Policies](/handbook/policies_and_training.md)
 
 
 ## [Our Distributed Work Experience](https://www.notion.so/dbtlabs/How-we-think-about-the-Distributed-Experience-5edaf90eafad420b9a05ffc03a3cc5c7?pvs=4)
@@ -55,7 +55,7 @@ Having a great distributed experience helps both our company and our employees. 
     - **Focus:** Defaulting to async communication means employees’ days aren't sliced into meetings. They have space to get into a flow state that produces efficient and satisfying work.
     - **No commute:** Without office buildings and in-person meeting requirements, employees no longer face stressful and time consuming commutes. That time can be reallocated to best serve the employee as a person.
     - **Autonomy:** We trust our employees to get work done when and where they want. This instills a sense of autonomy that is empowering and motivating for employees to be themselves inside work and live their best lives outside of it.
-- **It supports our [values](https://github.com/dbt-labs/corp/blob/main/values.md) and culture.**
+- **It supports our [values](/values.md) and culture.**
     - **Transparency always wins:** Honest and open communication allows us to collaborate across time zones.
     - **We value diversity:** We equip our global team members to thrive regardless of location by focusing on asynchronous communication and equitable work practices.
     - **We optimize for the long term:** Intentionally building cultural norms, tooling and processes helps set our growing team up for success.
@@ -68,10 +68,10 @@ Having a great distributed experience helps both our company and our employees. 
     
     A distributed workforce doesn’t just mean working from home. We realize that different people thrive in different settings. As a result, we offer benefits to support people in finding the right work setup for them and ensuring they are equipped for success:
     
-    - **[Office stipend:](https://www.notion.so/Office-Stipend-5f5a37d1026d4fb78ee3c6439fada6dc)** New employees receive $1,500 USD (or local equivalent) to spend in the first 60 days to set up their home office and purchase equipment to comfortably work their preferred location. Each year, employees receive $400 USD (or local equivalent) to support their remote work setup.
-    - **[Workspace rental:](https://www.notion.so/Our-Workplace-Rental-Experience-LiquidSpace-6ce02b65bdf4469989b5864ae7f410fc)** Working from home does not work for everyone. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
-    - **[Regional offices:](https://www.notion.so/Workplace-7a798fcfa1eb4fba9e061577b6fbb33b)** In regions with high employee count, dbt Labs has office space to support async-first collaboration and promote our culture and values when teams meet onsite. Designed with intention, these spaces are not used to incentivize local collaboration but instead support community development and foster connection with cross-functional teams during onsites.
-- **Global [comp](https://www.notion.so/dbt-Labs-Compensation-Principles-0d570903e75e45fc8f9f3fca13a77d00) & [benefits](https://www.notion.so/Benefits-Hub-9d4f4f11706d4f399719dd0abf5b273d)**
+    - **[Office stipend:](/handbook/benefits.md#office-stipend-1)** New employees receive $1,500 USD (or local equivalent) to spend in the first 60 days to set up their home office and purchase equipment to comfortably work their preferred location. Each year, employees receive $400 USD (or local equivalent) to support their remote work setup.
+    - **[Workspace rental:](/handbook/benefits.md#workplace-rental-1)** Working from home does not work for everyone. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
+    - **[Regional offices:](#regional-officies)** In regions with high employee count, dbt Labs has office space to support async-first collaboration and promote our culture and values when teams meet onsite. Designed with intention, these spaces are not used to incentivize local collaboration but instead support community development and foster connection with cross-functional teams during onsites.
+- **Global [comp](#/handbook/compensation.md#global-compensation-and-benefits) & [benefits](/handbook/benefits.md#global-benefits-strategy--stipend-1)**
     
     We offer a transparent compensation philosophy and intentional benefits to support our global employees. All employees have access to stipends to support health and wellness, phone/internet, professional development and health related travel needs.
     
@@ -83,7 +83,7 @@ Having a great distributed experience helps both our company and our employees. 
     
     Having the proper tools and systems to support remote work is key to effective communication. We rely heavily on Notion, Slack, and Zoom to keep people connected regardless of where they work. [Open meetings](https://www.notion.so/Open-Internal-Meetings-dee0b870900b4f70898f9c40fcf90719) and office hours are available for team members to foster cross-functional collaboration.
     
-- **[Diversity, Equity and Inclusion](https://www.notion.so/Diversity-Equity-and-Inclusion-e4d1b91f0f1f4f96a8759171173d4af8)**
+- **[Diversity, Equity and Inclusion](/handbook/working_and_growing_here.md#diversity-equity-and-inclusion-1)**
     
     As a globally distributed company, DEI is critical to our success. DEI is not simply enacted in programs and initiatives, it is woven into the culture of our every day work.
     
