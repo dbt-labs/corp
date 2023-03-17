@@ -8,7 +8,7 @@
 - #### [International Salary Bands](#international-salary-bands)
 ### [Equity](#equity-1)
 - #### [FY24 Equity Bands](#equity-bands-fy24)
-### [Pay & Equity Ranges in Job Offers](#pay--equity-ranges-in-job-offers)
+### [Pay & Equity Ranges in Job Offers](#pay--equity-ranges-in-job-offers-1)
 
 ## [Compensation Principles](https://www.notion.so/dbtlabs/dbt-Labs-Compensation-Principles-0d570903e75e45fc8f9f3fca13a77d00?pvs=4)
 Learn more about how we think about compensation at dbt Labs. Below are our compensation principles which we reference when making all compensation decisions.
@@ -69,7 +69,7 @@ Our compensation philosophy has been arrived at over the course of many years, c
 8. We base compensation on current market data for a role / level / country. The point in the range a candidate is offered is dependent on the candidate’s experience in the market and internal pay equity. A candidate’s previous pay is not a factor in setting their compensation at dbt Labs.
     1. In competitive offer scenarios, we may leverage sign-on bonuses. This lever is reserved for special cases and used sparingly.
     
-    [Pay & Equity Ranges in Job Offers](https://www.notion.so/Making-Offers-Using-Pay-Equity-Ranges-f0a8c7d90b6347569dcce539cf21867e) 
+    [Pay & Equity Ranges in Job Offers](#pay--equity-ranges-in-job-offers-1) 
     
 9. We won’t reduce compensation in role within the same market (country). A permanent or semi-permanent move to a new country will result in moving to that new local rate. More details on relocation can be found here:
     
