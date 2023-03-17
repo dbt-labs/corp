@@ -394,9 +394,7 @@ There are generally 3 reasons or scenarios that will result in a grant -
 
 **Refresh Grants:** Refresh grants are designed to refresh employees’ stock options as shares vest over time. These grants are generally awarded after an employee has been with dbt labs for 2 years and will be eligible for a 25% of new hire grant of their current job level in conjunction with additional eligibility requirements.
 
-You can find the current equity information on the page below as well as more detailed information about each of these grant types.
-
-[Equity Bands]([https://www.notion.so/Equity-Bands-Series-D-V1-8d1ad810637441b798af6b5207f9c0ba](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5?pvs=4))
+You can find the current equity information and more detailed information about each of these grant types [here](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5?pvs=4)).
 
 ### What Type of Options Do We Issue?
 
