@@ -3,8 +3,10 @@
 ### [Global Benefits Strategy & Stipend](#Global-Benefits-Strategy--Stipend-1)
 ### [Healthcare Benefits](#Healthcare-Benefits-1)
 - #### [Medical Plans](#medical-plans-1)
+- #### [Disability and Life Insurance)(#disability-and-life-insurance-1)
 - #### [Health Related Travel Benefit (US)](#health-related-travel-benefit-us-1)
 - #### [International Travel Emergency Health Benefits (US)](#international-travel-emergency-health-benefits-us-1)
+### [Retirement](#retirement-1)
 ### [Time Off Policy](#Time-Off-Policy-1)
 - #### [2023 Company Holidays](#2023-company-holidays-1)
 - #### [Leave of Absence Programs](#Leave-of-Absence-Programs-1)
@@ -70,6 +72,8 @@ As previously mentioned we look to target locally relevant and competitive benef
 
 ### [Medical Plans](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
 
+We provide medical, dental and vision benefits to employees and their dependents as well as FSA, DCFSA, and HSA options. Health benefits are paid in part by the company. The remainder of the costs is the employee’s responsibility
+
 Learn more about our medical plans [here](https://app.strivebenefits.com/dbt/2022-2023-medical?country=us).
 
 New hires may enroll themselves and dependents in health benefits online through ADP within the first 30 days of employment. There is a strict 30 day enrollment window. After benefit elections are submitted, enrollments go into effect the first day of employment (your start date) at dbt Labs.
@@ -77,6 +81,9 @@ New hires may enroll themselves and dependents in health benefits online through
 To enroll in benefits as a new hire, existing employee during open enrollment or at a time of a qualifying life event, follow our [guide](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4). Note: Employees who currently have a High Deductible Health Plan coverage selection are able to adjust their HSA contributions throughout the year. This is the only benefit adjustment that does not require a Qualifying Life or Work Event.
 
 **Employees enrolled in our health insurance are eligible for the following benefits as well:**
+
+### [Disability and Life Insurance)
+We provide long term and short term disability as well as life insurance coverage to all US-based employees at no cost. Voluntary, additional, life insurance coverage for employees and dependants is available at the expense of the employee.
 
 ### [Health Related Travel Benefit (US)](https://www.notion.so/dbtlabs/Health-Related-Travel-Benefit-1b3541b3eec3444d883de4ecf601dd9f?pvs=4)
 
@@ -113,6 +120,9 @@ Emergencies are generally classified as any symptoms that might be “limb or li
 Both Cigna and Kaiser have access to Registered Nurses who are available 24/7 to assess medical conditions over the phone and make suggestions for care (find these numbers on the back of your insurance card).
 
 Learn more about this benefit [here](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4).
+
+## Retirement
+Employees have access to an employer-sponsored 401K plan. Immediately upon hire, dbt Labs will contribute 3% of employee’s monthly salary into the retirement account on a monthly basis. Employees can additionally opt to contribute up to the federal maximum to their retirement account. dbt Labs will contribute to the retirement account regardless of any supplemental employee contributions.
 
 ## [Time Off Policy](https://www.notion.so/dbtlabs/Time-Off-Policy-cb5363a73ca1485dbf94619c4c57aa6f?pvs=4)
 
