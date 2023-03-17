@@ -221,7 +221,7 @@ You'll see that some roles have a note about OTE. OTE stands for ‘on target ea
 
 ### Roles & Levels
 
-As mentioned in [How Salary Bands are Made](#how-salary-bands-are-made-1), the first step in building salary bands is determining all planned and existing roles. Roles describe a career path that has a common set of core responsibility and duties within a giving field of work. Levels then are used to further extrapolate the progression of expertise, complexity and scope of a role. While we will be providing a more robust framework regarding levels, for simplicity you can reference the title structure below as a generalized progression.
+The first step in building salary bands is determining all planned and existing roles. Roles describe a career path that has a common set of core responsibility and duties within a giving field of work. Levels then are used to further extrapolate the progression of expertise, complexity and scope of a role. While we offer a more robust framework regarding levels, for simplicity you can reference the title structure below as a generalized progression.
 
 1. Entry-level / Associate
 2. Developing
@@ -340,16 +340,15 @@ All employees have access to our salary bands.
 
 ### Global Pay Practice
 
-As mentioned in [Compensation Principles](#compensation-principles-1), we localize all compensation ranges at a company level using the same methodologies based on the specific country's local market. This practice and decision becomes increasingly important as companies scale and grow globally, especially when considering the all encompassing Total Rewards Strategy which is a blend of monetary and nonmonetary rewards (countries have differences in government provided healthcare, pension plan requirement ranges, cost of labor based on market data and cost of living). This means each country has nuances that must be considered when creating a total rewards offerings. We consistently leverage various data sources and reports as well as external consultants to help ensure we are leveraging ‘best practices’ as our foundation to build upon.
+We localize all compensation ranges at a company level using the same methodologies based on the specific country's local market. This practice and decision becomes increasingly important as companies scale and grow globally, especially when considering the all encompassing Total Rewards Strategy which is a blend of monetary and nonmonetary rewards (countries have differences in government provided healthcare, pension plan requirement ranges, cost of labor based on market data and cost of living). This means each country has nuances that must be considered when creating a total rewards offerings. We consistently leverage various data sources and reports as well as external consultants to help ensure we are leveraging ‘best practices’ as our foundation to build upon.
 
 💡 Reference our [Globalization Strategy](https://www.notion.so/dbt-Labs-Globalization-Strategy-WIP-12e6742f4b254d9ca239dfb6af468f4b) for additional context around our global expansion strategy
 
+### [FAQ's about International Pay](https://www.notion.so/dbtlabs/FAQ-s-International-Pay-ad3050bc18eb428e802fe0c0eb7ac41c?pvs=4)
 
-### How are international salary bands built differently from US Bands?
+#### How are international salary bands built differently from US Bands?
 
 The same practice, process and philosophy is used to build all salary bands. We use the 75th percentile of the data within each country and use an all cash compensation to ensure we are paying above average and above 74% of other companies in that country based on the associated data set. The core difference between international salary bands and US salary bands is that many of the survey sources do not have a robust repository of international data which required us to use [Mercer - Comptryx](https://www.imercer.com/products/comptryx) as the sole data point at this time. While Mercer is a gold standard, we will be adding additional data sets to help further build out the available data sets globally.
-
-### [FAQ's about International Pay](https://www.notion.so/dbtlabs/FAQ-s-International-Pay-ad3050bc18eb428e802fe0c0eb7ac41c?pvs=4)
 
 #### Why don’t we pay US salary everywhere?
 
@@ -365,7 +364,7 @@ Due to the complex and robust nature of US & International compensation and bene
 2. locally competitive using local benchmark data 
 3. locally relevant
 
-You can find more information in [Global Benefits Strategy & Stipend](/handbook/benefits.md#Global-Benefits-Strategy-&-Stipend). 
+You can find more information in [Global Benefits Strategy & Stipend](/handbook/benefits.md#global-benefits-strategy--stipend-1). 
 
 #### Is hiring in lower cost of labor locations fair / equitable?
 
@@ -380,9 +379,6 @@ Hiring globally is a business and people decision that has many factors attached
 ### Using Salary Ranges
 
 When determining an offer for a candidate, we consider two primary and two secondary factors in conjunction with the approved salary band.
-
-[US Salary Bands FY24](https://www.notion.so/0425a64c1fd64ac0a861586e97143367)
-[International Salary Bands FY24](https://www.notion.so/dbtlabs/a667a8e4294a49efb255151b64c75a85?v=4abc278c7f114911983163d92e12e5b2)
 
 **Primary Factors**
 
@@ -417,14 +413,3 @@ Internal equity is framed around how a candidate compares to the rest of the tea
 We use the [Equity Bands](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5) as the basis for the equity offering.
 
 Then we use an internal [Equity Scenario Calculation tool](https://docs.google.com/spreadsheets/d/13GM9fLEZjUv_T5dVB-6LvVKWkbqq24CD8ngSmYT0PMQ/edit#gid=1621073057) to determine what a candidate should be offered within the equity range (# of Shares, Net Value, Gross Value).
-
-### **FAQ**
-
-How do we navigate applicants that request higher salaries than the established range or whats recommended?
-
-- A few aspects / questions to consider is how does this applicants history / current role compare with the role being offered and is this an apples to apples conversation. (ex. Applicant is currently a Sr. Manager but is moving into a Sr. IC role - We wouldn’t be targeting similar salaries in this case as the applicant profile is different than the role to be filled)
-- Two additional things to consider here: are we actually looking for 1 ) the right profile or 2) have the right hiring plan based on business need.
-
-What happens if the applicant is the right fit and would be considered ‘proficient’ but is requesting higher than the midpoint of the salary range or equity?
-
-- Weigh out the talent you are assessing and consider if this is an applicant that you are willing to pay above the recommended amount. Additionally, consider the impact that this would have compared to existing staff that may be similarly situated in terms of experience and expertise.
