@@ -11,7 +11,7 @@ This handbook is intended to answer many of the questions you might have after j
 #### [Working and Growing Here](/handbook/working_and_growing_here.md)
 #### [Compensation](/handbook/compensation.md)
 #### [Benefits and Perks](/handbook/benefits.md)
-#### [Training and Policies](/handbook/policies_and_training.md)
+#### [Policies and Training](/handbook/policies_and_training.md)
 
 
 ## [Our Distributed Work Experience](https://www.notion.so/dbtlabs/How-we-think-about-the-Distributed-Experience-5edaf90eafad420b9a05ffc03a3cc5c7?pvs=4)
@@ -70,8 +70,8 @@ Having a great distributed experience helps both our company and our employees. 
     
     - **[Office stipend:](/handbook/benefits.md#office-stipend-1)** New employees receive $1,500 USD (or local equivalent) to spend in the first 60 days to set up their home office and purchase equipment to comfortably work their preferred location. Each year, employees receive $400 USD (or local equivalent) to support their remote work setup.
     - **[Workspace rental:](/handbook/benefits.md#workplace-rental-1)** Working from home does not work for everyone. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
-    - **[Regional offices:](#regional-officies)** In regions with high employee count, dbt Labs has office space to support async-first collaboration and promote our culture and values when teams meet onsite. Designed with intention, these spaces are not used to incentivize local collaboration but instead support community development and foster connection with cross-functional teams during onsites.
-- **Global [comp](#/handbook/compensation.md#global-compensation-and-benefits) & [benefits](/handbook/benefits.md#global-benefits-strategy--stipend-1)**
+    - **[Regional offices:](#regional-offices)** In regions with high employee count, dbt Labs has office space to support async-first collaboration and promote our culture and values when teams meet onsite. Designed with intention, these spaces are not used to incentivize local collaboration but instead support community development and foster connection with cross-functional teams during onsites.
+- **Global [comp](/handbook/compensation.md#global-compensation-and-benefits-1) & [benefits](/handbook/benefits.md#global-benefits-strategy--stipend-1)**
     
     We offer a transparent compensation philosophy and intentional benefits to support our global employees. All employees have access to stipends to support health and wellness, phone/internet, professional development and health related travel needs.
     
