@@ -342,8 +342,6 @@ All employees have access to our salary bands.
 
 We localize all compensation ranges at a company level using the same methodologies based on the specific country's local market. This practice and decision becomes increasingly important as companies scale and grow globally, especially when considering the all encompassing Total Rewards Strategy which is a blend of monetary and nonmonetary rewards (countries have differences in government provided healthcare, pension plan requirement ranges, cost of labor based on market data and cost of living). This means each country has nuances that must be considered when creating a total rewards offerings. We consistently leverage various data sources and reports as well as external consultants to help ensure we are leveraging ‘best practices’ as our foundation to build upon.
 
-💡 Reference our [Globalization Strategy](https://www.notion.so/dbt-Labs-Globalization-Strategy-WIP-12e6742f4b254d9ca239dfb6af468f4b) for additional context around our global expansion strategy
-
 ### [FAQ's about International Pay](https://www.notion.so/dbtlabs/FAQ-s-International-Pay-ad3050bc18eb428e802fe0c0eb7ac41c?pvs=4)
 
 #### How are international salary bands built differently from US Bands?
