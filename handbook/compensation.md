@@ -465,11 +465,6 @@ When determining an offer for a candidate, we consider two primary and two secon
     1. How does this candidates interview feedback compare against the hiring plan (what are the strengths and tradeoffs we are working with)
 2. Internal Equity - How does this applicant compare or slot relative to other team members that are in the same role and where are they placed with in the range.
 
-**Secondary Factors**
-
-1. Applicant's salary expectations or other competitive offers
-2. Budgets: Approved budgeted headcount has already been budgeted at the midpoint of the range.
-
 **All of these factors are considered and viewed on a sliding scale when determining the appropriate offer relative to the established pay range.** 
 
 ### **Understanding salary ranges and targets**
