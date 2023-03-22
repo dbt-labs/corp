@@ -39,15 +39,13 @@ Because of the relationship between performance, and compensation/ promotions, t
 
 ##### Timeline
 
-| Step                                       	| Who                                  	| When                               	| Time Commitment        	|
-|--------------------------------------------	|--------------------------------------	|------------------------------------	|------------------------	|
-| Collect reviews + create promotion packets 	| Managers + select team members       	| June                               	| 2 hours                	|
-| Eligibility + budget for merit delivered   	| People Partners + Finance & Strategy 	| June 15                            	|                        	|
-| Promotion packets due                      	| Managers                             	| July 1 or closest weekday any year 	|                        	|
-| Merit requests in                          	| Managers                             	| July 1 or closest weekday any year 	|                        	|
-| Calibration sessions                       	| Managers + People Business Partners  	| First 2 weeks of July              	| 1 hour                 	|
-| Compensation discussions                   	| Managers and eligible team members   	| Last 2 weeks of July               	| 1 hour per team        	|
-| Changes go into effect                     	|                                      	| August 1                           	| 1 hour per team member 	|
+| Step                             	| Who                          	| When                                         	| Time Commitment        	|
+|----------------------------------	|------------------------------	|----------------------------------------------	|------------------------	|
+| Request peer reviews             	| All team members             	| Last week of April                         	| 5 min                  	|
+| Self reflection, peer and upward 	| All team members             	| First two weeks of May                      	| 2 hours                	|
+| Manager reviews                  	| Managers                     	| Weeks two and three in May                  	| 30 min per team member 	|
+| Calibrations                     	| Managers and People Partners 	| Last week of May                             	| 1 hour                 	|
+| Meetings                         	| All team members             	| June                                      	| 45 min per team member 	|	|
 
 **Meetings**
 
