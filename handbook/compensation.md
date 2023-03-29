@@ -1,7 +1,7 @@
 # Compensation 
 
 ### [Compensation Principles](#Compensation-Principles-1)
-### [Global Compensation and Benefits](#global-compensation-and-benefits-1)
+### [Global Compensation and Benefits](##Global-Compensation-and-Benefits-1)
 ### [Salary Bands Philosophy](#Salary-Bands-Philosophy-1)
 - #### [How Salary Bands are Made](#how-salary-bands-are-made-1)
 - #### [FY24 Salary Bands](#fy24-salary-bands-1)
@@ -76,7 +76,7 @@ Our compensation philosophy has been arrived at over the course of many years, c
 11. We strive to offer benefit packages that provide our team members with strong medical coverage regardless of their location or care needs.    
 12. We hire across the globe but are not location agnostic. A candidate’s time zone, the market pay in a region, proximity to users, customers, and partners, and the presence or absence of a dbt Labs legal entity can all be factors in the hiring process.
 
-## Questions
+### Questions
 
 If you have a specific question around your compensation, one of your direct reports’ compensation, or the compensation of a role that you’re hiring for, please reach out to your People Business Partner.
 
@@ -93,7 +93,7 @@ If you have a specific question around your compensation, one of your direct rep
 
 Our [compensation principles](compensation.md#compensation-principles-1) are applied to each country we employ in. This is because the labor markets, benefits, pension/superannuation schemes and payroll taxes can vary greatly country to country. This approach insures that we are offering equitable (not equal) compensation in each market.
 
-We pay **local country rates** based on [cost of market (also referred to as cost of labor)](https://www.erieri.com/blog/post/cost-of-labor-vs-cost-of-living). This means we will align our compensation with the top (75th - 90th percentile) in each country (looking at ”All UK” “All Germany”, “All Australia”, etc.)
+We pay **local country rates** based on [cost of market (also referred to as cost of labor)](https://www.erieri.com/blog/post/cost-of-labor-vs-cost-of-living). This means we will align our compensation with the top (75th - 90th percentile) in each country (looking at ”All UK” “All Germany”, “All Australia”, etc.)
 
 Learn more about our [Global Benefits Strategy & Stipend](/handbook/benefits.md/#Global-Benefits-Strategy-&-Stipend).
 
@@ -189,7 +189,7 @@ Additionally, we have outlined the step by step process of how we go from raw da
 
 [^7]: Specific Roles - Both Radford and Mercer have 100+ different jobs / roles that we can match to that allows to get more specific with the roles and duties to ensure that our role’s bands are developed using the most correlated data and skill set. This is vital to ensure we aren’t over or under targeting pay for roles that have been lumped into 1 large bucket.
 
-## Salary Bands Overview
+## [Salary Bands Overview](https://www.notion.so/dbtlabs/Salary-Bands-FY24-36e87c18c6bc4436bb8b72c2af9391c4)
 
 Salary bands in their simplest form is the compensation range for a given role within an organization. These ranges are built and developed using market data that allows companies to benchmark their roles compare to others in their industry. The market data used, is a direct reflection of a companies compensation strategy and philosophy as it determines how competitive they will be in attracting and retaining talent. We build our salary bands using tech specific data as well, using the 75th Percentile as the basis or target of our ranges (In short, this ensures that we are competing with other tech companies and that our pay should meet or exceed 75% of other companies for similar roles and level).
 
