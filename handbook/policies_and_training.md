@@ -35,7 +35,7 @@ We strive to hire people who share our values and we trust our employees to do t
 
 These guidelines can’t cover every possibility, so use good judgment. If you’re still not sure, contact the Accounts Payable team at **ap@dbtlabs.com** or on the **#finance-support** Slack channel.
 
-## **Travel Related Expenses**
+### **Travel Related Expenses**
 
 Travel arrangements should balance economics, safety, and logistics while still accomplishing the business objective.
 
@@ -307,6 +307,26 @@ Please review the employment posters for the state you live in, and also the fed
 Pelase review the privacy notices located [here](https://www.notion.so/dbtlabs/US-Employment-Posters-de219cf7a3774a73b206060831193c0c).
 
 ## [Background Checks](https://github.com/dbt-labs/corp/blob/new-handbook-launch/handbook.md#background-checks)
+
+## Background Checks
+
+dbt Labs is concerned about the safety of its team members and about maintaining appropriate controls to ensure that assets of dbt Labs and our customer relationships and information are protected. To reduce these risks, we will obtain and review background information of covered prospective, and, as applicable, current employees.
+
+dbt Labs has contracted with Checkr (https://checkr.com/) to perform these background checks for US based employees, which will cover criminal history for the last 7 years, sex offender search, SSN trace, education verification, employment verification and Global Watchlist search. For all non-US employees, we use GoodHire (https://www.goodhire.com/). dbt Labs may use the returned background check information to make decisions regarding employment. For certain positions where the candidates financial history is relevant to the position, we may also run a check in the federal database for any financial related offenses.
+
+All candidates who make it to the offer stage with dbt Labs must undergo a background screening according to this policy as part of the employment screening process. All contracts will state that employment is subject to obtaining results from an approved background screening that are satisfactory to dbt Labs. If a candidate is unwilling to follow this process we are unable to proceed with their candidacy for any position at dbt Labs. In the event the background check is not available at the time of hire (switching vendors or delays in processing), dbt Labs will run the background check as soon as possible. The same adjudication guidelines will apply to current employees as they do with prospective employees.
+
+### Disclosure and Authorization
+
+Candidates (as applicable, employees) will receive an email to fill out the background check application. The application will ask for personal and professional information. The application process includes signing a disclosure and a consent form which explains the rights of an individual undergoing a background examination. The application process is designed to take less than fifteen minutes to complete.
+
+Occasionally, Checkr or GoodHire will reach out to the candidate to retrieve additional information, such as backup documentation to act as proof of previous employment or picture IDs. Proof of employment can typically be provided in various ways, such as tax returns (e.g. W2s), pay stubs, LLC documentation, official company registrations, etc.
+
+Background checks will act as an additional mechanism of transparency and will help to build trust with our clients.
+
+### Review Criteria
+
+Once the background check is completed, company administrators will review the report and determine if any negative information has a direct connection with an applicant’s ability to fulfill the job duties with competence and integrity. Criminal convictions that would raise a concern are job-related offenses, including but not limited to: embezzlement, extortion, computer/internet crime, fraud, tax evasion, and violent crimes. In addition, the report should be reviewed for omissions or inaccuracies contained in the employment application or made during the interview process.
 
 ## Addendums
 
