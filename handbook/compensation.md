@@ -1,7 +1,7 @@
 # Compensation 
 
 ### [Compensation Principles](#Compensation-Principles-1)
-### [Global Compensation and Benefits](##Global-Compensation-and-Benefits-1)
+### [Global Compensation and Benefits](#Global-Compensation-and-Benefits-1)
 ### [Salary Bands Philosophy](#Salary-Bands-Philosophy-1)
 - #### [How Salary Bands are Made](#how-salary-bands-are-made-1)
 - #### [FY24 Salary Bands](#fy24-salary-bands-1)
