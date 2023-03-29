@@ -26,7 +26,7 @@
 
 ### Benefits Strategy and Philosophy
 
-As dbt Labs continues to grow and expand around the world, we believe it’s important that outline our strategy and philosophy around global benefits. The following points are guiding principles that we strive towards and will drive the decision-making around our benefits both domestically and abroad.
+As dbt Labs continues to grow and expand around the world, we believe it’s important to outline our strategy and philosophy around global benefits. The following points are guiding principles that we strive towards and will drive the decision-making around our benefits both domestically and abroad.
 
 - We strive to provide benefits that are both locally relevant and competitive
     - Each Country’s benefits will differ based on local normals and local competition for benefits.
@@ -62,7 +62,7 @@ The following stipend amounts have been developed to help cover some of the cost
 
 ### Receiving the Benefits Stipend
 
-The benefits stipend will automatically be added to your monthly payroll. You do not need to request for a reimbursement through Airbase.
+The benefits stipend will automatically be added to your monthly payroll. You do not need to request a reimbursement through Airbase.
 
 ### **Retirement & Pension Plans**
 
@@ -106,7 +106,7 @@ Many states have introduced legislation to reduce or restrict access to critical
 
 **In order to maintain privacy and ensure that folks are comfortable leveraging this reimbursement, please follow the process below:**
 
-1. Email receipts directly to @Meg Colon  (meg@dbtlabs.com). Please include a note that the receipts are for healthcare-related travel, but we do not require more information that that.
+1. Email receipts directly to @Meg Colon  (meg@dbtlabs.com). Please include a note that the receipts are for healthcare-related travel, but we do not require more information than that.
 2. Reimbursements will be processed directly through payroll. 
     1. The Head of People will be the only person with access to receipts and reason for travel and will not discuss or share with anyone. The Payroll Manager will receive only the amount to add to payroll.
 3. If you need support relating to out-of-state travel for healthcare purposes, please contact Meg directly.
@@ -132,7 +132,7 @@ In alignment with our core value, **“We Work Hard and Go Home”**, dbt Labs o
 - At the end of each quarter, the People team will be sending managers a list of how much time off each person has already taken / planned to take for the rest of the year (based on what is requested in ADP).
 - We encourage managers to do check-ins with their team (based on the data provided above): for those not taking time off, managers should seek to understand why this is the case and to help their team member structure their workload or work priorities in a way that allows them to actually disconnect from work to recharge.
 
-We ask that you input your time-off requests into ADP and categorize them accordingly [based on the definitions below](#Types-of-time-off-plans-&-definitions). 
+We ask that you input your time-off requests into ADP and categorize them accordingly [based on the definitions below](#%EF%B8%8Ftypes-of-time-off-plans--definitions). 
 
 **Please discuss your time-off schedule with your manager prior to taking the time off so we can plan for coverage while you are out**. **Manager approval will be required to take time off!** When planning your time off, we ask that you also be mindful of the major dates and deadlines that may be unique and critical to your role.
 
@@ -175,7 +175,7 @@ ADP has a limitation at the moment, where teams cannot see each other’s time-o
 
 1️⃣ We recommend that after your time off request has been approved, to note you will be “Out of Office” on your Google Calendar (and make this event public so people can see).
 
-Google Calendar also as an “Out of Office” feature where they can auto-decline any event that is scheduled during the period you are out. This may be helpful for you to set up!
+Google Calendar also has an “Out of Office” feature where they can auto-decline any event that is scheduled during the period you are out. This may be helpful for you to set up!
 
 Additionally, some teams may have team time off calendars within Google Calendar. Talk to your manager if this is something your team has; you may be asked to make your out of office dates visible here to help create visibility with your teammates. 
 
@@ -183,7 +183,7 @@ Additionally, some teams may have team time off calendars within Google Calendar
 
 3️⃣ Set up an “out of office” auto response to your email for the dates you will be out, and clearly indicate who someone should contact instead.
 
-Learn how to requet time off in ADP [here](https://www.notion.so/dbtlabs/Time-Off-Policy-cb5363a73ca1485dbf94619c4c57aa6f?pvs=4#b819ac73f9994db6a5f4572571b44cc5).
+Learn how to request time off in ADP [here](https://www.notion.so/dbtlabs/Time-Off-Policy-cb5363a73ca1485dbf94619c4c57aa6f?pvs=4#b819ac73f9994db6a5f4572571b44cc5).
 
 #### 🌐 International Considerations for accrued time and pay out upon termination with the company
 
@@ -212,7 +212,7 @@ Please discuss your time off schedule ahead of time with your manager, as they d
 
 ### [2023 Company Holidays](https://www.notion.so/dbtlabs/2023-Company-Holidays-9e0e48bb8404496a868161e170e0a494?pvs=4)
 
-In addition to our unlimited vacation policy, dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. You are asked to observe your local holidays (for the country you reside in).
+In addition to our unlimited vacation policy, dbt Labs observes a number of public and company holidays every year, and this schedule varies by country. You are asked to observe your local holidays (for the country you reside in).
 
 We recognize that there are many other cultural, religious or location based holiday's and encourage our team members to work with their manager to take the time they need.
 
@@ -301,7 +301,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 
 ### [Leave of Absence Programs](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4)
 
-We offer paid and unpaid leave of absence programs. All leave types will run concurrent with all company holidays and will not add additional days to the established leave policy unless legally required. 
+We offer paid and unpaid leave of absence programs. All leave types will run concurrently with all company holidays and will not add additional days to the established leave policy unless legally required. 
 
 
 Below is a summary of our paid leave programs.
@@ -362,7 +362,7 @@ Employees may be asked to provide a Fitness for Duty form completed by their med
 
 Employees who need to take dedicated time off to care for a seriously ill or injured person will be allowed to take up to 4 weeks of paid Caregiver Leave. The illness or injury must be a serious health condition (defined below).
 
-Certain personal relationships may be eligible for wage replacement programs through the state. For example, a caregiver leave to care for a parent, child, or sibling, is eligible for wage replacement through a Paid Family Leave program. In those cases, employees are required to file a paid family leave claim. dbt Labs will coordinate with these benefits to ensure that employees receive 100% pay.
+Certain personal relationships may be eligible for wage replacement programs through the state. For example, a caregiver leave for caring for a parent, child, or sibling, is eligible for wage replacement through a Paid Family Leave program. In those cases, employees are required to file a paid family leave claim. dbt Labs will coordinate with these benefits to ensure that employees receive 100% pay.
 
 A serious health condition is an illness, an injury, an impairment, or a physical or mental condition that involves either an overnight stay in a medical care facility or continuing treatment by a healthcare provider for a condition that either prevents the qualified family member from participating in school, work, or other daily activities. Subject to certain conditions, the continuing treatment requirement may be met by a period of incapacity of more than three consecutive calendar days combined with at least two visits to a healthcare provider or one visit and a regimen of continuing treatment, incapacity due to pregnancy, or incapacity due to a chronic condition. Other conditions may meet the definition of “continuing treatment.”
 
@@ -390,7 +390,7 @@ Please note there are many requirements, qualifications, and exceptions under th
 
 The FMLA requires private employers with 50 or more employees and all public agencies, including state, local, and federal employers, and local education agencies (schools) to provide eligible employees up to 12 weeks of unpaid, job-protected leave in any 12-month period for certain family and medical reasons. The 12-month period is a rolling period measured backward from the date an employee uses any FMLA leave, except for leaves to care for a covered service member with a serious illness or injury. For those leaves, the leave entitlement is 26 weeks in a single 12-month period measured forward from the date an employee first takes that type of leave.
 
-**Employee eligibility.** The FMLA defines eligible employees as employees who (1) have worked for the company for at least 12 months; (2) have worked for the company for at least 1,250 hours in the previous 12 months; and (3) work at or report to a worksite that has 50 or more employees or is within 75 miles of company worksites that, taken together, have a total of 50 or more employees. *(75 Miles radius waved due to fully remote & distributed work force)*
+**Employee eligibility.** The FMLA defines eligible employees as employees who (1) have worked for the company for at least 12 months; (2) have worked for the company for at least 1,250 hours in the previous 12 months; and (3) work at or report to a worksite that has 50 or more employees or is within 75 miles of company worksites that, taken together, have a total of 50 or more employees. *(75 Miles radius waived due to fully remote & distributed workforce)*
 
 **Basic leave entitlement.** The FMLA requires covered employers to provide up to 12 weeks of unpaid, job-protected leave to eligible employees for the following reasons: (1) for incapacity due to pregnancy, prenatal medical care, or childbirth; (2) to care for the employee’s child after birth or placement for adoption or foster care; (3) to care for the employee’s spouse, child, or parent who has a serious health condition; or (4) for a serious health condition that makes the employee unable to work.
 
@@ -498,7 +498,7 @@ When in the vicinity / metro area of a dbt Labs office, leverage the office inst
 
 #### What if I want to rent a different workspace for the day that is not available on liquidspace?
 
-We do not reimburse one-time workplace rental expense for locations outside the Liquidspace platform. 
+We do not reimburse one-time workplace rental expenses for locations outside the Liquidspace platform. 
 
 However, if you are looking for a space and there are no viable or available options near you in LiquidSpace, and you can find space elsewhere, you may use your personal card and expense the cost up to $250/month.  Please use the expense code “Office Space” in Airbase. 
 
@@ -543,7 +543,7 @@ You can find savings on things like:
 
 ## [Wellness Program](https://www.notion.so/dbtlabs/Bright-Wellness-Program-699cfc7511f743f887226ed218adf676?pvs=4)
 
-🚨 At dbt Labs self-care is not a luxury; its a priority. dbt Labs partnered with [Bright](https://choosebright.com/dbt/), the creators of a well-being platform for teams, to offer you a comprehensive well-being program - the Bright Pass - for free!
+🚨 At dbt Labs self-care is not a luxury; it's a priority. dbt Labs partnered with [Bright](https://choosebright.com/dbt/), the creators of a well-being platform for teams, to offer you a comprehensive well-being program - the Bright Pass - for free!
 
 - Keynotes and other events are also included each week covering a range of topics, such as financial well-being, sleep,  and coping with stress.
 - The Bright Pass gives you access to over 250 live, virtual classes each week. Sessions include daily yoga, fitness, meditation, and nutrition!
@@ -577,7 +577,7 @@ Learn more about UNUM EAP and how to access this service [here](https://www.noti
 
 #### 2. ADP - LifeCare EAP (US)
 
-ADP - LifeCare EAP services are eleigilbe for US employees only.
+ADP - LifeCare EAP services are eligible for US employees only.
 
 Learn more about the ADP - Lifecare EAP and how to access this service [here](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4#c41a81f919e64558930b2050ee44230c).
 
@@ -586,7 +586,7 @@ Learn more about the ADP - Lifecare EAP and how to access this service [here](ht
     
 #### Time Off
 
-Sometimes people just need to disconnect from work and they should take advantage of our [Time Off Policy](#time-off-policy-1). However, there are occasions when we strongly encourage you take an extended period time off of work to care for yourself or loved ones.
+Sometimes people just need to disconnect from work and they should take advantage of our [Time Off Policy](#time-off-policy-1). However, there are occasions when we strongly encourage you to take extended time off work to care for yourself or loved ones.
 
 If you are in a situation where you may need extended time off, you may want to consider taking a formal leave of absence. 
 
@@ -622,7 +622,7 @@ If you have any questions about the service, please contact Meg Colón, Helena G
     - Only Ethicspoint System Administrators (Meg Colón and Helena Gorman) and the System Advocates (Vanessa Yeh and Gabriel Bolatiwa) have access to the reports.
     - If one system admin is listed in the report, then the other one would have access. If both are listed in the report, then Vanessa or Gabriel, the system advocates, would have access to the report.
 - **SLA for actions taken / investigation / follow up**
-    - A team member will initiate the report, chose the type of report and fill out the report details.
+    - A team member will initiate the report, choose the type of report and fill out the report details.
         - Please note that the reporter will be required to create a password for the report and at the end of the process, the team member will be given a report key that they should store somewhere. Both the password and the key will allow the team member to follow up on their report.
         - If the team member would like to follow up, they can do so by calling the hotline or visiting the website.
     - Once a report is made, the administrator assigned will get a notification and can view the open case.
@@ -631,4 +631,4 @@ If you have any questions about the service, please contact Meg Colón, Helena G
         - We will comment on the case as the investigation progresses and when it has been completed.
             - If any wrongdoing or breach of policy has been determined, we will take disciplinary action up to and including termination.
 - **Reminder of our no-retaliation policy**
-    - It is important to remember that, dbt Labs has a no-retaliation policy. This means that no team member will be retaliated against for making a complaint in good faith through **any of our reporting avenues**. If a team member feels they have been retaliated against, they should file a complaint using the procedures set forth on this page.
+    - It is important to remember that dbt Labs has a no-retaliation policy. This means that no team member will be retaliated against for making a complaint in good faith through **any of our reporting avenues**. If a team member feels they have been retaliated against, they should file a complaint using the procedures set forth on this page.
