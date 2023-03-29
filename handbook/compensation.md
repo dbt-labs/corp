@@ -422,17 +422,17 @@ Tax law is complex and you should consult a tax attorney or other tax advisor wh
 
 Learn more about Incentive Stock Options (ISOs) and Non-Qualified Stock Options (NSOs) [here](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171?pvs=4#d4481c6f0d9d4078b045b2a5a4ace711).
 
-## Option Plan Administration
+### Option Plan Administration
 
 All option grants must be approved by the Board of Directors. Grants are typically approved on a monthly basis unless the Company is going through a financing round or waiting on a 409A valuation. Once your grant is approved you will receive a grant notice by email from [Carta](https://carta.com/). The email will be sent to the personal email you provided in ADP. The grant notice will contain all of the relevant information about your grant including the number of shares, exercise price, vesting schedule, and vesting start date. Clicking through this email will allow you to set up an account in Carta. There you will have access to your equity award document and the dbt Labs, Inc. 2019 Equity Incentive Plan. These documents contain the terms and conditions of your equity award.
 
 💡 A note on the "2019" moniker: option plan names are like wine vintages: until we make substantive changes to our plan, we'll continue to issue grants out of the "2019" plan.
 
-### Exercising your Options
+#### Exercising your Options
 
 "Exercising your options" means that you are purchasing the shares guaranteed by your options. Options can only be exercised if they are vested. Exercises should be initiated through Carta, please follow the steps below [here](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171?pvs=4#0253cd3bec9f4410b19654080188ed01).
 
-### Company Timeline
+#### Company Timeline
 
 - In May of 2016, Fishtown Analytics was formed as an LLC.
 - In June 2019, the 2019 Equity Plan was created, kicking off the first 409A.
@@ -444,7 +444,7 @@ All option grants must be approved by the Board of Directors. Grants are typical
 - May 2022, a Tender Offer was presented to employees that have been employed for 2+ years. Details can be found here: [2022 Tender Offer](https://www.notion.so/2022-Tender-Offer-c2348dbcb8324553bbb31725106ba933). The company will continue to explore this as an option each year, but is not guaranteed to occur.
 - February 2023, annual 409A valuation complete.
 
-### 409A Valuations and Exercise Prices
+#### 409A Valuations and Exercise Prices
 
 Learn more about our current valuations and exercise pricese [here](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171?pvs=4#f5ac0ac6089a4ebf8a34679f4990a6d3).
 
