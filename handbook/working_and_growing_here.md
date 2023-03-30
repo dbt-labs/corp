@@ -1,5 +1,6 @@
 # Working and Growing at dbt Labs
 
+### [Distributed Work Experience](
 ### [Annual Review Cadence](#annual-review-cadence-1)
 - #### [Performance Reviews](#performance-reviews-1) 
 - #### [Compensation Reviews and Promotion Cycles](#compensation-reviews-and-promotion-cycles-1)
@@ -9,6 +10,9 @@
 ### [Moonlighting Guidance](#moonlighting-guidance-1)
 ### [Conscientious Objection](#conscientious-objection-1)
 ### [Diversity, Equity and Inclusion](#diversity-equity-and-inclusion-1)
+
+## Distributed Work Experience
+We are a remote first, globally distributed, values driven company. Learn more about how we think about our distributed experience [here](/handbook/about_dbt_labs.md#our-distributed-work-experience-1).
 
 ## Annual Review Cadence
 
@@ -360,6 +364,58 @@ What you do in your own time is your business, including additional employment. 
 Lastly, moonlighting is not an excusable reason for lesser or poor performance for work at dbt Labs. dbt Labs reserves the right to prohibit (or revoke a prior opinion that the activity was not prohibited) an employee from engaging in any moonlighting it deems may not be in the best interest of the company.
 
 Thanks to all our employees whose energy and commitment makes dbt Labs and the larger community a better place!
+
+## [Office Strategy](https://www.notion.so/dbtlabs/dbt-Labs-Office-Strategy-adad4eeeb29a406493a1ea23299b5278?pvs=4)
+
+### What is the goal of offices at dbt Labs?
+
+1. **Support Community Development:** Establish an environment that embodies and amplifies dbt culture and values.  
+    1. Provide a space for teams to use for “on-sites”
+    2. Support in-person customer interactions
+2. **Drive Productivity:** Provide a space for local employees to work outside the home in lieu of Liquidspace rentals
+
+### What are offices NOT at dbt Labs?
+
+1. **A place for local team members to collaborate**: meetings need to be inclusive of all team members.  ***In our perfect world, everyone in a meeting is in a Zoom or everyone in the meeting is in a room** (*even if it requires hopping on a plane).  
+2. **A marketing effort:**  Many companies use real estate as a status symbol and to amplify their brand awareness.  This is expensive and unrelated to our core workplace values (productivity, inclusivity, and community)
+3. **An incentive to work in person vs at home:** We believe the best talent can come from anywhere, and support employees in choosing the home and office environment that best serves them. We will not spend on excessive meal budgets and in-office perks to motivate employees to choose to come in the office vs work at home. 
+
+### How & When We Build Offices at dbt
+
+**How we choose where offices go:**
+
+1. **Proximity to team members**
+    1. Offices that are near existing concentrations of team members will get the highest utilization
+        1. Generally when there are >30 employees within 30 miles of a location we will begin evaluating a permanent space in that region
+    2. Offices near existing teams decreases travel spend, as a portion of the team will not need to travel for on-site events
+2. **Proximity to partners, customers and other external stakeholders**
+
+## How we determine office size:
+
+1. Number of employees in the region and estimated growth - **This number is used to determine the number of desks / call rooms we need in the office.** 
+
+*Example :* 
+
+- Average lease term is 3-5 years, so we need to buy space to support the company for a minimum of the next 2 years of growth.
+- Currently we are approaching 30 employees w/in 30 miles of San Francisco who would potentially go into the office.  Total company headcount growth is expected to grow at 100%+ for the next 2 years, so we want the office to scale to when the bay area team is ~120 people
+- If we assume that no more than 50% of employees are in the office on a given day, we would want an office that supports ~60 desks
+1. Scale of the organization as a whole, and the need for additional collaboration spaces - **This number is used to determine number of conference rooms / scale of those spaces**
+
+*Example :* 
+
+- Total number of team on-sites being hosted in the office per year
+- Average size of the team visiting the office
+- Number of external / customer meetings being held in the office
+
+### Target Layout
+
+1. Conference room strategy:
+    1. Large rooms to support team on-sites
+        1. Optimize rooms to have Zoom Room with great remote collaboration technology so if an employee is unable to travel they can engage with the discussion on their screen
+    2. Smaller call rooms so employees can take meetings in a quiet space as needed
+    3. Few to zero offices / small breakout spaces to disincentivize in-person collaboration with partial teams
+2. Open floor plan with desks to support employees working outside their home as needed
+
 
 ## [Conscientious Objection](https://www.notion.so/dbtlabs/Conscientious-Objection-371207f8f01c4e94bd4e62eb5c85087c?pvs=4)
 
