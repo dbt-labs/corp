@@ -172,7 +172,7 @@ None of these questions are singly determinative, but they are each useful lense
     
 - **Do we look into options for an employee who is underperforming to transition into a different role on the team?**
     
-    We often do. While in practice moves like this are hard to make (so many things have to align!), managers are encouraged to look for other internal roles that the underperforming employee is well-positioned to excel in. If you're currently trying to determine whether there might be a good fit for someone elsewhere in the organization for someone you manage, please contact Meg.
+    We often do. While in practice moves like this are hard to make (so many things have to align!), managers are encouraged to look for other internal roles that the underperforming employee is well-positioned to excel in. If you're currently trying to determine whether there might be a good fit for someone elsewhere in the organization for someone you manage, please contact your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4)
     
 
 ### #2. Surprises are bad and we will work hard to avoid them.
