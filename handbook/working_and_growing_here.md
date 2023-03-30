@@ -12,6 +12,7 @@
 ### [Conscientious Objection](#conscientious-objection-1)
 ### [Diversity, Equity and Inclusion](#diversity-equity-and-inclusion-1)
 ### [Making a Referral](#making-a-referral-1)
+### [Getting Support](#getting-support-1)
 
 ## Distributed Work Experience
 
@@ -159,11 +160,11 @@ We post open roles on our internal career site, [Greenhouse](https://app5.greenh
 
 ### Eligibility
 
-#### Intra-Department Transfers
+#### Interdepartmental Transfers
 
 We recommend employees be in their role for at least 9 months before applying to an open requisition within their own department. *(Example: Analytics Engineer → Technical Instructor)*
 
-**Why a minimum of 9 months?** The reason we are asking for 9 months for an intra-department transfer is because we recognize that there are more transferrable skills and knowledge that exist across roles within a department. 
+**Why a minimum of 9 months?** The reason we are asking for 9 months for an interdepartmental transfer is because we recognize that there are more transferrable skills and knowledge that exist across roles within a department. 
 
 #### Cross-Department Transfers
 
@@ -171,7 +172,7 @@ We ask that employees be in their role for **at least** 12 months before applyin
 
 **Why the minimum of 12 months?** We ask for at least 12 months for a cross-department transfer because it can take about 3 months to onboard onto a new role and another 3 months to become completely ramped into that role (totaling up to 6 months). We would want someone to be working as a ramped member of the team for at **least** 6, ideally 12 months, before moving on. Additionally it could take us longer to backfill your role meaning there are more limitations for the team during the transition period and beyond if you’re switching to a new department. 
 
-**Exceptions:** Changes or movement between teams could happen at any time due to business need. If your tenure with dbt Labs is less than the 9 or 12 months and you are interested in moving internally, bring this up to your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) - the People Team and your current leadership team will need to approve the business exception.
+**Exceptions:** Changes or movement between teams could happen at any time due to business needs. If your tenure with dbt Labs is less than the 9 or 12 months and you are interested in moving internally, bring this up to your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) - the People Team and your current leadership team will need to approve the business exception.
 
 **Again, please ensure you’re actively talking to your manager about your career goals and development wants/needs.** 
 
@@ -184,8 +185,8 @@ We ask that employees be in their role for **at least** 12 months before applyin
 3. Reach out to the [recruiter](https://www.notion.so/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8) and hiring manager to have an introductory call:
     1. Explain why you are interested in learning more about this role. In your conversation, understand the role expectations and hiring profile.
     2. If you would like to learn more about the role, we recommend shadowing someone who is on the existing team or in the current role to learn more about the day to day.
-    3. Feel free to also meet with existing members of the team to understand the landscape of the team and gain advice advice or general mentorship.
-4. At the end of the introductory call, you can also ask the hiring manager if they think you would be good fit for the role at this time. The hiring manager might be able to help you identify areas you can develop prior to pursuing the role, or recommend other roles to look into if they conclude another team or role would be better suited for you, your interests, and/or skill set.
+    3. Feel free to also meet with existing members of the team to understand the landscape of the team and gain advice or general mentorship.
+4. At the end of the introductory call, you can also ask the hiring manager if they think you would be a good fit for the role at this time. The hiring manager might be able to help you identify areas you can develop prior to pursuing the role, or recommend other roles to look into if they conclude another team or role would be better suited for you, your interests, and/or skill set.
 
 #### Step 2: Apply
 
@@ -250,7 +251,7 @@ Here’s what actually happens when a team chooses this path:
 
 - They hire a less experienced or less skilled data analyst.
 - That team member doesn’t build skills at the rate that they want or that the team would need. As such, the marketing team is still under-served relative to their initial need.
-- There ends up being a local marketing-data-fiefdom that only this analyst knows how to work on. This leads to a low “bus factor” and leaving the marketing function at risk.
+- There ends up being a local marketing-data-fiefdom that only this analyst knows how to work on. This leads to a low “bus factor” and leaves the marketing function at risk.
 - The data analyst eventually quits due to lack of career progression and the marketing team has a big problem on their hands.
 
 We’ve seen this occur time and time again. Often in the past we have been brought in as consultants to help extricate companies from these types of situations and it is never pleasant.
@@ -356,7 +357,7 @@ In the past, dbt Labs would hire in any country except those we had already dete
 **With this process; there are 3 types of employment relationships:**
 
 1. Direct employment with a dbt Labs entity
-    1. We will look into opening in entities in countries that we have a large employee count or if there is a business case where an entity would be beneficial.
+    1. We will look into opening in entities in countries where we have a large employee count or if there is a business case where an entity would be beneficial.
 2. Non-resident payroll through our dbt Labs entity
 3. EOR employment through our current* vendor Remote.com, legally, this relationship is a contractor relationship
     1. *Vendor relationship subject to change to accommodate business and team member needs.
@@ -490,7 +491,7 @@ Thanks to all our employees whose energy and commitment makes dbt Labs and the l
 
 1. **A place for local team members to collaborate**: meetings need to be inclusive of all team members.  ***In our perfect world, everyone in a meeting is in a Zoom or everyone in the meeting is in a room** (*even if it requires hopping on a plane).  
 2. **A marketing effort:**  Many companies use real estate as a status symbol and to amplify their brand awareness.  This is expensive and unrelated to our core workplace values (productivity, inclusivity, and community)
-3. **An incentive to work in person vs at home:** We believe the best talent can come from anywhere, and support employees in choosing the home and office environment that best serves them. We will not spend on excessive meal budgets and in-office perks to motivate employees to choose to come in the office vs work at home. 
+3. **An incentive to work in person vs at home:** We believe the best talent can come from anywhere and support employees in choosing the home and office environment that best serves them. We will not spend money on excessive meal budgets and in-office perks to motivate employees to choose to come in the office vs work at home. 
 
 ### How & When We Build Offices at dbt
 
@@ -550,7 +551,7 @@ Conscientious objection applies when a high percentage of your time is directed 
 
 🗣️ **If your work conflicts with your deeply held beliefs, talk to your manager.**
 
-If you are assigned to a project or long-term relationship with a client that violates your deeply held beliefs, communicate to your manger that you want to be reassigned to a different project or client. Your manager must work in good faith to accommodate the request. If your work is going to make you miserable and hurt your soul, the whole team will suffer— it’s in everyone’s best interest to make a change. [Again, from Tristan](https://docs.google.com/document/d/12nAw4podecG2JWNcslAMlakujmATzXdgkCbfwLPR0sI/view#): 
+If you are assigned to a project or long-term relationship with a client that violates your deeply held beliefs, communicate to your manager that you want to be reassigned to a different project or client. Your manager must work in good faith to accommodate the request. If your work is going to make you miserable and hurt your soul, the whole team will suffer— it’s in everyone’s best interest to make a change. [Again, from Tristan](https://docs.google.com/document/d/12nAw4podecG2JWNcslAMlakujmATzXdgkCbfwLPR0sI/view#): 
 
 “This is not their direct report ‘not being a team player’—rather, it is their direct report optimizing for the long-term. Managers who fail to accommodate such requests risk having high-turnover teams, which will limit their own ability to be successful.”
 
@@ -572,7 +573,7 @@ Learn more [here](https://www.getdbt.com/dbt-labs/dei/).
 
 ## [Making a Referral](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4)
 
-Who better to find great people to work here than great people that already work here? We don't currenly offer a referral bonus program but that shouldn't stop you from sending any and all referrals our way!
+Who better to find great people to work here than great people that already work here? We don't currently offer a referral bonus program but that shouldn't stop you from sending any and all referrals our way!
 
 ### Who should you refer?
 
@@ -585,3 +586,63 @@ Take a look at our open jobs in greenhouse or on our website!
 ### How to submit a referral
 
 Follow these instructions [here](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4#292f0c69c0a543198799036041f389ea).
+
+## [Getting Support](https://www.notion.so/dbtlabs/How-to-Ask-a-People-Question-a17443c3b92346b185ca4b4c266497df?pvs=4)
+
+We want to make sure team members receive the support they need. The People Team is often the first place employees look to get their questions answered. dbt Labs offers different options depending on your question or situation.
+
+### How to get support from the People Team
+
+#### Ticketing System in #people-support
+
+💡 This is your best option to get the fastest response to questions about benefits, reimbursements, stipends,  and payroll. 
+
+The ticketing system is available on the Slack Helpdesk app and in the #people-support Slack channel.
+
+- How to ask a People Ops Question? (submit a ticket):
+
+You can submit a question (submit a ticket) 2 ways.  This is the same process for submitting IT tickets:
+
+1️⃣ Use the help desk app in slack. Click create a ticket→ enter your name in the “on behalf of” field→choose People Ops as your category→choose your people ops issue in the field→describe your question→click on submit request
+
+    - your question will be routed to the correct People Ops or Accounting representative and they will reach out to you directly to address your questions or concerns
+
+2️⃣ Navigate to the #people-support channel and @helpdesk to ask your question.  You will receive a slack message to create a ticket, from there follow the steps above 
+
+3️⃣ The question will be routed to the appropriate team member and be addressed directly within the Helpdesk app in Slack
+
+**You can find more information on how to use HappyFox [here](https://www.notion.so/HappyFox-Helpdesk-System-01d0aa47cdf144649066c46d3f4491cf).
+
+#### Reach out to your People Business Partner (PBP)
+
+💡 This is the best option when you’re seeking confidentiality and don’t feel comfortable going to your manager.
+
+[People Business Partners](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) are a resource for when you may want to confidentially, or anonymously, report an issue in the workplace. They can help answer and support you with any questions, concerns, or feedback about your time at dbt Labs.
+
+We always encourage talking with your manager first, however we welcome your questions whenever that doesn’t feel like the best option for you. 
+
+**How to ask a PBP Question?**
+
+Reach out to [your department’s PBP](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) directly via Slack if you have questions.
+
+### How to get support from outside the People Team
+
+#### Connect with a Peer Advocate
+
+💡 This is the best option when you’re seeking an alternative route to voice feedback or ideas about the company at large.
+
+The [Peer Advocate Program](https://www.notion.so/Peer-Advocate-Program-ef66f66a1b2f40a385b2efb578bfb4c1) was designed to provide an alternate route of communication with leadership and the team at large, for employees seeking to get feedback from peers, test ideas, or offer feedback with anonymity.  
+
+- Why would I connect with a Peer Advocate rather than a PBP?
+    - As a rule of thumb, Peer Advocates are best situated to voice feedback or ideas that affect a large portion of the company. Feedback specific to you and/or one other person may be best brought to your manager, PBP, or a member of leadership.
+
+**How to connect with a Peer Advocate?**
+
+You can reach out to a [Peer Advocate](https://www.notion.so/Peer-Advocate-Program-ef66f66a1b2f40a385b2efb578bfb4c1) directly via Slack.
+
+#### Anonymous Hotline
+
+
+💡 This is your best option to workplace issues or *suspected illegal or unethical conduct* anonymously.
+
+Learn more about how to use the Anonymous Hotline [here](/handbook/benefits.md#anonymous-hotline-1).
