@@ -171,7 +171,7 @@ We ask that employees be in their role for **at least** 12 months before applyin
 
 **Why the minimum of 12 months?** We ask for at least 12 months for a cross-department transfer because it can take about 3 months to onboard onto a new role and another 3 months to become completely ramped into that role (totaling up to 6 months). We would want someone to be working as a ramped member of the team for at **least** 6, ideally 12 months, before moving on. Additionally it could take us longer to backfill your role meaning there are more limitations for the team during the transition period and beyond if you’re switching to a new department. 
 
-**Exceptions:** Changes or movement between teams could happen at any time due to business need. If your tenure with dbt Labs is less than the 9 or 12 months and you are interested in moving internally, bring this up to your People Business Partner - People Ops and your current leadership team will need to approve the business exception.
+**Exceptions:** Changes or movement between teams could happen at any time due to business need. If your tenure with dbt Labs is less than the 9 or 12 months and you are interested in moving internally, bring this up to your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) - the People Team and your current leadership team will need to approve the business exception.
 
 **Again, please ensure you’re actively talking to your manager about your career goals and development wants/needs.** 
 
@@ -180,7 +180,7 @@ We ask that employees be in their role for **at least** 12 months before applyin
 #### Step 1: Explore your interests
 
 1. Look at the [internal career site](https://app5.greenhouse.io/internal_job_board/) to see which roles you might be interested in.
-2. Reach out to your [People Business Partner](https://www.notion.so/People-Business-Partners-7c4b9fca56e245e684bd8d8e79f65910) to confirm eligibility for internal mobility.
+2. Reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) to confirm eligibility for internal mobility.
 3. Reach out to the [recruiter](https://www.notion.so/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8) and hiring manager to have an introductory call:
     1. Explain why you are interested in learning more about this role. In your conversation, understand the role expectations and hiring profile.
     2. If you would like to learn more about the role, we recommend shadowing someone who is on the existing team or in the current role to learn more about the day to day.
@@ -226,6 +226,115 @@ After you go through the interview process, you will hear back from the hiring m
 
 ## [Embedded Roles](https://www.notion.so/dbtlabs/Embedded-Roles-at-dbt-Labs-348e63b53dcf41e0a103b1fbf682e3af?pvs=4)
 
+### Why Organizational Design is Hard
+
+Here’s a scenario: the marketing team at *Company X* needs access to a data analyst to help with marketing analytics. Company X already has a centralized data team, but that team reports to the CFO and generally focuses on finance, company strategy, and board reporting. It’s hard for marketing leadership to get their requests prioritized in the queue, and as a result they’re getting far less data support than they require.
+
+There are three things that the marketing team could do:
+
+1. Hire a data analyst to sit on the marketing team.
+2. Encourage the data team to hire a new data analyst so that the team’s overall bandwidth increases and more marketing projects could get prioritized.
+3. Encourage the data team to hire a new data analyst and then embed that analyst on the marketing team.
+
+It might not actually be clear whether there is a right answer, but there is: it’s #3. I feel incredibly confident about this for a couple of reasons: a) I’ve personally witnessed companies who have attempted to do #1 and #2 and there are universally very poor outcomes, and b) this is the model that the entire modern analytics practice is moving towards. Let’s take a second to talk about why #1 and #2 don’t work.
+
+#### Make a direct hire.
+
+This is a bad idea for several reasons:
+
+1. Marketing doesn’t know how to evaluate the skills of a world-class data analyst. Inevitably, marketers are not as strong in their data skills as pure data professionals, so it will be hard to evaluate candidates and there is a risk that they won’t be able to choose the right candidate from a pool.
+2. World-class data people want to work with other world-class data people. By defining the role in this way, the team is biasing towards candidates who are not world-class.
+3. Marketers are poorly-suited to mentor and develop data professionals. The career paths are not aligned, and there is no ability to provide skills-focused development.
+
+Here’s what actually happens when a team chooses this path:
+
+- They hire a less experienced or less skilled data analyst.
+- That team member doesn’t build skills at the rate that they want or that the team would need. As such, the marketing team is still under-served relative to their initial need.
+- There ends up being a local marketing-data-fiefdom that only this analyst knows how to work on. This leads to a low “bus factor” and leaving the marketing function at risk.
+- The data analyst eventually quits due to lack of career progression and the marketing team has a big problem on their hands.
+
+We’ve seen this occur time and time again. Often in the past we have been brought in as consultants to help extricate companies from these types of situations and it is never pleasant.
+
+#### Hire on the data team and expand overall bandwidth
+
+This is also a bad idea. The core problem with it is that it is too idealistic. It assumes that the reason the data team isn’t prioritizing marketing requests is really purely one of bandwidth, and if the bandwidth problem is solved then it will go away. [This is not true](https://en.wikipedia.org/wiki/Induced_demand).
+
+The problem is actually one of prioritization. The charter of the data team in this scenario is finance / strategy / governance. This is why the CFO started the team and why it continues to report up to them. The CFO likely meets weekly with the data team lead, does their performance reviews, and heavily influences their thinking about what’s important and what isn’t. Plus, if a new analyst were hired, all of their team members have deep knowledge of the existing set of problems but very little knowledge about marketing problems—this will further exert gravity towards having the team continue to focus on the problems it knows how to solve.
+
+This doesn’t happen because of *malintent*, it is simply an outcome of the fact that the team originally grew up in the finance org. It lacks the connective tissue with marketing to effectively serve this team as a first-class customer.
+
+#### Hire on the data team and embed in the marketing team
+
+This solution has a bunch of challenges to *making it work*, but if an organization can solve them, it is by far the highest-functioning option. Here’s how it works:
+
+- Marketing leadership allocates a data analyst headcount to their hiring plan, working with the data team to make sure that leveling and compensation are appropriate for the work needed.
+- Data hires a new analyst. This new hire may be allocated to marketing, or may backfill an existing analyst who would then be allocated to marketing.
+- The marketing analyst works with the marketing organization to set a roadmap of priorities, and works with the data team to determine the implementation strategy for these priorities. Outputs are reviewed by the marketing team and code is reviewed by the data team. Both teams make a good-faith effort to consider the others’ needs as the ongoing balance between quality and speed is figured out.
+- The embedded marketing analyst goes to team meetings for both the marketing team and the data team. Quarterly reviews for this analyst are conducted by leadership on both the data and marketing teams.
+
+Here’s why this approach is superior:
+
+1. It enables world-class data professionals to interview, onboard, collaborate with, and manage other world-class data professionals. This leads to better hiring decisions, better skills mentoring, better career development, and overall happier team members that then stick around for longer.
+2. It enables embedded analysts to build expertise in and empathy for the problem domain.
+3. It ensures that the marketing team actually gets the bandwidth they originally needed.
+
+There is a clear cost to this approach: it makes management within a given department more challenging. For example, if the engineering department houses a front-end engineer and an implementation engineer, what teams (platform / experience) do those individuals report to? Also: staying informed about an embedded team member’s performance is harder for their direct manager.
+
+In the immediate term we don’t believe that these challenges should prevent us from moving forward with the embedded approach, but we do want to be cognizant of them and monitor these potential breaking points as the team scales.
+
+#### Data is a great example, but this problem isn’t exclusive to data
+
+Any specific area of expertise tends to work in this way. Marketing and product both need design resources yet there shouldn’t be two design teams. Marketing and engineering both need front-end development resources. Everyone needs data. Sales needs engineering resources (implementation engineers!). Soon we plan on hiring internal “ops” people who work on customizing our business systems like our CRM, support platform, and marketing operations platform.
+
+All of these roles are similar in that they require specific functional expertise and need to work closely with multiple departments throughout the company.
+
+#### Why doesn’t everyone do it this way?
+
+Because it conflicts with how most organizations are run.
+
+At traditional organizations, leaders are held accountable to metrics and get budget allocated to their departments to move those metrics. The budget a leader has allocated to them determines how likely they are to achieve their goals. And given that continued employment and incentive-based compensation are highly aligned with leaders’ ability to hit their goals, there is tremendous pressure to “not share your legos”. Any dollar I share with you is one less dollar I can spend to hit my own goal, after all.
+
+In my role running marketing at RJMetrics, this was on clear display. I had a lead goal that I was held accountable to as my sole determinant of success. As such, I deprioritized every aspect of marketing that wasn’t related to generating new leads. I didn’t share my legos.
+
+At the time, this felt completely natural. The marketing function existed to generate leads and so it was my job to do that as well as I could. Saying no to other priorities was actually part of what was hard about the job, and it was important for me to not allow “mission creep” to set in.
+
+But when everyone in the organization thought like this, it led to a tremendous amount of local optimization. We had best-in-class functional organizations, but we were completely unable to do anything that didn’t fall neatly into a single functional organization.
+
+Conventional wisdom is to manage departmental leaders in exactly this way. This goes back to Taylorism / Fordism in the early 20th century, and it’s something that is still widely practiced. This is one of the reasons that large / traditional organizations become fantastically well-oiled machines to do some particular process well (i.e. build an internal combustion engine car) but find it incredibly hard to *change* (i.e., build an electric car): their org structures are hierarchical and lack flexibility.
+
+#### How we want to do this differently
+
+This problem has been something that I’ve been hyper-focused on since starting Fishtown Analytics. I saw the negative impacts of this previously and wanted to steer hard in the opposite direction. Connor and Drew and I have focused on building a culture that emphasizes cross-departmental collaboration since the very beginning, and when we’ve hired or promoted people into leadership roles we’ve heavily focused on people who are wired to be collaborative.
+
+As a result, we’ve had notable successes on this front in our short life as a company: the dbt community and dbt Learn are both programs that live in a highly cross-functional space. It’s a tremendous credit to everyone involved in these programs for operating in a zone of some level of ambiguity.
+
+But even with this success, it’s naive to assume that just “hiring collaborative people” is an answer to a systems problem. Ultimately, we’re all products of the systems we inhabit, and we have to design those systems well in order to get the outcomes we want. Here are my suggestions to continue to keep Fishtown Analytics focused on cross-departmental collaboration over the long run:
+
+- **Establish clear cross-departmental budgetary mechanisms.** For example, make a clear mechanism whereby marketing can allocate budget for a data analyst hire that will ultimately live on the data team. Note that this needs to handle the scenario where multiple departments want to contribute a % of an FTE towards a single full-time hire.
+- **Minimize executive compensation that is tied to anything but overall equity value.** We don’t have to remove incentive-based compensation that is tied to specific metrics altogether, but it should always be a distant personal priority for every executive when weighed against the success of the overall business.
+- **Create a new company value: “We share our legos.”** Culture is one of the biggest tools we have to shape behavior, and our values are the best tool we have for shaping culture.
+- **Answer the hard questions about cross-departmental roles up-front.** More on this in Appendix A.
+- **Abolish fiefdoms.** Kill the idea that departmental strategy is set and budgets are allocated at the sole discretion of the leader of that department. All leaders can weigh in on the strategic choices and budgets of other departments, and these concerns need to be addressed prior to moving ahead with the proposed plans. Use the OKR-setting process to make sure that goals are aligned across different departments.
+
+#### Next steps
+
+We’re about to make at least two hires that will be “embedded”. As such, this is an extremely timely topic: we want to define these roles and how they interact with the larger org correctly from the outset. So, the first step is to make sure that we have consensus on the contents of this document. From there, a number of action items follows:
+
+- Proposing the value [Tristan]
+- Think about how budgeting will work [Tristan + Sierra]
+- Proposing role structure for marketing designer [Janessa / Drew / Amy B]
+- Proposing role structure for front-end engineer [Janessa / Drew / Connor]
+- Proposing role structure for product analyst [Drew / Erin]
+
+### Appendix A: What questions need to be answered prior to hiring for a cross-functional role?
+
+1. **Who will be this person’s manager?** A manager will, in the case of an embedded team member, likely not be the person who is setting the day-to-day tasks for this person. Rather, they are responsible for supporting the person’s career development, providing mentorship, etc. There should only be a single answer to this question.
+2. **Who will the “embed sponsor” be?** The embed sponsor will be a member of the team “hosting” this person who will be primarily responsible for determining the day-to-day workload of this person. It is recommended that there is only one answer to this question, as balancing across multiple embed workloads can be challenging.
+3. **Who will make the final hiring decision?**We recommend that this should be the same as the answer to #1 above, with the understanding that the person in #2 will have a high degree of input.
+4. **Who will participate in this person’s reviews?**Likely this should be the people from #1 and 2, above.
+5. **How long will this embedded relationship last?** Generally, there is a “sweet spot” that allows the embedded team member to spend adequate time with the functional area to develop expertise and add value, but not so long on the team that they develop a “bus factor” and become a turnover risk. Most often we feel that the appropriate range here is 6-24 months, but realize that your mileage may vary.
+6. **What is this person’s career path within the company?**We should make sure that we’re not creating dead-end roles for embedded team members. This can sometimes happen when a person’s role doesn’t have obvious next steps outside of the team that they are embedded with. We should prevent this situation as it will lead to employee turnover.
+
 ## [Global Employment](https://www.notion.so/dbtlabs/Global-Employment-at-dbt-Labs-a0c8faf3a9234d6a83280654caff0424)
 
 ### **Country Hiring Guidelines**
@@ -262,7 +371,7 @@ In the past, dbt Labs would hire in any country except those we had already dete
 | United States  	| dbt Labs, Inc.             	| ADP              	| ADP  	| USD      	| Yes                   	|
 | Germany        	| dbt Labs GmbH              	| Overseas Connect 	| ADP  	| EUR      	|                       	|
  
-📌 For countries where dbt Labs is able to sponsor a work permit, the People team also needs to do an assessment of your job to see if it falls into a “speciality work visa” category. We would need to determine that you and your role meet all of the sponsorship criteria. **Please reach out to your People Business Partner if you require sponsorship.**
+📌 For countries where dbt Labs is able to sponsor a work permit, the People team also needs to do an assessment of your job to see if it falls into a “speciality work visa” category. We would need to determine that you and your role meet all of the sponsorship criteria. **Please reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) if you require sponsorship.**
 
 ### Non-resident payroll relationships
 
@@ -308,7 +417,7 @@ Learn more about our [Compensation Principles](/handbook/compensation.md#compens
 
 ### Relocation (Permanent or Semi-permanent)
 
-📌 All international relocation requests must be approved by the People team, Finance team and the team members management. To initiate a request, please contact your [People Business Partner](https://www.notion.so/People-Business-Partners-7c4b9fca56e245e684bd8d8e79f65910).
+📌 All international relocation requests must be approved by the People team, Finance team and the team members management. To initiate a request, please contact your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4).
 
 📌 Relocation requests within country may need approval by the team members management due to time zone or regional requirements. Please communicate with your manager if you plan a move to a different region in your country.
 
@@ -321,7 +430,7 @@ Compensation bands for each country we have an entity in will be listed in our c
 ⏳ Please initiate a move at least 3 months before your target move date. This allows us to process necessary approvals and make sure we’re able to execute the transfer.
 
 
-1. If the team member is moving to a new country, the move must have prior approval by their People Business Partner, the dbt Labs finance team, their manager and their team’s leadership.
+1. If the team member is moving to a new country, the move must have prior approval by their [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4), the dbt Labs finance team, their manager and their team’s leadership.
     1. Please allow for one month for approvals.
 2. All moves should be to a country where we have a dbt Labs entity. 
     1. Any international moves outside of countries we have a presence in, must be approved by the CFO and be to a location where there is a business case. We ask for a 6 month lead time to determine if this move is possible
@@ -337,7 +446,7 @@ Compensation bands for each country we have an entity in will be listed in our c
 
 Any work being done in a country where we do not have a current presence must be approved by security to ensure access to our systems remains secure. Please submit a ticket with IT prior to confirming your working arrangements in that country. 
 
-If a team member is considering spending more than **one month** in a location outside of your home country, please consult with your People Business Partner to ensure we are mitigating risks to the team member and the business. 
+If a team member is considering spending more than **one month** in a location outside of your home country, please consult with your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) to ensure we are mitigating risks to the team member and the business. 
 
 Team members are expected to communicate with their manager and team to ensure they maintain agreed upon working hours.
 
@@ -445,7 +554,7 @@ If you are assigned to a project or long-term relationship with a client that vi
 
 “This is not their direct report ‘not being a team player’—rather, it is their direct report optimizing for the long-term. Managers who fail to accommodate such requests risk having high-turnover teams, which will limit their own ability to be successful.”
 
-If you need additional support working with your manager to figure out an accommodation, you can reach out to your People Business Partner, @Meg Colon (Head of People), or @Morgan Russell (DEI Coordinator). 
+If you need additional support working with your manager to figure out an accommodation, you can reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4).
 
 🛠 **We can help find other solutions when conscientious objection doesn’t solve the problem**
 
