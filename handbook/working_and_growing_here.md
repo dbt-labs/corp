@@ -12,6 +12,7 @@
 ### [Diversity, Equity and Inclusion](#diversity-equity-and-inclusion-1)
 
 ## Distributed Work Experience
+
 We are a remote first, globally distributed, values driven company. Learn more about how we think about our distributed experience [here](/handbook/about_dbt_labs.md#our-distributed-work-experience-1).
 
 ## Annual Review Cadence
