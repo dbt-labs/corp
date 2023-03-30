@@ -638,17 +638,11 @@ Occasionally, expenses beyond the initial $500 will be reimbursed with advanced 
 - All transactions over $50 USD or local equivalent require a receipt / documentation
     - All reimbursements require a receipt / documentation
 - All full time employees are eligible for these stipends in their first month, regardless of their actual hire date.
-- Stipend amounts must be used within their allotted time or the **funds will expire** (ie. Funds not used during the fiscal year or during that month will expire and will not roll over)
-    - **Expired Health & Wellness Funds example**
-        
-        On July 18th your Benepass card is charged for your gym membership for $100 reducing your Health & Wellness available funds to $25. On July 25th you purchase a sleeve of golf balls for $15 on your personal card. On August 1st your Health and Wellness wallet’s remaining $25 from July expire and is then refreshed to $125 for the month of August. August 2nd you submit for a reimbursement for the golf balls and the $15 is reimbursed and deducts the $15 from the available $125 August amount.
-        
+- Stipend amounts must be used within their allotted time or the **funds will expire** (ie. Each stipend has as fiscal year (Feb 1-Jan 31) or monthly timeline. Funds not used during that time period will expire and will not roll over)
+    - **Expired Health & Wellness Funds example**: On July 18th your Benepass card is charged for your gym membership for $100, reducing your Health & Wellness available funds to $25. On July 25th you purchase a sleeve of golf balls for $15 on your personal card. On August 1st your Health and Wellness wallet’s remaining $25 from July expire and is then refreshed to $125 for the month of August. August 2nd you submit for a reimbursement for the golf balls and the $15 is reimbursed and deducts the $15 from the available $125 August amount.
 - Stipend amounts will be evaluated on an annual basis (Key factors - benchmark data, purchasing power indices, budget availability)
 - Annual Stipends must be submitted in a timely fashion, best practice is to submit expenses within 30 days.
-    - Past 30 day submissions
-        
-        While you can still submit these expenses past 30 days, this best practice helps ensure we aren’t back-loading and incurring large sums of reimbursements as we close out a Quarter or Fiscal year and timely submissions help with this!
-        
+    - Past 30 day submissions: while you can still submit these expenses past 30 days, this best practice helps ensure we aren’t back-loading and incurring large sums of reimbursements as we close out a Quarter or Fiscal year and timely submissions help with this!
 - Non-comprehensive [**list of eligible items](https://docs.google.com/spreadsheets/d/1EAmO6874G_FqyVAGJTXG-eU3TNIBuNo8WiEHnwS79vY/edit#gid=0)** (This will consistently be updated from time to time)
 
 ### Stipend Amounts by Country
