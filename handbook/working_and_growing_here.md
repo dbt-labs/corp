@@ -1,6 +1,6 @@
 # Working and Growing at dbt Labs
 
-### [Distributed Work Experience](
+### [Distributed Work Experience](#distributed-work-experience-1)
 ### [Annual Review Cadence](#annual-review-cadence-1)
 - #### [Performance Reviews](#performance-reviews-1) 
 - #### [Compensation Reviews and Promotion Cycles](#compensation-reviews-and-promotion-cycles-1)
