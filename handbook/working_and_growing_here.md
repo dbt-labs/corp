@@ -599,17 +599,13 @@ We want to make sure team members receive the support they need. The People Team
 
 The ticketing system is available on the Slack Helpdesk app and in the #people-support Slack channel.
 
-- How to ask a People Ops Question? (submit a ticket):
+How to ask a People Ops Question? (submit a ticket):
 
-You can submit a question (submit a ticket) 2 ways.  This is the same process for submitting IT tickets:
+- You can submit a question (submit a ticket) 2 ways.  This is the same process for submitting IT tickets:
 
-1️⃣ Use the help desk app in slack. Click create a ticket→ enter your name in the “on behalf of” field→choose People Ops as your category→choose your people ops issue in the field→describe your question→click on submit request
+1️⃣ Use the help desk app in slack. Click create a ticket→ enter your name in the “on behalf of” field→choose People Ops as your category→choose your people ops issue in the field→describe your question→click on submit request. Your question will be routed to the correct People Ops or Accounting representative and they will reach out to you directly to address your questions or concerns.
 
-    - your question will be routed to the correct People Ops or Accounting representative and they will reach out to you directly to address your questions or concerns
-
-2️⃣ Navigate to the #people-support channel and @helpdesk to ask your question.  You will receive a slack message to create a ticket, from there follow the steps above 
-
-3️⃣ The question will be routed to the appropriate team member and be addressed directly within the Helpdesk app in Slack
+2️⃣ Navigate to the #people-support channel and @helpdesk to ask your question.  You will receive a slack message to create a ticket, from there follow the steps above. The question will be routed to the appropriate team member and be addressed directly within the Helpdesk app in Slack
 
 **You can find more information on how to use HappyFox [here](https://www.notion.so/HappyFox-Helpdesk-System-01d0aa47cdf144649066c46d3f4491cf).
 
@@ -621,9 +617,9 @@ You can submit a question (submit a ticket) 2 ways.  This is the same process fo
 
 We always encourage talking with your manager first, however we welcome your questions whenever that doesn’t feel like the best option for you. 
 
-**How to ask a PBP Question?**
+How to ask a PBP Question?
 
-Reach out to [your department’s PBP](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) directly via Slack if you have questions.
+- Reach out to [your department’s PBP](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) directly via Slack if you have questions.
 
 ### How to get support from outside the People Team
 
@@ -633,15 +629,15 @@ Reach out to [your department’s PBP](https://www.notion.so/dbtlabs/Business-Pa
 
 The [Peer Advocate Program](https://www.notion.so/Peer-Advocate-Program-ef66f66a1b2f40a385b2efb578bfb4c1) was designed to provide an alternate route of communication with leadership and the team at large, for employees seeking to get feedback from peers, test ideas, or offer feedback with anonymity.  
 
-- Why would I connect with a Peer Advocate rather than a PBP?
-    - As a rule of thumb, Peer Advocates are best situated to voice feedback or ideas that affect a large portion of the company. Feedback specific to you and/or one other person may be best brought to your manager, PBP, or a member of leadership.
+Why would I connect with a Peer Advocate rather than a PBP?
+
+- As a rule of thumb, Peer Advocates are best situated to voice feedback or ideas that affect a large portion of the company. Feedback specific to you and/or one other person may be best brought to your manager, PBP, or a member of leadership.
 
 **How to connect with a Peer Advocate?**
 
 You can reach out to a [Peer Advocate](https://www.notion.so/Peer-Advocate-Program-ef66f66a1b2f40a385b2efb578bfb4c1) directly via Slack.
 
 #### Anonymous Hotline
-
 
 💡 This is your best option to workplace issues or *suspected illegal or unethical conduct* anonymously.
 
