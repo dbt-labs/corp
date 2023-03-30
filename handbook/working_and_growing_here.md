@@ -7,6 +7,7 @@
 ### [Internal Mobility](#internal-mobility-1)
 ### [Embedded Roles](#embedded-roles-1)
 ### [Global Employment](#global-employment-1)
+### [Office Strategy](#office-strategy-1)
 ### [Moonlighting Guidance](#moonlighting-guidance-1)
 ### [Conscientious Objection](#conscientious-objection-1)
 ### [Diversity, Equity and Inclusion](#diversity-equity-and-inclusion-1)
@@ -417,6 +418,9 @@ Thanks to all our employees whose energy and commitment makes dbt Labs and the l
     3. Few to zero offices / small breakout spaces to disincentivize in-person collaboration with partial teams
 2. Open floor plan with desks to support employees working outside their home as needed
 
+### Regional Offices
+
+Learn more about our regional offices [here](/handbook/about_dbt_labs.md#regional-offices).
 
 ## [Conscientious Objection](https://www.notion.so/dbtlabs/Conscientious-Objection-371207f8f01c4e94bd4e62eb5c85087c?pvs=4)
 
