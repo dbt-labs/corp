@@ -14,7 +14,7 @@
 - #### [Office Stipend](#office-stipend-1)
 - #### [Phone & Internet Stipend](#phone--internet-stipend-1)
 - #### [Health & Wellness Stipend](#health--wellness-stipend-1)
-- #### [Professional Development Reimbursement](professional-development-reimbursement-1)
+- #### [Professional Development Stipend](professional-development-stipend-1)
 ### [Workplace Rental](#Workplace-Rental-1)
 ### [Employee Discounts](#Employee-Discounts-1)
 ### [Wellness Program](#Wellness-Program-1)
@@ -462,12 +462,202 @@ The People Support team will introduce you to a Sparrow Leave Specialist as soon
 
 Employees who will be going on a leave of absence should review the related policy outlined above.
 
-## Stipends
+## [Stipends](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4)
+
+As part of dbt’s total rewards strategy, we provide various stipends to help cover some of the cost associated with working from home; as well as supporting our team members' development and well being. These policies apply to all full-time employees that work for any dbt Labs entity or who are employed through our Professional Employer Organizations (PEO - ie, Remote.com).
 
 ### [Office Stipend](https://www.notion.so/dbtlabs/Office-Stipend-5f5a37d1026d4fb78ee3c6439fada6dc?pvs=4)
+
+#### Policy
+
+There are many advantages to building a remote-first culture, however we understand that this remote first approach can become a burden on employees that now need to set up a home office that is conducive to their work. This policy is designed to help mitigate some of that burden and pass our savings onto you. 
+
+**Office Stipend Types**
+
+1. Office Refresh Stipend - All employees receive up to **$400 each fiscal year** to help refresh their existing office set-up and needs. Our fiscal year runs Feb 1-Jan 31.
+2. New Hire Office Stipend - All new hires receive a **total of $1,500** to use through out their first year to help assist in building their home office
+-  *In our Benepass Platform, new hires will see an $1,100 New Hire Office Stipend + $400 Office Refresh Stipend = $1,500. This allows new hires to utilize their funds through out the entire year.
+
+All office stipend expenses should be purchased using your Benepass card or reimbursed through the Benepass site or app.
+
+Learn more about the stipend amount by country, based on local purchasing power, [here](#stipend-amounts-by-country).
+
+#### **Common Eligible Items (This is not an Exhaustive list)**
+
+- Monitor
+- Mouse
+- Keyboard
+- Desk
+- Desk Chair
+- Headphones
+- Laptop stand
+- Webcam/microphone
+- Monitor privacy filter
+- Calendar
+- Whiteboard
+- Printer
+- Exercise ball to sit on
+- Office supplies (pens, paper, printer cartridges)
+- Monitor riser / Standing desk topper
+- Ergonomic accessories
+- Adapter/cords to connect the above items to your laptop computer
+- Lighting
+
+#### List of Items **NOT** eligible via the home office stipends
+
+- Phones
+- Tablets or Tablet accessories
+- Couches
+- Living room chairs
+- Paint & Wallpaper
+- Window furnishings
+
+#### Common Questions
+
+**Do you have any recommendations on how to best use this stipend?**
+
+- Check out [Equipment Recommendations](https://www.notion.so/Equipment-Recommendations-3a2c5c26f31c43658a188f95a71f15a6) for recommendations from other dbt team members!
+
+**What if I can’t build my entire office with the provided $1,500?**
+
+- We understand that the needs and wants may differ between each person in building out their home office. These stipends are meant to help supplement **some** of the costs associated with our remote first environment. Additionally, we will continue to monitor and assess all existing stipend amounts each year.
+
+**How can I find out if something is an eligible expense?**
+
+- If you’re unsure if something is included within the policy, reach out directly to Benepass support team via the app.
+
 ### [Phone & Internet Stipend](https://www.notion.so/dbtlabs/Phone-Internet-Stipend-afc584bf27f24a9f81267022f30557af?pvs=4)
+
+#### Policy
+
+As part of our remote first approach, and in an effort to help our team do their best work, dbt labs provides **up to $125 each month** to help cover some of the costs associated with your personal phone and internet. 
+
+**Eligible Expenses**
+
+- Internet costs to include (internet, service fees, etc.)
+- Phone costs to include (cellular service for **your** phone only)
+
+**List of Items Not Eligible**
+
+- Additional services attached to your internet provider (ex. TV, home phone and additional subscription services)
+- Device payment installments, accessory data plans (Apple watch service), other phone lines on the bill, added subscriptions.
+
+All phone and internet expenses should be purchased using your Benepass card or reimbursed through the Benepass site or app.
+
+Learn more about the stipend amount by country, based on local purchasing power, [here](#stipend-amounts-by-country).
+    
+#### General Guidelines
+
+- Internet Expense: address on the bill must match your current address in ADP. Please make sure these match prior to submitting.
+- Phone Expense: phone number on the bill must match the phone number on file in ADP. If multiple lines are on a bill, please submit for the cost of one line as the amount for reimbursement.
+
 ### [Health & Wellness Stipend](https://www.notion.so/dbtlabs/Health-Wellness-Stipend-092dcde477b246638bab319183054668?pvs=4)
-### [Professional Development Reimbursement](https://www.notion.so/dbtlabs/Professional-Development-Reimbursement-d35cf1246a0c4c8e96b25cc22fe9d1cb?pvs=4)
+
+#### Policy
+
+Employees to bring their whole selves to work and we know that health and wellness are key factors in producing their best work. To help with this, we provide all full time employees up to **$125 each month** to use towards their physical, mental & financial wellbeing.
+
+**Examples of Eligible Expenses (Not exhaustive list)**
+
+- Gym & fitness memberships - Including digital memberships and subscriptions
+- Exercise equipment - At home weights / exercise machines, yoga mat etc.
+- Recreational actives - Ski passes, golfing, hiking permits, camping, horseback riding
+- Recreational equipment - golf clubs, bicycle & equipment, sports protective gear etc. *Specialized footwear like running shoes, hiking boots, ski boots
+- Mental health - Meditation and mental health apps, therapy visits etc.
+- Wellbeing services - Massage gun/Massage Therapy, Weight loss programs etc.
+- Financial wellness - Digital financial wellness services (budgeting software), financial Workshops, debt or tax consulting Services
+
+**Examples of Expenses Not Eligible**
+
+- Food services & consumables - Meal Kits, take out food, Uber eats subscription, etc.
+- Household goods & Services - Therapeutic bed, juicers, HEPA filters, clean services, ergo equipment, etc.
+- Cosmetic goods & services - Manicures, pedicures, hair color, hair cuts, makeup, facials, spa treatments, etc.
+- Athleisure clothing - Gym shorts, yoga pants, athletic shirts, winter jackets, etc.
+- Investment training & tools - motley fool, stock picker subscriptions, etc.
+
+All health and wellness expenses should be purchased using your Benepass card or reimbursed through the Benepass site or app. 
+
+Learn more about the stipend amount by country, based on local purchasing power, [here](#stipend-amounts-by-country).
+
+#### Common Questions
+
+**Can a large purchase be paid in installments over time?**
+
+Yes! Benepass is able to track and manage ‘payment’ systems for large purchases.
+
+**Do you have more examples of eligible and non-eligible expenses?**
+
+Check out a more robust list [here](https://docs.google.com/spreadsheets/d/1EAmO6874G_FqyVAGJTXG-eU3TNIBuNo8WiEHnwS79vY/edit#gid=0). This isn’t an exhaustive list but we will build it out over time as questions arise.
+
+### [Professional Development Stipend](https://www.notion.so/dbtlabs/Professional-Development-Reimbursement-d35cf1246a0c4c8e96b25cc22fe9d1cb?pvs=4)
+
+#### Policy
+
+At dbt Labs we believe in moving up the stack. Not only do we encourage our team to seek out learning opportunities to grow and develop, but also provide up to **$500 each fiscal year** for employees to use on learning and professional development expenses. Common eligible expenses include, but are not limited to:
+
+- Subscriptions
+- Books
+- Software
+
+All professional development expenses should be purchased using your Benepass card or reimbursed through the Benepass site or app.
+
+Learn more about the stipend amount by country, based on local purchasing power, [here](#stipend-amounts-by-country).
+
+#### Common Questions
+
+**Does the professional development purchase need to be directly related to my role?**
+
+It doesn’t; but it does need to be considered professional development as it relates to the career you have or the career you want. This can be defined in two ways:
+
+1. Core Training: "On the job" learning, training of core skills, experience levels growth, area training, deepening expertise in one's domain.
+2. Stretch Learning: Learning that is outside of the role's scope, bridges the gaps between departments, supports career changes, or helps someone build more general context.
+
+**What if I want to take a course or attend a conference that costs more than $500?**
+
+Occasionally, expenses beyond the initial $500 will be reimbursed with advanced manager approval. This is most relevant as it relates to in-person conferences (fees, travel, and expenses). Let your manager know what you need, and they can send the request to the **#finance-support** Slack channel and do their best to make it work.
+
+**What are some examples of professional development purchases?**
+
+- Courses using online platforms like:
+    - [Udemy](https://www.udemy.com/courses/) – Online courses with a range of topics
+    - [Skillshare](https://www.skillshare.com/) – Online courses for creators
+    - [Highbrow](http://gohighbrow.com/) – Get 5-minute lessons delivered to your inbox every morning
+    - [Datacamp](https://www.datacamp.com/) – Learn Data Science online
+    - [Treehouse](https://teamtreehouse.com/) – Learn Web Design, Coding, and more
+- Books to learn more about a subject or to dive into how other companies do things; for the People team, this may look like:
+    - [Measure What Matters](https://www.whatmatters.com/the-book/) (OKRs)
+    - [Powerful](https://pattymccord.com/book/) (Netflix Culture)
+    - [Work Rules!](https://www.workrules.net/) (Google Culture)
+- Certifications or professional memberships:
+    - [People Ops Society Membership](https://www.peopleopssociety.com/)
+    - CPA Renewal
+
+### General Guidelines for All Stipends
+
+- All stipend expenses must be processed using your Benepass card or submitted for reimbursement through the Benepass app
+- All transactions over $50 USD or local equivalent require a receipt / documentation
+    - All reimbursements require a receipt / documentation
+- All full time employees are eligible for these stipends in their first month, regardless of their actual hire date.
+- Stipend amounts must be used within their allotted time or the **funds will expire** (ie. Funds not used during the fiscal year or during that month will expire and will not roll over)
+    - **Expired Health & Wellness Funds example**
+        
+        On July 18th your Benepass card is charged for your gym membership for $100 reducing your Health & Wellness available funds to $25. On July 25th you purchase a sleeve of golf balls for $15 on your personal card. On August 1st your Health and Wellness wallet’s remaining $25 from July expire and is then refreshed to $125 for the month of August. August 2nd you submit for a reimbursement for the golf balls and the $15 is reimbursed and deducts the $15 from the available $125 August amount.
+        
+- Stipend amounts will be evaluated on an annual basis (Key factors - benchmark data, purchasing power indices, budget availability)
+- Annual Stipends must be submitted in a timely fashion, best practice is to submit expenses within 30 days.
+    - Past 30 day submissions
+        
+        While you can still submit these expenses past 30 days, this best practice helps ensure we aren’t back-loading and incurring large sums of reimbursements as we close out a Quarter or Fiscal year and timely submissions help with this!
+        
+- Non-comprehensive [**list of eligible items](https://docs.google.com/spreadsheets/d/1EAmO6874G_FqyVAGJTXG-eU3TNIBuNo8WiEHnwS79vY/edit#gid=0)** (This will consistently be updated from time to time)
+
+### Stipend Amounts by Country
+
+Learn about our stipend amounts by country [here](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4#6fe12c7cd08c4886a602a13fd4c3e960).
+
+### How to use Benepass - Perks & Stipend Platform
+
+Benepass is our benefits/perks partner and is specifically designed to help administer stipends and supplemental perks. Learn more about how to use Benepass and get answers to FAQs [here](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4#b4463cef29e54a4c9d1a9fe137f7282e).
 
 ## Workplace Rental 
 
