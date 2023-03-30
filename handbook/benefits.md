@@ -653,6 +653,8 @@ Learn about our stipend amounts by country [here](https://www.notion.so/dbtlabs/
 
 Benepass is our benefits/perks partner and is specifically designed to help administer stipends and supplemental perks. Learn more about how to use Benepass and get answers to FAQs [here](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4#b4463cef29e54a4c9d1a9fe137f7282e).
 
+- Benepass is used for Office Stipend, Phone & Internet Stipend, Health & Wellness Stipend, and Professional Development Stipend. - Policies and reimbursements that are NOT administered through Benepass are: Workspace Rental Experience, Health Related Travel Benefit, Corporate Travel & Expense Policy.
+
 ## Workplace Rental 
 
 Working from home does not work for everyone. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
