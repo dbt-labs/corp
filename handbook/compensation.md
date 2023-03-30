@@ -26,7 +26,7 @@ Our compensation philosophy has been arrived at over the course of many years, c
 
 1. Values are more important than success; we do not make exceptions to our compensation policies even if that causes real near-term pain. Violation of this can result in disciplinary action, up to and including termination. 
     1. To accomplish this; outgoing offers must be discussed between hiring managers and the TA partners before being delivered to a candidate. When there are any questions or concerns, loop in the compensation partner to determine the path forward. 
-    2. If you identify an instance where you feel that we are not living up to this commitment, please alert @Meg Colon immediately. 
+    2. If you identify an instance where you feel that we are not living up to this commitment, please alert your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8). 
 2. Transparency always wins, and we will be as transparent as possible. 
     1. Our compensation *ranges* for a given title and level are public both internally[^1] and externally[^2]
     2. Our compensation *policies* are transparent both internally and externally[^3].
@@ -79,9 +79,7 @@ Our compensation philosophy has been arrived at over the course of many years, c
 
 ### Questions
 
-If you have a specific question around your compensation, one of your direct reports’ compensation, or the compensation of a role that you’re hiring for, please reach out to your People Business Partner.
-
-[People Business Partners](https://www.notion.so/People-Business-Partners-7c4b9fca56e245e684bd8d8e79f65910)
+If you have a specific question around your compensation, one of your direct reports’ compensation, or the compensation of a role that you’re hiring for, please reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8)
 
 [^1]: This helps to ensure pay equity. It also creates an environment where compensation—so often a touchy subject!—is de-stigmatized. Talking about compensation should be straightforward; it should involve no risk and no surprises.
 [^2]: This helps to ensure that candidates have aligned expectations when starting an interview process with us and helps the offer stage tremendously.
@@ -103,7 +101,7 @@ Learn more about our [Global Benefits Strategy & Stipend](/handbook/benefits.md/
 
 #### Relocation (Permanent or Semi-permanent)
 
-📌 All international relocation requests must be approved by the People team, Finance team and the team member's management. To initiate a request, please contact your [People Business Partner](https://www.notion.so/People-Business-Partners-7c4b9fca56e245e684bd8d8e79f65910).
+📌 All international relocation requests must be approved by the People team, Finance team and the team member's management. To initiate a request, please contact your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8).
 
 📌 Relocation requests within country may need approval by the team member's management due to time zone or regional requirements. Please communicate with your manager if you plan a move to a different region in your country.
 
@@ -115,7 +113,7 @@ Compensation bands will be listed in our compensation database for each country 
 
 ⏳ Please initiate a move at least 3 months before your target move date. This allows us to process necessary approvals and make sure we’re able to execute the transfer.
 
-1. If the team member is moving to a new country, the move must have prior approval by their People Business Partner, the dbt Labs finance team, their manager and their team’s leadership.
+1. If the team member is moving to a new country, the move must have prior approval by their [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8), the dbt Labs finance team, their manager and their team’s leadership.
     1. Please allow for one month for approvals.
 2. All moves should be to a country where we have a dbt Labs entity. 
     1. Any international moves outside of countries we have a presence in, must be approved by the CFO and be to a location where there is a business case. We ask for a 6 month lead time to determine if this move is possible
@@ -130,7 +128,7 @@ Compensation bands will be listed in our compensation database for each country 
 
 Any work being done in a country where we do not have a current presence must be approved by security to ensure access to our systems remains secure. Please submit a ticket with IT prior to confirming your working arrangements in that country. 
 
-If a team member is considering spending more than **one month** in a location outside of your home country, please consult with your People Business Partner to ensure we are mitigating risks to the team member and the business. 
+If a team member is considering spending more than **one month** in a location outside of your home country, please consult with your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8) to ensure we are mitigating risks to the team member and the business. 
 
 Team members are expected to communicate with their manager and team to ensure they maintain agreed upon working hours.
 
