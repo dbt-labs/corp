@@ -68,7 +68,7 @@ The benefits stipend will automatically be added to your monthly payroll. You do
 
 As previously mentioned we look to target locally relevant and competitive benefit options and retirement and pension plans fall under the same philosophy. We are currently working towards getting each required Pension scheme and retirement plan solidified. More details will be forthcoming.
 
-## [Healthcare Benefits](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
+## [Healthcare Benefits (US)](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
 
 ### [Medical Plans](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
 
@@ -80,12 +80,12 @@ New hires may enroll themselves and dependents in health benefits online through
 
 To enroll in benefits as a new hire, existing employee during open enrollment or at a time of a qualifying life event, follow our [guide](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4). Note: Employees who currently have a High Deductible Health Plan coverage selection are able to adjust their HSA contributions throughout the year. This is the only benefit adjustment that does not require a Qualifying Life or Work Event.
 
-**Employees enrolled in our health insurance are eligible for the following benefits as well:**
-
 ### Disability and Life Insurance
 We provide long term and short term disability as well as life insurance coverage to all US-based employees at no cost. Voluntary, additional, life insurance coverage for employees and dependants is available at the expense of the employee.
 
-### [Health Related Travel Benefit (US)](https://www.notion.so/dbtlabs/Health-Related-Travel-Benefit-1b3541b3eec3444d883de4ecf601dd9f?pvs=4)
+### US Employees enrolled in our health insurance are eligible for the following benefits as well:
+
+#### [Health Related Travel Benefit (US)](https://www.notion.so/dbtlabs/Health-Related-Travel-Benefit-1b3541b3eec3444d883de4ecf601dd9f?pvs=4)
 
 📌 We believe that it’s imperative that our team members have access to quality healthcare that they need, no matter where they live. Therefore, dbt Labs will reimburse up to $4,000 in travel expenses annually[^1] for any U.S. team member (including their dependent(s)) who requires healthcare that is not available in their state of residence.
 
@@ -111,7 +111,7 @@ Many states have introduced legislation to reduce or restrict access to critical
     1. The Head of People will be the only person with access to receipts and reason for travel and will not discuss or share with anyone. The Payroll Manager will receive only the amount to add to payroll.
 3. If you need support relating to out-of-state travel for healthcare purposes, please contact Meg directly.
 
-### [International Travel Emergency Health Benefits (US)](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4)
+#### [International Travel Emergency Health Benefits (US)](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4)
 
 US employees utilizing our health benefits have access to emergency care while traveling abroad. 
 
@@ -138,7 +138,7 @@ We ask that you input your time-off requests into ADP and categorize them accord
 
 When in doubt, please discuss with your manager about your plans
 
-#### ❓When would time off be declined?
+#### When would time off be declined?
 
 - It shows blatant abuse of the unlimited time off policy. For example (but not limited to the following):
     - Using open vacation in place of a leave of absence (see below).
