@@ -11,6 +11,7 @@
 ### [Moonlighting Guidance](#moonlighting-guidance-1)
 ### [Conscientious Objection](#conscientious-objection-1)
 ### [Diversity, Equity and Inclusion](#diversity-equity-and-inclusion-1)
+### [Making a Referral](#making-a-referral-1)
 
 ## Distributed Work Experience
 
@@ -459,3 +460,19 @@ We are committed to diversity, equity, and inclusion. DEI impacts high-level com
 We have three DEI committees dedicated to Team Diversity, Culture, and Company Stance and Action. Together, these committees make sure we build a diverse team, equitable company structures, and an environment that gives everyone the support and opportunities they need to thrive.
 
 Learn more [here](https://www.getdbt.com/dbt-labs/dei/).
+
+## [Making a Referral](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4)
+
+Who better to find great people to work here than great people that already work here? We don't currenly offer a referral bonus program but that shouldn't stop you from sending any and all referrals our way!
+
+### Who should you refer?
+
+Take a look at our open jobs in greenhouse or on our website! 
+
+1. If you know someone that could be a fit, great!
+2. If you know someone that's awesome and would be a great addition to dbt Labs but don't see an open role that would fit them - we'd still like to talk to them and get them into our talent network for future openings!
+3. If someone reaches out to you cold and you are willing to chat with them, feel free to do so and refer them if they seem like a fit. (You can also send them to a recruiter or our jobs page if you don't have time to have a full conversation)
+
+### How to submit a referral
+
+Follow these instructions [here](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4#292f0c69c0a543198799036041f389ea).
