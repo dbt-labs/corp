@@ -455,7 +455,7 @@ dbt Labs may, in its sole discretion and unless prohibited by law, require an em
 **How To Request a Leave of Absence:** To help employees navigate their potential options dbt Labs is partnering with [Sparrow](https://trysparrow.com/), a Leave Management Partner. 
 
 Anyone who may need to take a leave of absence should either:
-a) contact their [People Business Partner Team](https://www.notion.so/7c4b9fca56e245e684bd8d8e79f65910) member, or
+a) contact their [People Business Partner Team](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) member, or
 b) submit your request via this [**leave request form](https://form.asana.com/?k=KZqlYJHKhsQoYJvtFJXibw&d=312418853397011)** 
 
 The People Support team will introduce you to a Sparrow Leave Specialist as soon as your leave is approved. Sparrow will schedule a call with you to discuss your leave plans, identify the key dates when they need to be involved, and gather the necessary information to file your leave paperwork on your behalf.
@@ -781,11 +781,9 @@ Reasons for LOAs vary and amounts of time can also vary (i.e. 1 month to 3 month
 ## [Anonymous Hotline](https://www.notion.so/dbtlabs/Anonymous-Hotline-309767332cbc4fdf8b8fee1bc7c5e9ce?pvs=4)
 dbt Labs has an anonymous hotline for employees to be able to report workplace issues or *suspected illegal or unethical conduct* anonymously. 
 
-📌 **This service is implemented to provide an additional option for anonymous reporting but please remember you can always approach your manager, Meg Colón (Head of People), your People Business Partner, or leadership directly about any issues you are having.**
+📌 **This service is implemented to provide an additional option for anonymous reporting but please remember you can always approach your manager, People Business Partner or a member of leadership team directly about any issues you are having.** 
 
-Additionally, for any questions or feedback that you may not be comfortable raising directly, you can always leverage the Peer Advocate Program.
-
-[Peer Advocate Program](https://www.notion.so/Peer-Advocate-Program-ef66f66a1b2f40a385b2efb578bfb4c1)
+- Learn more about other ways you can get support [here](/handbook/working_and_growing_here.md#getting-support). 
 
 ### Initiating a report
 
