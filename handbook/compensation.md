@@ -5,7 +5,7 @@
 ### [Global Compensation and Benefits](#Global-Compensation-and-Benefits-1)
 ### [Salary Bands Philosophy](#Salary-Bands-Philosophy-1)
 - #### [How Salary Bands are Made](#how-salary-bands-are-made-1)
-- #### [FY24 Salary Bands](#salary-bands-fy24-1)
+- #### [Salary Bands FY24](#salary-bands-fy24-1)
 - #### [International Salary Bands](#international-salary-bands-1)
 ### [Equity](#equity-2)
 - #### [FY24 Equity Bands](#equity-bands-fy24)
