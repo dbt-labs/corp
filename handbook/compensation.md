@@ -292,7 +292,7 @@ The first step in building salary bands is determining all planned and existing 
 
 ## Salary Bands FY24
 
-All employees have access to our salary bands.
+All dbt Labs employees have access to our salary bands.
 
 - [US Salary Bands FY24](https://www.notion.so/dbtlabs/0425a64c1fd64ac0a861586e97143367?v=9db7a2df831b4448bcb133bfedead3e3)
 - [International Salary Bands FY24](https://www.notion.so/dbtlabs/International-Salary-Bands-FY24-771a98d468154bf4af3f08baf90ec45b?pvs=4)
