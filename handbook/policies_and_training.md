@@ -3,6 +3,8 @@
 | Maintained by |
 |---|
 | Meg Colón |
+| Vanessa Yeh |
+| Stephanie Murray |
 | Leigh Staub |
 | Helena G |
 
