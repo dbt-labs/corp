@@ -12,7 +12,7 @@
 
 ## Code of Conduct
 
-Review our Code of Conduct [here](/#dbt-Labs-Code-of-Conduct.md).
+Review our Code of Conduct [here](/dbt%20Labs%20Code%20of%20Conduct.md).
 
 ## Anti-Harassment Training
 
@@ -20,7 +20,7 @@ We are committed to taking all steps possible to prevent employee harassment. An
 
 All employees must be trained once per year, regardless of position within the company, however, the training course you will be assigned will be determined based on your location and whether you are a people manager or not.
 
-TBD POLICY
+Learn more about our policy [here](/dbt%20Labs%20Code%20of%20Conduct.md#anti-harassment-and-discrimination-policy).
 
 ## [Corporate Travel & Expense Policy](https://www.notion.so/dbtlabs/Corporate-Travel-Expense-Policy-9d562e4218c941e4bd6b2710aec82c0d?pvs=4)
 
