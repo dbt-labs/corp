@@ -1,5 +1,11 @@
 # Benefits and Perks
 
+| Content Maintainers |
+|---|
+| Clyde Stackhouse |
+| Meg Colón |
+| Leigh Staub |
+
 ### [Global Benefits Strategy & Stipend](#Global-Benefits-Strategy--Stipend-1)
 ### [Healthcare Benefits](#Healthcare-Benefits-1)
 - #### [Medical Plans](#medical-plans-1)
