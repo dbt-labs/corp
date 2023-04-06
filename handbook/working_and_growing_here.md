@@ -18,6 +18,7 @@
 
 We are a remote first, globally distributed, values driven company. Learn more about how we think about our distributed experience [here](/handbook/about_dbt_labs.md#our-distributed-work-experience-1).
 
+
 ## Annual Review Cadence
 
 🌏 *Note that all dates below are formatted by US dates, so it will be MM/DD*
@@ -461,6 +462,13 @@ Team members are expected to communicate with their manager and team to ensure t
 
 ‼️ **If there is a lapse in providing services to the Company, this will qualify as a termination and all unvested options will be canceled.  If a team member is rehired and resumes providing services to the Company, any grant associated with employment will need to go through the new hire process for equity.  This means that a team member would receive a new strike price, vesting period, etc.**
 
+## Diversity, Equity, and Inclusion
+dbt Labs is committed to diversity, equity, and inclusion. DEI impacts high-level company decisions, and is woven into the culture of everyday work.
+
+We have three DEI committees dedicated to Team Diversity, Culture, and Company Stance and Action. Together, these committees make sure we build a diverse team, equitable company structures, and an environment that gives everyone the support and opportunities they need to thrive.
+
+Learn more about DEI at dbt Labs [here](https://www.getdbt.com/dbt-labs/dei/).
+
 ## Moonlighting Guidance
 What you do in your own time is your business, including additional employment. We understand that many employees are involved in their communities in a variety of ways, paid and unpaid. However, dbt Labs employees are expected to comply with certain guidelines for work and other activities spent outside of your dbt Labs working hours (”[moonlighting](https://dictionary.cambridge.org/us/dictionary/english/moonlighting)”), to ensure such activities do not interfere with, conflict with or put the company at risk.  We encourage transparency, and provide these guidelines for you to consider and discuss with your manager. Acceptable moonlighting:
 
@@ -642,3 +650,4 @@ You can reach out to a [Peer Advocate](https://www.notion.so/Peer-Advocate-Progr
 💡 This is your best option to workplace issues or *suspected illegal or unethical conduct* anonymously.
 
 Learn more about how to use the Anonymous Hotline [here](/handbook/benefits.md#anonymous-hotline-1).
+
