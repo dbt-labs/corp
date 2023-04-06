@@ -6,26 +6,26 @@
 | Meg Colón |
 | Leigh Staub |
 
-### [Global Benefits Strategy & Stipend](#Global-Benefits-Strategy--Stipend-1)
-### [Healthcare Benefits](#Healthcare-Benefits-1)
-- #### [Medical Plans](#medical-plans-1)
-- #### [Disability and Life Insurance](#disability-and-life-insurance-1)
-- #### [Health Related Travel Benefit (US)](#health-related-travel-benefit-us-1)
-- #### [International Travel Emergency Health Benefits (US)](#international-travel-emergency-health-benefits-us-1)
-### [Retirement](#retirement-1)
-### [Time Off Policy](#Time-Off-Policy-1)
-- #### [2023 Company Holidays](#2023-company-holidays-1)
-- #### [Leave of Absence Programs](#Leave-of-Absence-Programs-1)
-### [Stipends](#Stipends-1)
-- #### [Office Stipend](#office-stipend-1)
-- #### [Phone & Internet Stipend](#phone--internet-stipend-1)
-- #### [Health & Wellness Stipend](#health--wellness-stipend-1)
-- #### [Professional Development Stipend](professional-development-stipend-1)
-### [Workplace Rental](#Workplace-Rental-1)
-### [Employee Discounts](#Employee-Discounts-1)
-### [Wellness Program](#Wellness-Program-1)
-### [Employee Assistance Programs & Resources](#employee-assistance-programs--resources-1)
-### [Anonymous Hotline](#anonymous-hotline-1)
+[Global Benefits Strategy & Stipend](#Global-Benefits-Strategy--Stipend)
+[Healthcare Benefits](#Healthcare-Benefits)
+- [Medical Plans](#medical-plans)
+- [Disability and Life Insurance](#disability-and-life-insurance)
+- [Health Related Travel Benefit (US)](#health-related-travel-benefit-us)
+- [International Travel Emergency Health Benefits (US)](#international-travel-emergency-health-benefits-us)
+[Retirement](#retirement)
+[Time Off Policy](#Time-Off-Policy-)
+- [2023 Company Holidays](#2023-company-holidays)
+- [Leave of Absence Programs](#Leave-of-Absence-Programs)
+[Stipends](#Stipends)
+- [Office Stipend](#office-stipend)
+- [Phone & Internet Stipend](#phone--internet-stipend)
+- [Health & Wellness Stipend](#health--wellness-stipend)
+- [Professional Development Stipend](professional-development-stipend)
+[Workplace Rental](#Workplace-Rental)
+[Employee Discounts](#Employee-Discounts)
+[Wellness Program](#Wellness-Program)
+[Employee Assistance Programs & Resources](#employee-assistance-programs--resources)
+[Anonymous Hotline](#anonymous-hotline)
 
 
 ## [Global Benefits Strategy & Stipend](https://www.notion.so/dbtlabs/Global-Benefits-Strategy-Stipend-03b4ebfbb278451f894a4cca46c90607?pvs=4)
@@ -166,12 +166,12 @@ When in doubt, please discuss with your manager about your plans
 - **Other country specific categories**: As dbt Labs has presence in multiple countries, we can’t categorize every mandatory time off type. If your time off is not due to one of the above, please use the “Other” reason code in ADP and put in the comments what it is.
 - **Leaves of Absences:** If you need to be absent for an extended period of time due to any reason, it may be better to consider taking a leave of absence. Examples of different paid leave of absence types and policy documents can be found below (paid leave below indicates 100% base and commission payments during these durations):
     
-    [Leave of Absence Programs](#leave-of-absence-programs-1) 
+    [Leave of Absence Programs](#leave-of-absence-programs) 
     
     - ***Paid Parental Leave** - to be taken within the first year of parenthood; any dbt Labs employees who needs to care for a newborn as a result of birth or adoption is able to take up to 12 weeks of paid leave*
     - ***Paid Medical Leave** - any dbt Labs employee who needs to take dedicated time off to recover from their own medical event (i.e. physical or mental illness, surgery, etc) is able to take up to 4 weeks of paid leave*
     - ***Paid Caregiver Leave -** any dbt Labs employee who needs to take dedicated time off to care for a seriously ill person is able to take up to 4 weeks of paid leave*
-- **Company Holidays**: dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. See [2023 Company Holidays ](#2023-Company-Holidays-1) for days observed. You are asked to observe your local holidays (for the country you reside in).
+- **Company Holidays**: dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. See [2023 Company Holidays ](#2023-Company-Holidays) for days observed. You are asked to observe your local holidays (for the country you reside in).
 
 Note that because in the United States, your time off is not accrued, you will not be paid out for any unused time offered under this policy when your employment with dbt Labs ends.
 
@@ -784,7 +784,7 @@ Sometimes people just need to disconnect from work and they should take advantag
 
 If you are in a situation where you may need extended time off, you may want to consider taking a formal leave of absence. 
 
-Reasons for LOAs vary and amounts of time can also vary (i.e. 1 month to 3 months, etc). Discuss this option in detail with your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4). You can read more about our leave offerings at [Leave of Absence Programs](#leave-of-absence-programs-1).
+Reasons for LOAs vary and amounts of time can also vary (i.e. 1 month to 3 months, etc). Discuss this option in detail with your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4). You can read more about our leave offerings at [Leave of Absence Programs](#leave-of-absence-programs).
 
 ## [Anonymous Hotline](https://www.notion.so/dbtlabs/Anonymous-Hotline-309767332cbc4fdf8b8fee1bc7c5e9ce?pvs=4)
 dbt Labs has an anonymous hotline for employees to be able to report workplace issues or *suspected illegal or unethical conduct* anonymously. 
