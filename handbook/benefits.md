@@ -7,24 +7,33 @@
 | Leigh Staub |
 
 [Global Benefits Strategy & Stipend](#global-benefits-strategy--stipend)
-[Healthcare Benefits](#Healthcare-Benefits)
+
+[Healthcare Benefits](#healthcare-benefits-us)
 - [Medical Plans](#medical-plans)
 - [Disability and Life Insurance](#disability-and-life-insurance)
 - [Health Related Travel Benefit (US)](#health-related-travel-benefit-us)
 - [International Travel Emergency Health Benefits (US)](#international-travel-emergency-health-benefits-us)
+
 [Retirement](#retirement)
-[Time Off Policy](#Time-Off-Policy)
+
+[Time Off Policy](#time-off-policy)
 - [2023 Company Holidays](#2023-company-holidays)
-- [Leave of Absence Programs](#Leave-of-Absence-Programs)
-[Stipends](#Stipends)
+- [Leave of Absence Programs](#leave-of-absence-programs)
+
+[Stipends](#stipends)
 - [Office Stipend](#office-stipend)
 - [Phone & Internet Stipend](#phone--internet-stipend)
 - [Health & Wellness Stipend](#health--wellness-stipend)
 - [Professional Development Stipend](professional-development-stipend)
-[Workplace Rental](#Workplace-Rental)
-[Employee Discounts](#Employee-Discounts)
-[Wellness Program](#Wellness-Program)
+
+[Workplace Rental](#workplace-rental)
+
+[Employee Discounts](#employee-discounts)
+
+[Wellness Program](#wellness-program)
+
 [Employee Assistance Programs & Resources](#employee-assistance-programs--resources)
+
 [Anonymous Hotline](#anonymous-hotline)
 
 
