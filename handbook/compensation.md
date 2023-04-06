@@ -6,16 +6,21 @@
 | Meg Colón |
 | Leigh Staub |
 
-### [Compensation Principles](#Compensation-Principles-1)
-### [Pay Day](#pay-day-1)
-### [Global Compensation and Benefits](#Global-Compensation-and-Benefits-1)
-### [Salary Bands Philosophy](#Salary-Bands-Philosophy-1)
-- #### [How Salary Bands are Made](#how-salary-bands-are-made-1)
-- #### [Salary Bands FY24](#salary-bands-fy24-1)
-- #### [International Salary Bands](#international-salary-bands-1)
-### [Equity](#equity-2)
-- #### [FY24 Equity Bands](#equity-bands-fy24)
-### [Pay & Equity Ranges in Job Offers](#pay--equity-ranges-in-job-offers-1)
+[Compensation Principles](#compensation-principles)
+
+[Pay Day](#pay-day)
+
+[Global Compensation and Benefits](#global-compensation-and-benefits)
+
+[Salary Bands Philosophy](#salary-bands-philosophy)
+- [How Salary Bands are Made](#how-salary-bands-are-made)
+- [Salary Bands FY24](#salary-bands-fy24)
+- [International Salary Bands](#international-salary-bands)
+
+[Equity](#equity-1)
+- [FY24 Equity Bands](#equity-bands-fy24)
+
+[Pay & Equity Ranges in Job Offers](#pay--equity-ranges-in-job-offers)
 
 ## [Compensation Principles](https://www.notion.so/dbtlabs/dbt-Labs-Compensation-Principles-0d570903e75e45fc8f9f3fca13a77d00?pvs=4)
 Learn more about how we think about compensation at dbt Labs. Below are our compensation principles which we reference when making all compensation decisions.
@@ -73,7 +78,7 @@ Our compensation philosophy has been arrived at over the course of many years, c
 8. We base compensation on current market data for a role / level / country. The point in the range a candidate is offered is dependent on the candidate’s experience in the market and internal pay equity. A candidate’s previous pay is not a factor in setting their compensation at dbt Labs.
     1. In competitive offer scenarios, we may leverage sign-on bonuses. This lever is reserved for special cases and used sparingly.
     
-9. We won’t reduce compensation in roles within the same market (country). A permanent or semi-permanent move to a new country will result in moving to that new local rate. More details on relocation can be found [here](#global-compensation-and-benefits-1).
+9. We won’t reduce compensation in roles within the same market (country). A permanent or semi-permanent move to a new country will result in moving to that new local rate. More details on relocation can be found [here](#global-compensation-and-benefits).
     
 10. Changes in compensation may happen during the following events:
     1. For promotions, increases are based on the new role’s market range.
@@ -99,7 +104,7 @@ Employees are paid semimonthly by direct deposit on the 15th (for work performed
 
 ## Global Compensation and Benefits
 
-Our [compensation principles](compensation.md#compensation-principles-1) are applied to each country we employ in. This is because the labor markets, benefits, pension/superannuation schemes and payroll taxes can vary greatly country to country. This approach ensures that we are offering equitable (not equal) compensation in each market.
+Our [compensation principles](compensation.md#compensation-principles) are applied to each country we employ in. This is because the labor markets, benefits, pension/superannuation schemes and payroll taxes can vary greatly country to country. This approach ensures that we are offering equitable (not equal) compensation in each market.
 
 We pay **local country rates** based on [cost of market (also referred to as cost of labor)](https://www.erieri.com/blog/post/cost-of-labor-vs-cost-of-living). This means we will align our compensation with the top (75th - 90th percentile) in each country (looking at ”All UK” “All Germany”, “All Australia”, etc.)
 
@@ -152,7 +157,7 @@ There are different tax consequences for ISO and NSO options.  Additionally, tax
 
 ### Compensation Philosophy / Band Structures
 
-As mentioned in our [Compensation Principles](#compensation-principles-1), we use 75th Percentile as the basis for the midpoint as well as using a consistent range spread based on job level. We continue to use industry specific data as well as targeting all country data sets. This allows us to build consistency in bands and makes the bands slightly wider. With this methodology, most of our bands' minimums may stretch down to the 50th percentile and the maximum’s push slightly past the 90th percentile. This allows further flexibility and utilization of an entire range for a role.
+As mentioned in our [Compensation Principles](#compensation-principles), we use 75th Percentile as the basis for the midpoint as well as using a consistent range spread based on job level. We continue to use industry specific data as well as targeting all country data sets. This allows us to build consistency in bands and makes the bands slightly wider. With this methodology, most of our bands' minimums may stretch down to the 50th percentile and the maximum’s push slightly past the 90th percentile. This allows further flexibility and utilization of an entire range for a role.
 
 - Consistent Band Spreads
     
@@ -205,7 +210,7 @@ Salary bands in their simplest form is the compensation range for a given role w
 
 As we grow and mature, so has our compensation and total rewards strategy. For example, we've increased our data sets to improve our ability to accurately benchmark specific roles instead of functional buckets.
 
-Learn more about how our salary bands are made [here](#how-salary-bands-are-made-1).
+Learn more about how our salary bands are made [here](#how-salary-bands-are-made).
 
 ### What ranges are built?
 
@@ -329,11 +334,11 @@ Due to the complex and robust nature of US & International compensation and bene
 2. locally competitive using local benchmark data 
 3. locally relevant
 
-You can find more information in [Global Benefits Strategy & Stipend](/handbook/benefits.md#global-benefits-strategy--stipend-1). 
+You can find more information in [Global Benefits Strategy & Stipend](/handbook/benefits.md#global-benefits-strategy--stipend). 
 
 #### Is hiring in lower cost of labor locations fair / equitable?
 
-Hiring globally is a business and people decision that has many factors attached to it, from total cost, talent density, business need (sales presence, locale expertise etc). While we grow and expand into various countries we hold true to our [values](/values.md) and our [Compensation Principles](#compensation-principles-1) to ensure we are rewarding people in a locally competitive, relevant and equitable way.
+Hiring globally is a business and people decision that has many factors attached to it, from total cost, talent density, business need (sales presence, locale expertise etc). While we grow and expand into various countries we hold true to our [values](/values.md) and our [Compensation Principles](#compensation-principles) to ensure we are rewarding people in a locally competitive, relevant and equitable way.
 
 ## [Equity](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171)
 
@@ -347,7 +352,7 @@ We want all employees to act with the financial interests of the company in mind
 
 We *do not*, however, see equity as a way to "bridge the gap" to below-market cash compensation. This is fairly standard practice at early-stage businesses (seed and prior)—because companies at this stage are extremely cash-poor, they offer employees minimal cash-based compensation and instead offer very large option grants to "make up the difference" with equity. dbt Labs is at a stage where we pay market rates in the cash component of our compensation packages, and so we encourage employees to think of equity upside as an amazing potential outcome but not a primary reason to take a job here.
 
-💡 All startups are risky, and the value of any particular option grant (at dbt Labs or elsewhere!) could go to zero. Our [compensation principles](#compensation-principles-1) ensure that employees are well-compensated (via the cash and other components of their package) even in such a scenario.
+💡 All startups are risky, and the value of any particular option grant (at dbt Labs or elsewhere!) could go to zero. Our [compensation principles](#compensation-principles) ensure that employees are well-compensated (via the cash and other components of their package) even in such a scenario.
 
 ### When do we Issue Stock Option Grants?
 
