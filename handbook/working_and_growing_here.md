@@ -172,7 +172,7 @@ We ask that employees be in their role for **at least** 12 months before applyin
 
 **Why the minimum of 12 months?** We ask for at least 12 months for a cross-department transfer because it can take about 3 months to onboard onto a new role and another 3 months to become completely ramped into that role (totaling up to 6 months). We would want someone to be working as a ramped member of the team for at **least** 6, ideally 12 months, before moving on. Additionally it could take us longer to backfill your role meaning there are more limitations for the team during the transition period and beyond if you’re switching to a new department. 
 
-**Exceptions:** Changes or movement between teams could happen at any time due to business needs. If your tenure with dbt Labs is less than the 9 or 12 months and you are interested in moving internally, bring this up to your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) - the People Team and your current leadership team will need to approve the business exception.
+**Exceptions:** Changes or movement between teams could happen at any time due to business needs. If your tenure with dbt Labs is less than the 9 or 12 months and you are interested in moving internally, bring this up to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) - the People Team and your current leadership team will need to approve the business exception.
 
 **Again, please ensure you’re actively talking to your manager about your career goals and development wants/needs.** 
 
@@ -181,7 +181,7 @@ We ask that employees be in their role for **at least** 12 months before applyin
 #### Step 1: Explore your interests
 
 1. Look at the [internal career site](https://app5.greenhouse.io/internal_job_board/) to see which roles you might be interested in.
-2. Reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) to confirm eligibility for internal mobility.
+2. Reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) to confirm eligibility for internal mobility.
 3. Reach out to the [recruiter](https://www.notion.so/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8) and hiring manager to have an introductory call:
     1. Explain why you are interested in learning more about this role. In your conversation, understand the role expectations and hiring profile.
     2. If you would like to learn more about the role, we recommend shadowing someone who is on the existing team or in the current role to learn more about the day to day.
@@ -372,7 +372,7 @@ In the past, dbt Labs would hire in any country except those we had already dete
 | United States  	| dbt Labs, Inc.             	| ADP              	| ADP  	| USD      	| Yes                   	|
 | Germany        	| dbt Labs GmbH              	| Overseas Connect 	| ADP  	| EUR      	|                       	|
  
-📌 For countries where dbt Labs is able to sponsor a work permit, the People team also needs to do an assessment of your job to see if it falls into a “speciality work visa” category. We would need to determine that you and your role meet all of the sponsorship criteria. **Please reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) if you require sponsorship.**
+📌 For countries where dbt Labs is able to sponsor a work permit, the People team also needs to do an assessment of your job to see if it falls into a “speciality work visa” category. We would need to determine that you and your role meet all of the sponsorship criteria. **Please reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) if you require sponsorship.**
 
 ### Non-resident payroll relationships
 
@@ -418,7 +418,7 @@ Learn more about our [Compensation Principles](/handbook/compensation.md#compens
 
 ### Relocation (Permanent or Semi-permanent)
 
-📌 All international relocation requests must be approved by the People team, Finance team and the team members management. To initiate a request, please contact your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4).
+📌 All international relocation requests must be approved by the People team, Finance team and the team members management. To initiate a request, please contact your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
 
 📌 Relocation requests within country may need approval by the team members management due to time zone or regional requirements. Please communicate with your manager if you plan a move to a different region in your country.
 
@@ -431,7 +431,7 @@ Compensation bands for each country we have an entity in will be listed in our c
 ⏳ Please initiate a move at least 3 months before your target move date. This allows us to process necessary approvals and make sure we’re able to execute the transfer.
 
 
-1. If the team member is moving to a new country, the move must have prior approval by their [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4), the dbt Labs finance team, their manager and their team’s leadership.
+1. If the team member is moving to a new country, the move must have prior approval by their [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4), the dbt Labs finance team, their manager and their team’s leadership.
     1. Please allow for one month for approvals.
 2. All moves should be to a country where we have a dbt Labs entity. 
     1. Any international moves outside of countries we have a presence in, must be approved by the CFO and be to a location where there is a business case. We ask for a 6 month lead time to determine if this move is possible
@@ -447,7 +447,7 @@ Compensation bands for each country we have an entity in will be listed in our c
 
 Any work being done in a country where we do not have a current presence must be approved by security to ensure access to our systems remains secure. Please submit a ticket with IT prior to confirming your working arrangements in that country. 
 
-If a team member is considering spending more than **one month** in a location outside of your home country, please consult with your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) to ensure we are mitigating risks to the team member and the business. 
+If a team member is considering spending more than **one month** in a location outside of your home country, please consult with your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) to ensure we are mitigating risks to the team member and the business. 
 
 Team members are expected to communicate with their manager and team to ensure they maintain agreed upon working hours.
 
@@ -555,7 +555,7 @@ If you are assigned to a project or long-term relationship with a client that vi
 
 “This is not their direct report ‘not being a team player’—rather, it is their direct report optimizing for the long-term. Managers who fail to accommodate such requests risk having high-turnover teams, which will limit their own ability to be successful.”
 
-If you need additional support working with your manager to figure out an accommodation, you can reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4).
+If you need additional support working with your manager to figure out an accommodation, you can reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
 
 🛠 **We can help find other solutions when conscientious objection doesn’t solve the problem**
 
@@ -613,7 +613,7 @@ How to ask a People Ops Question? (submit a ticket):
 
 💡 This is the best option when you’re seeking confidentiality and don’t feel comfortable going to your manager.
 
-[People Business Partners](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) are a resource for when you may want to confidentially, or anonymously, report an issue in the workplace. They can help answer and support you with any questions, concerns, or feedback about your time at dbt Labs.
+[People Business Partners](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) are a resource for when you may want to confidentially, or anonymously, report an issue in the workplace. They can help answer and support you with any questions, concerns, or feedback about your time at dbt Labs.
 
 We always encourage talking with your manager first, however we welcome your questions whenever that doesn’t feel like the best option for you. 
 
