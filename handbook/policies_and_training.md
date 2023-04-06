@@ -6,15 +6,23 @@
 | Leigh Staub |
 | Helena G |
 
-### [Code of Conduct](#code-of-conduct-1)
-### [Anti-Harassment Training](#anti-harassment-training-1)
-### [Corporate Travel & Expense Policy](#corporate-travel--expense-policy-1)
-### [Computer Refresh Policy](#computer-refresh-policy-1)
-### [Involuntary Terminations](#involuntary-terminations-1)
-### [US Employement Posters](#us-employement-posters-1)
-### [Privacy Notices](#privacy-notices-1)
-### [Background Checks](#background-checks-1)
-### [Addendums](#addendums-1)
+[Code of Conduct](#code-of-conduct)
+
+[Anti-Harassment Training](#anti-harassment-training)
+
+[Corporate Travel & Expense Policy](#corporate-travel--expense-policy)
+
+[Computer Refresh Policy](#computer-refresh-policy)
+
+[Involuntary Terminations](#involuntary-terminations)
+
+[US Employement Posters](#us-employement-posters)
+
+[Privacy Notices](#privacy-notices)
+
+[Background Checks](#background-checks)
+
+[Addendums](#addendums)
 
 ## Code of Conduct
 
