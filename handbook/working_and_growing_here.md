@@ -1,5 +1,15 @@
 # Working and Growing at dbt Labs
 
+| Content Maintainers |
+|---|
+| Vanessa Yeh |
+| Morgan Russell |
+| Helena G |
+| Sarah Riley |
+| Meg Colón |
+| Kimi Mashhoon |
+| Leigh Staub |
+
 [Distributed Work Experience](#distributed-work-experience)
 
 [Annual Review Cadence](#annual-review-cadence)
