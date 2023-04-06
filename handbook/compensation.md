@@ -1,5 +1,11 @@
 # Compensation 
 
+| Content Maintainers |
+|---|
+| Clyde Stackhouse |
+| Meg Colón |
+| Leigh Staub |
+
 ### [Compensation Principles](#Compensation-Principles-1)
 ### [Pay Day](#pay-day-1)
 ### [Global Compensation and Benefits](#Global-Compensation-and-Benefits-1)
