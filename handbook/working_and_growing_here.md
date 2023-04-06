@@ -1,22 +1,32 @@
 # Working and Growing at dbt Labs
 
-### [Distributed Work Experience](#distributed-work-experience-1)
-### [Annual Review Cadence](#annual-review-cadence-1)
-- #### [Performance Reviews](#performance-reviews-1) 
-- #### [Compensation Reviews and Promotion Cycles](#compensation-reviews-and-promotion-cycles-1)
-### [Internal Mobility](#internal-mobility-1)
-### [Embedded Roles](#embedded-roles-1)
-### [Global Employment](#global-employment-1)
-### [Office Strategy](#office-strategy-1)
-### [Moonlighting Guidance](#moonlighting-guidance-1)
-### [Conscientious Objection](#conscientious-objection-1)
-### [Diversity, Equity and Inclusion](#diversity-equity-and-inclusion-1)
-### [Making a Referral](#making-a-referral-1)
-### [Getting Support](#getting-support-1)
+[Distributed Work Experience](#distributed-work-experience)
+
+[Annual Review Cadence](#annual-review-cadence)
+- [Performance Reviews](#performance-reviews) 
+- [Compensation Reviews and Promotion Cycles](#compensation-reviews-and-promotion-cycles)
+
+[Internal Mobility](#internal-mobility)
+
+[Embedded Roles](#embedded-roles)
+
+[Global Employment](#global-employment)
+
+[Office Strategy](#office-strategy)
+
+[Moonlighting Guidance](#moonlighting-guidance)
+
+[Conscientious Objection](#conscientious-objection)
+
+[Diversity, Equity and Inclusion](#diversity-equity-and-inclusion)
+
+[Making a Referral](#making-a-referral)
+
+[Getting Support](#getting-support)
 
 ## Distributed Work Experience
 
-We are a remote first, globally distributed, values driven company. Learn more about how we think about our distributed experience [here](/handbook/about_dbt_labs.md#our-distributed-work-experience-1).
+We are a remote first, globally distributed, values driven company. Learn more about how we think about our distributed experience [here](/handbook/about_dbt_labs.md#our-distributed-work-experience).
 
 
 ## Annual Review Cadence
@@ -415,7 +425,7 @@ In the past, dbt Labs would hire in any country except those we had already dete
 
 ### Global Compensation and Benefits
 
-Learn more about our [Compensation Principles](/handbook/compensation.md#compensation-principles-1) and [Global Compensation and Benefits](/handbook/compensation.md#global-compensation-and-benefits-1).
+Learn more about our [Compensation Principles](/handbook/compensation.md#compensation-principles) and [Global Compensation and Benefits](/handbook/compensation.md#global-compensation-and-benefits).
 
 ### Relocation (Permanent or Semi-permanent)
 
@@ -649,5 +659,5 @@ You can reach out to a [Peer Advocate](https://www.notion.so/Peer-Advocate-Progr
 
 💡 This is your best option to workplace issues or *suspected illegal or unethical conduct* anonymously.
 
-Learn more about how to use the Anonymous Hotline [here](/handbook/benefits.md#anonymous-hotline-1).
+Learn more about how to use the Anonymous Hotline [here](/handbook/benefits.md#anonymous-hotline).
 
