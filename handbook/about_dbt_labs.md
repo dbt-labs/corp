@@ -2,7 +2,7 @@
 
 | Maintained by |
 |---|
-| Meg Colon |
+| Meg Colón |
 | Leigh Staub |
 
 ## Welcome to dbt Labs
