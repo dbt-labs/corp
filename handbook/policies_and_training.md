@@ -1,5 +1,11 @@
 # Policies and Training
 
+| Content Maintainers |
+|---|
+| Meg Colon |
+| Leigh Staub |
+| Helena G |
+
 ### [Code of Conduct](#code-of-conduct-1)
 ### [Anti-Harassment Training](#anti-harassment-training-1)
 ### [Corporate Travel & Expense Policy](#corporate-travel--expense-policy-1)
