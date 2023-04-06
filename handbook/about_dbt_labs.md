@@ -1,5 +1,10 @@
 # The dbt Labs Employee Handbook
 
+| Maintained by |
+|---|
+| Meg Colon |
+| Leigh Staub |
+
 ## Welcome to dbt Labs
 Hello and welcome to dbt Labs. We’re thrilled to have you as a member of the team!
 
