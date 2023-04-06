@@ -81,7 +81,9 @@ New hires may enroll themselves and dependents in health benefits online through
 To enroll in benefits as a new hire, existing employee during open enrollment or at a time of a qualifying life event, follow our [guide](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4). Note: Employees who currently have a High Deductible Health Plan coverage selection are able to adjust their HSA contributions throughout the year. This is the only benefit adjustment that does not require a Qualifying Life or Work Event.
 
 ### Disability and Life Insurance
-We provide long term and short term disability as well as life insurance coverage to all US-based employees at no cost. Voluntary, additional, life insurance coverage for employees and dependants is available at the expense of the employee.
+We provide long term and short term disability as well as life insurance coverage to all US-based employees at no cost. Voluntary, additional, life insurance coverage for employees and dependants is available at the expense of the employee. Learn more:
+- [Life Insurance](https://app.strivebenefits.com/dbt/unum-life-and-add?country=us)
+- [Disability](https://app.strivebenefits.com/dbt/unum-disability?country=us)
 
 ### US Employees enrolled in our health insurance are eligible for the following benefits as well:
 
