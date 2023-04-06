@@ -3,6 +3,7 @@
 | Content Maintainers |
 |---|
 | Clyde Stackhouse |
+| Jessica Nguyen |
 | Meg Colón |
 | Leigh Staub |
 
