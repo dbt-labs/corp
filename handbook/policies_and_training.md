@@ -1,8 +1,8 @@
 # Policies and Training
 
-| Content Maintainers |
+| Maintained by |
 |---|
-| Meg Colon |
+| Meg Colón |
 | Leigh Staub |
 | Helena G |
 
