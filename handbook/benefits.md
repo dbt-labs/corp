@@ -6,14 +6,14 @@
 | Meg Colón |
 | Leigh Staub |
 
-[Global Benefits Strategy & Stipend](#Global-Benefits-Strategy--Stipend)
+[Global Benefits Strategy & Stipend](#global-benefits-strategy--stipend)
 [Healthcare Benefits](#Healthcare-Benefits)
 - [Medical Plans](#medical-plans)
 - [Disability and Life Insurance](#disability-and-life-insurance)
 - [Health Related Travel Benefit (US)](#health-related-travel-benefit-us)
 - [International Travel Emergency Health Benefits (US)](#international-travel-emergency-health-benefits-us)
 [Retirement](#retirement)
-[Time Off Policy](#Time-Off-Policy-)
+[Time Off Policy](#Time-Off-Policy)
 - [2023 Company Holidays](#2023-company-holidays)
 - [Leave of Absence Programs](#Leave-of-Absence-Programs)
 [Stipends](#Stipends)
