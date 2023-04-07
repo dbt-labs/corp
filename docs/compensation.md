@@ -1,3 +1,9 @@
+---
+id: compensation
+title: Compensation
+sidebar_label: Compensation
+---
+
 # Compensation 
 
 | Content Maintainers |
