@@ -50,7 +50,7 @@ As dbt Labs continues to grow and expand around the world, we believe it’s imp
     - If local teams aren’t large enough to begin group plans, we’ll provide monthly stipends to cover core benefits (Medical, Vision & Dental - where applicable)
 - Values aligned: We are Human → Although we may not be able to implement every benefit or offering we understand that we bring our whole selves to work and we want to hear and respond to feedback
 
-### How is this impacting today?
+### How does this apply today?
 
 Today our international team falls into one of two buckets. 
 
