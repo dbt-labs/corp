@@ -159,7 +159,7 @@ There are different tax consequences for ISO and NSO options.  Additionally, tax
 
 As mentioned in our [Compensation Principles](#compensation-principles), we use 75th Percentile as the basis for the midpoint as well as using a consistent range spread based on job level. We continue to use industry specific data as well as targeting all country data sets. This allows us to build consistency in bands and makes the bands slightly wider. With this methodology, most of our bands' minimums may stretch down to the 50th percentile and the maximum’s push slightly past the 90th percentile. This allows further flexibility and utilization of an entire range for a role.
 
-- Consistent Band Spreads
+#### Consistent Band Spreads
     
     **These indicate the % from the midpoint used to get the high and low points of each band. The spread increases as the roles become more senior because more senior roles may be career-roles, where folks will remain and therefore require more room for growth in the band.* 
     
@@ -192,7 +192,7 @@ Another common practice in salary band development is to assess and utilize data
 | Data Set 	| Weight 	| Data Cut                                       	| Data Type                                                                                              	| Description of Data set                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    	|
 |----------	|--------	|------------------------------------------------	|--------------------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | Radford  	| 40%    	| All US - Private Companies - Software          	| Total Cash -  75th Percentile                                                                          	| Radford (AON) data is considered a gold standard in the compensation space and is a trusted data source. Our radford data is cut for All US companies, Technology (Software), and Private companies. This allows us to more specifically target similar companies (peer's) in our benchmarking without getting too refined which can reduce available data. *We did review and audit a more refined filter approach (Head counts, Revenue, Capital Raised) and in general didn't find a sufficient delta in salaries compared to the reduced data available.                                                                                                                                             	|
-| Mercer   	| 30%    	| All US - Software SAAS                         	| Total Cash Actual -  75th Percentile                                                                   	| Mercer \| Comptryx, is a premier online solution for Private and Public technology-focused companies. This additional data source is a quality robust data source that is specifically for Tech companies. This will broaden our compensation data that has more robust job leveling and job matches that can scale with dbt as we continue to grow. Mercer data is cut for All US companies, SAAS companies and if there is insufficient SAAS data we have included all companies to help round out our Salary ranges with this data set.                                                                                                                                                                   	|
+| Mercer   	| 30%    	| All US - Software SAAS                         	| Total Cash Actual -  75th Percentile                                                                   	| Mercer \| Comptryx, is a premier online solution for Private and Public technology-focused companies. This additional data source is a quality robust data source that is specifically for Tech companies. This will broaden our compensation data that has more robust job leveling and job matches that can scale with dbt as we continue to grow. Mercer data is cut for All US companies, SAAS companies and if there is insufficient SAAS data we have included all companies to help round out our salary ranges with this data set.                                                                                                                                                                   	|
 | Pave     	| 10%    	| All US - Valuation → 1B+                       	| Total Cash Compensation - 75th Percentile                                                              	| "Pave's data is sourced directly from employers HRIS systems and matched based on their internal job title system structure. The Data is cut by All Us Companies with a Valuation over 1 Billion. Valuation is the recommended data cut for Pave and provides the best comparable data to benchmark against. As with all of our data cuts we are using total cash comp (Base + Variable + Bonuses) and does not include any Stock or Options valuations.   We decided to include Pave for the exposure to high paying tech start ups which is reflected in the data. Pave is weighted at 10% due to its lack of data quality, incumbent counts as well as a less robust data source / matching scheme. 	|
 | OI       	| 10%    	| All US - Tech → Raised $250M - $500M           	| Total Target Pay - 75th Percentile                                                                     	| Options Impacts data is reported via survey submission and matching from companies. Options impact has been the data that we anchored our bands to historically and continues to give exposure to similar tech companies but as we've grown and matured it is limited in the levels, descriptions and quantity of data for other companies that we would consider peers. This data cut is Tech (enterprise) companies that have raised over $250 Million in capital and all US. Additionally this creates a layer of continuity in salary survey use but is weighted to 10% due to its limited leveling and matching data points.                                                                       	|
 | Carta    	| 10%    	| All Data → San Francisco-Oakland-Berkeley, CA  	| Salary data - 75th Percentile  *Not used for variable comp roles since OTE isn’t reflected in the data 	| Carta Data is sourced directly from employers HRIS systems and matched based on their internal job title system structure. Their data does not cut to "all US" as is our practice for data cuts so have aligned this market point with CA, Bay Area salaries. We are including this source as this data will be sourced from start ups which will continue to give direct exposure to similar start up companies. We discounted this data and gave it a 10% weighting due to the lack of All US approach / other data sifting that we would want. Lastly, Carta's data isn't overtly robust in terms of incumbents as well as depth of different matches.                                                 	|
@@ -214,7 +214,7 @@ Learn more about how our salary bands are made [here](#how-salary-bands-are-made
 
 ### What ranges are built?
 
-These salary range databases are meant to include all roles +/- one level for every role we currently have filled or is on the hiring plan for each given location. This is *not* a comprehensive database of every role we will ever hire and plans may even change mid-year and we may hire roles that are not on here (at which point, they will be added). 
+Our salary range databases are meant to include all roles we currently have or are planning to hire, +/- one level. It is not a comprehensive database of every role we will ever hire; plans may even change mid-year and we may hire roles that are not on here (at which point, they will be added).
 
 ### How often will bands get updated?
 
@@ -256,39 +256,12 @@ The first step in building salary bands is determining all planned and existing 
 2. Review and select the most appropriate market match for each Role across each data set.
     1. OI, Carta & Pave - Match based on Job titles lists & mini descriptions. Due to smaller data sets, data is matched more into functional buckets & titles
     2. Mercer & Radford - Matched based on robust descriptions that have a much wider breadth of options and distinctions.
-3. Once jobs have been matched to the “best^9]” match with the data, we used our [weighted average approach](#Data-Sources-&-Weighted-Average-Approach) across the 5 data points to arrive at a “Raw” Recommended Midpoint.
-    - Example Of Weighted Average
+3. Once jobs have been matched to the “best[^9]” match with the data, we used our [weighted average approach](#Data-Sources-&-Weighted-Average-Approach) across the 5 data points to arrive at a “Raw” Recommended Midpoint.
         
-        
-        | Data | Carta - 10% | Pave - 10% | Options Impact - 10% | Mercer - 30% | Radford - 40% |
-        | --- | --- | --- | --- | --- | --- |
-        | Data (75th) | $130,540.00 | $151,773.00 | $122,000.00 | $112,560.00 | $120,000.00 |
-        | Weighted Amount | $13,054.00 | $15,177.30 | $12,200.00 | $33,768.00 | $48,000.00 |
-        | Target Market Sum of Weighted Amounts | $122,199 |  |  |  |  |
 4. We then developed the bands by Rounding the Raw midpoint to nearest $1,000 for simplicity of consumption and used our standardized salary band spread approach to build out the Min & Max from the midpoint.
     
     
-    - Consistent Band Spreads
-        
-        **These indicate the % from the midpoint used to get the high and low points of each band. The spread increases as the roles become more senior because more senior roles may be career-roles, where folks will remain and therefore require more room for growth in the band.* 
-        
-        Ex. L1 with a midpoint (75th percentile) of $100,000 will have a range of $90,000 - $110,000
-        
-        L5 with a midpoint (75th percentile) of $200,000 will have a range of $170,000 - $230,000.
-        
-| Level 	| Band Spread 	|
-|:-----:	|:-----------:	|
-|   L1  	|     10%     	|
-|   L2  	|     10%     	|
-|   L3  	|    12.5%    	|
-|   L4  	|    12.5%    	|
-|   L5  	|     15%     	|
-|   L6  	|     15%     	|
-|   L7  	|    17.5%    	|
-|   L8  	|    17.5%    	|
-|   L9  	|    17.5%    	|
-
-5. We then arrived at our version 1 of salary bands
+    - [Consistent Band Spreads](#consistent-band-spreads)
 
 #### **The Art**
 
@@ -429,15 +402,13 @@ All employees have access to our equity bands and they can be accessed [here](ht
 
 ### Using Salary Ranges
 
-When determining an offer for a candidate, we consider two primary and two secondary factors in conjunction with the approved salary band.
-
-**Primary Factors**
+When determining an offer for a candidate, we consider two primary factors in conjunction with the approved salary band.
 
 1. The applicant's knowledge, skills and experience compared to what’s needed for the role.
     1. How does this candidates interview feedback compare against the hiring plan (what are the strengths and tradeoffs we are working with)
 2. Internal Equity - How does this applicant compare or slot relative to other team members that are in the same role and where are they placed within the range.
 
-**All of these factors are considered and viewed on a sliding scale when determining the appropriate offer relative to the established pay range.** 
+**These factors are considered and viewed on a sliding scale when determining the appropriate offer relative to the established pay range.** 
 
 ### **Understanding salary ranges and targets**
 
