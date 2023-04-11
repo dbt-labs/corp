@@ -62,7 +62,7 @@ As employee counts grow to local relevant critical mass for group plans and will
 
 ### Local Entity Medical Benefit Stipends
 
-The following stipend amounts have been developed to help cover some of the cost to acquire additional supplemental insurance until we are able to offer local group plans. You can use this stipend to cover core benefits like medical, dental, vision, Life & disability for yourself and dependents if applicable.
+The following stipend amounts have been developed to help cover some of the cost to acquire additional supplemental insurance until we are able to offer local group plans. You can use this stipend to cover core benefits like medical, dental, vision, life & disability for yourself and dependents if applicable.
 
 #### Monthly Stipend Amount
 
