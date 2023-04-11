@@ -25,7 +25,7 @@
 - [Office Stipend](#office-stipend)
 - [Phone & Internet Stipend](#phone--internet-stipend)
 - [Health & Wellness Stipend](#health--wellness-stipend)
-- [Professional Development Stipend](professional-development-stipend)
+- [Professional Development Stipend](#professional-development-stipend)
 
 [Workplace Rental](#workplace-rental)
 
