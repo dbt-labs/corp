@@ -112,46 +112,8 @@ Learn more about our [Global Benefits Strategy & Stipend](/handbook/benefits.md/
 
 #### Relocation (Permanent or Semi-permanent)
 
-📌 All international relocation requests must be approved by the People team, Finance team and the team member's management. To initiate a request, please contact your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
+Learn more about the steps to pursue a relocation and the impact on your global compensation and benefits [here](/handbook/working_and_growing_here.md?pr=%2Fdbt-labs%2Fcorp%2Fpull%2F80#relocation-permanent-or-semi-permanent).
 
-📌 Relocation requests within country may need approval by the team member's management due to time zone or regional requirements. Please communicate with your manager if you plan a move to a different region in your country.
-
-If a team member chooses to relocate within each country (ex. from London → Manchester or Boston → Chicago), their compensation will not change. However, if the relocation is to a different country, they will be re-aligned to the new country’s compensation bands. This applies both when moving to a lower and higher cost market. 
-
-Compensation bands will be listed in our compensation database for each country where we have an entity. As we grow, new data will be added to capture roles located in each country.
-
-**What to consider before moving?**
-
-⏳ Please initiate a move at least 3 months before your target move date. This allows us to process necessary approvals and make sure we’re able to execute the transfer.
-
-1. If the team member is moving to a new country, the move must have prior approval by their [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4), the dbt Labs finance team, their manager and their team’s leadership.
-    1. Please allow for one month for approvals.
-2. All moves should be to a country where we have a dbt Labs entity. 
-    1. Any international moves outside of countries we have a presence in, must be approved by the CFO and be to a location where there is a business case. We ask for a 6 month lead time to determine if this move is possible
-3. Team members must obtain their own work authorization to work in the country they are moving to. For moves initiated by the team member, dbt Labs will not cover expenses for work authorization. 
-4. If a move is initiated by a team member, we will not cover any relocation or living expenses. 
-5. We encourage team members to consult with a tax advisor to understand the implications of the move as it relates to tax and equity. 
-    1. **Please remember that your compensation will be updated to reflect the local market you are moving to.**  
-
-### Short term relocation.
-
-📅 Generally, team members may live or work outside their permanent residence for an aggregate amount of 183 days (6 months) per year. However, the amount does depend on the particular country (or state) and what it considers to be a "resident" for tax purposes, as well as what it considers the tax year.
-
-Any work being done in a country where we do not have a current presence must be approved by security to ensure access to our systems remains secure. Please submit a ticket with IT prior to confirming your working arrangements in that country. 
-
-If a team member is considering spending more than **one month** in a location outside of your home country, please consult with your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) to ensure we are mitigating risks to the team member and the business. 
-
-Team members are expected to communicate with their manager and team to ensure they maintain agreed upon working hours.
-
-### Equity
-
-**ISO Options:**  If a team member chooses to relocate and holds ISO options, the number of options that are unvested will be converted to NSO options.  If the team member has options that vested as ISOs, they will be able to retain the ISO status.  When the team member relocates, the Equity team will cancel the existing ISO grant(s) and reissue NSO grant(s) for the unvested portion of the original grant within Carta.  The grant will retain all of the other original terms (strike price, vesting period, etc.)
-
-**NSO options:**  If a team member chooses to relocate and holds NSO options, nothing will change.
-
-There are different tax consequences for ISO and NSO options.  Additionally, tax rules vary across jurisdictions.  Employees are strongly encouraged to consult with a tax advisor before making any relocation decision.
-
-‼️ **If there is a lapse in providing services to the Company, this will qualify as a termination and all unvested options will be canceled.  If a team member is rehired and resumes providing services to the Company, any grant associated with employment will need to go through the new hire process for equity.  This means that a team member would receive a new strike price, vesting period, etc.**
 
 ## Salary Bands Philosophy
 
