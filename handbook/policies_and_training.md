@@ -57,7 +57,7 @@ Travel arrangements should balance economics, safety, and logistics while still 
 
 - Plan meetings thoughtfully and in advance.
     - To maximize cost savings, flights should be booked 10 days or more and hotels booked 7 days or more from the travel date.
-- **Book with Navan:** All business travel (including flight, hotel, rail and rental car) must be booked through Navan.
+- **Book with Navan:** All business travel (including flight, hotel, rail and rental car) must be booked through Navan which can be accessed through Okta or [here](https://app.tripactions.com/app/).
 
 [Book Travel](https://www.notion.so/Book-Travel-9953198a0c37487db7dfda2c76b6b7e9)
 
@@ -248,7 +248,7 @@ It is our goal to create an environment where receiving critical feedback is nor
         - How do we minimize the impact on the terminated employee?
         - How do we increase the accountability of managers and the organization as a whole?
         
-        Minimizing the impact on terminated employees is the primary motivating force behind our severance policy. We have an [aggressive severance policy](https://www.notion.so/Involuntary-Terminations-2ae0d5393458432d87ce270fa7530765) specifically because we want to minimize the impact of a termination on the terminated employee.
+        Minimizing the impact on terminated employees is the primary motivating force behind our severance policy. We have an [aggressive severance policy](?pr=%2Fdbt-labs%2Fcorp%2Fpull%2F80#3-a-generous-severance-policy-is-in-the-best-interests-of-the-company-the-team-and-the-terminated-employee) specifically because we want to minimize the impact of a termination on the terminated employee.
         
         Increasing accountability of managers is something we know how to do as well. We employ the retrospective as a tool throughout the company to post-hoc determine the causes of an event. This could be a product outage, a project that failed to be delivered on time, a missed quarter, or (in this case) an employee termination. Retrospectives are an incredibly pro-cultural tool because they do not assume any fault—the goal is simply to determine causation. But in knowing ahead of time that there will be a retrospective conducted, everyone involved knows that they will be asked to give their own account of what happened and why in front of the rest of the group. And while the goal is not to assign blame, the simple act of transparently assessing causation (rather than allowing terminations to happen in the shadows) creates accountability for everyone involved.
         
@@ -323,8 +323,6 @@ Please review the employment posters for the state you live in, and also the fed
 Pelase review the privacy notices located [here](https://www.notion.so/dbtlabs/US-Employment-Posters-de219cf7a3774a73b206060831193c0c).
 
 ## [Background Checks](https://github.com/dbt-labs/corp/blob/new-handbook-launch/handbook.md#background-checks)
-
-## Background Checks
 
 dbt Labs is concerned about the safety of its team members and about maintaining appropriate controls to ensure that assets of dbt Labs and our customer relationships and information are protected. To reduce these risks, we will obtain and review background information of covered prospective, and, as applicable, current employees.
 
