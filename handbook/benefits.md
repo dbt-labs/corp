@@ -47,7 +47,7 @@ As dbt Labs continues to grow and expand around the world, we believe it’s imp
 - We strive to provide benefits that are both locally relevant and competitive
     - Each Country’s benefits will differ based on local normals and local competition for benefits.
 - Our benefit offerings and coverage will grow and progress as local team sizes grow due to economies of scale and eligibility in various plans
-    - If local teams aren’t large enough to begin group plans, we’ll provide monthly stipends to cover core benefits (Medical, Vision & Dental - Where applicable)
+    - If local teams aren’t large enough to begin group plans, we’ll provide monthly stipends to cover core benefits (Medical, Vision & Dental - where applicable)
 - Values aligned: We are Human → Although we may not be able to implement every benefit or offering we understand that we bring our whole selves to work and we want to hear and respond to feedback
 
 ### How is this impacting today?
