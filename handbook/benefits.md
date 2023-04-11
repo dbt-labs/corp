@@ -22,6 +22,7 @@
 - [Leave of Absence Programs](#leave-of-absence-programs)
 
 [Stipends](#stipends)
+- [How to use Benepass - Perks & Stipend Platform](#how-to-use-benepass---perks--stipend-platform)
 - [Office Stipend](#office-stipend)
 - [Phone & Internet Stipend](#phone--internet-stipend)
 - [Health & Wellness Stipend](#health--wellness-stipend)
@@ -82,7 +83,7 @@ The benefits stipend will automatically be added to your monthly payroll. You do
 
 ### **Retirement & Pension Plans**
 
-As previously mentioned we look to target locally relevant and competitive benefit options and retirement and pension plans fall under the same philosophy. We are currently working towards getting each required Pension scheme and retirement plan solidified. More details will be forthcoming.
+As previously mentioned we look to target locally relevant and competitive benefit options and retirement and pension plans fall under the same philosophy. We are currently working towards getting each required pension scheme and retirement plan solidified. More details will be forthcoming.
 
 ## [Healthcare Benefits (US)](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
 
@@ -124,7 +125,7 @@ Many states have introduced legislation to reduce or restrict access to critical
 
 **In order to maintain privacy and ensure that folks are comfortable leveraging this reimbursement, please follow the process below:**
 
-1. Email receipts directly to @Meg Colon  (meg@dbtlabs.com). Please include a note that the receipts are for healthcare-related travel, but we do not require more information than that.
+1. Email receipts directly to Meg Colón (meg@dbtlabs.com). Please include a note that the receipts are for healthcare-related travel, but we do not require more information than that.
 2. Reimbursements will be processed directly through payroll. 
     1. The Head of People will be the only person with access to receipts and reason for travel and will not discuss or share with anyone. The Payroll Manager will receive only the amount to add to payroll.
 3. If you need support relating to out-of-state travel for healthcare purposes, please contact Meg directly.
@@ -147,7 +148,7 @@ Employees have access to an employer-sponsored 401K plan. Immediately upon hire,
 In alignment with our core value, **“We Work Hard and Go Home”**, dbt Labs offers unlimited paid time off to support you to recharge, spend time with your family, and/or take care of personal matters. To encourage you to turn off your brain, travel, and spend time with your family, recommend you take a *minimum* amount of vacation days **(2 weeks, aka 10 business days)** each calendar year. 
 
 - We estimate that 4 weeks in a year is a good amount to take off (also based on what we have seen historically); note though that we do not have a cap on the number of days you can take off for Personal Time Off.
-- At the end of each quarter, the People team will be sending managers a list of how much time off each person has already taken / planned to take for the rest of the year (based on what is requested in ADP).
+- At the end of each quarter, the People team will send managers a list of how much time off each person has already taken / planned to take for the rest of the year (based on what is requested in ADP).
 - We encourage managers to do check-ins with their team (based on the data provided above): for those not taking time off, managers should seek to understand why this is the case and to help their team member structure their workload or work priorities in a way that allows them to actually disconnect from work to recharge.
 
 We ask that you input your time-off requests into ADP and categorize them accordingly [based on the definitions below](#%EF%B8%8Ftypes-of-time-off-plans--definitions). 
@@ -161,12 +162,12 @@ When in doubt, please discuss with your manager about your plans
 - It shows blatant abuse of the unlimited time off policy. For example (but not limited to the following):
     - Using open vacation in place of a leave of absence (see below).
     - Requesting time off that is more than 4 consecutive weeks in duration.
-- Amount of (or dates of request for) PTO negatively impacts your team or the company.
+- Amount of (or dates of request for) PTO negatively impacts your team or the company, as determined by your manager.
 - Performance is affected negatively.
 
 #### ➡️ Types of time off plans & definitions
 
-👉 For time off plans outside of Personal Time Off: if you need to take more than 2 consecutive weeks off, your manager or People team will be reaching out to see if a Leave of Absence may need to be utilized instead to support you through your specific life event.
+👉 For time off plans outside of Personal Time Off: if you need to take more than 2 consecutive weeks off, your manager or a member of the People team will be reaching out to see if a Leave of Absence may need to be utilized instead to support you through your specific life event.
 
 - **Personal Time Off**:  If you are taking vacation or need to take time off work to attend to other personal matters.
 - **Sick Time:** If your time off is related to your own illness or a family member’s illness (i.e. care for another family member or taking them to see the doctor), or for you to go see a medical professional. You can also use this category for a mental health day.
@@ -178,7 +179,7 @@ When in doubt, please discuss with your manager about your plans
     
     [Leave of Absence Programs](#leave-of-absence-programs) 
     
-    - ***Paid Parental Leave** - to be taken within the first year of parenthood; any dbt Labs employees who needs to care for a newborn as a result of birth or adoption is able to take up to 12 weeks of paid leave*
+    - ***Paid Parental Leave** - to be taken within the first year of parenthood; any dbt Labs employee who needs to care for a newborn as a result of birth or adoption is able to take up to 12 weeks of paid leave*
     - ***Paid Medical Leave** - any dbt Labs employee who needs to take dedicated time off to recover from their own medical event (i.e. physical or mental illness, surgery, etc) is able to take up to 4 weeks of paid leave*
     - ***Paid Caregiver Leave -** any dbt Labs employee who needs to take dedicated time off to care for a seriously ill person is able to take up to 4 weeks of paid leave*
 - **Company Holidays**: dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. See [2023 Company Holidays ](#2023-Company-Holidays) for days observed. You are asked to observe your local holidays (for the country you reside in).
@@ -205,7 +206,7 @@ Learn how to request time off in ADP [here](https://www.notion.so/dbtlabs/Time-O
 
 #### 🌐 International Considerations for accrued time and pay out upon termination with the company
 
-In your employment contracts, you will see that you are eligible for a specific number of annual leave (or holidays) days to be accrued over the course of the plan year (to be used as personal time off). There is a clause in your contracts that once your annual leave (or holiday) entitlements have been used up, you are eligible to take an unlimited number of days, as long as you have manager approval. 
+In your employment contracts, you will see that you are eligible for a specific number of annual leave (or holiday) days to be accrued over the course of the plan year (to be used as personal time off). There is a clause in your contracts that once your annual leave (or holiday) entitlements have been used up, you are eligible to take an unlimited number of days, as long as you have manager approval. 
 
 From a logistical standpoint, what you can expect in ADP:
 
@@ -232,7 +233,7 @@ Please discuss your time off schedule ahead of time with your manager, as they d
 
 In addition to our unlimited vacation policy, dbt Labs observes a number of public and company holidays every year, and this schedule varies by country. You are asked to observe your local holidays (for the country you reside in).
 
-We recognize that there are many other cultural, religious or location based holiday's and encourage our team members to work with their manager to take the time they need.
+We recognize that there are many other cultural, religious or location based holidays and encourage our team members to work with their manager to take the time they need.
 
 Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please reference the list of public holidays provided via Remote's Platform.
 
@@ -370,7 +371,7 @@ If employees participate in dbt Labs’s group health plan, the company will mai
 
 **Vesting**
 
-Stock options will continue to vest at their regular rate during paid or unpaid leave. Vesting will be paused during unpaid leave.
+Stock options will continue to vest at their regular rate during paid or unpaid leave. 
 
 **Return to Work**
 
@@ -482,7 +483,14 @@ Employees who will be going on a leave of absence should review the related poli
 
 ## [Stipends](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4)
 
-As part of dbt’s total rewards strategy, we provide various stipends to help cover some of the cost associated with working from home; as well as supporting our team members' development and well being. These policies apply to all full-time employees that work for any dbt Labs entity or who are employed through our Professional Employer Organizations (PEO - ie, Remote.com).
+As part of dbt Lab's total rewards strategy, we provide various stipends to help cover some of the cost associated with working from home; as well as supporting our team members' development and well being. These policies apply to all full-time employees that work for any dbt Labs entity or who are employed through our Professional Employer Organizations (PEO - ie, Remote.com).
+
+### How to use Benepass - Perks & Stipend Platform
+
+Benepass is our benefits/perks partner and is specifically designed to help administer stipends and supplemental perks. Learn more about how to use Benepass and get answers to FAQs [here](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4#b4463cef29e54a4c9d1a9fe137f7282e).
+
+- Benepass is used for Office Stipend, Phone & Internet Stipend, Health & Wellness Stipend, and Professional Development Stipend. - Policies and reimbursements that are NOT administered through Benepass are: Workspace Rental Experience, Health Related Travel Benefit, Corporate Travel & Expense Policy.
+- Benepass can be accessed via Okta, their [Online Portal](https://app.getbenepass.com/#/) or through their mobile [app](https://apps.apple.com/us/app/benepass/id1497613952). 
 
 ### [Office Stipend](https://www.notion.so/dbtlabs/Office-Stipend-5f5a37d1026d4fb78ee3c6439fada6dc?pvs=4)
 
@@ -652,7 +660,7 @@ Occasionally, expenses beyond the initial $500 will be reimbursed with advanced 
 
 ### General Guidelines for All Stipends
 
-- All stipend expenses must be processed using your Benepass card or submitted for reimbursement through the Benepass app
+- All stipend expenses must be processed using your Benepass card or submitted for reimbursement through the Benepass app. [Learn more here.](#how-to-use-benepass---perks--stipend-platform)
 - All transactions over $50 USD or local equivalent require a receipt / documentation
     - All reimbursements require a receipt / documentation
 - All full time employees are eligible for these stipends in their first month, regardless of their actual hire date.
@@ -667,25 +675,19 @@ Occasionally, expenses beyond the initial $500 will be reimbursed with advanced 
 
 Learn about our stipend amounts by country [here](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4#6fe12c7cd08c4886a602a13fd4c3e960).
 
-### How to use Benepass - Perks & Stipend Platform
-
-Benepass is our benefits/perks partner and is specifically designed to help administer stipends and supplemental perks. Learn more about how to use Benepass and get answers to FAQs [here](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4#b4463cef29e54a4c9d1a9fe137f7282e).
-
-- Benepass is used for Office Stipend, Phone & Internet Stipend, Health & Wellness Stipend, and Professional Development Stipend. - Policies and reimbursements that are NOT administered through Benepass are: Workspace Rental Experience, Health Related Travel Benefit, Corporate Travel & Expense Policy.
-
 ## Workplace Rental 
 
 Working from home does not work for everyone. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
 
 ### Goals/Values of Enabling Work Outside of the Home:
 
-1. **Productivity**: dbt’s remote-first / async culture is designed to allow employees to “work from anywhere” vs just “work from home”.  The ***primary goal*** of supporting workplaces outside the home is to enable employees to build the optimal environment for their work.
+1. **Productivity**: dbt Lab's remote-first / async culture is designed to allow employees to “work from anywhere” vs just “work from home”.  The ***primary goal*** of supporting workplaces outside the home is to enable employees to build the optimal environment for their work.
 2. **Inclusiveness:** In-person / outside the home workplace benefits must not compromise remote employees’ ability to collaborate.  
 3. **Community:** Provide opportunities for team members to build rapport with one another, engage cross-functionally, and strengthen a sense of shared values and goals.
 
 🖐️ Please keep in mind that the main goal of this is to enhance your personal work environment. If you choose to collaborate in a co-working space with co-workers, you are mindful that everyone who needs to be involved in a conversation is.  If your project/collaboration can be accomplished over zoom or asynchronously, then it should be done that way to avoid excluding others. 
 
-### By enabling employees to rent workspaces outside the home to optimize productivity! We offer:
+### We offer the following to enable employees to rent workspaces outside the home and optimize for productivity:
 
 1. $250 per month in workplace rental coverage for all employees through Liquidspace 
 2. $1500 per quarter workplace rental stipend for Directors (L7+) and above to book large conference room / work spaces through Liquidspace to support in-person meetings for teams
@@ -694,27 +696,29 @@ Working from home does not work for everyone. Employees receive a monthly benefi
 
 #### What is Liquidspace and how do I use it?
 
-About Liquidspace:   Liquidspace is an online marketplace for renting workplaces and offices.  It is considered the “airbnb of workplace rentals”  in that it utilizes a number of companies and private hosts to allow for over 10,000 locations to choose from. Liquidspace will be a new tile added to your Okta board.  Simply login from there and begin searching. 
+About Liquidspace:   Liquidspace is an online marketplace for renting workplaces and offices.  It is considered the “airbnb of workplace rentals”  in that it utilizes a number of companies and private hosts to allow for over 10,000 locations to choose from. Liquidspace will be a new tile added to your Okta board.  Simply login from there and begin searching.
 
-#### When should I use Liquidspace vs a dbt Office?
+To access Liquidspace, simply login through Okta or [here](https://liquidspace.com/dbtlabs/signin?returnPath=%2Fmain). There is no need to submit reimbursement for this, the costs will be managed within LiquidSpace. 
 
-When in the vicinity / metro area of a dbt Labs office, leverage the office instead of liquidspace to the best of your ability.   If you are local to an office but the office is full or doesn’t suit your needs (e.g. you need a bigger space for a customer / team meeting) feel free to leverage liquidspace as needed. 
+#### When should I use Liquidspace vs a dbt Labs office?
 
-#### What if I want to rent a different workspace for the day that is not available on liquidspace?
+When in the vicinity / metro area of a dbt Labs office, leverage the office instead of Liquidspace to the best of your ability.   If you are local to an office but the office is full or doesn’t suit your needs (e.g. you need a bigger space for a customer / team meeting) feel free to leverage Liquidspace as needed. 
+
+#### What if I want to rent a different workspace for the day that is not available on Liquidspace?
 
 We do not reimburse one-time workplace rental expenses for locations outside the Liquidspace platform. 
 
 However, if you are looking for a space and there are no viable or available options near you in LiquidSpace, and you can find space elsewhere, you may use your personal card and expense the cost up to $250/month.  Please use the expense code “Office Space” in Airbase. 
 
-#### Can I go over my budget on liquidspace?
+#### Can I go over my budget on Liquidspace?
 
-No - the $250 rental benefit is strictly enforced within Liquidspace.  For example, if you have used $230 of the monthly benefit, and want to book a day pass for $35, liquidspace will not process the rental. 
+No - the $250 rental benefit is strictly enforced within Liquidspace.  For example, if you have used $230 of the monthly benefit, and want to book a day pass for $35, Liquidspace will not process the rental. 
 
 #### Is there an exception process if i want to rent a monthly space that is more expensive than my monthly budget?
 
 YES! - If you are a team member who does not have an optimal at-home workplace, **and expects to be going into the office 3 times a week or more**, we want to support you in finding the right work environment! 
 
-Most monthly subscriptions are more than the $250 limit, so liquidspace will not allow you to book on the company plan.  In order to book the space, you can use your own credit card (on liquidspace OR another platform) and then claim the $250 credit through Airbase.  You must book an unlimited monthly subscription or permanent desk at a coworking space to be eligible for the airbase refund (we do not offer this for day passes).
+Most monthly subscriptions are more than the $250 limit, so Liquidspace will not allow you to book on the company plan.  In order to book the space, you can use your own credit card (on Liquidspace OR another platform) and then claim the $250 credit through Airbase.  You must book an unlimited monthly subscription or permanent desk at a coworking space to be eligible for the airbase refund (we do not offer this for day passes).
 
 #### Non-US-based Employees:
 
@@ -734,7 +738,7 @@ Learn more about how to use LiquidSpace and how to book larger meeting spaces [h
 
 Employee discounts are available through [LifeMart](https://lm.lifemart.com/group/lifemart/home). 
 
-*Login using the same email you use to login to ADP. (Currently, this should be your FA email)*
+*Login using the same dbt Labs email you use to login to ADP.*
 
 You can find savings on things like:
 
@@ -786,15 +790,6 @@ ADP - LifeCare EAP services are eligible for US employees only.
 Learn more about the ADP - Lifecare EAP and how to access this service [here](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4#c41a81f919e64558930b2050ee44230c).
 
 [LifeCare EAP Brochure.pdf](https://github.com/dbt-labs/corp/files/10994732/LifeCare.EAP.Brochure.pdf)
-
-    
-#### Time Off
-
-Sometimes people just need to disconnect from work and they should take advantage of our [Time Off Policy](#time-off-policy-1). However, there are occasions when we strongly encourage you to take extended time off work to care for yourself or loved ones.
-
-If you are in a situation where you may need extended time off, you may want to consider taking a formal leave of absence. 
-
-Reasons for LOAs vary and amounts of time can also vary (i.e. 1 month to 3 months, etc). Discuss this option in detail with your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4). You can read more about our leave offerings at [Leave of Absence Programs](#leave-of-absence-programs).
 
 ## [Anonymous Hotline](https://www.notion.so/dbtlabs/Anonymous-Hotline-309767332cbc4fdf8b8fee1bc7c5e9ce?pvs=4)
 dbt Labs has an anonymous hotline for employees to be able to report workplace issues or *suspected illegal or unethical conduct* anonymously. 
