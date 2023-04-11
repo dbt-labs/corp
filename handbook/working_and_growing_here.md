@@ -20,24 +20,128 @@
 
 [Embedded Roles](#embedded-roles)
 
+[Making a Referral](#making-a-referral)
+
 [Global Employment](#global-employment)
 
 [Office Strategy](#office-strategy)
 
 [Moonlighting Guidance](#moonlighting-guidance)
 
-[Conscientious Objection](#conscientious-objection)
-
 [Diversity, Equity and Inclusion](#diversity-equity-and-inclusion)
 
-[Making a Referral](#making-a-referral)
+[Conscientious Objection](#conscientious-objection)
 
 [Getting Support](#getting-support)
 
 ## Distributed Work Experience
 
-We are a remote first, globally distributed, values driven company. Learn more about how we think about our distributed experience [here](/handbook/about_dbt_labs.md#our-distributed-work-experience).
+## [Our Distributed Work Experience](https://www.notion.so/dbtlabs/How-we-think-about-the-Distributed-Experience-5edaf90eafad420b9a05ffc03a3cc5c7?pvs=4)
 
+Learn how we think about the distributed experience.
+
+### 📘 First, let’s define some terms…
+
+- **Workplace Strategy:** Workplace strategy answers the question: “Where do we work that optimizes for effectiveness and efficiency?”. Possible answers include: fully distributed, hybrid, office-only.
+- **Asynchronous Work:** A way of working that does not require all team members to be online simultaneously. Asynchronous work is required for teams to function across multiple time zones. Often when we say “distributed work” we actually mean “distributed and asynchronous work” because our company is spread across many time zones globally. “Distributed” is commonly used as shorthand.
+- **Employee Experience:** The journey an employee takes with an organization. It includes every interaction that happens along the employee life cycle, including the experiences that involve an employee's role, workspace, manager and wellbeing.
+
+- **Distributed Work Experience (simply, "Distributed Experience"):** The employee experience specifically related to how work gets done in a distributed work environment. Communication, tools, processes and culture enable distributed work. The distributed experience could be liberating or constraining, agile or inflexible, fast or slow, equitable or inequitable. When you find yourself saying something like “I never know where to find information” you are making a comment about your personal distributed experience.
+
+### 🌐 What is our workplace strategy?
+
+Our workplace strategy is **fully distributed**. This does not mean we won’t gather in person and won’t have office space. Instead, it means that the primary mode of getting work done assumes employees are not physically in the same location. We believe this is better for both our company and its employees.
+
+### ✨ What is our approach to support the distributed experience?
+
+A great distributed experience doesn’t just happen on its own. Employees have been working in offices for a *very long time* and have evolved norms of behavior for how work gets done. Distributed work is far newer. As a result, we can’t rely on a shared understanding of how to work effectively in this context. We must be extremely *intentional* about how the distributed experience is constructed. When done successfully, we are confident the distributed experience is more effective, enjoyable, and equitable than traditional office-based work.
+
+**Intentionally designing a distributed experience includes:**
+
+- Defining cultural principles and norms of behavior that support distributed work
+- Investing in tooling and processes that support distributed work
+- Training everyone on how work gets done in a distributed work environment
+
+### 🤔 Why does the distributed experience matter?
+
+Having a great distributed experience helps both our company and our employees. It also helps us live our values.
+
+- **Benefits for dbt Labs**
+    - **Widens our talent pool:** Without the limitations of a physical location, we can hire top talent across the globe.
+    - **Productivity:** Our team spends less time in meetings and has more time to focus.
+    - **Scalability:** Asynchronous communication helps us work more effectively and efficiently as we scale.
+    - **Accessibility and inclusion:** With an emphasis on async communication, our work environment creates a more equitable opportunity to voice one’s opinion. The loudest voice in the room is no longer the only one who gets heard.
+    - **Engaged and happy employees:** We believe that when our team members have the space to live fulfilling lives outside of work, they show up more engaged and productive.
+- **Benefits for employees**
+    - **Flexibility:** Employees have the freedom of location and time, allowing them to live their life how they want.
+    - **Focus:** Defaulting to async communication means employees’ days aren't sliced into meetings. They have space to get into a flow state that produces efficient and satisfying work.
+    - **No commute:** Without office buildings and in-person meeting requirements, employees no longer face stressful and time consuming commutes. That time can be reallocated to best serve the employee as a person.
+    - **Autonomy:** We trust our employees to get work done when and where they want. This instills a sense of autonomy that is empowering and motivating for employees to be themselves inside work and live their best lives outside of it.
+- **It supports our [values](/values.md) and culture.**
+    - **Transparency always wins:** Honest and open communication allows us to collaborate across time zones.
+    - **We value diversity:** We equip our global team members to thrive regardless of location by focusing on asynchronous communication and equitable work practices.
+    - **We optimize for the long term:** Intentionally building cultural norms, tooling and processes helps set our growing team up for success.
+    - **We work hard and go home:** With more time to focus during work, employees can fully unplug in their personal time.
+    - **We are human:** Distributed work supports our employees’ fundamental human-ness. Without strict guidelines on when and where to work, employees experience a quality of life that aligns with their personal interests and values.
+
+### 🎗️ How does dbt Labs support distributed work?
+
+- **Workplace strategy**
+    
+    A distributed workforce doesn’t just mean working from home. We realize that different people thrive in different settings. As a result, we offer benefits to support people in finding the right work setup for them and ensuring they are equipped for success:
+    
+    - **[Office stipend:](/handbook/benefits.md#office-stipend-1)** New employees receive $1,500 USD (or local equivalent) to spend in their first year to set up their home office and purchase equipment to comfortably work their preferred location. Each year after, employees receive $400 USD (or local equivalent) to support their remote work setup.
+    - **[Workspace rental:](/handbook/benefits.md#workplace-rental-1)** Working from home does not work for everyone. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
+    - **[Regional offices:](#regional-offices)** In regions with high employee count, dbt Labs has office space to support async-first collaboration and promote our culture and values when teams meet onsite. Designed with intention, these spaces are not used to incentivize local collaboration but instead support community development and foster connection with cross-functional teams during onsites.
+- **Global [comp](/handbook/compensation.md#global-compensation-and-benefits-1) & [benefits](/handbook/benefits.md#global-benefits-strategy--stipend-1)**
+    
+    We offer a transparent compensation philosophy and intentional benefits to support our global employees. All employees have access to stipends to support health and wellness, phone/internet, professional development and health related travel needs.
+    
+- **Team construction**
+    
+    We set up distributed teams to ensure the locations and time zones are conducive to collaboration and connection. Depending on the level of synchronous collaboration needed, some teams are regionalized and others aren’t. We are thoughtful about the time zone spread to ensure enough work day overlap between globally distributed teammates.
+    
+- **Tools and systems**
+    
+    Having the proper tools and systems to support remote work is key to effective communication. We rely heavily on Notion, Slack, and Zoom to keep people connected regardless of where they work. [Open meetings](https://www.notion.so/Open-Internal-Meetings-dee0b870900b4f70898f9c40fcf90719) and office hours are available for team members to foster cross-functional collaboration.
+    
+- **[Diversity, Equity and Inclusion](#diversity-equity-and-inclusion-1)**
+    
+    As a globally distributed company, DEI is critical to our success. DEI is not simply enacted in programs and initiatives, it is woven into the culture of our every day work.
+    
+- **Employee engagement**
+    - We celebrate our unique human-ness and connect beyond business which makes for a welcoming work environment for all. We all get together in-person annually for a company kick-off and we leverage other tools for virtual connection throughout the year.
+
+### 🚧 How is distributed work actually conducted?
+
+This is a big and important topic. A remote work guide that answers this question is a focus in the coming quarters! As this comes together, we'll update this section with more robust content and link to resources and training.
+
+### 🌟 What are the guiding principles for our distributed experience?
+
+- **Trust and transparency:** We empower individuals and teams with openness and honesty while assuming positive intent.
+- **Intentional and explicit:** Our organizational practices and systems are designed with intention to support our distributed workforce. In a remote environment, social cues and cultural norms aren’t obvious. We are explicit with our communication to provide clarity and context for all.
+- **Default to asynchronous:** While async communication may not always be the ultimate way to get work done, it should be the default. Starting with async communication first allows for more effective synchronous communication when needed. It also helps your teammates retain their focus and flexibility by reducing interruptions and distractions.
+- **Progress > perfection:** Immediate answers aren’t expected. With the proper communication and tools in play, employees are empowered to keep iterating and making progress, backed with trust and support.
+
+## [Regional Offices](https://www.notion.so/dbtlabs/dbt-Labs-Office-Strategy-adad4eeeb29a406493a1ea23299b5278)
+In regions with high employee count, dbt Labs has office space to support async-first collaboration and promote our culture and values when teams meet onsite. As outlined in our [office strategy](#office-strategy-1), these spaces are designed with intention. They are not used to incentivize local collaboration but instead support community development and foster connection with cross-functional teams during offsites.
+
+Learn more about the offices, building access and offsite information [here](https://www.notion.so/dbtlabs/Workplace-7a798fcfa1eb4fba9e061577b6fbb33b?pvs=4).
+
+### San Francisco, CA 
+
+dbt Labs
+650 California Street
+Suite 1501 / 1502
+San Francisco, CA 94108
+
+
+### Philly Office
+
+dbt Labs
+915 Spring Garden St
+STE 500
+Philadelphia, PA 19123
 
 ## Annual Review Cadence
 
@@ -203,7 +307,7 @@ We ask that employees be in their role for **at least** 12 months before applyin
 
 1. Look at the [internal career site](https://app5.greenhouse.io/internal_job_board/) to see which roles you might be interested in.
 2. Reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) to confirm eligibility for internal mobility.
-3. Reach out to the [recruiter](https://www.notion.so/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8) and hiring manager to have an introductory call:
+3. Reach out to the [Talent Acquisition Partner](https://www.notion.so/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8) and hiring manager to have an introductory call:
     1. Explain why you are interested in learning more about this role. In your conversation, understand the role expectations and hiring profile.
     2. If you would like to learn more about the role, we recommend shadowing someone who is on the existing team or in the current role to learn more about the day to day.
     3. Feel free to also meet with existing members of the team to understand the landscape of the team and gain advice or general mentorship.
@@ -220,8 +324,8 @@ We ask that employees be in their role for **at least** 12 months before applyin
 
 #### Step 3: Interview
 
-1. After you have applied to the role in Greenhouse, a recruiter or the hiring manager will reach out to you to move you through the interview process. 
-    - With the Recruiter, there will be a series of questions to answer:
+1. After you have applied to the role in Greenhouse, a Talent Acquisition Partner or the hiring manager will reach out to you to move you through the interview process. 
+    - With the Talent Acquisition Partner, there will be a series of questions to answer:
         - How long have you been in your current role?
         - Have you chatted with your current manager about your interest?
         - Why do you want this specific role?
@@ -231,7 +335,7 @@ The interview process will be a shortened version of the external process, but o
 
 #### Step 4: Application Status
 
-After you go through the interview process, you will hear back from the hiring manager or recruiter about your application and if you will be getting the role or not.
+After you go through the interview process, you will hear back from the hiring manager or Talent Acquisition Partner about your application and if you will be getting the role or not.
 
 **If you do not get the role**, do not be discouraged! The hiring manager will pass over feedback to your current manager and we hope this will be an opportunity to come up with a development plan for you. You are always welcome to apply again.
 
@@ -338,24 +442,30 @@ But even with this success, it’s naive to assume that just “hiring collabora
 - **Answer the hard questions about cross-departmental roles up-front.** More on this in Appendix A.
 - **Abolish fiefdoms.** Kill the idea that departmental strategy is set and budgets are allocated at the sole discretion of the leader of that department. All leaders can weigh in on the strategic choices and budgets of other departments, and these concerns need to be addressed prior to moving ahead with the proposed plans. Use the OKR-setting process to make sure that goals are aligned across different departments.
 
-#### Next steps
-
-We’re about to make at least two hires that will be “embedded”. As such, this is an extremely timely topic: we want to define these roles and how they interact with the larger org correctly from the outset. So, the first step is to make sure that we have consensus on the contents of this document. From there, a number of action items follows:
-
-- Proposing the value [Tristan]
-- Think about how budgeting will work [Tristan + Sierra]
-- Proposing role structure for marketing designer [Janessa / Drew / Amy B]
-- Proposing role structure for front-end engineer [Janessa / Drew / Connor]
-- Proposing role structure for product analyst [Drew / Erin]
-
 ### Appendix A: What questions need to be answered prior to hiring for a cross-functional role?
 
 1. **Who will be this person’s manager?** A manager will, in the case of an embedded team member, likely not be the person who is setting the day-to-day tasks for this person. Rather, they are responsible for supporting the person’s career development, providing mentorship, etc. There should only be a single answer to this question.
 2. **Who will the “embed sponsor” be?** The embed sponsor will be a member of the team “hosting” this person who will be primarily responsible for determining the day-to-day workload of this person. It is recommended that there is only one answer to this question, as balancing across multiple embed workloads can be challenging.
-3. **Who will make the final hiring decision?**We recommend that this should be the same as the answer to #1 above, with the understanding that the person in #2 will have a high degree of input.
-4. **Who will participate in this person’s reviews?**Likely this should be the people from #1 and 2, above.
+3. **Who will make the final hiring decision?** We recommend that this should be the same as the answer to #1 above, with the understanding that the person in #2 will have a high degree of input.
+4. **Who will participate in this person’s reviews?** Likely this should be the people from #1 and 2, above.
 5. **How long will this embedded relationship last?** Generally, there is a “sweet spot” that allows the embedded team member to spend adequate time with the functional area to develop expertise and add value, but not so long on the team that they develop a “bus factor” and become a turnover risk. Most often we feel that the appropriate range here is 6-24 months, but realize that your mileage may vary.
-6. **What is this person’s career path within the company?**We should make sure that we’re not creating dead-end roles for embedded team members. This can sometimes happen when a person’s role doesn’t have obvious next steps outside of the team that they are embedded with. We should prevent this situation as it will lead to employee turnover.
+6. **What is this person’s career path within the company?** We should make sure that we’re not creating dead-end roles for embedded team members. This can sometimes happen when a person’s role doesn’t have obvious next steps outside of the team that they are embedded with. We should prevent this situation as it will lead to employee turnover.
+
+## [Making a Referral](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4)
+
+Who better to find great people to work here than great people that already work here? We don't currently offer a referral bonus program but that shouldn't stop you from sending any and all referrals our way!
+
+### Who should you refer?
+
+Take a look at our open jobs in greenhouse or on our website! 
+
+1. If you know someone that could be a fit, great!
+2. If you know someone that's awesome and would be a great addition to dbt Labs but don't see an open role that would fit them - we'd still like to talk to them and get them into our talent network for future openings!
+3. If someone reaches out to you cold and you are willing to chat with them, feel free to do so and refer them if they seem like a fit. (You can also send them to a Talent Acquisition Partner or our jobs page if you don't have time to have a full conversation)
+
+### How to submit a referral
+
+Follow these instructions [here](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4#292f0c69c0a543198799036041f389ea).
 
 ## [Global Employment](https://www.notion.so/dbtlabs/Global-Employment-at-dbt-Labs-a0c8faf3a9234d6a83280654caff0424)
 
@@ -389,9 +499,9 @@ In the past, dbt Labs would hire in any country except those we had already dete
 |----------------	|----------------------------	|------------------	|------	|----------	|-----------------------	|
 | Australia      	| dbt Labs Australia Pty Ltd 	| Overseas Connect 	| ADP  	| AUD      	| No                    	|
 | Ireland        	| dbt Labs Ireland Limited   	| Overseas Connect 	| ADP  	| EUR      	| No                    	|
-| United Kingdom 	| dbt Labs UK Limited        	| Overseas Connect 	| ADP  	| GBP      	| No                    	|
+| United Kingdom 	| dbt Labs UK Limited        	| Overseas Connect 	| ADP  	| EUR      	| Yes                    	|
 | United States  	| dbt Labs, Inc.             	| ADP              	| ADP  	| USD      	| Yes                   	|
-| Germany        	| dbt Labs GmbH              	| Overseas Connect 	| ADP  	| EUR      	|                       	|
+| Germany        	| dbt Labs GmbH              	| Overseas Connect 	| ADP  	| GBD      	| No                      	|
  
 📌 For countries where dbt Labs is able to sponsor a work permit, the People team also needs to do an assessment of your job to see if it falls into a “speciality work visa” category. We would need to determine that you and your role meet all of the sponsorship criteria. **Please reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) if you require sponsorship.**
 
@@ -538,9 +648,9 @@ Thanks to all our employees whose energy and commitment makes dbt Labs and the l
 *Example :* 
 
 - Average lease term is 3-5 years, so we need to buy space to support the company for a minimum of the next 2 years of growth.
-- Currently we are approaching 30 employees w/in 30 miles of San Francisco who would potentially go into the office.  Total company headcount growth is expected to grow at 100%+ for the next 2 years, so we want the office to scale to when the bay area team is ~120 people
+- Currently we are approaching 30 employees w/in 30 miles of San Francisco who would potentially go into the office. Total company headcount growth is expected to grow at 100%+ for the next 2 years, so we want the office to scale to when the bay area team is ~120 people
 - If we assume that no more than 50% of employees are in the office on a given day, we would want an office that supports ~60 desks
-1. Scale of the organization as a whole, and the need for additional collaboration spaces - **This number is used to determine number of conference rooms / scale of those spaces**
+2. Scale of the organization as a whole, and the need for additional collaboration spaces - **This number is used to determine number of conference rooms / scale of those spaces**
 
 *Example :* 
 
@@ -560,6 +670,14 @@ Thanks to all our employees whose energy and commitment makes dbt Labs and the l
 ### Regional Offices
 
 Learn more about our regional offices [here](/handbook/about_dbt_labs.md#regional-offices).
+
+## Diversity, Equity and Inclusion
+
+We are committed to diversity, equity, and inclusion. DEI impacts high-level company decisions, and is woven into the culture of everyday work.
+
+We have three DEI committees dedicated to Team Diversity, Culture, and Company Stance and Action. Together, these committees make sure we build a diverse team, equitable company structures, and an environment that gives everyone the support and opportunities they need to thrive.
+
+Learn more [here](https://www.getdbt.com/dbt-labs/dei/).
 
 ## [Conscientious Objection](https://www.notion.so/dbtlabs/Conscientious-Objection-371207f8f01c4e94bd4e62eb5c85087c?pvs=4)
 
@@ -590,30 +708,6 @@ If you need additional support working with your manager to figure out an accomm
 If work that conflicts with your deeply held beliefs is a regular and predictable part of your role rather than an exception, and your right to conscientious objection is impeding the team’s overall success, the best long-term solution may be to look for a role that’s a better fit. You can work with your manager and your People Business Partner to move towards a different role within the company that is more aligned with your personal values. 
 
 💡 You can see some of the discussion that led to this policy in [Working Document: Conscientious Objection](https://www.notion.so/Working-Document-Conscientious-Objection-31977f6aa61b447fabc4f5ac6a20f02f).
-
-## Diversity, Equity and Inclusion
-
-We are committed to diversity, equity, and inclusion. DEI impacts high-level company decisions, and is woven into the culture of everyday work.
-
-We have three DEI committees dedicated to Team Diversity, Culture, and Company Stance and Action. Together, these committees make sure we build a diverse team, equitable company structures, and an environment that gives everyone the support and opportunities they need to thrive.
-
-Learn more [here](https://www.getdbt.com/dbt-labs/dei/).
-
-## [Making a Referral](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4)
-
-Who better to find great people to work here than great people that already work here? We don't currently offer a referral bonus program but that shouldn't stop you from sending any and all referrals our way!
-
-### Who should you refer?
-
-Take a look at our open jobs in greenhouse or on our website! 
-
-1. If you know someone that could be a fit, great!
-2. If you know someone that's awesome and would be a great addition to dbt Labs but don't see an open role that would fit them - we'd still like to talk to them and get them into our talent network for future openings!
-3. If someone reaches out to you cold and you are willing to chat with them, feel free to do so and refer them if they seem like a fit. (You can also send them to a recruiter or our jobs page if you don't have time to have a full conversation)
-
-### How to submit a referral
-
-Follow these instructions [here](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4#292f0c69c0a543198799036041f389ea).
 
 ## [Getting Support](https://www.notion.so/dbtlabs/How-to-Ask-a-People-Question-a17443c3b92346b185ca4b4c266497df?pvs=4)
 
