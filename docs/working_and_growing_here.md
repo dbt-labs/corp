@@ -335,6 +335,35 @@ When the review cycle opens, the following questions will be within a Culture Am
 
 If you know you’re going to be out of the office when the review cycle opens (based on the schedule above), you can write your answers ahead of time and submit when you return.
 
+- **Self-Reflection**
+    1. What project or contribution are you most proud of in this review period?
+    2. What do you wish you had achieved but weren't able to? What were the blockers or challenges you faced?
+    3. What is the most motivating and least motivating part of your role?
+    4. What do you want to focus on developing over the next 6-12 months?
+    5. What can your manager do to continue to or better support you?
+    6. How you rate your performance this past half?
+        1. Needs Development/Meets Expectations/Exceeds Expectations/Sets a new standard
+- **Peer Feedback**
+    1. How has this person’s work impacted your ability to deliver on your goals this past 1-2 quarters?
+    2. What is one piece of constructive advice you would share with this person, and how would this change impact your work?
+    3. Which dbt Labs value(s) does this person embody? Which value(s) would you recommend they focus on in the coming half?
+- **Upwards Feedback**
+    1. What areas does your manager excel in?
+    2. What are their opportunities to improve their leadership that you think would make a real difference in the team's performance?
+    3. What can your manager do to better support you and your team members?
+    4. How does your manager advocate for your team?
+    5. Do you receive consistent and helpful feedback from your manager? Please explain your answer. 
+    6. Which dbt Labs value(s) does your manager embody? Which value(s) would you recommend they focus on in the coming half?
+    7. **[Not shared with manager]** Do you feel comfortable giving full and honest upward feedback? [Y/N]
+- **Manager Feedback to Employee**
+    1. How you rate this team member’s performance this past half?
+        1. Needs Development/Meets Expectations/Exceeds Expectations/Sets a new standard
+    2. What areas does this employee excel in? (please reference some of the reasons for your performance rating)
+    3. What was their biggest impact to the organization this past half? (please reference some of the reasons for your performance rating)
+    4. What are some areas of improvement or growth for this person to work on within their level/current role in the next half? (please reference some of the reasons for your performance rating)
+    5. Which dbt Labs value(s) does this person embody? Which value(s) would you like them to focus on in the coming half?
+    6. How can you continue and better support this team member in their development?
+
 #### Performance Definitions
 
 | Evaluation | Definition | Description |
