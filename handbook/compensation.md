@@ -48,29 +48,7 @@ Our compensation philosophy has been arrived at over the course of many years, c
     3. candidate data.
 4. We localize compensation ranges at the country level based on local market data.
     - **Why do we take this approach?** Labor markets, benefits, pension/superannuation schemes and payroll taxes can vary greatly country to country. This approach ensures that we are offering equitable (not equal) compensation in each market.
-5. Our compensation bands are set using the 75th percentile within our competitive landscape in each country as the **mid point** and setting the low and high points using the spreads outlined in the table below. 
-    
-    
-    - Consistent Band Spreads
-        
-        **These indicate the % from the midpoint used to get the high and low points of each band. The spread increases as the roles become more senior because more senior roles may be career-roles, where folks will remain and therefore require more room for growth in the band.* 
-        
-        Ex. L1 with a midpoint (75th percentile) of $100,000 will have a range of $90,000 - $110,000
-        
-        L5 with a midpoint (75th percentile) of $200,000 will have a range of $170,000 - $230,000.
-        
-| Level 	| Band Spread 	|
-|:-----:	|:-----------:	|
-|   L1  	|     10%     	|
-|   L2  	|     10%     	|
-|   L3  	|    12.5%    	|
-|   L4  	|    12.5%    	|
-|   L5  	|     15%     	|
-|   L6  	|     15%     	|
-|   L7  	|    17.5%    	|
-|   L8  	|    17.5%    	|
-|   L9  	|    17.5%    	|
-
+5. Our compensation bands are set using the 75th percentile within our competitive landscape in each country as the **mid point** and setting the low and high points using [consistent band spreads](#consistent-band-spreads).
 6. We do not compensate outside of our established bands—**ever**. Making exceptions to comp bands is a sure way to introduce pay inequity and is inconsistent with our diversity value.
     1. We will continue to monitor pay to ensure underrepresented groups are paid at the same rate as others in the same role / level / country.
     2. All of our compensation bands are set by our Total Rewards team using our compensation philosophies to ensure transparent and consistent compensation.
@@ -123,11 +101,8 @@ As mentioned in our [Compensation Principles](#compensation-principles), we use 
 
 #### Consistent Band Spreads
     
-    **These indicate the % from the midpoint used to get the high and low points of each band. The spread increases as the roles become more senior because more senior roles may be career-roles, where folks will remain and therefore require more room for growth in the band.* 
-    
-    Ex. L1 with a midpoint (75th percentile) of $100,000 will have a range of $90,000 - $110,000
-    
-    L5 with a midpoint (75th percentile) of $200,000 will have a range of $170,000 - $230,000.
+These indicate the % from the midpoint used to get the high and low points of each band. The spread increases as the roles become more senior because more senior roles may be career-roles, where folks will remain and therefore require more room for growth in the band.
+- Ex. L1 with a midpoint (75th percentile) of $100,000 will have a range of $90,000 - $110,000; L5 with a midpoint (75th percentile) of $200,000 will have a range of $170,000 - $230,000.
     
 | Level 	| Band Spread 	|
 |:-----:	|:-----------:	|
@@ -212,16 +187,12 @@ The first step in building salary bands is determining all planned and existing 
 
 #### **The Science**
 
-1. Develop a comprehensive list of Roles[^8] & levels that the team or organization has or will need in the next 12 months. 
-2. Review and select the most appropriate market match for each Role across each data set.
+1. Develop a comprehensive list of roles[^8] & levels that the team or organization has or will need in the next 12 months. 
+2. Review and select the most appropriate market match for each role across each data set.
     1. OI, Carta & Pave - Match based on Job titles lists & mini descriptions. Due to smaller data sets, data is matched more into functional buckets & titles
-    2. Mercer & Radford - Matched based on robust descriptions that have a much wider breadth of options and distinctions.
-3. Once jobs have been matched to the “best[^9]” match with the data, we used our [weighted average approach](#Data-Sources-&-Weighted-Average-Approach) across the 5 data points to arrive at a “Raw” Recommended Midpoint.
-        
-4. We then developed the bands by Rounding the Raw midpoint to nearest $1,000 for simplicity of consumption and used our standardized salary band spread approach to build out the Min & Max from the midpoint.
-    
-    
-    - [Consistent Band Spreads](#consistent-band-spreads)
+    2. Mercer & Radford - Match based on robust descriptions that have a much wider breadth of options and distinctions.
+3. Once jobs have been matched to the “best[^9]” match with the data, we used our [weighted average approach](#data-sources--weighted-average-approach) across the 5 data points to arrive at a “raw” recommended midpoint.
+4. We then developed the bands by rounding the raw midpoint to nearest $1,000 for simplicity of consumption and used our standardized salary band spread approach to build out the mininimum and maximum from the midpoint. Learn more about our [consistent band spreads](#consistent-band-spreads).
 
 #### **The Art**
 
