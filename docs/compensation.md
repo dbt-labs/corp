@@ -4,8 +4,6 @@ title: Compensation
 sidebar_label: Compensation
 ---
 
-# Compensation 
-
 | Content Maintainers |
 |---|
 | Clyde Stackhouse |
