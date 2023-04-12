@@ -173,6 +173,7 @@ Because of the relationship between performance, and compensation/ promotions, t
 - Reviews Q4 and Q1 performance. (11/1 - 4/30 in any year)
 - Includes team members that started before 2/1 and are therefore out of their 30/60/90 day plans.
     - Managers that started after 2/1 will still be responsible for reviewing any eligible team members. They should consult with the team members’ former manager and, if applicable, may add them as a collaborator on the review.
+- Everyone will have two weeks to write and complete their reviews (including peer and upwards feedback, if you choose to opt into this). The following month will be when you have a dedicated conversation with your manager to go over everything that was submitted as part of the performance review.
 
 ##### Timeline
 
@@ -186,13 +187,13 @@ Because of the relationship between performance, and compensation/ promotions, t
 
 **Meetings**
 
-- ICs to repurpose a 1:1 meeting in June
-- People leaders are scheduled with a third person nominated by their manager. Their managers are responsible for finding time that works for everyone, ideally, the third person can be added into a 1:1 meeting in June.
+- **IC reviews**: managers to repurpose a 1:1 meeting in June
+- **People manager reviews**: people managers are scheduled with a third person nominated by their manager. Their managers are responsible for finding time that works for everyone, ideally, the third person can be added into a 1:1 meeting in June.
 
 **Time commitment estimation:**
 
-- IC: 3 hours total: 2 hours of writing; self, peer, upward. 1 hour of meeting time
-- Managers: 2 hours per team member (including writing, calibration, meeting prep and the meeting) Time commitment should not exceed 20 hours over 2 months (6.25%)
+- **IC:** 3 hours total: 2 hours of writing; self, peer (optional), upward (optional). 1 hour of meeting time
+- **Managers:** 2 hours per team member (including writing, calibration, meeting prep and the meeting) Time commitment should not exceed 20 hours over 2 months (6.25%)
 
 #### **Q2 - Compensation and Promotion**
 
@@ -226,6 +227,7 @@ Because of the relationship between performance, and compensation/ promotions, t
 - Reviews Q2 and Q3 performance. (5/1 - 10/31 in any year)
 - Includes team members that started before 8/1 and are therefore out of their 30/60/90 day plans.
     - Managers that started after 8/1 will still be responsible for reviewing any eligible team members. They should consult with the team members’ former manager and, if applicable, may add them as a collaborator on the review.
+- Everyone will have two weeks to write and complete their reviews (including peer and upwards feedback, if you choose to opt into this). The following month will be when you have a dedicated conversation with your manager to go over everything that was submitted as part of the performance review.
 
 ##### Timeline
     
@@ -235,12 +237,12 @@ Because of the relationship between performance, and compensation/ promotions, t
 | Self reflection, peer and upward 	| All team members             	| First two weeks of November                  	| 2 hours                	|
 | Manager reviews                  	| Managers                     	| Weeks two and three in November              	| 30 min per team member 	|
 | Calibrations                     	| Managers and People Partners 	| Last week of November/First week of December 	| 1 hour                 	|
-| Meetings                         	| All team members             	| December + into Jan if needed                	| 45 min per team member 	|
+| Meetings                         	| All team members             	| December + into January if needed            	| 45 min per team member 	|
 
 **Meetings**
 
-- ICs to repurpose a 1:1 meeting in December
-- Managers are scheduled with a third person. Managers are responsible for finding time that works for everyone, ideally, the third person can be added into a 1:1 meeting in December.
+- **IC reviews**: managers to repurpose a 1:1 meeting in December
+- **People manager reviews**: people managers are scheduled with a third person. Managers are responsible for finding time that works for everyone, ideally, the third person can be added into a 1:1 meeting in December.
 
 **Time commitment estimation:**
 
@@ -302,63 +304,9 @@ It should be a dedicated conversation around topics you normally might not be ab
 
 Ideally, nothing written or discussed in your performance review should be a surprise. Our expectation is immediate and consistent feedback is given throughout the year and not only during review season. So why have reviews if we’re expected to give consistent feedback? For many reasons, these more official checkpoints in the year help us with accountability to summarize that feedback, give us moments to pause and appreciate wins together, and sets aside dedicated spotlight to development conversations.
 
-#### Schedule & Time Commitment
+#### Schedule & Time Commitment for Performance Reviews
 
-ℹ️ For the detailed schedule of Q1 and Q3 performance reviews, see the tables below.
-
-##### Q1 Performance Review
-
-- Reviews Q4 and Q1 performance. (11/1 - 4/30 in any year)
-- Includes team members that started before 2/1 and are therefore out of their 30/60/90 day plans.
-    - Managers that started after 2/1 will still be responsible for reviewing any eligible team members. They should consult with the team members’ former manager and, if applicable, may add them as a collaborator on the review.
-
-Timeline:
-    
-| Step | Who | When | Time Commitment |
-|---|---|---|---|
-| Request peer reviews | All team members | Last week of April | 5 min |
-| Self reflection, peer and upward | All team members | First two weeks of May | 2 hours |
-| Manager reviews | Managers | Weeks two and three in May | 30 min per team member |
-| Calibrations | Managers and People Partners | Last week of May | 1 hour |
-| Meetings | All team members | June | 45 min per team member |
-
-Meetings:
-
-- **IC reviews**: managers to repurpose a 1:1 meeting in June
-- **People manager reviews**: people managers are scheduled with a third person nominated by their manager. Their managers are responsible for finding time that works for everyone, ideally, the third person can be added into a 1:1 meeting in June.
-
-Time commitment estimation:
-
-- **IC:** 3 hours total: 2 hours of writing; self, peer (optional), upward (optional). 1 hour of meeting time
-- **Managers:** 2 hours per team member (including writing, calibration, meeting prep and the meeting) Time commitment should not exceed 20 hours over 2 months (6.25%)
-
-##### Q3 Performance Review
-
-- Reviews Q2 and Q3 performance. (5/1 - 10/31 in any year)
-- Includes team members that started before 8/1 and are therefore out of their 30/60/90 day plans.
-    - Managers that started after 8/1 will still be responsible for reviewing any eligible team members. They should consult with the team members’ former manager and, if applicable, may add them as a collaborator on the review.
-    
-Timeline:
-
-| Step | Who | When | Time Commitment |
-|---|---|---|---|
-| Request peer reviews | All team members | Last week of October | 5 min |
-| Self reflection, peer and upward | All team members | First two weeks of November | 2 hours |
-| Manager reviews | Managers | Weeks two and three in November | 30 min per team member |
-| Calibrations | Managers and People Partners | Last week of November/First week of December | 1 hour |
-| Meetings | All team members | December + into Jan if needed | 45 min per team member |
-
-Meetings:
-
-- **IC reviews**: managers to repurpose a 1:1 meeting in December
-- **People manager reviews**: people managers are scheduled with a third person. Managers are responsible for finding time that works for everyone, ideally, the third person can be added into a 1:1 meeting in December.
-
-Time commitment estimation:
-
-- IC: 3 hours total: 2 hours of writing; self, peer, upward. 1 hour of meeting time
-- Managers: 2 hours per team member (including writing, calibration, meeting prep and the meeting) Time commitment should not exceed 20 hours over 2 months (6.25%)
-
-Everyone will have two weeks to write and complete their reviews (including peer and upwards feedback, if you choose to opt into this). The following month will be when you have a dedicated conversation with your manager to go over everything that was submitted as part of the performance review.
+Learn more about the schedule and logistics for our reviews [here](#schedule--logistics) where you'll find [Q1 Performance Review Schedule](#q1---performance) and [Q3 Performance Review Schedule](#q3---performance).
 
 ### Review Meetings & Conversations
 
@@ -485,9 +433,9 @@ We will create a promotion template in Culture Amp that includes:
 
 Promotions will be reviewed and approved in calibration sessions with each org.
 
-### Schedule & Logistics for Reviews
+#### Schedule and Time Commitment for Compensation and Promotion Reviews
 
-Learn more about the schedule and logistics for our annual reviews [here](#schedule--logistics).
+Learn more about the schedule and logistics for our reviews [here](#schedule--logistics) where you'll find [Q2 Compensation and Promotion Review Schedule](#q2---compensation-and-promotion) and [Q4 Compensation and Promotion Review Schedule](#q4---compensation-and-promotion).
 
 ## [Internal Mobility](https://www.notion.so/dbtlabs/Internal-Mobility-d70f84f1c4bf4215aa017960123a2bfc?pvs=4)
 
