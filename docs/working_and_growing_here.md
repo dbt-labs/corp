@@ -83,7 +83,7 @@ Having a great distributed experience helps both our company and our employees. 
     - **Focus:** Defaulting to async communication means employees’ days aren't sliced into meetings. They have space to get into a flow state that produces efficient and satisfying work.
     - **No commute:** Without office buildings and in-person meeting requirements, employees no longer face stressful and time consuming commutes. That time can be reallocated to best serve the employee as a person.
     - **Autonomy:** We trust our employees to get work done when and where they want. This instills a sense of autonomy that is empowering and motivating for employees to be themselves inside work and live their best lives outside of it.
-- **It supports our [values](/values.md) and culture.**
+- **It supports our [values](values.md) and culture.**
     - **Transparency always wins:** Honest and open communication allows us to collaborate across time zones.
     - **We value diversity:** We equip our global team members to thrive regardless of location by focusing on asynchronous communication and equitable work practices.
     - **We optimize for the long term:** Intentionally building cultural norms, tooling and processes helps set our growing team up for success.
@@ -96,10 +96,10 @@ Having a great distributed experience helps both our company and our employees. 
     
     A distributed workforce doesn’t just mean working from home. We realize that different people thrive in different settings. As a result, we offer benefits to support people in finding the right work setup for them and ensuring they are equipped for success:
     
-    - **[Office stipend:](/handbook/benefits.md#office-stipend-1)** New employees receive $1,500 USD (or local equivalent) to spend in their first year to set up their home office and purchase equipment to comfortably work their preferred location. Each year after, employees receive $400 USD (or local equivalent) to support their remote work setup.
-    - **[Workspace rental:](/handbook/benefits.md#workplace-rental-1)** Working from home does not work for everyone. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
+    - **[Office stipend:](benefits.md#office-stipend-1)** New employees receive $1,500 USD (or local equivalent) to spend in their first year to set up their home office and purchase equipment to comfortably work their preferred location. Each year after, employees receive $400 USD (or local equivalent) to support their remote work setup.
+    - **[Workspace rental:](benefits.md#workplace-rental-1)** Working from home does not work for everyone. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
     - **[Regional offices:](#regional-offices)** In regions with high employee count, dbt Labs has office space to support async-first collaboration and promote our culture and values when teams meet onsite. Designed with intention, these spaces are not used to incentivize local collaboration but instead support community development and foster connection with cross-functional teams during onsites.
-- **Global [comp](/handbook/compensation.md#global-compensation-and-benefits-1) & [benefits](/handbook/benefits.md#global-benefits-strategy--stipend-1)**
+- **Global [comp](compensation.md#global-compensation-and-benefits-1) & [benefits](benefits.md#global-benefits-strategy--stipend-1)**
     
     We offer a transparent compensation philosophy and intentional benefits to support our global employees. All employees have access to stipends to support health and wellness, phone/internet, professional development and health related travel needs.
     
@@ -372,7 +372,7 @@ Check out our [resources](https://www.notion.so/dbtlabs/Performance-Reviews-at-d
 
 📌 We offer promotion and compensation cycles twice a year, in Q2 and Q4. Any changes will be effective on 8/1 and 2/1 respectively, aligning with our fiscal halves. Having 2 cycles per year is meant to give ample opportunity to reward team members.
 
-**Please make sure to review our [compensation principles](/handbook/compensation.md#compensation-principles) in order to understand how we think about compensation at dbt Labs.**
+**Please make sure to review our [compensation principles](compensation.md#compensation-principles) in order to understand how we think about compensation at dbt Labs.**
 
 ### **Compensation review**
 
@@ -713,7 +713,7 @@ In the past, dbt Labs would hire in any country except those we had already dete
 
 ### Global Compensation and Benefits
 
-Learn more about our [Compensation Principles](/handbook/compensation.md#compensation-principles) and [Global Compensation and Benefits](/handbook/compensation.md#global-compensation-and-benefits).
+Learn more about our [Compensation Principles](compensation.md#compensation-principles) and [Global Compensation and Benefits](compensation.md#global-compensation-and-benefits).
 
 ### Relocation (Permanent or Semi-permanent)
 
@@ -830,7 +830,7 @@ Thanks to all our employees whose energy and commitment makes dbt Labs and the l
 
 ### Regional Offices
 
-Learn more about our regional offices [here](/handbook/about_dbt_labs.md#regional-offices).
+Learn more about our regional offices [here](about_dbt_labs.md#regional-offices).
 
 ## Diversity, Equity and Inclusion
 
@@ -924,5 +924,5 @@ You can reach out to a [Peer Advocate](https://www.notion.so/Peer-Advocate-Progr
 
 💡 This is your best option to workplace issues or *suspected illegal or unethical conduct* anonymously.
 
-Learn more about how to use the Anonymous Hotline [here](/handbook/benefits.md#anonymous-hotline).
+Learn more about how to use the Anonymous Hotline [here](benefits.md#anonymous-hotline).
 

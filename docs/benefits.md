@@ -802,7 +802,7 @@ dbt Labs has an anonymous hotline for employees to be able to report workplace i
 
 📌 **This service is implemented to provide an additional option for anonymous reporting but please remember you can always approach your manager, People Business Partner or a member of leadership team directly about any issues you are having.** 
 
-- Learn more about other ways you can get support [here](/handbook/working_and_growing_here.md#getting-support). 
+- Learn more about other ways you can get support [here](working_and_growing_here.md#getting-support). 
 
 ### Initiating a report
 

@@ -62,7 +62,7 @@ Our compensation philosophy has been arrived at over the course of many years, c
 8. We base compensation on current market data for a role / level / country. The point in the range a candidate is offered is dependent on the candidate’s experience in the market and internal pay equity. A candidate’s previous pay is not a factor in setting their compensation at dbt Labs.
     1. In competitive offer scenarios, we may leverage sign-on bonuses. This lever is reserved for special cases and used sparingly.
     
-9. We won’t reduce compensation in roles within the same market (country). A permanent or semi-permanent move to a new country will result in moving to that new local rate. More details on relocation can be found [here](/handbook/working_and_growing_here.md?pr=%2Fdbt-labs%2Fcorp%2Fpull%2F80#relocation-permanent-or-semi-permanent).
+9. We won’t reduce compensation in roles within the same market (country). A permanent or semi-permanent move to a new country will result in moving to that new local rate. More details on relocation can be found [here](working_and_growing_here.md?pr=%2Fdbt-labs%2Fcorp%2Fpull%2F80#relocation-permanent-or-semi-permanent).
     
 10. Changes in compensation may happen during the following events:
     1. For promotions, increases are based on the new role’s market range.
@@ -92,11 +92,11 @@ Our [compensation principles](compensation.md#compensation-principles) are appli
 
 We pay **local country rates** based on [cost of market (also referred to as cost of labor)](https://www.erieri.com/blog/post/cost-of-labor-vs-cost-of-living). This means we will align our compensation with the top (75th - 90th percentile) in each country (looking at ”All UK” “All Germany”, “All Australia”, etc.)
 
-Learn more about our [Global Benefits Strategy & Stipend](/handbook/benefits.md/#Global-Benefits-Strategy-&-Stipend).
+Learn more about our [Global Benefits Strategy & Stipend](benefits.md/#Global-Benefits-Strategy-&-Stipend).
 
 #### Relocation (Permanent or Semi-permanent)
 
-Learn more about the steps to pursue a relocation and the impact on your global compensation and benefits [here](/handbook/working_and_growing_here.md?pr=%2Fdbt-labs%2Fcorp%2Fpull%2F80#relocation-permanent-or-semi-permanent).
+Learn more about the steps to pursue a relocation and the impact on your global compensation and benefits [here](working_and_growing_here.md?pr=%2Fdbt-labs%2Fcorp%2Fpull%2F80#relocation-permanent-or-semi-permanent).
 
 
 ## Salary Bands Philosophy
@@ -244,11 +244,11 @@ Due to the complex and robust nature of US & International compensation and bene
 2. locally competitive using local benchmark data 
 3. locally relevant
 
-You can find more information in [Global Benefits Strategy & Stipend](/handbook/benefits.md#global-benefits-strategy--stipend). 
+You can find more information in [Global Benefits Strategy & Stipend](benefits.md#global-benefits-strategy--stipend). 
 
 #### Is hiring in lower cost of labor locations fair / equitable?
 
-Hiring globally is a business and people decision that has many factors attached to it, from total cost, talent density, business need (sales presence, locale expertise etc). While we grow and expand into various countries we hold true to our [values](/values.md) and our [Compensation Principles](#compensation-principles) to ensure we are rewarding people in a locally competitive, relevant and equitable way.
+Hiring globally is a business and people decision that has many factors attached to it, from total cost, talent density, business need (sales presence, locale expertise etc). While we grow and expand into various countries we hold true to our [values](values.md) and our [Compensation Principles](#compensation-principles) to ensure we are rewarding people in a locally competitive, relevant and equitable way.
 
 ## [Equity](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171)
 
