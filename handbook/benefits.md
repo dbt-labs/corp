@@ -431,7 +431,7 @@ Subject to certain conditions, the continuing treatment requirement may be met b
 
 **Substitution of paid leave for unpaid leave.**  In order to use paid leave for FMLA leave, employees must comply with the company’s normal paid leave procedures found in the Leave policies.
 
-Additionally, dbt Labs offers employees SDI benefits through Unum and employees may be eligible for state disability benefits and state paid family leave benefits depending on where they live. Please speak with the People Team or its delegate (including Sparrow) for more information.
+Additionally, dbt Labs offers employees SDI benefits through UNUM and employees may be eligible for state disability benefits and state paid family leave benefits depending on where they live. Please speak with the People Team or its delegate (including Sparrow) for more information.
 
 **Employee responsibilities.** Employees must provide 30 days’ advance notice of the need to take FMLA leave when the need is foreseeable. When 30 days’ notice is not possible, employees must provide notice as soon as practicable and generally must comply with the company’s normal notification procedures. The company may delay leave to employees who do not provide proper advance notice of the foreseeable need for leave, absent unusual circumstances preventing the notice.
 
@@ -771,9 +771,9 @@ We offer 2 EAP programs.
 
 #### 1. UNUM EAP
 
-UNUM’s EAP services are eligible for all employees **globally.** [UNUM](https://app.strivebenefits.com/dbt/eap?country=us) is also our life and disability provider. 
+UNUM’s EAP call services are eligible for all employees **globally.** [UNUM](https://app.strivebenefits.com/dbt/eap?country=us) is also our life and disability provider. In person visits / local support is not currently provided outside the United States.
 
-Benefits include:
+US - EAP Benefits include:
 - Three face‐to‐face visits with a local counselor to help address personal concerns.
 - Unlimited and confidential phone/online support
 - Access to information and referrals for work/life resources including child care, elder care, legal questions, financial services, relocation support, and more.
