@@ -1,3 +1,10 @@
+---
+id: about_dbt_labs
+title: About dbt Labs
+sidebar_label: About dbt Labs
+---
+
+
 # The dbt Labs Employee Handbook
 
 | Maintained by |
