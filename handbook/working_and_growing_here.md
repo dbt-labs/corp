@@ -276,6 +276,7 @@ Because of the relationship between performance, and compensation/ promotions, t
     - Merit: 2 hours for requests and calibrations plus 30 minutes for each eligible team member for the discussion.
 
 ## [Performance Reviews](https://www.notion.so/Performance-Reviews-at-dbt-Labs-054564274f6042a09e1e8515df579e06) 
+
 ### Overview of the performance review process
 
 #### Cadence
@@ -311,7 +312,7 @@ Ideally, nothing written or discussed in your performance review should be a sur
 - Includes team members that started before 2/1 and are therefore out of their 30/60/90 day plans.
     - Managers that started after 2/1 will still be responsible for reviewing any eligible team members. They should consult with the team members’ former manager and, if applicable, may add them as a collaborator on the review.
 
-**Timeline**
+Timeline:
     
 | Step | Who | When | Time Commitment |
 |---|---|---|---|
@@ -321,12 +322,12 @@ Ideally, nothing written or discussed in your performance review should be a sur
 | Calibrations | Managers and People Partners | Last week of May | 1 hour |
 | Meetings | All team members | June | 45 min per team member |
 
-**Meetings**
+Meetings:
 
 - **IC reviews**: managers to repurpose a 1:1 meeting in June
 - **People manager reviews**: people managers are scheduled with a third person nominated by their manager. Their managers are responsible for finding time that works for everyone, ideally, the third person can be added into a 1:1 meeting in June.
 
-**Time commitment estimation:**
+Time commitment estimation:
 
 - **IC:** 3 hours total: 2 hours of writing; self, peer (optional), upward (optional). 1 hour of meeting time
 - **Managers:** 2 hours per team member (including writing, calibration, meeting prep and the meeting) Time commitment should not exceed 20 hours over 2 months (6.25%)
@@ -337,7 +338,7 @@ Ideally, nothing written or discussed in your performance review should be a sur
 - Includes team members that started before 8/1 and are therefore out of their 30/60/90 day plans.
     - Managers that started after 8/1 will still be responsible for reviewing any eligible team members. They should consult with the team members’ former manager and, if applicable, may add them as a collaborator on the review.
     
-**Timeline**
+Timeline:
 
 | Step | Who | When | Time Commitment |
 |---|---|---|---|
@@ -347,12 +348,12 @@ Ideally, nothing written or discussed in your performance review should be a sur
 | Calibrations | Managers and People Partners | Last week of November/First week of December | 1 hour |
 | Meetings | All team members | December + into Jan if needed | 45 min per team member |
 
-**Meetings**
+Meetings:
 
 - **IC reviews**: managers to repurpose a 1:1 meeting in December
 - **People manager reviews**: people managers are scheduled with a third person. Managers are responsible for finding time that works for everyone, ideally, the third person can be added into a 1:1 meeting in December.
 
-**Time commitment estimation:**
+Time commitment estimation:
 
 - IC: 3 hours total: 2 hours of writing; self, peer, upward. 1 hour of meeting time
 - Managers: 2 hours per team member (including writing, calibration, meeting prep and the meeting) Time commitment should not exceed 20 hours over 2 months (6.25%)
