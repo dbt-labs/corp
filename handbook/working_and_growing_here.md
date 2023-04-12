@@ -592,13 +592,6 @@ Team members are expected to communicate with their manager and team to ensure t
 
 ‼️ **If there is a lapse in providing services to the Company, this will qualify as a termination and all unvested options will be canceled.  If a team member is rehired and resumes providing services to the Company, any grant associated with employment will need to go through the new hire process for equity.  This means that a team member would receive a new strike price, vesting period, etc.**
 
-## Diversity, Equity, and Inclusion
-dbt Labs is committed to diversity, equity, and inclusion. DEI impacts high-level company decisions, and is woven into the culture of everyday work.
-
-We have three DEI committees dedicated to Team Diversity, Culture, and Company Stance and Action. Together, these committees make sure we build a diverse team, equitable company structures, and an environment that gives everyone the support and opportunities they need to thrive.
-
-Learn more about DEI at dbt Labs [here](https://www.getdbt.com/dbt-labs/dei/).
-
 ## Moonlighting Guidance
 What you do in your own time is your business, including additional employment. We understand that many employees are involved in their communities in a variety of ways, paid and unpaid. However, dbt Labs employees are expected to comply with certain guidelines for work and other activities spent outside of your dbt Labs working hours (”[moonlighting](https://dictionary.cambridge.org/us/dictionary/english/moonlighting)”), to ensure such activities do not interfere with, conflict with or put the company at risk.  We encourage transparency, and provide these guidelines for you to consider and discuss with your manager. Acceptable moonlighting:
 
@@ -631,7 +624,7 @@ Thanks to all our employees whose energy and commitment makes dbt Labs and the l
 2. **A marketing effort:**  Many companies use real estate as a status symbol and to amplify their brand awareness.  This is expensive and unrelated to our core workplace values (productivity, inclusivity, and community)
 3. **An incentive to work in person vs at home:** We believe the best talent can come from anywhere and support employees in choosing the home and office environment that best serves them. We will not spend money on excessive meal budgets and in-office perks to motivate employees to choose to come in the office vs work at home. 
 
-### How & When We Build Offices at dbt
+### How & When We Build Offices at dbt Labs
 
 **How we choose where offices go:**
 
