@@ -83,7 +83,7 @@ The benefits stipend will automatically be added to your monthly payroll. You do
 
 ### **Retirement & Pension Plans**
 
-As previously mentioned we look to target locally relevant and competitive benefit options and retirement and pension plans fall under the same philosophy. We are currently working towards getting each required pension scheme and retirement plan solidified. More details will be forthcoming.
+We look to target locally relevant and competitive benefit options. Retirement and pension plans fall under the same philosophy. We are currently working towards getting each required pension scheme and retirement plan solidified and will update here once we have more information.
 
 ## [Healthcare Benefits (US)](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
 
