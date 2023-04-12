@@ -89,7 +89,7 @@ We look to target locally relevant and competitive benefit options. Retirement a
 
 ### [Medical Plans](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
 
-We provide medical, dental and vision benefits to employees and their dependents as well as FSA, DCFSA, and HSA options. Health benefits are paid in part by the company. The remainder of the costs is the employee’s responsibility
+We provide medical, dental and vision benefits to employees and their dependents as well as FSA, DCFSA, and HSA options. Health benefits are paid, in part, by the company. The remainder of the costs is the employee’s responsibility.
 
 Learn more about our medical plans [here](https://app.strivebenefits.com/dbt/2022-2023-medical?country=us).
 
