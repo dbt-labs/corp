@@ -377,17 +377,17 @@ As a general rule, every team member will be eligible for **one** merit compensa
 - Start month/cycle breakdown
     
     | January | Q4 |
-    | February* | Q4 |
+    | February | Q4 |
     | March | Q4 |
     | April | Q4 |
     | May | Q2 |
     | June | Q2 |
     | July | Q2 |
-    | August* | Q2 |
+    | August | Q2 |
     | September | Q2 |
     | October | Q2 |
-    | November | Q4* (+1 year) |
-    | December | Q4* (+1 year) |
+    | November | Q4 (+1 year) |
+    | December | Q4 (+1 year) |
 
 > We encourage team members to understand when their individual compensation review is so that they can prepare to have the conversations with their manager.
 
