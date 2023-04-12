@@ -1,3 +1,9 @@
+---
+id: policies_and_training
+title: Policies and Training
+sidebar_label: Policies and Training
+---
+
 # Policies and Training
 
 | Maintained by |
@@ -165,7 +171,7 @@ Team construction, including hiring, firing, performance management, and coachin
     - ...relative to their internal peers?
     - ...relative to an ideal external candidate for their position?
 - What has been this person's trajectory? We prefer to evaluate the slope of a line rather than its Y-intercept.
-- Does this person embody and act in accordance with [our values](https://github.com/fishtown-analytics/corp/blob/master/values.md)?
+- Does this person embody and act in accordance with [our values](values.md)?
 
 None of these questions are singly determinative, but they are each useful lenses when thinking about the impact of a given individual and their continuing role on the team.
 

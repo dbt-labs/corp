@@ -125,6 +125,14 @@ class Index extends React.Component {
               'working_and_growing_here.html',
             )})`,
           },
+          {
+            content: '',
+            image: `${baseUrl}img/undraw_react.svg`,
+            imageAlign: 'top',
+            title: `[Policies and Training](${docUrl(
+              'policies_and_training.html',
+            )})`,
+          },
         ]}
       </Block>
     );
