@@ -4,8 +4,6 @@ title: Policies and Training
 sidebar_label: Policies and Training
 ---
 
-# Policies and Training
-
 | Maintained by |
 |---|
 | Meg Colón |

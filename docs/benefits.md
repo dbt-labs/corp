@@ -1,10 +1,8 @@
 ---
 id: benefits
-title: Benefits
+title: Benefits and Perks
 sidebar_label: Benefits
 ---
-
-# Benefits and Perks
 
 | Content Maintainers |
 |---|
