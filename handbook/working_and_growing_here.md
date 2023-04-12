@@ -105,7 +105,7 @@ Having a great distributed experience helps both our company and our employees. 
     
     Having the proper tools and systems to support remote work is key to effective communication. We rely heavily on Notion, Slack, and Zoom to keep people connected regardless of where they work. [Open meetings](https://www.notion.so/Open-Internal-Meetings-dee0b870900b4f70898f9c40fcf90719) and office hours are available for team members to foster cross-functional collaboration.
     
-- **[Diversity, Equity and Inclusion](#diversity-equity-and-inclusion-1)**
+- **[Diversity, Equity and Inclusion](#diversity-equity-and-inclusion)**
     
     As a globally distributed company, DEI is critical to our success. DEI is not simply enacted in programs and initiatives, it is woven into the culture of our every day work.
     
