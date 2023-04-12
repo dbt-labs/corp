@@ -1,31 +1,57 @@
 # Benefits and Perks
 
-## Overview
-#### [Global Benefits Strategy & Stipend](#Global-Benefits-Strategy-&-Stipend-1)
-#### [Healthcare Benefits](#Healthcare-Benefits-1)
-#### [Stipends](#Stipends-1)
-#### [Time Off Policy](#Time-Off-Policy-1)
-#### [2023 Company Holidays](#2023-Company-Holidays)
-#### [Leave of Absence Programs](#Leave-of-Absence-Programs-1)
-#### [Workplace Rental](#Workplace-Rental-1)
-#### [Employee Discounts](#Employee-Discounts-1)
-#### Wellness Program
-#### Employee Assistance Programs & Resources
+| Content Maintainers |
+|---|
+| Clyde Stackhouse |
+| Jessica Nguyen |
+| Meg Colón |
+| Leigh Staub |
+
+[Global Benefits Strategy & Stipend](#global-benefits-strategy--stipend)
+
+[Healthcare Benefits](#healthcare-benefits-us)
+- [Medical Plans](#medical-plans)
+- [Disability and Life Insurance](#disability-and-life-insurance)
+- [Health Related Travel Benefit (US)](#health-related-travel-benefit-us)
+- [International Travel Emergency Health Benefits (US)](#international-travel-emergency-health-benefits-us)
+
+[Retirement](#retirement)
+
+[Time Off Policy](#time-off-policy)
+- [2023 Company Holidays](#2023-company-holidays)
+- [Leave of Absence Programs](#leave-of-absence-programs)
+
+[Stipends](#stipends)
+- [How to use Benepass - Perks & Stipend Platform](#how-to-use-benepass---perks--stipend-platform)
+- [Office Stipend](#office-stipend)
+- [Phone & Internet Stipend](#phone--internet-stipend)
+- [Health & Wellness Stipend](#health--wellness-stipend)
+- [Professional Development Stipend](#professional-development-stipend)
+
+[Workplace Rental](#workplace-rental)
+
+[Employee Discounts](#employee-discounts)
+
+[Wellness Program](#wellness-program)
+
+[Employee Assistance Programs & Resources](#employee-assistance-programs--resources)
+
+[Anonymous Hotline](#anonymous-hotline)
 
 
 ## [Global Benefits Strategy & Stipend](https://www.notion.so/dbtlabs/Global-Benefits-Strategy-Stipend-03b4ebfbb278451f894a4cca46c90607?pvs=4)
 
 ### Benefits Strategy and Philosophy
 
-As dbt Labs continues to grow and expand around the world, we believe it’s important that outline our strategy and philosophy around global benefits. The following points are guiding principles that we strive towards and will drive the decision-making around our benefits both domestically and abroad.
+As dbt Labs continues to grow and expand around the world, we believe it’s important to outline our strategy and philosophy around global benefits. The following points are guiding principles that we strive towards and will drive the decision-making around our benefits both domestically and abroad.
 
 - We strive to provide benefits that are both locally relevant and competitive
     - Each Country’s benefits will differ based on local normals and local competition for benefits.
 - Our benefit offerings and coverage will grow and progress as local team sizes grow due to economies of scale and eligibility in various plans
-    - If local teams aren’t large enough to begin group plans, we’ll provide monthly stipends to cover core benefits (Medical, Vision & Dental - Where applicable)
+    - If local teams aren’t large enough to begin group plans, we’ll provide monthly stipends to cover core benefits (Medical, Vision & Dental - where applicable)
 - Values aligned: We are Human → Although we may not be able to implement every benefit or offering we understand that we bring our whole selves to work and we want to hear and respond to feedback
 
-### How is this impacting today?
+### How does this apply today?
 
 Today our international team falls into one of two buckets. 
 
@@ -37,7 +63,7 @@ As employee counts grow to local relevant critical mass for group plans and will
 
 ### Local Entity Medical Benefit Stipends
 
-The following stipend amounts have been developed to help cover some of the cost to acquire additional supplemental insurance until we are able to offer local group plans. You can use this stipend to cover core benefits like medical, dental, vision, Life & disability for yourself and dependents if applicable.
+The following stipend amounts have been developed to help cover some of the cost to acquire additional supplemental insurance until we are able to offer local group plans. You can use this stipend to cover core benefits like medical, dental, vision, life & disability for yourself and dependents if applicable.
 
 #### Monthly Stipend Amount
 
@@ -53,13 +79,17 @@ The following stipend amounts have been developed to help cover some of the cost
 
 ### Receiving the Benefits Stipend
 
-The benefits stipend will automatically be added to your monthly payroll. You do not need to request for a reimbursement through Airbase.
+The benefits stipend will automatically be added to your monthly payroll. You do not need to request a reimbursement through Airbase.
 
 ### **Retirement & Pension Plans**
 
-As previously mentioned we look to target locally relevant and competitive benefit options and retirement and pension plans fall under the same philosophy. We are currently working towards getting each required Pension scheme and retirement plan solidified. More details will be forthcoming.
+We look to target locally relevant and competitive benefit options. Retirement and pension plans fall under the same philosophy. We are currently working towards getting each required pension scheme and retirement plan solidified and will update here once we have more information.
 
-## [Healthcare Benefits](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
+## [Healthcare Benefits (US)](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
+
+### [Medical Plans](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
+
+We provide medical, dental and vision benefits to employees and their dependents as well as FSA, DCFSA, and HSA options. Health benefits are paid, in part, by the company. The remainder of the costs is the employee’s responsibility.
 
 Learn more about our medical plans [here](https://app.strivebenefits.com/dbt/2022-2023-medical?country=us).
 
@@ -67,38 +97,77 @@ New hires may enroll themselves and dependents in health benefits online through
 
 To enroll in benefits as a new hire, existing employee during open enrollment or at a time of a qualifying life event, follow our [guide](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4). Note: Employees who currently have a High Deductible Health Plan coverage selection are able to adjust their HSA contributions throughout the year. This is the only benefit adjustment that does not require a Qualifying Life or Work Event.
 
-## Stipends
+### Disability and Life Insurance
+We provide long term and short term disability as well as life insurance coverage to all US-based employees at no cost. Voluntary, additional, life insurance coverage for employees and dependants is available at the expense of the employee. Learn more:
+- [Life Insurance](https://app.strivebenefits.com/dbt/unum-life-and-add?country=us)
+- [Disability](https://app.strivebenefits.com/dbt/unum-disability?country=us)
 
-### Office Stipend
-### Phone & Internet Stipend
-### Health & Wellness Stipend
-### Professional Development Reimbursement
+### US Employees enrolled in our health insurance are eligible for the following benefits as well:
+
+#### [Health Related Travel Benefit (US)](https://www.notion.so/dbtlabs/Health-Related-Travel-Benefit-1b3541b3eec3444d883de4ecf601dd9f?pvs=4)
+
+📌 We believe that it’s imperative that our team members have access to quality healthcare that they need, no matter where they live. Therefore, dbt Labs will reimburse up to $4,000 in travel expenses annually[^1] for any U.S. team member (including their dependent(s)) who requires healthcare that is not available in their state of residence.
+
+Many states have introduced legislation to reduce or restrict access to critical healthcare, including abortion care and gender-affirming care. This is in direct conflict with our values at dbt Labs and this policy is designed to support access to adequate healthcare for our team members across the United States who do not have access where they live. 
+
+[^1]: Resets with the fiscal year on February 1. 
+
+**Eligible travel expenses include:**
+
+- Transportation (reasonable flights, trains, taxis, buses, etc)
+- Reasonable Lodging
+- Meals
+- Transportation, lodging and meals expenses for one support person who accompanies the team member.
+
+**Who is eligible?**
+
+- All team members or any dependent who is enrolled in dbt Labs health insurance is eligible for this reimbursement; which will be paid directly by us (not by the insurance company). The net total annual benefit (for each team member and their dependents combined) is $4,000.
+
+**In order to maintain privacy and ensure that folks are comfortable leveraging this reimbursement, please follow the process below:**
+
+1. Email receipts directly to Meg Colón (meg@dbtlabs.com). Please include a note that the receipts are for healthcare-related travel, but we do not require more information than that.
+2. Reimbursements will be processed directly through payroll. 
+    1. The Head of People will be the only person with access to receipts and reason for travel and will not discuss or share with anyone. The Payroll Manager will receive only the amount to add to payroll.
+3. If you need support relating to out-of-state travel for healthcare purposes, please contact Meg directly.
+
+#### [International Travel Emergency Health Benefits (US)](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4)
+
+US employees utilizing our health benefits have access to emergency care while traveling abroad. 
+
+Emergencies are generally classified as any symptoms that might be “limb or life threatening”, which could be something like broken limb, chest pain, anaphylaxis/allergy reactions causing severe symptoms, etc. If you are not sure if something is considered an emergency, contact your doctor. 
+
+Both Cigna and Kaiser have access to Registered Nurses who are available 24/7 to assess medical conditions over the phone and make suggestions for care (find these numbers on the back of your insurance card).
+
+Learn more about this benefit [here](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4).
+
+## Retirement
+Employees have access to an employer-sponsored 401K plan. Immediately upon hire, dbt Labs will contribute 3% of employee’s monthly salary into the retirement account on a monthly basis. Employees can additionally opt to contribute up to the federal maximum to their retirement account. dbt Labs will contribute to the retirement account regardless of any supplemental employee contributions.
 
 ## [Time Off Policy](https://www.notion.so/dbtlabs/Time-Off-Policy-cb5363a73ca1485dbf94619c4c57aa6f?pvs=4)
 
 In alignment with our core value, **“We Work Hard and Go Home”**, dbt Labs offers unlimited paid time off to support you to recharge, spend time with your family, and/or take care of personal matters. To encourage you to turn off your brain, travel, and spend time with your family, recommend you take a *minimum* amount of vacation days **(2 weeks, aka 10 business days)** each calendar year. 
 
 - We estimate that 4 weeks in a year is a good amount to take off (also based on what we have seen historically); note though that we do not have a cap on the number of days you can take off for Personal Time Off.
-- At the end of each quarter, the People team will be sending managers a list of how much time off each person has already taken / planned to take for the rest of the year (based on what is requested in ADP).
+- At the end of each quarter, the People team will send managers a list of how much time off each person has already taken / planned to take for the rest of the year (based on what is requested in ADP).
 - We encourage managers to do check-ins with their team (based on the data provided above): for those not taking time off, managers should seek to understand why this is the case and to help their team member structure their workload or work priorities in a way that allows them to actually disconnect from work to recharge.
 
-We ask that you input your time-off requests into ADP and categorize them accordingly [based on the definitions below](#Types-of-time-off-plans-&-definitions). 
+We ask that you input your time-off requests into ADP and categorize them accordingly [based on the definitions below](#%EF%B8%8Ftypes-of-time-off-plans--definitions). 
 
 **Please discuss your time-off schedule with your manager prior to taking the time off so we can plan for coverage while you are out**. **Manager approval will be required to take time off!** When planning your time off, we ask that you also be mindful of the major dates and deadlines that may be unique and critical to your role.
 
 When in doubt, please discuss with your manager about your plans
 
-### ❓When would time off be declined?
+#### When would time off be declined?
 
 - It shows blatant abuse of the unlimited time off policy. For example (but not limited to the following):
     - Using open vacation in place of a leave of absence (see below).
     - Requesting time off that is more than 4 consecutive weeks in duration.
-- Amount of (or dates of request for) PTO negatively impacts your team or the company.
+- Amount of (or dates of request for) PTO negatively impacts your team or the company, as determined by your manager.
 - Performance is affected negatively.
 
-### ➡️ Types of time off plans & definitions
+#### ➡️ Types of time off plans & definitions
 
-👉 For time off plans outside of Personal Time Off: if you need to take more than 2 consecutive weeks off, your manager or People team will be reaching out to see if a Leave of Absence may need to be utilized instead to support you through your specific life event.
+👉 For time off plans outside of Personal Time Off: if you need to take more than 2 consecutive weeks off, your manager or a member of the People team will be reaching out to see if a Leave of Absence may need to be utilized instead to support you through your specific life event.
 
 - **Personal Time Off**:  If you are taking vacation or need to take time off work to attend to other personal matters.
 - **Sick Time:** If your time off is related to your own illness or a family member’s illness (i.e. care for another family member or taking them to see the doctor), or for you to go see a medical professional. You can also use this category for a mental health day.
@@ -108,9 +177,9 @@ When in doubt, please discuss with your manager about your plans
 - **Other country specific categories**: As dbt Labs has presence in multiple countries, we can’t categorize every mandatory time off type. If your time off is not due to one of the above, please use the “Other” reason code in ADP and put in the comments what it is.
 - **Leaves of Absences:** If you need to be absent for an extended period of time due to any reason, it may be better to consider taking a leave of absence. Examples of different paid leave of absence types and policy documents can be found below (paid leave below indicates 100% base and commission payments during these durations):
     
-    [Leave of Absence Programs](#Leave-of-Absence-Programs) 
+    [Leave of Absence Programs](#leave-of-absence-programs) 
     
-    - ***Paid Parental Leave** - to be taken within the first year of parenthood; any dbt Labs employees who needs to care for a newborn as a result of birth or adoption is able to take up to 12 weeks of paid leave*
+    - ***Paid Parental Leave** - to be taken within the first year of parenthood; any dbt Labs employee who needs to care for a newborn as a result of birth or adoption is able to take up to 12 weeks of paid leave*
     - ***Paid Medical Leave** - any dbt Labs employee who needs to take dedicated time off to recover from their own medical event (i.e. physical or mental illness, surgery, etc) is able to take up to 4 weeks of paid leave*
     - ***Paid Caregiver Leave -** any dbt Labs employee who needs to take dedicated time off to care for a seriously ill person is able to take up to 4 weeks of paid leave*
 - **Company Holidays**: dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. See [2023 Company Holidays ](#2023-Company-Holidays) for days observed. You are asked to observe your local holidays (for the country you reside in).
@@ -119,13 +188,13 @@ Note that because in the United States, your time off is not accrued, you will n
 
 For international employees, see [below](#International-Considerations-for-accrued-time-and-pay-out-upon-termination-with-the-company) for respective details.
 
-### 💪 Best practices for being out of the office
+#### 💪 Best practices for being out of the office
 
 ADP has a limitation at the moment, where teams cannot see each other’s time-off requests. 
 
 1️⃣ We recommend that after your time off request has been approved, to note you will be “Out of Office” on your Google Calendar (and make this event public so people can see).
 
-Google Calendar also as an “Out of Office” feature where they can auto-decline any event that is scheduled during the period you are out. This may be helpful for you to set up!
+Google Calendar also has an “Out of Office” feature where they can auto-decline any event that is scheduled during the period you are out. This may be helpful for you to set up!
 
 Additionally, some teams may have team time off calendars within Google Calendar. Talk to your manager if this is something your team has; you may be asked to make your out of office dates visible here to help create visibility with your teammates. 
 
@@ -133,11 +202,11 @@ Additionally, some teams may have team time off calendars within Google Calendar
 
 3️⃣ Set up an “out of office” auto response to your email for the dates you will be out, and clearly indicate who someone should contact instead.
 
-Learn how to requet time off in ADP [here](https://www.notion.so/dbtlabs/Time-Off-Policy-cb5363a73ca1485dbf94619c4c57aa6f?pvs=4#b819ac73f9994db6a5f4572571b44cc5).
+Learn how to request time off in ADP [here](https://www.notion.so/dbtlabs/Time-Off-Policy-cb5363a73ca1485dbf94619c4c57aa6f?pvs=4#b819ac73f9994db6a5f4572571b44cc5).
 
-### 🌐 International Considerations for accrued time and pay out upon termination with the company
+#### 🌐 International Considerations for accrued time and pay out upon termination with the company
 
-In your employment contracts, you will see that you are eligible for a specific number of annual leave (or holidays) days to be accrued over the course of the plan year (to be used as personal time off). There is a clause in your contracts that once your annual leave (or holiday) entitlements have been used up, you are eligible to take an unlimited number of days, as long as you have manager approval. 
+In your employment contracts, you will see that you are eligible for a specific number of annual leave (or holiday) days to be accrued over the course of the plan year (to be used as personal time off). There is a clause in your contracts that once your annual leave (or holiday) entitlements have been used up, you are eligible to take an unlimited number of days, as long as you have manager approval. 
 
 From a logistical standpoint, what you can expect in ADP:
 
@@ -151,7 +220,7 @@ At the end of your employment with dbt Labs, if you have unused time off accrued
 
 - If your time off balance is negative, note that we will not deduct any amounts from your final paycheck
 
-#### 🌍 If you are employed through Remote.com
+**🌍 If you are employed through Remote.com**
 
 The above explanation of how accrued time works and pay out upon termination is the same for Remote employees. This is because in your contracts, you still have a set number of days that is shown. You can take any days off as long as you have manager approval.
 
@@ -160,15 +229,15 @@ The above explanation of how accrued time works and pay out upon termination is 
 Please discuss your time off schedule ahead of time with your manager, as they do not have visibility into requests within the Remote platform.
 
 
-## 2023 Company Holidays
+### [2023 Company Holidays](https://www.notion.so/dbtlabs/2023-Company-Holidays-9e0e48bb8404496a868161e170e0a494?pvs=4)
 
-In addition to our unlimited vacation policy, dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. You are asked to observe your local holidays (for the country you reside in).
+In addition to our unlimited vacation policy, dbt Labs observes a number of public and company holidays every year, and this schedule varies by country. You are asked to observe your local holidays (for the country you reside in).
 
-We recognize that there are many other cultural, religious or location based holiday's and encourage our team members to work with their manager to take the time they need.
+We recognize that there are many other cultural, religious or location based holidays and encourage our team members to work with their manager to take the time they need.
 
 Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please reference the list of public holidays provided via Remote's Platform.
 
-### US Company Holidays
+#### US Company Holidays
 - New Years Day (observed)-  Monday, January 2, 2023
 - MLK Day- Monday, January 16, 2023
 - Memorial Day- Monday, May 29, 2023
@@ -183,7 +252,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - Winter Break- Tuesday, December 26, 2023→Friday, December 29, 2023
 - New Year’s Day- Monday, January 1, 2024
 
-## United Kingdom Holidays
+#### United Kingdom Holidays
 - New Year’s Day- Monday, January 2, 2023
 - Easter Monday- Monday, April 10, 2023
 - Early May Bank Holiday- Monday, May 1, 2023
@@ -193,7 +262,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - Boxing Day- Tuesday, December 26, 2023
 - Winter Break- Wednesday, December 27, 2023→Friday, December 29, 2023
 
-## Ireland Holidays
+#### Ireland Holidays
 - New Year’s Day- Monday, January 2, 2023
 - Saint Patrick’s Day- Friday, March 17, 2023
 - Easter Monday- Monday, April 10, 2023
@@ -205,7 +274,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - Saint Stephen’s Day- Tuesday, December 26, 2023
 - Winter Break- Wednesday, December 27 → Friday, December 29, 2023
 
-## Germany Holidays
+#### Germany Holidays
 - New Year’s Day- Monday, January 2, 2023
 - Epiphany (BW,BY & ST)- Friday, January 6, 2023
 - Good Friday- Friday, April 7, 2023
@@ -220,7 +289,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - Saint Stephen’s Day- Tuesday, December 26, 2023
 - Winter Break- Wednesday, December 27 → Friday, December 29, 2023
 
-## Australia Holidays
+#### Australia Holidays
 - New Year’s Day- Monday, January 2, 2023
 - Australia Day- Thursday, January 26, 2023
 - Labour Day (WA)- Monday, March 6, 2023 
@@ -235,7 +304,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - Boxing Day- Tuesday, December 26, 2023
 - Winter Break- Wednesday, December 27 → Friday, December 29, 2023
 
-## New Zealand Holidays
+#### New Zealand Holidays
 - New Years Day- Monday, January 2
 - New Year Holiday- Tuesday, January 3
 - Waitangi Day- Monday, February 6 
@@ -249,9 +318,9 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - Christmas Day- Monday, December 25
 - Boxing Day- Tuesday, December 26
 
-## [Leave of Absence Programs](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4)
+### [Leave of Absence Programs](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4)
 
-We offer paid and unpaid leave of absence programs. All leave types will run concurrent with all company holidays and will not add additional days to the established leave policy unless legally required. 
+We offer paid and unpaid leave of absence programs. All leave types will run concurrently with all company holidays and will not add additional days to the established leave policy unless legally required. 
 
 
 Below is a summary of our paid leave programs.
@@ -264,7 +333,7 @@ Below is a summary of our paid leave programs.
 | Miscarriage Leave 	| 2 Weeks                  	| Continuous      	| N/A                             	|                                                                                   	|
 | Bereavement Leave 	| 2 Weeks                  	| Continuous      	| N/A                             	| 2 additional weeks may be granted if a team member requires more time to grieve.  	|
 
-### ***Paid Parental Leave***
+#### ***Paid Parental Leave***
 
 **Time off & Pay**
 
@@ -288,7 +357,7 @@ Stock options will continue to vest at their regular rate during paid or unpaid 
 
 Employees returning from Parental Leave will be reinstated to the same position, or if that position is no longer available due to reasons unrelated to the employee’s leave, a comparable position. Employees will receive pay and benefits equivalent to those received prior to their leave.
 
-### **Paid Medical Leave**
+#### **Paid Medical Leave**
 
 **Time off & Pay**
 
@@ -302,7 +371,7 @@ If employees participate in dbt Labs’s group health plan, the company will mai
 
 **Vesting**
 
-Stock options will continue to vest at their regular rate during paid or unpaid leave. Vesting will be paused during unpaid leave.
+Stock options will continue to vest at their regular rate during paid or unpaid leave. 
 
 **Return to Work**
 
@@ -312,17 +381,17 @@ Employees may be asked to provide a Fitness for Duty form completed by their med
 
 Employees who need to take dedicated time off to care for a seriously ill or injured person will be allowed to take up to 4 weeks of paid Caregiver Leave. The illness or injury must be a serious health condition (defined below).
 
-Certain personal relationships may be eligible for wage replacement programs through the state. For example, a caregiver leave to care for a parent, child, or sibling, is eligible for wage replacement through a Paid Family Leave program. In those cases, employees are required to file a paid family leave claim. dbt Labs will coordinate with these benefits to ensure that employees receive 100% pay.
+Certain personal relationships may be eligible for wage replacement programs through the state. For example, a caregiver leave for caring for a parent, child, or sibling, is eligible for wage replacement through a Paid Family Leave program. In those cases, employees are required to file a paid family leave claim. dbt Labs will coordinate with these benefits to ensure that employees receive 100% pay.
 
 A serious health condition is an illness, an injury, an impairment, or a physical or mental condition that involves either an overnight stay in a medical care facility or continuing treatment by a healthcare provider for a condition that either prevents the qualified family member from participating in school, work, or other daily activities. Subject to certain conditions, the continuing treatment requirement may be met by a period of incapacity of more than three consecutive calendar days combined with at least two visits to a healthcare provider or one visit and a regimen of continuing treatment, incapacity due to pregnancy, or incapacity due to a chronic condition. Other conditions may meet the definition of “continuing treatment.”
 
 Under some circumstances, employees may take this leave intermittently, which means taking leave in blocks of time or reducing the employee's normal weekly or daily work schedule. An employee may take leave intermittently whenever it is medically necessary to care for a seriously ill individual. Leave taken intermittently may be taken in increments of no less than one week.
 
-### Miscarriage Leave
+#### Miscarriage Leave
 
 Employees who experience or have a partner who experiences a miscarriage are eligible for two (2) weeks of leave paid at 100% of their base salary. In the event that the employee experiences medical difficulties beyond this time frame, they may be eligible for a Medical Leave.
 
-### **Paid Bereavement Leave**
+#### **Paid Bereavement Leave**
 
 In accordance with dbt Labs’ open time off policy, employees already are able to take up to two (2) weeks of Bereavement Time Off to grieve for a loss of life. If additional time is needed beyond the two (2) weeks, employees will be eligible to take an additional two (2) weeks to grieve under Paid Bereavement Leave on a case-by-case basis.
 
@@ -340,7 +409,7 @@ Please note there are many requirements, qualifications, and exceptions under th
 
 The FMLA requires private employers with 50 or more employees and all public agencies, including state, local, and federal employers, and local education agencies (schools) to provide eligible employees up to 12 weeks of unpaid, job-protected leave in any 12-month period for certain family and medical reasons. The 12-month period is a rolling period measured backward from the date an employee uses any FMLA leave, except for leaves to care for a covered service member with a serious illness or injury. For those leaves, the leave entitlement is 26 weeks in a single 12-month period measured forward from the date an employee first takes that type of leave.
 
-**Employee eligibility.** The FMLA defines eligible employees as employees who (1) have worked for the company for at least 12 months; (2) have worked for the company for at least 1,250 hours in the previous 12 months; and (3) work at or report to a worksite that has 50 or more employees or is within 75 miles of company worksites that, taken together, have a total of 50 or more employees. *(75 Miles radius waved due to fully remote & distributed work force)*
+**Employee eligibility.** The FMLA defines eligible employees as employees who (1) have worked for the company for at least 12 months; (2) have worked for the company for at least 1,250 hours in the previous 12 months; and (3) work at or report to a worksite that has 50 or more employees or is within 75 miles of company worksites that, taken together, have a total of 50 or more employees. *(75 Miles radius waived due to fully remote & distributed workforce)*
 
 **Basic leave entitlement.** The FMLA requires covered employers to provide up to 12 weeks of unpaid, job-protected leave to eligible employees for the following reasons: (1) for incapacity due to pregnancy, prenatal medical care, or childbirth; (2) to care for the employee’s child after birth or placement for adoption or foster care; (3) to care for the employee’s spouse, child, or parent who has a serious health condition; or (4) for a serious health condition that makes the employee unable to work.
 
@@ -362,7 +431,7 @@ Subject to certain conditions, the continuing treatment requirement may be met b
 
 **Substitution of paid leave for unpaid leave.**  In order to use paid leave for FMLA leave, employees must comply with the company’s normal paid leave procedures found in the Leave policies.
 
-Additionally, dbt Labs offers employees SDI benefits through Unum and employees may be eligible for state disability benefits and state paid family leave benefits depending on where they live. Please speak with the People Team or its delegate (including Sparrow) for more information.
+Additionally, dbt Labs offers employees SDI benefits through UNUM and employees may be eligible for state disability benefits and state paid family leave benefits depending on where they live. Please speak with the People Team or its delegate (including Sparrow) for more information.
 
 **Employee responsibilities.** Employees must provide 30 days’ advance notice of the need to take FMLA leave when the need is foreseeable. When 30 days’ notice is not possible, employees must provide notice as soon as practicable and generally must comply with the company’s normal notification procedures. The company may delay leave to employees who do not provide proper advance notice of the foreseeable need for leave, absent unusual circumstances preventing the notice.
 
@@ -405,12 +474,206 @@ dbt Labs may, in its sole discretion and unless prohibited by law, require an em
 **How To Request a Leave of Absence:** To help employees navigate their potential options dbt Labs is partnering with [Sparrow](https://trysparrow.com/), a Leave Management Partner. 
 
 Anyone who may need to take a leave of absence should either:
-a) contact their [People Business Partner Team](https://www.notion.so/7c4b9fca56e245e684bd8d8e79f65910) member, or
+a) contact their [People Business Partner Team](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) member, or
 b) submit your request via this [**leave request form](https://form.asana.com/?k=KZqlYJHKhsQoYJvtFJXibw&d=312418853397011)** 
 
 The People Support team will introduce you to a Sparrow Leave Specialist as soon as your leave is approved. Sparrow will schedule a call with you to discuss your leave plans, identify the key dates when they need to be involved, and gather the necessary information to file your leave paperwork on your behalf.
 
 Employees who will be going on a leave of absence should review the related policy outlined above.
+
+## [Stipends](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4)
+
+As part of dbt Lab's total rewards strategy, we provide various stipends to help cover some of the cost associated with working from home; as well as supporting our team members' development and well being. These policies apply to all full-time employees that work for any dbt Labs entity or who are employed through our Professional Employer Organizations (PEO - ie, Remote.com).
+
+### How to use Benepass - Perks & Stipend Platform
+
+Benepass is our benefits/perks partner and is specifically designed to help administer stipends and supplemental perks. Learn more about how to use Benepass and get answers to FAQs [here](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4#b4463cef29e54a4c9d1a9fe137f7282e).
+
+- Benepass is used for Office Stipend, Phone & Internet Stipend, Health & Wellness Stipend, and Professional Development Stipend. - Policies and reimbursements that are NOT administered through Benepass are: Workspace Rental Experience, Health Related Travel Benefit, Corporate Travel & Expense Policy.
+- Benepass can be accessed via Okta, their [Online Portal](https://app.getbenepass.com/#/) or through their mobile [app](https://apps.apple.com/us/app/benepass/id1497613952). 
+
+### [Office Stipend](https://www.notion.so/dbtlabs/Office-Stipend-5f5a37d1026d4fb78ee3c6439fada6dc?pvs=4)
+
+#### Policy
+
+There are many advantages to building a remote-first culture, however we understand that this remote first approach can become a burden on employees that now need to set up a home office that is conducive to their work. This policy is designed to help mitigate some of that burden and pass our savings onto you. 
+
+**Office Stipend Types**
+
+1. Office Refresh Stipend - All employees receive up to **$400 each fiscal year** to help refresh their existing office set-up and needs. Our fiscal year runs Feb 1-Jan 31.
+2. New Hire Office Stipend - All new hires receive a **total of $1,500** to use through out their first year to help assist in building their home office
+-  *In our Benepass Platform, new hires will see an $1,100 New Hire Office Stipend + $400 Office Refresh Stipend = $1,500. This allows new hires to utilize their funds through out the entire year.
+
+All office stipend expenses should be purchased using your Benepass card or reimbursed through the Benepass site or app.
+
+Learn more about the stipend amount by country, based on local purchasing power, [here](#stipend-amounts-by-country).
+
+#### **Common Eligible Items (This is not an Exhaustive list)**
+
+- Monitor
+- Mouse
+- Keyboard
+- Desk
+- Desk Chair
+- Headphones
+- Laptop stand
+- Webcam/microphone
+- Monitor privacy filter
+- Calendar
+- Whiteboard
+- Printer
+- Exercise ball to sit on
+- Office supplies (pens, paper, printer cartridges)
+- Monitor riser / Standing desk topper
+- Ergonomic accessories
+- Adapter/cords to connect the above items to your laptop computer
+- Lighting
+
+#### List of Items **NOT** eligible via the home office stipends
+
+- Phones
+- Tablets or Tablet accessories
+- Couches
+- Living room chairs
+- Paint & Wallpaper
+- Window furnishings
+
+#### Common Questions
+
+**Do you have any recommendations on how to best use this stipend?**
+
+- Check out [Equipment Recommendations](https://www.notion.so/Equipment-Recommendations-3a2c5c26f31c43658a188f95a71f15a6) for recommendations from other dbt team members!
+
+**What if I can’t build my entire office with the provided $1,500?**
+
+- We understand that the needs and wants may differ between each person in building out their home office. These stipends are meant to help supplement **some** of the costs associated with our remote first environment. Additionally, we will continue to monitor and assess all existing stipend amounts each year.
+
+**How can I find out if something is an eligible expense?**
+
+- If you’re unsure if something is included within the policy, reach out directly to Benepass support team via the app.
+
+### [Phone & Internet Stipend](https://www.notion.so/dbtlabs/Phone-Internet-Stipend-afc584bf27f24a9f81267022f30557af?pvs=4)
+
+#### Policy
+
+As part of our remote first approach, and in an effort to help our team do their best work, dbt labs provides **up to $125 each month** to help cover some of the costs associated with your personal phone and internet. 
+
+**Eligible Expenses**
+
+- Internet costs to include (internet, service fees, etc.)
+- Phone costs to include (cellular service for **your** phone only)
+
+**List of Items Not Eligible**
+
+- Additional services attached to your internet provider (ex. TV, home phone and additional subscription services)
+- Device payment installments, accessory data plans (Apple watch service), other phone lines on the bill, added subscriptions.
+
+All phone and internet expenses should be purchased using your Benepass card or reimbursed through the Benepass site or app.
+
+Learn more about the stipend amount by country, based on local purchasing power, [here](#stipend-amounts-by-country).
+    
+#### General Guidelines
+
+- Internet Expense: address on the bill must match your current address in ADP. Please make sure these match prior to submitting.
+- Phone Expense: phone number on the bill must match the phone number on file in ADP. If multiple lines are on a bill, please submit for the cost of one line as the amount for reimbursement.
+
+### [Health & Wellness Stipend](https://www.notion.so/dbtlabs/Health-Wellness-Stipend-092dcde477b246638bab319183054668?pvs=4)
+
+#### Policy
+
+Employees to bring their whole selves to work and we know that health and wellness are key factors in producing their best work. To help with this, we provide all full time employees up to **$125 each month** to use towards their physical, mental & financial wellbeing.
+
+**Examples of Eligible Expenses (Not exhaustive list)**
+
+- Gym & fitness memberships - Including digital memberships and subscriptions
+- Exercise equipment - At home weights / exercise machines, yoga mat etc.
+- Recreational actives - Ski passes, golfing, hiking permits, camping, horseback riding
+- Recreational equipment - golf clubs, bicycle & equipment, sports protective gear etc. *Specialized footwear like running shoes, hiking boots, ski boots
+- Mental health - Meditation and mental health apps, therapy visits etc.
+- Wellbeing services - Massage gun/Massage Therapy, Weight loss programs etc.
+- Financial wellness - Digital financial wellness services (budgeting software), financial Workshops, debt or tax consulting Services
+
+**Examples of Expenses Not Eligible**
+
+- Food services & consumables - Meal Kits, take out food, Uber eats subscription, etc.
+- Household goods & Services - Therapeutic bed, juicers, HEPA filters, clean services, ergo equipment, etc.
+- Cosmetic goods & services - Manicures, pedicures, hair color, hair cuts, makeup, facials, spa treatments, etc.
+- Athleisure clothing - Gym shorts, yoga pants, athletic shirts, winter jackets, etc.
+- Investment training & tools - motley fool, stock picker subscriptions, etc.
+
+All health and wellness expenses should be purchased using your Benepass card or reimbursed through the Benepass site or app. 
+
+Learn more about the stipend amount by country, based on local purchasing power, [here](#stipend-amounts-by-country).
+
+#### Common Questions
+
+**Can a large purchase be paid in installments over time?**
+
+Yes! Benepass is able to track and manage ‘payment’ systems for large purchases.
+
+**Do you have more examples of eligible and non-eligible expenses?**
+
+Check out a more robust list [here](https://docs.google.com/spreadsheets/d/1EAmO6874G_FqyVAGJTXG-eU3TNIBuNo8WiEHnwS79vY/edit#gid=0). This isn’t an exhaustive list but we will build it out over time as questions arise.
+
+### [Professional Development Stipend](https://www.notion.so/dbtlabs/Professional-Development-Reimbursement-d35cf1246a0c4c8e96b25cc22fe9d1cb?pvs=4)
+
+#### Policy
+
+At dbt Labs we believe in moving up the stack. Not only do we encourage our team to seek out learning opportunities to grow and develop, but also provide up to **$500 each fiscal year** for employees to use on learning and professional development expenses. Common eligible expenses include, but are not limited to:
+
+- Subscriptions
+- Books
+- Software
+
+All professional development expenses should be purchased using your Benepass card or reimbursed through the Benepass site or app.
+
+Learn more about the stipend amount by country, based on local purchasing power, [here](#stipend-amounts-by-country).
+
+#### Common Questions
+
+**Does the professional development purchase need to be directly related to my role?**
+
+It doesn’t; but it does need to be considered professional development as it relates to the career you have or the career you want. This can be defined in two ways:
+
+1. Core Training: "On the job" learning, training of core skills, experience levels growth, area training, deepening expertise in one's domain.
+2. Stretch Learning: Learning that is outside of the role's scope, bridges the gaps between departments, supports career changes, or helps someone build more general context.
+
+**What if I want to take a course or attend a conference that costs more than $500?**
+
+Occasionally, expenses beyond the initial $500 will be reimbursed with advanced manager approval. This is most relevant as it relates to in-person conferences (fees, travel, and expenses). Let your manager know what you need, and they can send the request to the **#finance-support** Slack channel and do their best to make it work.
+
+**What are some examples of professional development purchases?**
+
+- Courses using online platforms like:
+    - [Udemy](https://www.udemy.com/courses/) – Online courses with a range of topics
+    - [Skillshare](https://www.skillshare.com/) – Online courses for creators
+    - [Highbrow](http://gohighbrow.com/) – Get 5-minute lessons delivered to your inbox every morning
+    - [Datacamp](https://www.datacamp.com/) – Learn Data Science online
+    - [Treehouse](https://teamtreehouse.com/) – Learn Web Design, Coding, and more
+- Books to learn more about a subject or to dive into how other companies do things; for the People team, this may look like:
+    - [Measure What Matters](https://www.whatmatters.com/the-book/) (OKRs)
+    - [Powerful](https://pattymccord.com/book/) (Netflix Culture)
+    - [Work Rules!](https://www.workrules.net/) (Google Culture)
+- Certifications or professional memberships:
+    - [People Ops Society Membership](https://www.peopleopssociety.com/)
+    - CPA Renewal
+
+### General Guidelines for All Stipends
+
+- All stipend expenses must be processed using your Benepass card or submitted for reimbursement through the Benepass app. [Learn more here.](#how-to-use-benepass---perks--stipend-platform)
+- All transactions over $50 USD or local equivalent require a receipt / documentation
+    - All reimbursements require a receipt / documentation
+- All full time employees are eligible for these stipends in their first month, regardless of their actual hire date.
+- Stipend amounts must be used within their allotted time or the **funds will expire** (ie. Each stipend has as fiscal year (Feb 1-Jan 31) or monthly timeline. Funds not used during that time period will expire and will not roll over)
+    - **Expired Health & Wellness Funds example**: On July 18th your Benepass card is charged for your gym membership for $100, reducing your Health & Wellness available funds to $25. On July 25th you purchase a sleeve of golf balls for $15 on your personal card. On August 1st your Health and Wellness wallet’s remaining $25 from July expire and is then refreshed to $125 for the month of August. August 2nd you submit for a reimbursement for the golf balls and the $15 is reimbursed and deducts the $15 from the available $125 August amount.
+- Stipend amounts will be evaluated on an annual basis (Key factors - benchmark data, purchasing power indices, budget availability)
+- Annual Stipends must be submitted in a timely fashion, best practice is to submit expenses within 30 days.
+    - Past 30 day submissions: while you can still submit these expenses past 30 days, this best practice helps ensure we aren’t back-loading and incurring large sums of reimbursements as we close out a Quarter or Fiscal year and timely submissions help with this!
+- Non-comprehensive [**list of eligible items](https://docs.google.com/spreadsheets/d/1EAmO6874G_FqyVAGJTXG-eU3TNIBuNo8WiEHnwS79vY/edit#gid=0)** (This will consistently be updated from time to time)
+
+### Stipend Amounts by Country
+
+Learn about our stipend amounts by country [here](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4#6fe12c7cd08c4886a602a13fd4c3e960).
 
 ## Workplace Rental 
 
@@ -418,13 +681,13 @@ Working from home does not work for everyone. Employees receive a monthly benefi
 
 ### Goals/Values of Enabling Work Outside of the Home:
 
-1. **Productivity**: dbt’s remote-first / async culture is designed to allow employees to “work from anywhere” vs just “work from home”.  The ***primary goal*** of supporting workplaces outside the home is to enable employees to build the optimal environment for their work.
+1. **Productivity**: dbt Lab's remote-first / async culture is designed to allow employees to “work from anywhere” vs just “work from home”.  The ***primary goal*** of supporting workplaces outside the home is to enable employees to build the optimal environment for their work.
 2. **Inclusiveness:** In-person / outside the home workplace benefits must not compromise remote employees’ ability to collaborate.  
 3. **Community:** Provide opportunities for team members to build rapport with one another, engage cross-functionally, and strengthen a sense of shared values and goals.
 
 🖐️ Please keep in mind that the main goal of this is to enhance your personal work environment. If you choose to collaborate in a co-working space with co-workers, you are mindful that everyone who needs to be involved in a conversation is.  If your project/collaboration can be accomplished over zoom or asynchronously, then it should be done that way to avoid excluding others. 
 
-### By enabling employees to rent workspaces outside the home to optimize productivity! We offer:
+### We offer the following to enable employees to rent workspaces outside the home and optimize for productivity:
 
 1. $250 per month in workplace rental coverage for all employees through Liquidspace 
 2. $1500 per quarter workplace rental stipend for Directors (L7+) and above to book large conference room / work spaces through Liquidspace to support in-person meetings for teams
@@ -433,27 +696,29 @@ Working from home does not work for everyone. Employees receive a monthly benefi
 
 #### What is Liquidspace and how do I use it?
 
-About Liquidspace:   Liquidspace is an online marketplace for renting workplaces and offices.  It is considered the “airbnb of workplace rentals”  in that it utilizes a number of companies and private hosts to allow for over 10,000 locations to choose from. Liquidspace will be a new tile added to your Okta board.  Simply login from there and begin searching. 
+About Liquidspace:   Liquidspace is an online marketplace for renting workplaces and offices.  It is considered the “airbnb of workplace rentals”  in that it utilizes a number of companies and private hosts to allow for over 10,000 locations to choose from. Liquidspace will be a new tile added to your Okta board.  Simply login from there and begin searching.
 
-#### When should I use Liquidspace vs a dbt Office?
+To access Liquidspace, simply login through Okta or [here](https://liquidspace.com/dbtlabs/signin?returnPath=%2Fmain). There is no need to submit reimbursement for this, the costs will be managed within LiquidSpace. 
 
-When in the vicinity / metro area of a dbt Labs office, leverage the office instead of liquidspace to the best of your ability.   If you are local to an office but the office is full or doesn’t suit your needs (e.g. you need a bigger space for a customer / team meeting) feel free to leverage liquidspace as needed. 
+#### When should I use Liquidspace vs a dbt Labs office?
 
-#### What if I want to rent a different workspace for the day that is not available on liquidspace?
+When in the vicinity / metro area of a dbt Labs office, leverage the office instead of Liquidspace to the best of your ability.   If you are local to an office but the office is full or doesn’t suit your needs (e.g. you need a bigger space for a customer / team meeting) feel free to leverage Liquidspace as needed. 
 
-We do not reimburse one-time workplace rental expense for locations outside the Liquidspace platform. 
+#### What if I want to rent a different workspace for the day that is not available on Liquidspace?
+
+We do not reimburse one-time workplace rental expenses for locations outside the Liquidspace platform. 
 
 However, if you are looking for a space and there are no viable or available options near you in LiquidSpace, and you can find space elsewhere, you may use your personal card and expense the cost up to $250/month.  Please use the expense code “Office Space” in Airbase. 
 
-#### Can I go over my budget on liquidspace?
+#### Can I go over my budget on Liquidspace?
 
-No - the $250 rental benefit is strictly enforced within Liquidspace.  For example, if you have used $230 of the monthly benefit, and want to book a day pass for $35, liquidspace will not process the rental. 
+No - the $250 rental benefit is strictly enforced within Liquidspace.  For example, if you have used $230 of the monthly benefit, and want to book a day pass for $35, Liquidspace will not process the rental. 
 
 #### Is there an exception process if i want to rent a monthly space that is more expensive than my monthly budget?
 
 YES! - If you are a team member who does not have an optimal at-home workplace, **and expects to be going into the office 3 times a week or more**, we want to support you in finding the right work environment! 
 
-Most monthly subscriptions are more than the $250 limit, so liquidspace will not allow you to book on the company plan.  In order to book the space, you can use your own credit card (on liquidspace OR another platform) and then claim the $250 credit through Airbase.  You must book an unlimited monthly subscription or permanent desk at a coworking space to be eligible for the airbase refund (we do not offer this for day passes).
+Most monthly subscriptions are more than the $250 limit, so Liquidspace will not allow you to book on the company plan.  In order to book the space, you can use your own credit card (on Liquidspace OR another platform) and then claim the $250 credit through Airbase.  You must book an unlimited monthly subscription or permanent desk at a coworking space to be eligible for the airbase refund (we do not offer this for day passes).
 
 #### Non-US-based Employees:
 
@@ -473,7 +738,7 @@ Learn more about how to use LiquidSpace and how to book larger meeting spaces [h
 
 Employee discounts are available through [LifeMart](https://lm.lifemart.com/group/lifemart/home). 
 
-*Login using the same email you use to login to ADP. (Currently, this should be your FA email)*
+*Login using the same dbt Labs email you use to login to ADP.*
 
 You can find savings on things like:
 
@@ -486,10 +751,81 @@ You can find savings on things like:
 
 ## [Wellness Program](https://www.notion.so/dbtlabs/Bright-Wellness-Program-699cfc7511f743f887226ed218adf676?pvs=4)
 
-🚨 At dbt Labs self-care is not a luxury; its a priority. dbt Labs partnered with [Bright](https://choosebright.com/dbt/), the creators of a well-being platform for teams, to offer you a comprehensive well-being program - the Bright Pass - for free!
+🚨 At dbt Labs self-care is not a luxury; it's a priority. dbt Labs partnered with [Bright](https://choosebright.com/dbt/), the creators of a well-being platform for teams, to offer you a comprehensive well-being program - the Bright Pass - for free!
 
 - Keynotes and other events are also included each week covering a range of topics, such as financial well-being, sleep,  and coping with stress.
 - The Bright Pass gives you access to over 250 live, virtual classes each week. Sessions include daily yoga, fitness, meditation, and nutrition!
 - Bright’s sessions are live and interactive to help you feel connected to your team and to Bright’s educators.
 
 Learn more about setting up your account [here](https://www.notion.so/dbtlabs/Bright-Wellness-Program-699cfc7511f743f887226ed218adf676?pvs=4#4be0b7d338ef47feb3a7dfbd8ae278d1).
+
+## [Employee Assistance Programs & Resources](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4)
+
+### What is an EAP?
+
+*An Employee Assistance Program (EAP) is a voluntary, work-based program that offers free and confidential assessments, short-term counseling, referrals, and follow-up services to employees who have personal and/or work-related problems.*
+
+### How do you use it?
+
+We offer 2 EAP programs.
+
+#### 1. UNUM EAP
+
+UNUM’s EAP call services are eligible for all employees **globally.** [UNUM](https://app.strivebenefits.com/dbt/eap?country=us) is also our life and disability provider. In person visits / local support is not currently provided outside the United States.
+
+US - EAP Benefits include:
+- Three face‐to‐face visits with a local counselor to help address personal concerns.
+- Unlimited and confidential phone/online support
+- Access to information and referrals for work/life resources including child care, elder care, legal questions, financial services, relocation support, and more.
+- Service extends to employees, their spouses or domestic partners, dependent children (26 and younger), parents and parents-in-law.
+
+Learn more about UNUM EAP and how to access this service [here](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4#8d2c2e91ce7b4bb9a2628ca00f6e5dcd).
+
+[2021 EAP - Employee Flyer.pdf](https://github.com/dbt-labs/corp/files/10994740/2021.EAP.-.Employee.Flyer.pdf)
+
+#### 2. ADP - LifeCare EAP (US)
+
+ADP - LifeCare EAP services are eligible for US employees only.
+
+Learn more about the ADP - Lifecare EAP and how to access this service [here](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4#c41a81f919e64558930b2050ee44230c).
+
+[LifeCare EAP Brochure.pdf](https://github.com/dbt-labs/corp/files/10994732/LifeCare.EAP.Brochure.pdf)
+
+## [Anonymous Hotline](https://www.notion.so/dbtlabs/Anonymous-Hotline-309767332cbc4fdf8b8fee1bc7c5e9ce?pvs=4)
+dbt Labs has an anonymous hotline for employees to be able to report workplace issues or *suspected illegal or unethical conduct* anonymously. 
+
+📌 **This service is implemented to provide an additional option for anonymous reporting but please remember you can always approach your manager, People Business Partner or a member of leadership team directly about any issues you are having.** 
+
+- Learn more about other ways you can get support [here](/handbook/working_and_growing_here.md#getting-support). 
+
+### Initiating a report
+
+To initiate a report, you should either call the hotline (833-602-7944), fill out the [mobile intake form](https://dbtlabs.navexone.com/), or fill out [website intake form](https://secure.ethicspoint.com/domain/en/report_custom.asp?clientid=83870).
+
+There is a wide variety of issues that you can choose to report, including:
+
+- Conflicts of interest
+- Discrimination or harassment
+- Misconduct or inappropriate behavior
+- Accounting and auditing matters
+- Anti-bribery
+- Confidentiality and misappropriation
+
+If you have any questions about the service, please contact Meg Colón, Helena Gorman, or Vanessa Yeh.
+
+### More about Ethicspoint
+
+- **Who has access to see the information submitted?**
+    - Only Ethicspoint System Administrators (Meg Colón and Helena Gorman) and the System Advocates (Vanessa Yeh and Gabriel Bolatiwa) have access to the reports.
+    - If one system admin is listed in the report, then the other one would have access. If both are listed in the report, then Vanessa or Gabriel, the system advocates, would have access to the report.
+- **SLA for actions taken / investigation / follow up**
+    - A team member will initiate the report, choose the type of report and fill out the report details.
+        - Please note that the reporter will be required to create a password for the report and at the end of the process, the team member will be given a report key that they should store somewhere. Both the password and the key will allow the team member to follow up on their report.
+        - If the team member would like to follow up, they can do so by calling the hotline or visiting the website.
+    - Once a report is made, the administrator assigned will get a notification and can view the open case.
+        - This will initiate an investigation; the people team will thoroughly investigate the claims being made through both interviews and collecting evidence through other avenues.
+            - Ethicspoint does allow us to communicate with the reporter while maintaining anonymity if additional information is required.
+        - We will comment on the case as the investigation progresses and when it has been completed.
+            - If any wrongdoing or breach of policy has been determined, we will take disciplinary action up to and including termination.
+- **Reminder of our no-retaliation policy**
+    - It is important to remember that dbt Labs has a no-retaliation policy. This means that no team member will be retaliated against for making a complaint in good faith through **any of our reporting avenues**. If a team member feels they have been retaliated against, they should file a complaint using the procedures set forth on this page.
