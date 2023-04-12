@@ -661,9 +661,9 @@ In the past, dbt Labs would hire in any country except those we had already dete
 |----------------	|----------------------------	|------------------	|------	|----------	|-----------------------	|
 | Australia      	| dbt Labs Australia Pty Ltd 	| Overseas Connect 	| ADP  	| AUD      	| No                    	|
 | Ireland        	| dbt Labs Ireland Limited   	| Overseas Connect 	| ADP  	| EUR      	| No                    	|
-| United Kingdom 	| dbt Labs UK Limited        	| Overseas Connect 	| ADP  	| EUR      	| Yes                    	|
+| United Kingdom 	| dbt Labs UK Limited        	| Overseas Connect 	| ADP  	| GBD      	| Yes                    	|
 | United States  	| dbt Labs, Inc.             	| ADP              	| ADP  	| USD      	| Yes                   	|
-| Germany        	| dbt Labs GmbH              	| Overseas Connect 	| ADP  	| GBD      	| No                      	|
+| Germany        	| dbt Labs GmbH              	| Overseas Connect 	| ADP  	| ERU      	| No                      	|
  
 📌 For countries where dbt Labs is able to sponsor a work permit, the People team also needs to do an assessment of your job to see if it falls into a “speciality work visa” category. We would need to determine that you and your role meet all of the sponsorship criteria. **Please reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) if you require sponsorship.**
 
