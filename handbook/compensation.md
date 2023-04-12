@@ -170,8 +170,6 @@ Salary bands in their simplest form is the compensation range for a given role w
 
 ### How we built our salary bands
 
-As we grow and mature, so has our compensation and total rewards strategy. For example, we've increased our data sets to improve our ability to accurately benchmark specific roles instead of functional buckets.
-
 Learn more about how our salary bands are made [here](#how-salary-bands-are-made).
 
 ### What ranges are built?
