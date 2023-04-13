@@ -40,7 +40,7 @@ sidebar_label: Working and Growing Here
 
 ## Distributed Work Experience
 
-## [Our Distributed Work Experience](https://www.notion.so/dbtlabs/How-we-think-about-the-Distributed-Experience-5edaf90eafad420b9a05ffc03a3cc5c7?pvs=4)
+[Notion reference](https://www.notion.so/dbtlabs/How-we-think-about-the-Distributed-Experience-5edaf90eafad420b9a05ffc03a3cc5c7?pvs=4)
 
 Learn how we think about the distributed experience.
 
@@ -148,6 +148,8 @@ STE 500
 Philadelphia, PA 19123
 
 ## Annual Review Cadence
+
+[Notion reference](https://www.notion.so/dbtlabs/Annual-Review-Cadence-67cf553acf544bc3a6df40c72e883d2a?pvs=4)
 
 🌏 *Note that all dates below are formatted by US dates, so it will be MM/DD*
 
@@ -281,7 +283,9 @@ Because of the relationship between performance, and compensation/ promotions, t
     - Promotions: 6 hours per team member (including writing, collecting and meetings)
     - Merit: 2 hours for requests and calibrations plus 30 minutes for each eligible team member for the discussion.
 
-## [Performance Reviews](https://www.notion.so/Performance-Reviews-at-dbt-Labs-054564274f6042a09e1e8515df579e06) 
+## Performance Reviews
+
+[Notion reference](https://www.notion.so/Performance-Reviews-at-dbt-Labs-054564274f6042a09e1e8515df579e06) 
 
 ### Overview of the performance review process
 
@@ -366,7 +370,10 @@ The objective of calibration sessions is to ensure that different managers apply
 
 Check out our [resources](https://www.notion.so/dbtlabs/Performance-Reviews-at-dbt-Labs-054564274f6042a09e1e8515df579e06?pvs=4#538637004b4040a1b571732dfae5425f) to support the performance review process.
 
-## [Compensation Reviews and Promotion Cycles](https://www.notion.so/Compensation-Reviews-and-Promotion-Cycles-3cd43b727be1471c991cb6964bae4ccd) 
+## Compensation Reviews and Promotion Cycles
+
+[Notion reference](https://www.notion.so/Compensation-Reviews-and-Promotion-Cycles-3cd43b727be1471c991cb6964bae4ccd) 
+
 
 📌 We offer promotion and compensation cycles twice a year, in Q2 and Q4. Any changes will be effective on 8/1 and 2/1 respectively, aligning with our fiscal halves. Having 2 cycles per year is meant to give ample opportunity to reward team members.
 
@@ -441,7 +448,9 @@ Promotions will be reviewed and approved in calibration sessions with each org.
 
 Learn more about the schedule and logistics for our reviews [here](#schedule--logistics) where you'll find [Q2 Compensation and Promotion Review Schedule](#q2---compensation-and-promotion) and [Q4 Compensation and Promotion Review Schedule](#q4---compensation-and-promotion).
 
-## [Internal Mobility](https://www.notion.so/dbtlabs/Internal-Mobility-d70f84f1c4bf4215aa017960123a2bfc?pvs=4)
+## Internal Mobility
+
+[Notion reference](https://www.notion.so/dbtlabs/Internal-Mobility-d70f84f1c4bf4215aa017960123a2bfc?pvs=4)
 
 ### Overview
 
@@ -516,7 +525,9 @@ After you go through the interview process, you will hear back from the hiring m
 3. Your past performance reviews
 4. Expectations in the new role (30/60/90 day plan)
 
-## [Embedded Roles](https://www.notion.so/dbtlabs/Embedded-Roles-at-dbt-Labs-348e63b53dcf41e0a103b1fbf682e3af?pvs=4)
+## Embedded Roles
+
+[Notion reference](https://www.notion.so/dbtlabs/Embedded-Roles-at-dbt-Labs-348e63b53dcf41e0a103b1fbf682e3af?pvs=4)
 
 ### Why Organizational Design is Hard
 
@@ -617,13 +628,15 @@ But even with this success, it’s naive to assume that just “hiring collabora
 5. **How long will this embedded relationship last?** Generally, there is a “sweet spot” that allows the embedded team member to spend adequate time with the functional area to develop expertise and add value, but not so long on the team that they develop a “bus factor” and become a turnover risk. Most often we feel that the appropriate range here is 6-24 months, but realize that your mileage may vary.
 6. **What is this person’s career path within the company?** We should make sure that we’re not creating dead-end roles for embedded team members. This can sometimes happen when a person’s role doesn’t have obvious next steps outside of the team that they are embedded with. We should prevent this situation as it will lead to employee turnover.
 
-## [Making a Referral](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4)
+## Making a Referral
+
+[Notion reference](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4)
 
 Who better to find great people to work here than great people that already work here? We don't currently offer a referral bonus program but that shouldn't stop you from sending any and all referrals our way!
 
 ### Who should you refer?
 
-Take a look at our open jobs in greenhouse or on our website! 
+Take a look at our open jobs in [Greenhouse](https://app5.greenhouse.io/internal_job_board/) or on our [website](https://www.getdbt.com/dbt-labs/open-roles/)! 
 
 1. If you know someone that could be a fit, great!
 2. If you know someone that's awesome and would be a great addition to dbt Labs but don't see an open role that would fit them - we'd still like to talk to them and get them into our talent network for future openings!
@@ -633,7 +646,9 @@ Take a look at our open jobs in greenhouse or on our website!
 
 Follow these instructions [here](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4#292f0c69c0a543198799036041f389ea).
 
-## [Global Employment](https://www.notion.so/dbtlabs/Global-Employment-at-dbt-Labs-a0c8faf3a9234d6a83280654caff0424)
+## Global Employment
+
+[Notion reference](https://www.notion.so/dbtlabs/Global-Employment-at-dbt-Labs-a0c8faf3a9234d6a83280654caff0424)
 
 ### **Country Hiring Guidelines**
 
@@ -868,7 +883,9 @@ If work that conflicts with your deeply held beliefs is a regular and predictabl
 
 💡 You can see some of the discussion that led to this policy in [Working Document: Conscientious Objection](https://www.notion.so/Working-Document-Conscientious-Objection-31977f6aa61b447fabc4f5ac6a20f02f).
 
-## [Getting Support](https://www.notion.so/dbtlabs/How-to-Ask-a-People-Question-a17443c3b92346b185ca4b4c266497df?pvs=4)
+## Getting Support
+
+[Notion reference](https://www.notion.so/dbtlabs/How-to-Ask-a-People-Question-a17443c3b92346b185ca4b4c266497df?pvs=4)
 
 We want to make sure team members receive the support they need. The People Team is often the first place employees look to get their questions answered. dbt Labs offers different options depending on your question or situation.
 
