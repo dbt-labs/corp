@@ -22,7 +22,7 @@ sidebar_label: Policies and Training
 
 [Involuntary Terminations](#involuntary-terminations)
 
-[US Employment Posters](#us-employment-posters)
+[US Employement Posters](#us-employement-posters)
 
 [Privacy Notices](#privacy-notices)
 
@@ -318,7 +318,7 @@ We regularly conduct retrospectives on terminations. The purpose of this retrosp
 
 As in all things, our goal here is to be as transparent as possible. In going through these meetings we will look to share as many learnings from these retrospectives as possible without violating employee privacy.
 
-## US Employment Posters
+## US Employement Posters
 
 Please review the employment posters for the state you live in, and also the federal posters which apply to each US employee. All posters can be found [here](https://www.notion.so/dbtlabs/US-Employment-Posters-de219cf7a3774a73b206060831193c0c?pvs=4).
 
