@@ -24,7 +24,6 @@
 
 [Background Checks](#background-checks)
 
-[Addendums](#addendums)
 
 ## Code of Conduct
 
