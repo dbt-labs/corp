@@ -26,7 +26,10 @@ sidebar_label: Compensation
 
 [Pay & Equity Ranges in Job Offers](#pay--equity-ranges-in-job-offers)
 
-## [Compensation Principles](https://www.notion.so/dbtlabs/dbt-Labs-Compensation-Principles-0d570903e75e45fc8f9f3fca13a77d00?pvs=4)
+## Compensation Principles
+
+[Notion reference](https://www.notion.so/dbtlabs/dbt-Labs-Compensation-Principles-0d570903e75e45fc8f9f3fca13a77d00?pvs=4)
+
 Learn more about how we think about compensation at dbt Labs. Below are our compensation principles which we reference when making all compensation decisions.
 
 ### The Why
@@ -82,6 +85,7 @@ If you have a specific question around your compensation, one of your direct rep
 [^6]: ISOs are specifically US-based because they are an outcome of US tax law.
 
 ## Pay Day
+
 Employees are paid semimonthly by direct deposit on the 15th (for work performed the 1st to the 15th) and the last day of the month (for work performed the 16th to the last day). If payday happens to fall on a weekend or holiday, payment will be processed on the previous business day. View the payroll schedule [here](https://www.notion.so/dbtlabs/Payroll-Schedules-1c14ff45ae7e4388b76a69ac2b83abf8?pvs=4).
 
 ## Global Compensation and Benefits
@@ -143,7 +147,9 @@ Additionally, we have outlined the step by step process of how we go from raw da
 
 [^7]: Specific Roles - Both Radford and Mercer have 100+ different jobs / roles that we can match to which allows us to get more specific with the roles and duties to ensure that our role bands are developed using the most correlated data and skill set. This is vital to ensure we aren’t over or under targeting pay for roles that have been lumped into 1 large bucket.
 
-## [Salary Bands Overview](https://www.notion.so/dbtlabs/Salary-Bands-FY24-36e87c18c6bc4436bb8b72c2af9391c4)
+## Salary Bands Overview
+
+[Notion reference](https://www.notion.so/dbtlabs/Salary-Bands-FY24-36e87c18c6bc4436bb8b72c2af9391c4)
 
 Salary bands in their simplest form is the compensation range for a given role within an organization. These ranges are built and developed using market data that allows companies to benchmark their roles compared to others in their industry. The market data used is a direct reflection of a company's compensation strategy and philosophy as it determines how competitive they will be in attracting and retaining talent. We build our salary bands using tech specific data as well, using the 75th Percentile as the basis or target of our ranges (In short, this ensures that we are competing with other tech companies and that our pay should meet or exceed 75% of other companies for similar roles and levels).
 
@@ -183,7 +189,9 @@ The first step in building salary bands is determining all planned and existing 
 6. Principal / Advisory
 7. Distinguished / Strategist
 
-## [How Salary Bands are Made](https://www.notion.so/dbtlabs/Process-How-Salary-Bands-are-Made-4928ec6f5a42407391bb290ab6722ce6)
+## How Salary Bands are Made
+
+[Notion reference](https://www.notion.so/dbtlabs/Process-How-Salary-Bands-are-Made-4928ec6f5a42407391bb290ab6722ce6)
 
 📌 Compensation & salary band development is both an art and a science and we strive to leverage data and best practice to develop bands that will allow us to both attract and retain talent. The science is the clear process of developing and selecting data to produce a target market percentage. The art is the sifting through the nuances of this imperfect data to ensure that career progression as well as cross company comparisons align.
 
@@ -216,13 +224,17 @@ All dbt Labs employees have access to our salary bands.
 - [US Salary Bands FY24](https://www.notion.so/dbtlabs/0425a64c1fd64ac0a861586e97143367?v=9db7a2df831b4448bcb133bfedead3e3)
 - [International Salary Bands FY24](https://www.notion.so/dbtlabs/International-Salary-Bands-FY24-771a98d468154bf4af3f08baf90ec45b?pvs=4)
 
-## [International Salary Bands](https://www.notion.so/dbtlabs/International-Salary-Bands-FY24-771a98d468154bf4af3f08baf90ec45b?pvs=4)
+## International Salary Bands
+
+[Notion reference](https://www.notion.so/dbtlabs/International-Salary-Bands-FY24-771a98d468154bf4af3f08baf90ec45b?pvs=4)
 
 ### Global Pay Practice
 
 We localize all compensation ranges at a company level using the same methodologies based on the specific country's local market. This practice and decision becomes increasingly important as companies scale and grow globally, especially when considering the all encompassing Total Rewards Strategy which is a blend of monetary and nonmonetary rewards (countries have differences in government provided healthcare, pension plan requirement ranges, cost of labor based on market data and cost of living). This means each country has nuances that must be considered when creating a total rewards offerings. We consistently leverage various data sources and reports as well as external consultants to help ensure we are leveraging ‘best practices’ as our foundation to build upon.
 
-### [FAQs about International Pay](https://www.notion.so/dbtlabs/FAQ-s-International-Pay-ad3050bc18eb428e802fe0c0eb7ac41c?pvs=4)
+### FAQs about International Pay
+
+[Notion reference](https://www.notion.so/dbtlabs/FAQ-s-International-Pay-ad3050bc18eb428e802fe0c0eb7ac41c?pvs=4)
 
 #### How are international salary bands built differently from US Bands?
 
@@ -248,7 +260,9 @@ You can find more information in [Global Benefits Strategy & Stipend](benefits.m
 
 Hiring globally is a business and people decision that has many factors attached to it, from total cost, talent density, business need (sales presence, locale expertise etc). While we grow and expand into various countries we hold true to our [values](values.md) and our [Compensation Principles](#compensation-principles) to ensure we are rewarding people in a locally competitive, relevant and equitable way.
 
-## [Equity](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171)
+## Equity
+
+[Notion reference](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171)
 
 We believe that employee ownership is a way for employees to share in the success of the Company. As such, we issue stock options as part of most employees' compensation packages.
 
@@ -328,12 +342,16 @@ All option grants must be approved by the Board of Directors. Grants are typical
 
 Learn more about our current valuations and exercise prices [here](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171?pvs=4#f5ac0ac6089a4ebf8a34679f4990a6d3).
 
-- ### [Equity Bands FY24](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5)
+ - ### Equity Bands FY24
+ 
+[Notion reference](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5)
 
 All employees have access to our equity bands and they can be accessed [here](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5?pvs=4).
 
 
-## [Pay & Equity Ranges in Job Offers](https://www.notion.so/Making-Offers-Using-Pay-Equity-Ranges-f0a8c7d90b6347569dcce539cf21867e) 
+## Pay & Equity Ranges in Job Offers
+
+[Notion reference](https://www.notion.so/Making-Offers-Using-Pay-Equity-Ranges-f0a8c7d90b6347569dcce539cf21867e) 
 
 ### Using Salary Ranges
 
