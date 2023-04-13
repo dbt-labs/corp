@@ -1,3 +1,9 @@
+---
+id: values
+title: Values
+sidebar_label: Values
+---
+
 ### We are a mission-driven company.
 
 We believe that profits are an important tool in the pursuit of our mission, but they are not the mission itself.
