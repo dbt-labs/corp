@@ -82,7 +82,7 @@ If you have a specific question around your compensation, one of your direct rep
 [^6]: ISOs are specifically US-based because they are an outcome of US tax law.
 
 ## Pay Day
-Employees are paid semimonthly by direct deposit on the 15th (for work performed the 1st to the 15th) and the last day of the month (for work performed the 16th to the last day). If payday happens to fall on a weekend or holiday, payment will be processed on the previous business day.
+Employees are paid semimonthly by direct deposit on the 15th (for work performed the 1st to the 15th) and the last day of the month (for work performed the 16th to the last day). If payday happens to fall on a weekend or holiday, payment will be processed on the previous business day. View the payroll schedule [here](https://www.notion.so/dbtlabs/Payroll-Schedules-1c14ff45ae7e4388b76a69ac2b83abf8?pvs=4).
 
 ## Global Compensation and Benefits
 
