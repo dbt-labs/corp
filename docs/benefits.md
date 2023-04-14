@@ -12,9 +12,9 @@ sidebar_label: Benefits
 
 [Global Benefits Strategy & Stipend](#global-benefits-strategy--stipend)
 
-[Healthcare Benefits](#healthcare-benefits-us)
-- [Medical Plans](#medical-plans)
-- [Disability and Life Insurance](#disability-and-life-insurance)
+[Healthcare Benefits (US)](#healthcare-benefits-us)
+- [Medical Plans (US)](#medical-plans-us)
+- [Disability and Life Insurance](#disability-and-life-insurance-us)
 - [Health Related Travel Benefit (US)](#health-related-travel-benefit-us)
 - [International Travel Emergency Health Benefits (US)](#international-travel-emergency-health-benefits-us)
 
@@ -46,7 +46,7 @@ sidebar_label: Benefits
 
 [Notion reference](https://www.notion.so/dbtlabs/Global-Benefits-Strategy-Stipend-03b4ebfbb278451f894a4cca46c90607?pvs=4)
 
-### Benefits Strategy and Philosophy
+### Benefits Strategy & Philosophy
 
 As dbt Labs continues to grow and expand around the world, we believe it’s important to outline our strategy and philosophy around global benefits. The following points are guiding principles that we strive towards and will drive the decision-making around our benefits both domestically and abroad.
 
@@ -86,13 +86,13 @@ The following stipend amounts have been developed to help cover some of the cost
 
 The benefits stipend will automatically be added to your monthly payroll. You do not need to request a reimbursement through Airbase.
 
-### **Retirement & Pension Plans**
+### Retirement & Pension Plans
 
 We look to target locally relevant and competitive benefit options. Retirement and pension plans fall under the same philosophy. We are currently working towards getting each required pension scheme and retirement plan solidified and will update here once we have more information.
 
 ## Healthcare Benefits (US)
 
-### Medical Plans
+### Medical Plans (US)
 
 [Notion reference](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
 
@@ -104,7 +104,7 @@ New hires may enroll themselves and dependents in health benefits online through
 
 To enroll in benefits as a new hire, existing employee during open enrollment or at a time of a qualifying life event, follow our [guide](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4). Note: Employees who currently have a High Deductible Health Plan coverage selection are able to adjust their HSA contributions throughout the year. This is the only benefit adjustment that does not require a Qualifying Life or Work Event.
 
-### Disability and Life Insurance
+### Disability and Life Insurance (US)
 We provide long term and short term disability as well as life insurance coverage to all US-based employees at no cost. Voluntary, additional, life insurance coverage for employees and dependants is available at the expense of the employee. Learn more:
 - [Life Insurance](https://app.strivebenefits.com/dbt/unum-life-and-add?country=us)
 - [Disability](https://app.strivebenefits.com/dbt/unum-disability?country=us)
@@ -139,7 +139,7 @@ Many states have introduced legislation to reduce or restrict access to critical
     1. The Head of People will be the only person with access to receipts and reason for travel and will not discuss or share with anyone. The Payroll Manager will receive only the amount to add to payroll.
 3. If you need support relating to out-of-state travel for healthcare purposes, please contact Meg directly.
 
-#### [International Travel Emergency Health Benefits (US)](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4)
+#### International Travel Emergency Health Benefits (US)
 
 [Notion reference](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4)
 
@@ -254,7 +254,7 @@ Additionally, some teams may have team time off calendars within Google Calendar
 
 Learn how to request time off in ADP [here](https://www.notion.so/dbtlabs/Time-Off-Policy-cb5363a73ca1485dbf94619c4c57aa6f?pvs=4#b819ac73f9994db6a5f4572571b44cc5).
 
-#### 🌐 International Considerations for accrued time and pay out upon termination with the company
+#### 🌐 International considerations for accrued time and pay out upon termination with the company
 
 In your employment contracts, you will see that you are eligible for a specific number of annual leave (or holiday) days to be accrued over the course of the plan year (to be used as personal time off). There is a clause in your contracts that once your annual leave (or holiday) entitlements have been used up, you are eligible to take an unlimited number of days, as long as you have manager approval. 
 
@@ -278,7 +278,6 @@ The above explanation of how accrued time works and pay out upon termination is 
 
 Please discuss your time off schedule ahead of time with your manager, as they do not have visibility into requests within the Remote platform.
 
-
 ### 2023 Company Holidays
 
 [Notion reference](https://www.notion.so/dbtlabs/2023-Company-Holidays-9e0e48bb8404496a868161e170e0a494?pvs=4)
@@ -290,6 +289,7 @@ We recognize that there are many other cultural, religious or location based hol
 Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please reference the list of public holidays provided via Remote's Platform.
 
 #### US Company Holidays
+
 - New Years Day (observed)-  Monday, January 2, 2023
 - MLK Day- Monday, January 16, 2023
 - Memorial Day- Monday, May 29, 2023
@@ -305,6 +305,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - New Year’s Day- Monday, January 1, 2024
 
 #### United Kingdom Holidays
+
 - New Year’s Day- Monday, January 2, 2023
 - Easter Monday- Monday, April 10, 2023
 - Early May Bank Holiday- Monday, May 1, 2023
@@ -315,6 +316,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - Winter Break- Wednesday, December 27, 2023→Friday, December 29, 2023
 
 #### Ireland Holidays
+
 - New Year’s Day- Monday, January 2, 2023
 - Saint Patrick’s Day- Friday, March 17, 2023
 - Easter Monday- Monday, April 10, 2023
@@ -327,6 +329,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - Winter Break- Wednesday, December 27 → Friday, December 29, 2023
 
 #### Germany Holidays
+
 - New Year’s Day- Monday, January 2, 2023
 - Epiphany (BW,BY & ST)- Friday, January 6, 2023
 - Good Friday- Friday, April 7, 2023
@@ -342,6 +345,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - Winter Break- Wednesday, December 27 → Friday, December 29, 2023
 
 #### Australia Holidays
+
 - New Year’s Day- Monday, January 2, 2023
 - Australia Day- Thursday, January 26, 2023
 - Labour Day (WA)- Monday, March 6, 2023 
@@ -357,6 +361,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - Winter Break- Wednesday, December 27 → Friday, December 29, 2023
 
 #### New Zealand Holidays
+
 - New Years Day- Monday, January 2
 - New Year Holiday- Tuesday, January 3
 - Waitangi Day- Monday, February 6 
@@ -374,9 +379,7 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 
 [Notion reference](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4)
 
-
 We offer paid and unpaid leave of absence programs. All leave types will run concurrently with all company holidays and will not add additional days to the established leave policy unless legally required. 
-
 
 Below is a summary of our paid leave programs.
 
@@ -388,7 +391,7 @@ Below is a summary of our paid leave programs.
 | Miscarriage Leave 	| 2 Weeks                  	| Continuous      	| N/A                             	|                                                                                   	|
 | Bereavement Leave 	| 2 Weeks                  	| Continuous      	| N/A                             	| 2 additional weeks may be granted if a team member requires more time to grieve.  	|
 
-#### ***Paid Parental Leave***
+#### Paid Parental Leave
 
 **Time off & Pay**
 
@@ -412,7 +415,7 @@ Stock options will continue to vest at their regular rate during paid or unpaid 
 
 Employees returning from Parental Leave will be reinstated to the same position, or if that position is no longer available due to reasons unrelated to the employee’s leave, a comparable position. Employees will receive pay and benefits equivalent to those received prior to their leave.
 
-#### **Paid Medical Leave**
+#### Paid Medical Leave
 
 **Time off & Pay**
 
@@ -446,17 +449,17 @@ Under some circumstances, employees may take this leave intermittently, which me
 
 Employees who experience or have a partner who experiences a miscarriage are eligible for two (2) weeks of leave paid at 100% of their base salary. In the event that the employee experiences medical difficulties beyond this time frame, they may be eligible for a Medical Leave.
 
-#### **Paid Bereavement Leave**
+#### Paid Bereavement Leave
 
 In accordance with dbt Labs’ open time off policy, employees already are able to take up to two (2) weeks of Bereavement Time Off to grieve for a loss of life. If additional time is needed beyond the two (2) weeks, employees will be eligible to take an additional two (2) weeks to grieve under Paid Bereavement Leave on a case-by-case basis.
 
 Time off granted in accordance with this policy shall not be credited as time worked for the purpose of computing overtime.
 
-### ***Unpaid Leave - United States specific***
+### Unpaid Leave (US)
 
 We offer the following types of unpaid leave: Medical Leave (FMLA), Discretionary Medical Leave (ADA), Military Leave, and Mandatory Unpaid Leave.
 
-#### **Medical Leave (FMLA)**
+#### Medical Leave (FMLA)
 
 dbt Labs complies with the Family Medical Leave Act (FMLA), which requires employers to grant unpaid leaves of absence to qualified workers for certain medical and family-related reasons. The company also abides by any state and local leave laws. The more generous of the laws will apply to the employee if the employee is eligible under both federal and state laws.
 
@@ -504,7 +507,7 @@ Employees may not perform work for self-employment or for any other employer dur
 
 The FMLA does not affect any federal or state law prohibiting discrimination or supersede any state or local law or collective bargaining agreement that provides greater family or medical leave rights.
 
-#### **Discretionary Medical Leave (ADA)**
+#### Discretionary Medical Leave (ADA)
 
 If an employee needs to take a medical leave of absence and they’re either not eligible for or have exhausted their available medical leave under the FMLA or any applicable state law, dbt Labs may grant an unpaid leave of absence for a reasonable amount of time. This leave shall be granted on a case-by-case basis, so long as the leave does not cause an undue burden to the company. This leave runs concurrent with workers’ compensation leave, if any, unless otherwise required by law.
 
@@ -512,19 +515,19 @@ While on this Discretionary Medical Leave, employees also may be eligible for st
 
 If any employee feels they need a medical leave of absence under this policy - or any other accommodation such as extended leave, flexible work schedule or duties - they should contact the People Team to determine an appropriate reasonable accommodation.
 
-#### **Military Leave**
+#### Military Leave
 
 Upon return from military leave, employees will retain certain rights with respect to reinstatement, seniority, layoffs, compensation, length of service promotions, and length of service pay increases, as required by applicable federal or state law. Failure to report for work within the prescribed time after completion of military service will be considered a voluntary termination.
 
 All employees who enter military service may accumulate a total absence of 5 years and still retain employment rights.
 
-#### **Mandatory Unpaid Leave**
+#### Mandatory Unpaid Leave
 
 dbt Labs may, in its sole discretion and unless prohibited by law, require an employee to take a leave of absence without pay.
 
-### Requesting a leave of absence
+### Requesting a Leave of Absence
 
-### [Notion reference](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4#5dbdce7706de48a9bf94cd6624ad4c8c)
+[Notion reference](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4#5dbdce7706de48a9bf94cd6624ad4c8c)
 
 👉 Leaves of absence are complex. They often entail the coordination of multiple laws and the juggling of potential benefits. Some leaves are paid while others are unpaid (although may be eligible for wage supplementation).
 
@@ -551,7 +554,7 @@ Benepass is our benefits/perks partner and is specifically designed to help admi
 - Benepass is used for Office Stipend, Phone & Internet Stipend, Health & Wellness Stipend, and Professional Development Stipend. - Policies and reimbursements that are NOT administered through Benepass are: Workspace Rental Experience, Health Related Travel Benefit, Corporate Travel & Expense Policy.
 - Benepass can be accessed via Okta, their [Online Portal](https://app.getbenepass.com/#/) or through their mobile [app](https://apps.apple.com/us/app/benepass/id1497613952). 
 
-### [Office Stipend](https://www.notion.so/dbtlabs/Office-Stipend-5f5a37d1026d4fb78ee3c6439fada6dc?pvs=4)
+### Office Stipend
 
 [Notion reference](https://www.notion.so/dbtlabs/Office-Stipend-5f5a37d1026d4fb78ee3c6439fada6dc?pvs=4)
 
@@ -569,7 +572,7 @@ All office stipend expenses should be purchased using your Benepass card or reim
 
 Learn more about the stipend amount by country, based on local purchasing power, [here](#stipend-amounts-by-country).
 
-#### **Common Eligible Items (This is not an Exhaustive list)**
+#### Common Eligible Items (This is not an exhaustive list)
 
 - Monitor
 - Mouse
@@ -590,7 +593,7 @@ Learn more about the stipend amount by country, based on local purchasing power,
 - Adapter/cords to connect the above items to your laptop computer
 - Lighting
 
-#### List of Items **NOT** eligible via the home office stipends
+#### Items Not Eligible
 
 - Phones
 - Tablets or Tablet accessories
@@ -626,7 +629,7 @@ As part of our remote first approach, and in an effort to help our team do their
 - Internet costs to include (internet, service fees, etc.)
 - Phone costs to include (cellular service for **your** phone only)
 
-**List of Items Not Eligible**
+**Items Not Eligible**
 
 - Additional services attached to your internet provider (ex. TV, home phone and additional subscription services)
 - Device payment installments, accessory data plans (Apple watch service), other phone lines on the bill, added subscriptions.
@@ -648,7 +651,7 @@ Learn more about the stipend amount by country, based on local purchasing power,
 
 Employees to bring their whole selves to work and we know that health and wellness are key factors in producing their best work. To help with this, we provide all full time employees up to **$125 each month** to use towards their physical, mental & financial wellbeing.
 
-**Examples of Eligible Expenses (Not exhaustive list)**
+**Eligible Expenses (not an exhaustive list)**
 
 - Gym & fitness memberships - Including digital memberships and subscriptions
 - Exercise equipment - At home weights / exercise machines, yoga mat etc.
@@ -658,7 +661,7 @@ Employees to bring their whole selves to work and we know that health and wellne
 - Wellbeing services - Massage gun/Massage Therapy, Weight loss programs etc.
 - Financial wellness - Digital financial wellness services (budgeting software), financial Workshops, debt or tax consulting Services
 
-**Examples of Expenses Not Eligible**
+**Items Not Eligible**
 
 - Food services & consumables - Meal Kits, take out food, Uber eats subscription, etc.
 - Household goods & Services - Therapeutic bed, juicers, HEPA filters, clean services, ergo equipment, etc.
@@ -783,15 +786,15 @@ However, if you are looking for a space and there are no viable or available opt
 
 No - the $250 rental benefit is strictly enforced within Liquidspace.  For example, if you have used $230 of the monthly benefit, and want to book a day pass for $35, Liquidspace will not process the rental. 
 
-#### Is there an exception process if i want to rent a monthly space that is more expensive than my monthly budget?
+#### Is there an exception process if I want to rent a monthly space that is more expensive than my monthly budget?
 
-YES! - If you are a team member who does not have an optimal at-home workplace, **and expects to be going into the office 3 times a week or more**, we want to support you in finding the right work environment! 
+Yes! - If you are a team member who does not have an optimal at-home workplace, **and expects to be going into the office 3 times a week or more**, we want to support you in finding the right work environment! 
 
 Most monthly subscriptions are more than the $250 limit, so Liquidspace will not allow you to book on the company plan.  In order to book the space, you can use your own credit card (on Liquidspace OR another platform) and then claim the $250 credit through Airbase.  You must book an unlimited monthly subscription or permanent desk at a coworking space to be eligible for the airbase refund (we do not offer this for day passes).
 
 #### Non-US-based Employees:
 
-LiquidSpace is available in many countries as well. If there is not a space near you on LiquidSpace, we want you to be able to work from anywhere as well!  If this is the case, you can find space elsewhere, pay for your space with your personal card and expense, per month, up to:
+LiquidSpace is available in many countries as well. If there is not a space near you on LiquidSpace, we want you to be able to work from anywhere as well! If this is the case, you can find space elsewhere, pay for your space with your personal card and expense, per month, up to:
 
 - $250 USD 
 - €228.58 EUR
@@ -801,7 +804,7 @@ LiquidSpace is available in many countries as well. If there is not a space near
 - $234.17 CHF
 - $318.38 CAD
 
-Learn more about how to use LiquidSpace and how to book larger meeting spaces [here](https://www.notion.so/dbtlabs/Booking-Larger-Meeting-Spaces-083779ac7ddb4845b81d07e03680cfa7?pvs=4)
+Learn more about how to use LiquidSpace and how to book larger meeting spaces [here](https://www.notion.so/dbtlabs/Booking-Larger-Meeting-Spaces-083779ac7ddb4845b81d07e03680cfa7?pvs=4).
 
 ## Employee Discounts
 
@@ -876,7 +879,7 @@ dbt Labs has an anonymous hotline for employees to be able to report workplace i
 
 - Learn more about other ways you can get support [here](working_and_growing_here.md#getting-support). 
 
-### Initiating a report
+### Initiating a Report
 
 To initiate a report, you should either call the hotline (833-602-7944), fill out the [mobile intake form](https://dbtlabs.navexone.com/), or fill out [website intake form](https://secure.ethicspoint.com/domain/en/report_custom.asp?clientid=83870).
 
