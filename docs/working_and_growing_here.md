@@ -18,7 +18,7 @@ sidebar_label: Working and Growing Here
 
 [Annual Review Cadence](#annual-review-cadence)
 - [Performance Reviews](#performance-reviews) 
-- [Compensation Reviews and Promotion Cycles](#compensation-reviews-and-promotion-cycles)
+- [Compensation Reviews & Promotion Cycles](#compensation-reviews--promotion-cycles)
 
 [Internal Mobility](#internal-mobility)
 
@@ -40,7 +40,7 @@ sidebar_label: Working and Growing Here
 
 ## Distributed Work Experience
 
-## [Our Distributed Work Experience](https://www.notion.so/dbtlabs/How-we-think-about-the-Distributed-Experience-5edaf90eafad420b9a05ffc03a3cc5c7?pvs=4)
+[Notion reference](https://www.notion.so/dbtlabs/How-we-think-about-the-Distributed-Experience-5edaf90eafad420b9a05ffc03a3cc5c7?pvs=4)
 
 Learn how we think about the distributed experience.
 
@@ -94,10 +94,10 @@ Having a great distributed experience helps both our company and our employees. 
     
     A distributed workforce doesn’t just mean working from home. We realize that different people thrive in different settings. As a result, we offer benefits to support people in finding the right work setup for them and ensuring they are equipped for success:
     
-    - **[Office stipend:](benefits.md#office-stipend-1)** New employees receive $1,500 USD (or local equivalent) to spend in their first year to set up their home office and purchase equipment to comfortably work their preferred location. Each year after, employees receive $400 USD (or local equivalent) to support their remote work setup.
-    - **[Workspace rental:](benefits.md#workplace-rental-1)** Working from home does not work for everyone. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
+    - **[Office stipend:](benefits.md#office-stipend)** New employees receive $1,500 USD (or local equivalent) to spend in their first year to set up their home office and purchase equipment to comfortably work their preferred location. Each year after, employees receive $400 USD (or local equivalent) to support their remote work setup.
+    - **[Workspace rental:](benefits.md#workplace-rental)** Working from home does not work for everyone. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
     - **[Regional offices:](#regional-offices)** In regions with high employee count, dbt Labs has office space to support async-first collaboration and promote our culture and values when teams meet onsite. Designed with intention, these spaces are not used to incentivize local collaboration but instead support community development and foster connection with cross-functional teams during onsites.
-- **Global [comp](compensation.md#global-compensation-and-benefits-1) & [benefits](benefits.md#global-benefits-strategy--stipend-1)**
+- **Global [comp](compensation.md#global-compensation-and-benefits) & [benefits](benefits.md#global-benefits-strategy--stipend)**
     
     We offer a transparent compensation philosophy and intentional benefits to support our global employees. All employees have access to stipends to support health and wellness, phone/internet, professional development and health related travel needs.
     
@@ -139,7 +139,6 @@ dbt Labs
 Suite 1501 / 1502
 San Francisco, CA 94108
 
-
 ### Philly Office
 
 dbt Labs
@@ -149,6 +148,8 @@ Philadelphia, PA 19123
 
 ## Annual Review Cadence
 
+[Notion reference](https://www.notion.so/dbtlabs/Annual-Review-Cadence-67cf553acf544bc3a6df40c72e883d2a?pvs=4)
+
 🌏 *Note that all dates below are formatted by US dates, so it will be MM/DD*
 
 
@@ -156,7 +157,7 @@ Philadelphia, PA 19123
 
 1. [Performance Reviews](#performance-reviews) 
 
-2. [Compensation Reviews and Promotion Cycles](#compensation-reviews-and-promotion-cycles) 
+2. [Compensation Reviews & Promotion Cycles](#compensation-reviews--promotion-cycles) 
 
 ### Using Culture Amp for reviews
 
@@ -169,10 +170,9 @@ We use Culture Amp for our reviews and it can be accessed through Okta or [here]
 Because of the relationship between performance, and compensation/ promotions, the review cycles are close together, while being separate. This also means that our operating calendar has space for large events (company kick off and Coalesce, for example) to happen without a review cycle in tandem.
 ![image](https://user-images.githubusercontent.com/127452841/224829035-3fed8ef2-3de1-4098-8167-b978d98ea295.png)
 
+### Schedule & Logistics
 
-### Schedule + Logistics
-
-#### **Q1 - Performance**
+#### Q1 - Performance
 
 - Reviews Q4 and Q1 performance. (11/1 - 4/30 in any year)
 - Includes team members that started before 2/1 and are therefore out of their 30/60/90 day plans.
@@ -199,7 +199,7 @@ Because of the relationship between performance, and compensation/ promotions, t
 - **IC:** 3 hours total: 2 hours of writing; self, peer (optional), upward (optional). 1 hour of meeting time
 - **Managers:** 2 hours per team member (including writing, calibration, meeting prep and the meeting) Time commitment should not exceed 20 hours over 2 months (6.25%)
 
-#### **Q2 - Compensation and Promotion**
+#### Q2 - Compensation & Promotion
 
 - Eligible team members started in their current role before 5/1 the previous year
     
@@ -226,7 +226,7 @@ Because of the relationship between performance, and compensation/ promotions, t
     - Promotions: 6 hours per team member (including writing, collecting and meetings)
     - Merit: 2 hours for requests and calibrations plus 30 minutes for each eligible team member for the discussion.
 
-#### **Q3 - Performance**
+#### Q3 - Performance
 
 - Reviews Q2 and Q3 performance. (5/1 - 10/31 in any year)
 - Includes team members that started before 8/1 and are therefore out of their 30/60/90 day plans.
@@ -253,7 +253,7 @@ Because of the relationship between performance, and compensation/ promotions, t
 - IC: 3 hours total: 2 hours of writing; self, peer, upward. 1 hour of meeting time
 - Managers: 2 hours per team member (including writing, calibration, meeting prep and the meeting) Time commitment should not exceed 20 hours over 2 months (6.25%)
 
-#### **Q4 - Compensation and Promotion**
+#### Q4 - Compensation & Promotion
 
 - Eligible team members started in their current role before 11/1 the previous year
 
@@ -281,9 +281,11 @@ Because of the relationship between performance, and compensation/ promotions, t
     - Promotions: 6 hours per team member (including writing, collecting and meetings)
     - Merit: 2 hours for requests and calibrations plus 30 minutes for each eligible team member for the discussion.
 
-## [Performance Reviews](https://www.notion.so/Performance-Reviews-at-dbt-Labs-054564274f6042a09e1e8515df579e06) 
+## Performance Reviews
 
-### Overview of the performance review process
+[Notion reference](https://www.notion.so/Performance-Reviews-at-dbt-Labs-054564274f6042a09e1e8515df579e06) 
+
+### Overview of the Performance Review Process
 
 #### Cadence
 
@@ -312,7 +314,7 @@ Ideally, nothing written or discussed in your performance review should be a sur
 
 Learn more about the schedule and logistics for our reviews [here](#schedule--logistics) where you'll find [Q1 Performance Review Schedule](#q1---performance) and [Q3 Performance Review Schedule](#q3---performance).
 
-### Review Meetings & Conversations
+### Performance Review Meetings & Conversations
 
 ℹ️ Managers are responsible for ensuring:
 
@@ -325,9 +327,9 @@ For People Managers: the meeting will consist of you, your manager, and your ski
     - The reason we do this is because we want to ensure your manager development and growth is supported by your management chain.
     - If your work is more cross functional (i.e. you’re embedded on another team), the leader from the other function might be the most suitable to join you and your manager in your performance review.
 
-### Details of the performance review
+### Details of the Performance Review
 
-#### Questions asked in the review process
+#### Questions Asked
 
 When the review cycle opens, the following questions will be within a Culture Amp form and you will write your answers to each question in Culture Amp.
 
@@ -395,13 +397,15 @@ The objective of calibration sessions is to ensure that different managers apply
 
 Check out our [resources](https://www.notion.so/dbtlabs/Performance-Reviews-at-dbt-Labs-054564274f6042a09e1e8515df579e06?pvs=4#538637004b4040a1b571732dfae5425f) to support the performance review process.
 
-## [Compensation Reviews and Promotion Cycles](https://www.notion.so/Compensation-Reviews-and-Promotion-Cycles-3cd43b727be1471c991cb6964bae4ccd) 
+## Compensation Reviews & Promotion Cycles
+
+[Notion reference](https://www.notion.so/Compensation-Reviews-and-Promotion-Cycles-3cd43b727be1471c991cb6964bae4ccd) 
 
 📌 We offer promotion and compensation cycles twice a year, in Q2 and Q4. Any changes will be effective on 8/1 and 2/1 respectively, aligning with our fiscal halves. Having 2 cycles per year is meant to give ample opportunity to reward team members.
 
 **Please make sure to review our [compensation principles](compensation.md#compensation-principles) in order to understand how we think about compensation at dbt Labs.**
 
-### **Compensation review**
+### Compensation Review
 
 As a general rule, every team member will be eligible for **one** merit compensation review per year*. The cycle each team member is included in will be the cycle **closest** to the start date of the role they are currently in. This will either be their start date with the company or the start date in a new role through promotion or internal mobility.  See the table below to determine who is included in each cycle. 
 
@@ -424,7 +428,7 @@ As a general rule, every team member will be eligible for **one** merit compensa
 
 > We encourage team members to understand when their individual compensation review is so that they can prepare to have the conversations with their manager.
 
-#### Process overview
+#### Process Overview
 
 Ahead of the cycle, the People Business Partner and Compensation Team will produce a packet of all team members within the eligibility window for merit (minimum of 9 months since starting in their current role **or** 1 year since their last merit increase). The packet will also include merit budget and % recommendations based on performance. 
 
@@ -436,7 +440,7 @@ All proposed increases will be reviewed in calibration meetings with leaders in 
 
 Detailed schedule [here](#schedule--logistics).
 
-### **Promotion Cycle**
+### Promotion Cycle
 
 As a general rule, team members are eligible for a promotion if they meet a 1 year tenure guideline* AND have shown that they are ready for the next step in their career. This is up to the manager discretion. 
 
@@ -466,11 +470,13 @@ We will create a promotion template in Culture Amp that includes:
 
 Promotions will be reviewed and approved in calibration sessions with each org.
 
-#### Schedule and Time Commitment for Compensation and Promotion Reviews
+#### Schedule & Time Commitment for Compensation & Promotion Reviews
 
-Learn more about the schedule and logistics for our reviews [here](#schedule--logistics) where you'll find [Q2 Compensation and Promotion Review Schedule](#q2---compensation-and-promotion) and [Q4 Compensation and Promotion Review Schedule](#q4---compensation-and-promotion).
+Learn more about the schedule and logistics for our reviews [here](#schedule--logistics) where you'll find the [Q2 Compensation & Promotion Review Schedule](#q2---compensation--promotion) and the [Q4 Compensation & Promotion Review Schedule](#q4---compensation-and-promotion).
 
-## [Internal Mobility](https://www.notion.so/dbtlabs/Internal-Mobility-d70f84f1c4bf4215aa017960123a2bfc?pvs=4)
+## Internal Mobility
+
+[Notion reference](https://www.notion.so/dbtlabs/Internal-Mobility-d70f84f1c4bf4215aa017960123a2bfc?pvs=4)
 
 ### Overview
 
@@ -545,9 +551,11 @@ After you go through the interview process, you will hear back from the hiring m
 3. Your past performance reviews
 4. Expectations in the new role (30/60/90 day plan)
 
-## [Embedded Roles](https://www.notion.so/dbtlabs/Embedded-Roles-at-dbt-Labs-348e63b53dcf41e0a103b1fbf682e3af?pvs=4)
+## Embedded Roles
 
-### Why Organizational Design is Hard
+[Notion reference](https://www.notion.so/dbtlabs/Embedded-Roles-at-dbt-Labs-348e63b53dcf41e0a103b1fbf682e3af?pvs=4)
+
+### Why organizational design is hard
 
 Here’s a scenario: the marketing team at *Company X* needs access to a data analyst to help with marketing analytics. Company X already has a centralized data team, but that team reports to the CFO and generally focuses on finance, company strategy, and board reporting. It’s hard for marketing leadership to get their requests prioritized in the queue, and as a result they’re getting far less data support than they require.
 
@@ -559,7 +567,7 @@ There are three things that the marketing team could do:
 
 It might not actually be clear whether there is a right answer, but there is: it’s #3. I feel incredibly confident about this for a couple of reasons: a) I’ve personally witnessed companies who have attempted to do #1 and #2 and there are universally very poor outcomes, and b) this is the model that the entire modern analytics practice is moving towards. Let’s take a second to talk about why #1 and #2 don’t work.
 
-#### Make a direct hire.
+#### Make a direct hire
 
 This is a bad idea for several reasons:
 
@@ -593,7 +601,7 @@ This solution has a bunch of challenges to *making it work*, but if an organizat
 - The marketing analyst works with the marketing organization to set a roadmap of priorities, and works with the data team to determine the implementation strategy for these priorities. Outputs are reviewed by the marketing team and code is reviewed by the data team. Both teams make a good-faith effort to consider the others’ needs as the ongoing balance between quality and speed is figured out.
 - The embedded marketing analyst goes to team meetings for both the marketing team and the data team. Quarterly reviews for this analyst are conducted by leadership on both the data and marketing teams.
 
-Here’s why this approach is superior:
+**Here’s why this approach is superior:**
 
 1. It enables world-class data professionals to interview, onboard, collaborate with, and manage other world-class data professionals. This leads to better hiring decisions, better skills mentoring, better career development, and overall happier team members that then stick around for longer.
 2. It enables embedded analysts to build expertise in and empathy for the problem domain.
@@ -646,25 +654,29 @@ But even with this success, it’s naive to assume that just “hiring collabora
 5. **How long will this embedded relationship last?** Generally, there is a “sweet spot” that allows the embedded team member to spend adequate time with the functional area to develop expertise and add value, but not so long on the team that they develop a “bus factor” and become a turnover risk. Most often we feel that the appropriate range here is 6-24 months, but realize that your mileage may vary.
 6. **What is this person’s career path within the company?** We should make sure that we’re not creating dead-end roles for embedded team members. This can sometimes happen when a person’s role doesn’t have obvious next steps outside of the team that they are embedded with. We should prevent this situation as it will lead to employee turnover.
 
-## [Making a Referral](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4)
+## Making a Referral
+
+[Notion reference](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4)
 
 Who better to find great people to work here than great people that already work here? We don't currently offer a referral bonus program but that shouldn't stop you from sending any and all referrals our way!
 
 ### Who should you refer?
 
-Take a look at our open jobs in greenhouse or on our website! 
+Take a look at our open jobs in [Greenhouse](https://app5.greenhouse.io/internal_job_board/) or on our [website](https://www.getdbt.com/dbt-labs/open-roles/)! 
 
 1. If you know someone that could be a fit, great!
 2. If you know someone that's awesome and would be a great addition to dbt Labs but don't see an open role that would fit them - we'd still like to talk to them and get them into our talent network for future openings!
 3. If someone reaches out to you cold and you are willing to chat with them, feel free to do so and refer them if they seem like a fit. (You can also send them to a Talent Acquisition Partner or our jobs page if you don't have time to have a full conversation)
 
-### How to submit a referral
+### How to submit a referral?
 
-Follow these instructions [here](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4#292f0c69c0a543198799036041f389ea).
+Follow these [instructions](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4#292f0c69c0a543198799036041f389ea).
 
-## [Global Employment](https://www.notion.so/dbtlabs/Global-Employment-at-dbt-Labs-a0c8faf3a9234d6a83280654caff0424)
+## Global Employment
 
-### **Country Hiring Guidelines**
+[Notion reference](https://www.notion.so/dbtlabs/Global-Employment-at-dbt-Labs-a0c8faf3a9234d6a83280654caff0424)
+
+### Country Hiring Guidelines
 
 We have members in countries and regions all over the world and from all walks of life. We value diversity. As we grow, we will continue to explore our hiring capabilities in a variety of geographies.
 
@@ -700,7 +712,7 @@ In the past, dbt Labs would hire in any country except those we had already dete
  
 📌 For countries where dbt Labs is able to sponsor a work permit, the People team also needs to do an assessment of your job to see if it falls into a “speciality work visa” category. We would need to determine that you and your role meet all of the sponsorship criteria. **Please reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) if you require sponsorship.**
 
-### Non-resident payroll relationships
+### Non-Resident Payroll Relationships
 
 | Country     	| Paid Through               	| Payroll System   	| HRIS 	| Currency 	|
 |-------------	|----------------------------	|------------------	|------	|----------	|
@@ -721,7 +733,7 @@ In the past, dbt Labs would hire in any country except those we had already dete
 
 **Reminder -  a current relationship with an EOR in country does not guarantee the ability to hire in that country. All hires outside of our entities need prior approval from the CFO. We need at least 6 months lead time to make a decision on any country.* 
 
-### Countries we cannot hire in
+### Countries We Cannot Hire In
 
 | Country     	| Reason         	|
 |-------------	|----------------	|
@@ -733,12 +745,12 @@ In the past, dbt Labs would hire in any country except those we had already dete
 | Crimea      	| US Sanctions   	|
 | Ukraine     	| Current unrest 	|
 
-📌 **Any country not listed in this doc must be reviewed by people ops and finance prior to opening that country for hiring.**
+📌 **Any country not listed in this doc must be reviewed by a member of the People and Finance team prior to opening that country for hiring.**
 
 
 *Note: In some cases, hiring foreign nationals of other countries into positions where they may gain access to proprietary technology or software may require export licenses. This is not a ban on hiring, but it is highly fact-specific, and must be assessed in conjunction with the People team and Legal team, in compliance with applicable anti-discrimination and employment laws.*
 
-### Global Compensation and Benefits
+### Global Compensation & Benefits
 
 Learn more about our [Compensation Principles](compensation.md#compensation-principles) and [Global Compensation and Benefits](compensation.md#global-compensation-and-benefits).
 
@@ -766,7 +778,7 @@ Compensation bands for each country we have an entity in will be listed in our c
 5. We encourage team members to consult with a tax advisor to understand the implications of the move as it relates to tax and equity. 
     1. **Please remember that your compensation will be updated to reflect the local market you are moving to.**  
 
-### Short term relocation.
+### Short-Term Relocation
 
 📅 Generally, team members may live or work outside their permanent residence for an aggregate amount of 183 days (6 months) per year. However, the amount does depend on the particular country (or state) and what it considers to be a "resident" for tax purposes, as well as what it considers the tax year.
 
@@ -788,6 +800,7 @@ Team members are expected to communicate with their manager and team to ensure t
 ‼️ **If there is a lapse in providing services to the Company, this will qualify as a termination and all unvested options will be canceled.  If a team member is rehired and resumes providing services to the Company, any grant associated with employment will need to go through the new hire process for equity.  This means that a team member would receive a new strike price, vesting period, etc.**
 
 ## Moonlighting Guidance
+
 What you do in your own time is your business, including additional employment. We understand that many employees are involved in their communities in a variety of ways, paid and unpaid. However, dbt Labs employees are expected to comply with certain guidelines for work and other activities spent outside of your dbt Labs working hours (”[moonlighting](https://dictionary.cambridge.org/us/dictionary/english/moonlighting)”), to ensure such activities do not interfere with, conflict with or put the company at risk.  We encourage transparency, and provide these guidelines for you to consider and discuss with your manager. Acceptable moonlighting:
 
 (1) is not during working hours that you set with dbt Labs (whatever those hours may be - the hours that you agreed upon with your manager);
@@ -804,7 +817,9 @@ Lastly, moonlighting is not an excusable reason for lesser or poor performance f
 
 Thanks to all our employees whose energy and commitment makes dbt Labs and the larger community a better place!
 
-## [Office Strategy](https://www.notion.so/dbtlabs/dbt-Labs-Office-Strategy-adad4eeeb29a406493a1ea23299b5278?pvs=4)
+## Office Strategy
+
+[Notion reference](https://www.notion.so/dbtlabs/dbt-Labs-Office-Strategy-adad4eeeb29a406493a1ea23299b5278?pvs=4)
 
 ### What is the goal of offices at dbt Labs?
 
@@ -819,7 +834,7 @@ Thanks to all our employees whose energy and commitment makes dbt Labs and the l
 2. **A marketing effort:**  Many companies use real estate as a status symbol and to amplify their brand awareness.  This is expensive and unrelated to our core workplace values (productivity, inclusivity, and community)
 3. **An incentive to work in person vs at home:** We believe the best talent can come from anywhere and support employees in choosing the home and office environment that best serves them. We will not spend money on excessive meal budgets and in-office perks to motivate employees to choose to come in the office vs work at home. 
 
-### How & When We Build Offices at dbt Labs
+### How & when we build offices?
 
 **How we choose where offices go:**
 
@@ -829,7 +844,7 @@ Thanks to all our employees whose energy and commitment makes dbt Labs and the l
     2. Offices near existing teams decreases travel spend, as a portion of the team will not need to travel for on-site events
 2. **Proximity to partners, customers and other external stakeholders**
 
-## How we determine office size:
+## How we determine office size?
 
 1. Number of employees in the region and estimated growth - **This number is used to determine the number of desks / call rooms we need in the office.** 
 
@@ -867,9 +882,11 @@ We have three DEI committees dedicated to Team Diversity, Culture, and Company S
 
 Learn more [here](https://www.getdbt.com/dbt-labs/dei/).
 
-## [Conscientious Objection](https://www.notion.so/dbtlabs/Conscientious-Objection-371207f8f01c4e94bd4e62eb5c85087c?pvs=4)
+## Conscientious Objection
 
-### Conscientious objection is the right of an individual to withhold their labor.
+[Notion reference](https://www.notion.so/dbtlabs/Conscientious-Objection-371207f8f01c4e94bd4e62eb5c85087c?pvs=4)
+
+**Conscientious objection is the right of an individual to withhold their labor.**
 
 Individual employees have the ability to opt out of working on a project or with a client that violates a deeply-held conviction.
 
@@ -897,7 +914,9 @@ If work that conflicts with your deeply held beliefs is a regular and predictabl
 
 💡 You can see some of the discussion that led to this policy in [Working Document: Conscientious Objection](https://www.notion.so/Working-Document-Conscientious-Objection-31977f6aa61b447fabc4f5ac6a20f02f).
 
-## [Getting Support](https://www.notion.so/dbtlabs/How-to-Ask-a-People-Question-a17443c3b92346b185ca4b4c266497df?pvs=4)
+## Getting Support
+
+[Notion reference](https://www.notion.so/dbtlabs/How-to-Ask-a-People-Question-a17443c3b92346b185ca4b4c266497df?pvs=4)
 
 We want to make sure team members receive the support they need. The People Team is often the first place employees look to get their questions answered. dbt Labs offers different options depending on your question or situation.
 

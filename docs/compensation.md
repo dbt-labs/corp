@@ -8,25 +8,27 @@ sidebar_label: Compensation
 |---|
 | Clyde Stackhouse |
 | Meg Colón |
-| Leigh Staub |
 
 [Compensation Principles](#compensation-principles)
 
 [Pay Day](#pay-day)
 
-[Global Compensation and Benefits](#global-compensation-and-benefits)
+[Global Compensation & Benefits](#global-compensation--benefits)
 
 [Salary Bands Philosophy](#salary-bands-philosophy)
 - [How Salary Bands are Made](#how-salary-bands-are-made)
 - [Salary Bands FY24](#salary-bands-fy24)
 - [International Salary Bands](#international-salary-bands)
 
-[Equity](#equity-1)
+[Equity](#equity)
 - [FY24 Equity Bands](#equity-bands-fy24)
 
 [Pay & Equity Ranges in Job Offers](#pay--equity-ranges-in-job-offers)
 
-## [Compensation Principles](https://www.notion.so/dbtlabs/dbt-Labs-Compensation-Principles-0d570903e75e45fc8f9f3fca13a77d00?pvs=4)
+## Compensation Principles
+
+[Notion reference](https://www.notion.so/dbtlabs/dbt-Labs-Compensation-Principles-0d570903e75e45fc8f9f3fca13a77d00?pvs=4)
+
 Learn more about how we think about compensation at dbt Labs. Below are our compensation principles which we reference when making all compensation decisions.
 
 ### The Why
@@ -82,9 +84,10 @@ If you have a specific question around your compensation, one of your direct rep
 [^6]: ISOs are specifically US-based because they are an outcome of US tax law.
 
 ## Pay Day
-Employees are paid semimonthly by direct deposit on the 15th (for work performed the 1st to the 15th) and the last day of the month (for work performed the 16th to the last day). If payday happens to fall on a weekend or holiday, payment will be processed on the previous business day.
 
-## Global Compensation and Benefits
+Employees are paid semimonthly by direct deposit on the 15th (for work performed the 1st to the 15th) and the last day of the month (for work performed the 16th to the last day). If payday happens to fall on a weekend or holiday, payment will be processed on the previous business day. View the payroll schedule [here](https://www.notion.so/dbtlabs/Payroll-Schedules-1c14ff45ae7e4388b76a69ac2b83abf8?pvs=4).
+
+## Global Compensation & Benefits
 
 Our [compensation principles](compensation.md#compensation-principles) are applied to each country we employ in. This is because the labor markets, benefits, pension/superannuation schemes and payroll taxes can vary greatly country to country. This approach ensures that we are offering equitable (not equal) compensation in each market.
 
@@ -143,11 +146,11 @@ Additionally, we have outlined the step by step process of how we go from raw da
 
 [^7]: Specific Roles - Both Radford and Mercer have 100+ different jobs / roles that we can match to which allows us to get more specific with the roles and duties to ensure that our role bands are developed using the most correlated data and skill set. This is vital to ensure we aren’t over or under targeting pay for roles that have been lumped into 1 large bucket.
 
-## [Salary Bands Overview](https://www.notion.so/dbtlabs/Salary-Bands-FY24-36e87c18c6bc4436bb8b72c2af9391c4)
+## Salary Bands Overview
+
+[Notion reference](https://www.notion.so/dbtlabs/Salary-Bands-FY24-36e87c18c6bc4436bb8b72c2af9391c4)
 
 Salary bands in their simplest form is the compensation range for a given role within an organization. These ranges are built and developed using market data that allows companies to benchmark their roles compared to others in their industry. The market data used is a direct reflection of a company's compensation strategy and philosophy as it determines how competitive they will be in attracting and retaining talent. We build our salary bands using tech specific data as well, using the 75th Percentile as the basis or target of our ranges (In short, this ensures that we are competing with other tech companies and that our pay should meet or exceed 75% of other companies for similar roles and levels).
-
-### How we built our salary bands
 
 Learn more about how our salary bands are made [here](#how-salary-bands-are-made).
 
@@ -183,13 +186,15 @@ The first step in building salary bands is determining all planned and existing 
 6. Principal / Advisory
 7. Distinguished / Strategist
 
-## [How Salary Bands are Made](https://www.notion.so/dbtlabs/Process-How-Salary-Bands-are-Made-4928ec6f5a42407391bb290ab6722ce6)
+## How Salary Bands are Made
+
+[Notion reference](https://www.notion.so/dbtlabs/Process-How-Salary-Bands-are-Made-4928ec6f5a42407391bb290ab6722ce6)
 
 📌 Compensation & salary band development is both an art and a science and we strive to leverage data and best practice to develop bands that will allow us to both attract and retain talent. The science is the clear process of developing and selecting data to produce a target market percentage. The art is the sifting through the nuances of this imperfect data to ensure that career progression as well as cross company comparisons align.
 
 ### Process of Developing Salary Bands
 
-#### **The Science**
+#### The Science
 
 1. Develop a comprehensive list of roles[^8] & levels that the team or organization has or will need in the next 12 months. 
 2. Review and select the most appropriate market match for each role across each data set.
@@ -198,7 +203,7 @@ The first step in building salary bands is determining all planned and existing 
 3. Once jobs have been matched to the “best[^9]” match with the data, we used our [weighted average approach](#data-sources--weighted-average-approach) across the 5 data points to arrive at a “raw” recommended midpoint.
 4. We then developed the bands by rounding the raw midpoint to nearest $1,000 for simplicity of consumption and used our standardized salary band spread approach to build out the mininimum and maximum from the midpoint. Learn more about our [consistent band spreads](#consistent-band-spreads).
 
-#### **The Art**
+#### The Art
 
 1. Review data points by role to identify and remove any egregious outliers[^10].
 2. Review the progression of data of a survey within a career path to identify any cross level compression that is skewing the data and expected progression (ex. L5 data > L6 data)
@@ -216,15 +221,19 @@ All dbt Labs employees have access to our salary bands.
 - [US Salary Bands FY24](https://www.notion.so/dbtlabs/0425a64c1fd64ac0a861586e97143367?v=9db7a2df831b4448bcb133bfedead3e3)
 - [International Salary Bands FY24](https://www.notion.so/dbtlabs/International-Salary-Bands-FY24-771a98d468154bf4af3f08baf90ec45b?pvs=4)
 
-## [International Salary Bands](https://www.notion.so/dbtlabs/International-Salary-Bands-FY24-771a98d468154bf4af3f08baf90ec45b?pvs=4)
+## International Salary Bands
+
+[Notion reference](https://www.notion.so/dbtlabs/International-Salary-Bands-FY24-771a98d468154bf4af3f08baf90ec45b?pvs=4)
 
 ### Global Pay Practice
 
 We localize all compensation ranges at a company level using the same methodologies based on the specific country's local market. This practice and decision becomes increasingly important as companies scale and grow globally, especially when considering the all encompassing Total Rewards Strategy which is a blend of monetary and nonmonetary rewards (countries have differences in government provided healthcare, pension plan requirement ranges, cost of labor based on market data and cost of living). This means each country has nuances that must be considered when creating a total rewards offerings. We consistently leverage various data sources and reports as well as external consultants to help ensure we are leveraging ‘best practices’ as our foundation to build upon.
 
-### [FAQs about International Pay](https://www.notion.so/dbtlabs/FAQ-s-International-Pay-ad3050bc18eb428e802fe0c0eb7ac41c?pvs=4)
+### FAQs about International Pay
 
-#### How are international salary bands built differently from US Bands?
+[Notion reference](https://www.notion.so/dbtlabs/FAQ-s-International-Pay-ad3050bc18eb428e802fe0c0eb7ac41c?pvs=4)
+
+#### How are international salary bands built differently from US bands?
 
 The same practice, process and philosophy is used to build all salary bands. We use the 75th percentile of the data within each country and use an all cash compensation to ensure we are paying above average and above 74% of other companies in that country based on the associated data set. The core difference between international salary bands and US salary bands is that many of the survey sources do not have a robust repository of international data which required us to use [Mercer - Comptryx](https://www.imercer.com/products/comptryx) as the sole data point at this time. While Mercer is a gold standard, we will be adding additional data sets to help further build out the available data sets globally.
 
@@ -248,13 +257,21 @@ You can find more information in [Global Benefits Strategy & Stipend](benefits.m
 
 Hiring globally is a business and people decision that has many factors attached to it, from total cost, talent density, business need (sales presence, locale expertise etc). While we grow and expand into various countries we hold true to our [values](values.md) and our [Compensation Principles](#compensation-principles) to ensure we are rewarding people in a locally competitive, relevant and equitable way.
 
-## [Equity](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171)
+## Equity
+
+[Notion reference](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171)
 
 We believe that employee ownership is a way for employees to share in the success of the Company. As such, we issue stock options as part of most employees' compensation packages.
 
 If equity and stock options are a brand new concept for you and you'd like to learn more about the general concepts, check out these resources [here](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171?pvs=4#2a3d7a2987cd4658ab69054caefac0f2).
 
-### Why Issue Options?
+ ### Equity Bands FY24
+ 
+[Notion reference](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5)
+
+All employees have access to our equity bands and they can be accessed [here](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5?pvs=4).
+
+### Why issue options?
 
 We want all employees to act with the financial interests of the company in mind. There is no better way to align incentives in this way than to give everyone a financial stake in the company. Granting ownership in a company via a stock option is common practice in high-growth businesses for exactly this reason.
 
@@ -262,25 +279,23 @@ We *do not*, however, see equity as a way to "bridge the gap" to below-market ca
 
 💡 All startups are risky, and the value of any particular option grant (at dbt Labs or elsewhere!) could go to zero. Our [compensation principles](#compensation-principles) ensure that employees are well-compensated (via the cash and other components of their package) even in such a scenario.
 
-### When do we Issue Stock Option Grants?
+### When do we issue stock option grants?
 
 There are generally 3 reasons or scenarios that will result in a grant - 
 
-**New Hire Grants:** All new hires will be eligible for an equity grant based on the level of the job they are hired into.
-
-**Promotion Grants:** As employees progress in their role within dbt Labs, promotion grants equal to 50% of a new hire grant of the job level they are moving into and will be given to employees for their increased contribution and growth with dbt Labs.
-
-**Refresh Grants:** Refresh grants are designed to refresh employees’ stock options as shares vest over time. These grants are generally awarded after an employee has been with dbt Labs for 2 years and will be eligible for a 25% of new hire grant of their current job level in conjunction with additional eligibility requirements.
+1. New Hire Grants: All new hires will be eligible for an equity grant based on the level of the job they are hired into.
+2. Promotion Grants: As employees progress in their role within dbt Labs, promotion grants equal to 50% of a new hire grant of the job level they are moving into and will be given to employees for their increased contribution and growth with dbt Labs.
+3. Refresh Grants: Refresh grants are designed to refresh employees’ stock options as shares vest over time. These grants are generally awarded after an employee has been with dbt Labs for 2 years and will be eligible for a 25% of new hire grant of their current job level in conjunction with additional eligibility requirements.
 
 You can find the current equity information and more detailed information about each of these grant types [here](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5?pvs=4)).
 
-### What Type of Options Do We Issue?
+### What type of options do we issue?
 
 At dbt Labs, we give equity grants in the form of Incentive Stock Options (ISOs) and Non-Qualified Stock Options (NSOs). The difference in these two types of grants are, generally, as follows: ISOs are issued to US employees and carry a special form of tax treatment recognized by the US Internal Revenue Service (IRS). NSOs were granted to employees prior to August 2020 (see company history for more information) and are currently granted to contractors and non-US employees. 
 
 This financial instrument is called an "option" because you have the *option* to buy dbt Labs stock at a later date, subject to vesting terms, at the exercise price provided at the time of grant. Solely for the purposes of example, if you are granted stock options with an exercise price of $1 per share of common stock today, and if dbt Labs grows and its common stock is worth $20 per share, you will still be able to buy the common stock upon exercise of your option for $1 per share.
 
-### How does Vesting Work?
+### How does vesting work?
 
 Vesting means that you have to remain employed by, or are otherwise a service provider to, dbt Labs for a certain period of time before you can fully purchase and own the stock within your stock option agreement. This means that, over time, you will have the right to purchase the stock based on the schedule defined in your stock agreement. This process is called vesting and different companies offer vesting schedules of different lengths.
 
@@ -324,16 +339,13 @@ All option grants must be approved by the Board of Directors. Grants are typical
 - May 2022, a Tender Offer was presented to employees that have been employed for 2+ years. Details can be found here: [2022 Tender Offer](https://www.notion.so/2022-Tender-Offer-c2348dbcb8324553bbb31725106ba933). The company will continue to explore this as an option each year, but is not guaranteed to occur.
 - February 2023, annual 409A valuation complete.
 
-#### 409A Valuations and Exercise Prices
+#### 409A Valuations & Exercise Prices
 
 Learn more about our current valuations and exercise prices [here](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171?pvs=4#f5ac0ac6089a4ebf8a34679f4990a6d3).
 
-- ### [Equity Bands FY24](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5)
+## Pay & Equity Ranges in Job Offers
 
-All employees have access to our equity bands and they can be accessed [here](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5?pvs=4).
-
-
-## [Pay & Equity Ranges in Job Offers](https://www.notion.so/Making-Offers-Using-Pay-Equity-Ranges-f0a8c7d90b6347569dcce539cf21867e) 
+[Notion reference](https://www.notion.so/Making-Offers-Using-Pay-Equity-Ranges-f0a8c7d90b6347569dcce539cf21867e) 
 
 ### Using Salary Ranges
 
@@ -345,7 +357,7 @@ When determining an offer for a candidate, we consider two primary factors in co
 
 **These factors are considered and viewed on a sliding scale when determining the appropriate offer relative to the established pay range.** 
 
-### **Understanding salary ranges and targets**
+### Understanding Salary Ranges & Targets
 
 When looking at the established salary range, we consider 3 key aspects of the salary range on a sliding scale in conjunction with the factors outlined above. 
 

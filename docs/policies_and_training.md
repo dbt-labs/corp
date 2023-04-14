@@ -28,7 +28,6 @@ sidebar_label: Policies and Training
 
 [Background Checks](#background-checks)
 
-[Addendums](#addendums)
 
 ## Code of Conduct
 
@@ -147,7 +146,10 @@ All employees must be trained once per year, regardless of position within the c
 
 Learn more about our policy [here](#anti-harassment-and-discrimination-policy).
 
-## [Corporate Travel & Expense Policy](https://www.notion.so/dbtlabs/Corporate-Travel-Expense-Policy-9d562e4218c941e4bd6b2710aec82c0d?pvs=4)
+## Corporate Travel & Expense Policy
+
+[Notion reference](https://www.notion.so/dbtlabs/Corporate-Travel-Expense-Policy-9d562e4218c941e4bd6b2710aec82c0d?pvs=4)
+
 
 ### Our Philosophy
 
@@ -206,6 +208,9 @@ The cost of a [milk shipping service](https://www.milkstork.com/) is reimbursa
 Read answers to FAQs [here](https://www.notion.so/dbtlabs/Corporate-Travel-Expense-Policy-9d562e4218c941e4bd6b2710aec82c0d?pvs=4#eb3af765033449b3907082f2e87ef4d6).
 
 ## Computer Refresh Policy
+
+[Notin reference](https://www.notion.so/dbtlabs/Computer-Refresh-Policy-3fe1d7a0dbe94c87b75069a2bb684cb2?pvs=4)
+
 All new hires are given a company-owned laptop (a new or like-new MacBook Pro with specs determined based on role)- please **do not** use personal computers to perform company business. 
 
 All team members are eligible for a new laptop after 3 years of use.
@@ -220,7 +225,10 @@ Depending on the age of your Mac and the cost of any potential repairs, the Mac 
 - You will receive a shipping box with prepaid postage to return your Mac.
 - Old Macs will be e-recycled or donated.
 
-## [Involuntary Terminations](https://www.notion.so/dbtlabs/Involuntary-Terminations-12bd6115f88e4874a300b272f4aec023?pvs=4)
+## Involuntary Terminations
+
+[Notion reference](https://www.notion.so/dbtlabs/Involuntary-Terminations-12bd6115f88e4874a300b272f4aec023?pvs=4)
+
 
 Throughout this section, the core tension being managed is the tension between the interests of the company and the interests of the employee. Often, employer/employee relationships are zero sum: think Amazon fulfillment center employees. Amazon tries to milk as much productivity out of those employees as possible while paying them as little as possible. Turnover is incredibly high. Workers and the company have a generally adversarial relationship.
 
@@ -423,7 +431,7 @@ We regularly conduct retrospectives on terminations. The purpose of this retrosp
 
 As in all things, our goal here is to be as transparent as possible. In going through these meetings we will look to share as many learnings from these retrospectives as possible without violating employee privacy.
 
-## US Employement Posters
+## US Employment Posters
 
 Please review the employment posters for the state you live in, and also the federal posters which apply to each US employee. All posters can be found [here](https://www.notion.so/dbtlabs/US-Employment-Posters-de219cf7a3774a73b206060831193c0c?pvs=4).
 
@@ -431,7 +439,9 @@ Please review the employment posters for the state you live in, and also the fed
 
 Pelase review the privacy notices located [here](https://www.notion.so/dbtlabs/US-Employment-Posters-de219cf7a3774a73b206060831193c0c).
 
-## [Background Checks](https://github.com/dbt-labs/corp/blob/new-handbook-launch/handbook.md#background-checks)
+## Background Checks
+
+[Notion reference](https://github.com/dbt-labs/corp/blob/new-handbook-launch/handbook.md#background-checks)
 
 dbt Labs is concerned about the safety of its team members and about maintaining appropriate controls to ensure that assets of dbt Labs and our customer relationships and information are protected. To reduce these risks, we will obtain and review background information of covered prospective, and, as applicable, current employees.
 
