@@ -8,7 +8,6 @@ sidebar_label: Working and Growing Here
 |---|
 | Vanessa Yeh |
 | Morgan Russell |
-| Helena G |
 | Sarah Riley |
 | Meg Colón |
 | Kimi Mashhoon |
@@ -29,8 +28,6 @@ sidebar_label: Working and Growing Here
 [Global Employment](#global-employment)
 
 [Office Strategy](#office-strategy)
-
-[Moonlighting Guidance](#moonlighting-guidance)
 
 [Diversity, Equity and Inclusion](#diversity-equity-and-inclusion)
 
@@ -799,24 +796,6 @@ Team members are expected to communicate with their manager and team to ensure t
 🚧 There are different tax consequences for ISO and NSO options.  Additionally, tax rules vary across jurisdictions.  Employees are strongly encouraged to consult with a tax advisor before making any relocation decision.
 
 ‼️ **If there is a lapse in providing services to the Company, this will qualify as a termination and all unvested options will be canceled.  If a team member is rehired and resumes providing services to the Company, any grant associated with employment will need to go through the new hire process for equity.  This means that a team member would receive a new strike price, vesting period, etc.**
-
-## Moonlighting Guidance
-
-What you do in your own time is your business, including additional employment. We understand that many employees are involved in their communities in a variety of ways, paid and unpaid. However, dbt Labs employees are expected to comply with certain guidelines for work and other activities spent outside of your dbt Labs working hours (”[moonlighting](https://dictionary.cambridge.org/us/dictionary/english/moonlighting)”), to ensure such activities do not interfere with, conflict with or put the company at risk.  We encourage transparency, and provide these guidelines for you to consider and discuss with your manager. Acceptable moonlighting:
-
-(1) is not during working hours that you set with dbt Labs (whatever those hours may be - the hours that you agreed upon with your manager);
-
-(2) isn’t performed on dbt Labs materials/property/hardware/systems;
-
-(3) is not being provided on behalf of dbt Labs, i.e., the activity is completely unrelated and unaffiliated with dbt Labs, your client is under no assumption that they’re receiving dbt Labs services, you don’t represent yourself as acting or speaking for dbt Labs, etc;
-
-(4) does not involve using or disclosing any confidential information or otherwise breaching any of your obligations with dbt Labs, including those under your agreements with dbt Labs; and
-
-(5) does not conflict with the work you’re doing for dbt Labs, including, but not limited to, (i) doing work for a competitor of dbt Labs or (ii) doing work for an entity that one of our customers would take serious issue with (not necessarily a competitor of our client, but maybe an entity causing direct harm to our client. If in doubt, talk to the People team). 
-
-Lastly, moonlighting is not an excusable reason for lesser or poor performance for work at dbt Labs. dbt Labs reserves the right to prohibit (or revoke a prior opinion that the activity was not prohibited) an employee from engaging in any moonlighting it deems may not be in the best interest of the company.
-
-Thanks to all our employees whose energy and commitment makes dbt Labs and the larger community a better place!
 
 ## Office Strategy
 
