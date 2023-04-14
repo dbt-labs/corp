@@ -16,7 +16,7 @@ sidebar_label: Policies and Training
 
 [Corporate Travel & Expense Policy](#corporate-travel--expense-policy)
 
-[Moonlighting Guideance](#moonlighting-guidance)
+[Moonlighting Guidance](#moonlighting-guidance)
 
 [Computer Refresh Policy](#computer-refresh-policy)
 
