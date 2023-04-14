@@ -9,7 +9,6 @@ sidebar_label: Benefits
 | Clyde Stackhouse |
 | Jessica Nguyen |
 | Meg Colón |
-| Leigh Staub |
 
 [Global Benefits Strategy & Stipend](#global-benefits-strategy--stipend)
 
@@ -19,7 +18,7 @@ sidebar_label: Benefits
 - [Health Related Travel Benefit (US)](#health-related-travel-benefit-us)
 - [International Travel Emergency Health Benefits (US)](#international-travel-emergency-health-benefits-us)
 
-[Retirement](#retirement)
+[Retirement](#retirement-us)
 
 [Time Off Policy](#time-off-policy)
 - [2023 Company Holidays](#2023-company-holidays)
@@ -43,7 +42,9 @@ sidebar_label: Benefits
 [Anonymous Hotline](#anonymous-hotline)
 
 
-## [Global Benefits Strategy & Stipend](https://www.notion.so/dbtlabs/Global-Benefits-Strategy-Stipend-03b4ebfbb278451f894a4cca46c90607?pvs=4)
+## Global Benefits Strategy & Stipend
+
+[Notion reference](https://www.notion.so/dbtlabs/Global-Benefits-Strategy-Stipend-03b4ebfbb278451f894a4cca46c90607?pvs=4)
 
 ### Benefits Strategy and Philosophy
 
@@ -89,9 +90,11 @@ The benefits stipend will automatically be added to your monthly payroll. You do
 
 We look to target locally relevant and competitive benefit options. Retirement and pension plans fall under the same philosophy. We are currently working towards getting each required pension scheme and retirement plan solidified and will update here once we have more information.
 
-## [Healthcare Benefits (US)](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
+## Healthcare Benefits (US)
 
-### [Medical Plans](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
+### Medical Plans
+
+[Notion reference](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
 
 We provide medical, dental and vision benefits to employees and their dependents as well as FSA, DCFSA, and HSA options. Health benefits are paid, in part, by the company. The remainder of the costs is the employee’s responsibility.
 
@@ -108,7 +111,9 @@ We provide long term and short term disability as well as life insurance coverag
 
 ### US Employees enrolled in our health insurance are eligible for the following benefits as well:
 
-#### [Health Related Travel Benefit (US)](https://www.notion.so/dbtlabs/Health-Related-Travel-Benefit-1b3541b3eec3444d883de4ecf601dd9f?pvs=4)
+#### Health Related Travel Benefit (US)
+
+[Notion reference](https://www.notion.so/dbtlabs/Health-Related-Travel-Benefit-1b3541b3eec3444d883de4ecf601dd9f?pvs=4)
 
 📌 We believe that it’s imperative that our team members have access to quality healthcare that they need, no matter where they live. Therefore, dbt Labs will reimburse up to $4,000 in travel expenses annually[^1] for any U.S. team member (including their dependent(s)) who requires healthcare that is not available in their state of residence.
 
@@ -136,6 +141,8 @@ Many states have introduced legislation to reduce or restrict access to critical
 
 #### [International Travel Emergency Health Benefits (US)](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4)
 
+[Notion reference](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4)
+
 US employees utilizing our health benefits have access to emergency care while traveling abroad. 
 
 Emergencies are generally classified as any symptoms that might be “limb or life threatening”, which could be something like broken limb, chest pain, anaphylaxis/allergy reactions causing severe symptoms, etc. If you are not sure if something is considered an emergency, contact your doctor. 
@@ -144,10 +151,49 @@ Both Cigna and Kaiser have access to Registered Nurses who are available 24/7 to
 
 Learn more about this benefit [here](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4).
 
-## Retirement
-Employees have access to an employer-sponsored 401K plan. Immediately upon hire, dbt Labs will contribute 3% of employee’s monthly salary into the retirement account on a monthly basis. Employees can additionally opt to contribute up to the federal maximum to their retirement account. dbt Labs will contribute to the retirement account regardless of any supplemental employee contributions.
+## Retirement (US)
 
-## [Time Off Policy](https://www.notion.so/dbtlabs/Time-Off-Policy-cb5363a73ca1485dbf94619c4c57aa6f?pvs=4)
+[Notion reference](https://www.notion.so/dbtlabs/US-401k-Guideline-228d622aca49433ab348aa9fc9bd4bea?pvs=4)
+
+All US based employees have access to an employer-sponsored 401K plan, adminstered through [Guideline](https://www.guideline.com/). 
+
+Immediately upon hire, dbt Labs will contribute 3% of employee’s monthly salary into their retirement account on a monthly basis and employees will be automatically enrolled at 4% contributions, which can be adjusted at any time. 
+
+Employees can additionally opt to contribute up to the federal maximum to their retirement account. dbt Labs will contribute to the retirement account regardless of any supplemental employee contributions.
+
+### Enrollment Process
+
+*Note: All US team members are **automatically enrolled** into a 401k contributions
+
+1. New emploees will receive a welcome email from Guideline to their personal email with a link to set-up their account.
+2. Once logged in, employees can set contribution amounts at any time throughout the year.
+3. Employees’s are automatically enrolled at a default contribution rate of 4%.
+
+### Automatic Contribution Amounts
+
+- Employer Contribution Amount: 3% (No employee contributions required for employer portion)
+- Employee Contribution Amount: 4% **(can be changed at any time)**
+
+### FAQs
+
+**Can a team member opt out of the pension program?**
+- Yes! The team member needs to opt out themselves. 
+
+**How can a team member increase or decrease their contribution amount?**
+- Login to their Guideline account and update their election.
+
+**Is there a vesting schedule for the employer contributions?**
+- All employer contributions are immediately vested. 
+
+**I think I over contributed to my 401k, what should I do?**
+- Reach out directly to Guideline's support team and they can assist with correcting any potential errors.
+
+**How long does it take for a changed contribution amount to be reflected in payroll?**
+- This may depend on timing but genearlly changes will take effect on the next payroll run.
+
+## Time Off Policy
+
+[Notion reference](https://www.notion.so/dbtlabs/Time-Off-Policy-cb5363a73ca1485dbf94619c4c57aa6f?pvs=4)
 
 In alignment with our core value, **“We Work Hard and Go Home”**, dbt Labs offers unlimited paid time off to support you to recharge, spend time with your family, and/or take care of personal matters. To encourage you to turn off your brain, travel, and spend time with your family, recommend you take a *minimum* amount of vacation days **(2 weeks, aka 10 business days)** each calendar year. 
 
@@ -233,7 +279,9 @@ The above explanation of how accrued time works and pay out upon termination is 
 Please discuss your time off schedule ahead of time with your manager, as they do not have visibility into requests within the Remote platform.
 
 
-### [2023 Company Holidays](https://www.notion.so/dbtlabs/2023-Company-Holidays-9e0e48bb8404496a868161e170e0a494?pvs=4)
+### 2023 Company Holidays
+
+[Notion reference](https://www.notion.so/dbtlabs/2023-Company-Holidays-9e0e48bb8404496a868161e170e0a494?pvs=4)
 
 In addition to our unlimited vacation policy, dbt Labs observes a number of public and company holidays every year, and this schedule varies by country. You are asked to observe your local holidays (for the country you reside in).
 
@@ -322,7 +370,10 @@ Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please
 - Christmas Day- Monday, December 25
 - Boxing Day- Tuesday, December 26
 
-### [Leave of Absence Programs](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4)
+### Leave of Absence Programs
+
+[Notion reference](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4)
+
 
 We offer paid and unpaid leave of absence programs. All leave types will run concurrently with all company holidays and will not add additional days to the established leave policy unless legally required. 
 
@@ -471,7 +522,9 @@ All employees who enter military service may accumulate a total absence of 5 yea
 
 dbt Labs may, in its sole discretion and unless prohibited by law, require an employee to take a leave of absence without pay.
 
-### [Requesting a leave of absence](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4#5dbdce7706de48a9bf94cd6624ad4c8c)
+### Requesting a leave of absence
+
+### [Notion reference](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4#5dbdce7706de48a9bf94cd6624ad4c8c)
 
 👉 Leaves of absence are complex. They often entail the coordination of multiple laws and the juggling of potential benefits. Some leaves are paid while others are unpaid (although may be eligible for wage supplementation).
 
@@ -485,7 +538,9 @@ The People Support team will introduce you to a Sparrow Leave Specialist as soon
 
 Employees who will be going on a leave of absence should review the related policy outlined above.
 
-## [Stipends](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4)
+## Stipends
+
+[Notion reference](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4)
 
 As part of dbt Lab's total rewards strategy, we provide various stipends to help cover some of the cost associated with working from home; as well as supporting our team members' development and well being. These policies apply to all full-time employees that work for any dbt Labs entity or who are employed through our Professional Employer Organizations (PEO - ie, Remote.com).
 
@@ -497,6 +552,8 @@ Benepass is our benefits/perks partner and is specifically designed to help admi
 - Benepass can be accessed via Okta, their [Online Portal](https://app.getbenepass.com/#/) or through their mobile [app](https://apps.apple.com/us/app/benepass/id1497613952). 
 
 ### [Office Stipend](https://www.notion.so/dbtlabs/Office-Stipend-5f5a37d1026d4fb78ee3c6439fada6dc?pvs=4)
+
+[Notion reference](https://www.notion.so/dbtlabs/Office-Stipend-5f5a37d1026d4fb78ee3c6439fada6dc?pvs=4)
 
 #### Policy
 
@@ -556,7 +613,9 @@ Learn more about the stipend amount by country, based on local purchasing power,
 
 - If you’re unsure if something is included within the policy, reach out directly to Benepass support team via the app.
 
-### [Phone & Internet Stipend](https://www.notion.so/dbtlabs/Phone-Internet-Stipend-afc584bf27f24a9f81267022f30557af?pvs=4)
+### Phone & Internet Stipend
+
+[Notion reference](https://www.notion.so/dbtlabs/Phone-Internet-Stipend-afc584bf27f24a9f81267022f30557af?pvs=4)
 
 #### Policy
 
@@ -581,7 +640,9 @@ Learn more about the stipend amount by country, based on local purchasing power,
 - Internet Expense: address on the bill must match your current address in ADP. Please make sure these match prior to submitting.
 - Phone Expense: phone number on the bill must match the phone number on file in ADP. If multiple lines are on a bill, please submit for the cost of one line as the amount for reimbursement.
 
-### [Health & Wellness Stipend](https://www.notion.so/dbtlabs/Health-Wellness-Stipend-092dcde477b246638bab319183054668?pvs=4)
+### Health & Wellness Stipend
+
+[Notion reference](https://www.notion.so/dbtlabs/Health-Wellness-Stipend-092dcde477b246638bab319183054668?pvs=4)
 
 #### Policy
 
@@ -619,7 +680,9 @@ Yes! Benepass is able to track and manage ‘payment’ systems for large purcha
 
 Check out a more robust list [here](https://docs.google.com/spreadsheets/d/1EAmO6874G_FqyVAGJTXG-eU3TNIBuNo8WiEHnwS79vY/edit#gid=0). This isn’t an exhaustive list but we will build it out over time as questions arise.
 
-### [Professional Development Stipend](https://www.notion.so/dbtlabs/Professional-Development-Reimbursement-d35cf1246a0c4c8e96b25cc22fe9d1cb?pvs=4)
+### Professional Development Stipend
+
+[Notion reference](https://www.notion.so/dbtlabs/Professional-Development-Reimbursement-d35cf1246a0c4c8e96b25cc22fe9d1cb?pvs=4)
 
 #### Policy
 
@@ -681,6 +744,8 @@ Learn about our stipend amounts by country [here](https://www.notion.so/dbtlabs/
 
 ## Workplace Rental 
 
+[Notion reference](https://www.notion.so/dbtlabs/Our-Workplace-Rental-Experience-LiquidSpace-6ce02b65bdf4469989b5864ae7f410fc?pvs=4)
+
 Working from home does not work for everyone. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
 
 ### Goals/Values of Enabling Work Outside of the Home:
@@ -738,7 +803,9 @@ LiquidSpace is available in many countries as well. If there is not a space near
 
 Learn more about how to use LiquidSpace and how to book larger meeting spaces [here](https://www.notion.so/dbtlabs/Booking-Larger-Meeting-Spaces-083779ac7ddb4845b81d07e03680cfa7?pvs=4)
 
-## [Employee Discounts](https://www.notion.so/dbtlabs/US-Benefit-Resources-22-23-9bb7ff3a7a944918bbca648f27ce8eb8?pvs=4#53c3890f26c540db82516fa51ba988ae)
+## Employee Discounts
+
+[Notion reference](https://www.notion.so/dbtlabs/US-Benefit-Resources-22-23-9bb7ff3a7a944918bbca648f27ce8eb8?pvs=4#53c3890f26c540db82516fa51ba988ae)
 
 Employee discounts are available through [LifeMart](https://lm.lifemart.com/group/lifemart/home). 
 
@@ -753,7 +820,9 @@ You can find savings on things like:
 - Electronics
 - and more!
 
-## [Wellness Program](https://www.notion.so/dbtlabs/Bright-Wellness-Program-699cfc7511f743f887226ed218adf676?pvs=4)
+## Wellness Program
+
+[Notion reference](https://www.notion.so/dbtlabs/Bright-Wellness-Program-699cfc7511f743f887226ed218adf676?pvs=4)
 
 🚨 At dbt Labs self-care is not a luxury; it's a priority. dbt Labs partnered with [Bright](https://choosebright.com/dbt/), the creators of a well-being platform for teams, to offer you a comprehensive well-being program - the Bright Pass - for free!
 
@@ -763,7 +832,9 @@ You can find savings on things like:
 
 Learn more about setting up your account [here](https://www.notion.so/dbtlabs/Bright-Wellness-Program-699cfc7511f743f887226ed218adf676?pvs=4#4be0b7d338ef47feb3a7dfbd8ae278d1).
 
-## [Employee Assistance Programs & Resources](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4)
+## Employee Assistance Programs & Resources
+
+[Notion reference](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4)
 
 ### What is an EAP?
 
@@ -795,7 +866,10 @@ Learn more about the ADP - Lifecare EAP and how to access this service [here](ht
 
 [LifeCare EAP Brochure.pdf](https://github.com/dbt-labs/corp/files/10994732/LifeCare.EAP.Brochure.pdf)
 
-## [Anonymous Hotline](https://www.notion.so/dbtlabs/Anonymous-Hotline-309767332cbc4fdf8b8fee1bc7c5e9ce?pvs=4)
+## Anonymous Hotline
+
+[Notion reference](https://www.notion.so/dbtlabs/Anonymous-Hotline-309767332cbc4fdf8b8fee1bc7c5e9ce?pvs=4)
+
 dbt Labs has an anonymous hotline for employees to be able to report workplace issues or *suspected illegal or unethical conduct* anonymously. 
 
 📌 **This service is implemented to provide an additional option for anonymous reporting but please remember you can always approach your manager, People Business Partner or a member of leadership team directly about any issues you are having.** 
