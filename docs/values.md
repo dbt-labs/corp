@@ -4,6 +4,10 @@ title: Values
 sidebar_label: Values
 ---
 
+| Content Maintainer |
+|---|
+| Tristan Handy |
+
 ### We are a mission-driven company.
 
 We believe that profits are an important tool in the pursuit of our mission, but they are not the mission itself.
