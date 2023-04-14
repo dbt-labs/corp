@@ -7,9 +7,7 @@ sidebar_label: Policies and Training
 | Maintained by |
 |---|
 | Meg Colón |
-| Vanessa Yeh |
 | Stephanie Murray |
-| Leigh Staub |
 | Helena G |
 
 [Code of Conduct](#code-of-conduct)
@@ -17,6 +15,8 @@ sidebar_label: Policies and Training
 [Anti-Harassment Training](#anti-harassment-training)
 
 [Corporate Travel & Expense Policy](#corporate-travel--expense-policy)
+
+[Moonlighting Guidance](#moonlighting-guidance)
 
 [Computer Refresh Policy](#computer-refresh-policy)
 
@@ -53,7 +53,7 @@ dbt Labs is an Equal Opportunity Employer that does not discriminate on the basi
 
 dbt Labs will endeavor to accommodate the sincere religious beliefs of its employees to the extent such accommodation does not pose an undue hardship on dbt Labs's operations, and make reasonable accommodations for qualified individuals with disabilities to, at least, the extent required by law. If you wish to request such an accommodation, please speak to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
 
-### Anti-harassment and Discrimination Policy
+### Anti-Harassment and Discrimination Policy
 
 It is the policy of dbt Labs to provide a work environment free from all forms of discrimination, including sexual harassment and harassment based on any protected status. dbt Labs is committed to the elimination of all harassment and discrimination in the workplace and will not tolerate the harassment of our employees, whether by an employee, customer, vendor, business partner or guest.
 
@@ -75,7 +75,7 @@ dbt Labs is committed to protecting basic human rights for all individuals as ou
 - We oppose forced or compulsory labor and human trafficking.
 - We ensure fair treatment and work conditions for all employees, including the right to freedom of association and collective bargaining.
 
-A copy of the UN principles can be found here: <https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf>
+A copy of the UN principles can be found [here](https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf).
 
 ### Professional Conduct Policy
 
@@ -162,7 +162,7 @@ We strive to hire people who share our values and we trust our employees to do t
 
 These guidelines can’t cover every possibility, so use good judgment. If you’re still not sure, contact the Accounts Payable team at **ap@dbtlabs.com** or on the **#finance-support** Slack channel.
 
-### **Travel Related Expenses**
+### Travel Related Expenses
 
 Travel arrangements should balance economics, safety, and logistics while still accomplishing the business objective.
 
@@ -172,7 +172,7 @@ Travel arrangements should balance economics, safety, and logistics while still 
 
 [Book Travel](https://www.notion.so/Book-Travel-9953198a0c37487db7dfda2c76b6b7e9)
 
-### **Airfare**
+### Airfare
 
 As a general rule, all flights should be booked in economy class, with the following exception:
 
@@ -180,32 +180,50 @@ As a general rule, all flights should be booked in economy class, with the follo
 
 Unless provided with other instructions, choose non-refundable options as these are more cost effective than refundable options. 
 
-### **Lodging**
+### Lodging
 
 Choose safe and comfortable hotel accommodations near the venue or purpose of travel to minimize additional commuting time and costs. If you need to change or cancel your reservation, it is your responsibility to cancel your stay in Navan prior to your intended travel to avoid “no-show” charges.
 
-### Ground Travel and **Rental Cars**
+## Ground Travel & Rental Cars
 
-Business ground travel including train, taxi and ride-sharing (i.e. Uber, Lyft) are reimbursable. Book the most economical option, where available. The use of rental cars or car-sharing (i.e. Zipcar, Getaround) should not be used other than for extenuating circumstances and must be pre-approved by your manager.   Review the guidelines for purchasing rental insurance [here](https://file.notion.so/f/s/c855b532-d661-4f3d-9bb9-5b5bb0ccd908/Automobile_Rental_Guidelines.pdf?spaceId=d044428d-35c1-45b8-8e9c-df25f39d8ced&table=block&id=de51cf76-1f9a-4426-919a-053e22bc5a8f&expirationTimestamp=1679105641189&signature=DKWNsHjDdRkFbO-Im5rk9Pxu2kcfwAJWaYJSXer8gr0&downloadName=Automobile+Rental+Guidelines.pdf).
+Business ground travel including train, taxi and ride-sharing (i.e. Uber, Lyft) are reimbursable. Book the most economical option, where available. The use of rental cars or car-sharing (i.e. Zipcar, Getaround) should not be used other than for extenuating circumstances and must be pre-approved by your manager.   Review the guidelines for purchasing rental insurance: [Automobile Rental Guidelines.pdf](https://github.com/dbt-labs/handbook/files/11233508/Automobile.Rental.Guidelines.pdf).
 
-### **Meals and Entertainment**
+### Meals & Entertainment
 
 Meals and entertainment expenses incurred for business purposes are reimbursable. The names of all attendees (employees, customers, prospects) must be included in the expense notes. 
 
-### **Use of Personal Vehicles**
+### Use of Personal Vehicles
 
 Mileage is reimbursable for business travel using your personal vehicle (i.e. driving to a customer or an offsite). You will be reimbursed at the applicable IRS mileage rate, which includes fuel costs.  Make sure you have adequate insurance coverage for your vehicle. Your normal commute (i.e. from home to the office) is excluded from mileage reimbursement.
 
-### **Internet while Traveling**
+### Internet while Traveling*
 
 Hotel and airline Wi-Fi internet fees during business travel (i.e., GoGo In Flight) are reimbursable. Hotel and airline Wi-Fi internet fees during personal travel are not reimbursable. 
 
-### **Traveling Parents**
+### Traveling Parents
 
 The cost of a [milk shipping service](https://www.milkstork.com/) is reimbursable for breastfeeding parents on work travel.
 
 ### FAQs
 Read answers to FAQs [here](https://www.notion.so/dbtlabs/Corporate-Travel-Expense-Policy-9d562e4218c941e4bd6b2710aec82c0d?pvs=4#eb3af765033449b3907082f2e87ef4d6).
+
+## Moonlighting Guidance
+
+What you do in your own time is your business, including additional employment. We understand that many employees are involved in their communities in a variety of ways, paid and unpaid. However, dbt Labs employees are expected to comply with certain guidelines for work and other activities spent outside of your dbt Labs working hours (”[moonlighting](https://dictionary.cambridge.org/us/dictionary/english/moonlighting)”), to ensure such activities do not interfere with, conflict with or put the company at risk.  We encourage transparency, and provide these guidelines for you to consider and discuss with your manager. Acceptable moonlighting:
+
+(1) is not during working hours that you set with dbt Labs (whatever those hours may be - the hours that you agreed upon with your manager);
+
+(2) isn’t performed on dbt Labs materials/property/hardware/systems;
+
+(3) is not being provided on behalf of dbt Labs, i.e., the activity is completely unrelated and unaffiliated with dbt Labs, your client is under no assumption that they’re receiving dbt Labs services, you don’t represent yourself as acting or speaking for dbt Labs, etc;
+
+(4) does not involve using or disclosing any confidential information or otherwise breaching any of your obligations with dbt Labs, including those under your agreements with dbt Labs; and
+
+(5) does not conflict with the work you’re doing for dbt Labs, including, but not limited to, (i) doing work for a competitor of dbt Labs or (ii) doing work for an entity that one of our customers would take serious issue with (not necessarily a competitor of our client, but maybe an entity causing direct harm to our client. If in doubt, talk to the People team). 
+
+Lastly, moonlighting is not an excusable reason for lesser or poor performance for work at dbt Labs. dbt Labs reserves the right to prohibit (or revoke a prior opinion that the activity was not prohibited) an employee from engaging in any moonlighting it deems may not be in the best interest of the company.
+
+Thanks to all our employees whose energy and commitment makes dbt Labs and the larger community a better place!
 
 ## Computer Refresh Policy
 
@@ -228,7 +246,6 @@ Depending on the age of your Mac and the cost of any potential repairs, the Mac 
 ## Involuntary Terminations
 
 [Notion reference](https://www.notion.so/dbtlabs/Involuntary-Terminations-12bd6115f88e4874a300b272f4aec023?pvs=4)
-
 
 Throughout this section, the core tension being managed is the tension between the interests of the company and the interests of the employee. Often, employer/employee relationships are zero sum: think Amazon fulfillment center employees. Amazon tries to milk as much productivity out of those employees as possible while paying them as little as possible. Turnover is incredibly high. Workers and the company have a generally adversarial relationship.
 
@@ -308,7 +325,7 @@ None of these questions are singly determinative, but they are each useful lense
     We often do. While in practice moves like this are hard to make (so many things have to align!), managers are encouraged to look for other internal roles that the underperforming employee is well-positioned to excel in. If you're currently trying to determine whether there might be a good fit for someone elsewhere in the organization for someone you manage, please contact your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
     
 
-### #2. Surprises are bad and we will work hard to avoid them.
+#### 2. Surprises are bad and we will work hard to avoid them.
 
 One of the questions that a termination always brings up for any team is, "If I were about to be terminated, would I know?"  Our goal is to have the answer to this be as close to 100% as possible. **Having an open dialogue about performance between a manager and an employee is the most important part of performance management.** 
 

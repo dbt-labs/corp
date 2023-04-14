@@ -8,7 +8,6 @@ sidebar_label: Working and Growing Here
 |---|
 | Vanessa Yeh |
 | Morgan Russell |
-| Helena G |
 | Sarah Riley |
 | Meg Colón |
 | Kimi Mashhoon |
@@ -29,8 +28,6 @@ sidebar_label: Working and Growing Here
 [Global Employment](#global-employment)
 
 [Office Strategy](#office-strategy)
-
-[Moonlighting Guidance](#moonlighting-guidance)
 
 [Diversity, Equity and Inclusion](#diversity-equity-and-inclusion)
 
@@ -153,7 +150,9 @@ Philadelphia, PA 19123
 🌏 *Note that all dates below are formatted by US dates, so it will be MM/DD*
 
 
-### There are two types of review cycles at dbt Labs.
+### Types of Review Cycles
+
+There are two types of review cycles at dbt Labs.
 
 1. [Performance Reviews](#performance-reviews) 
 
@@ -285,7 +284,7 @@ Because of the relationship between performance, and compensation/ promotions, t
 
 [Notion reference](https://www.notion.so/Performance-Reviews-at-dbt-Labs-054564274f6042a09e1e8515df579e06) 
 
-### Overview of the Performance Review Process
+### Process Overview
 
 #### Cadence
 
@@ -310,11 +309,11 @@ It should be a dedicated conversation around topics you normally might not be ab
 
 Ideally, nothing written or discussed in your performance review should be a surprise. Our expectation is immediate and consistent feedback is given throughout the year and not only during review season. So why have reviews if we’re expected to give consistent feedback? For many reasons, these more official checkpoints in the year help us with accountability to summarize that feedback, give us moments to pause and appreciate wins together, and sets aside dedicated spotlight to development conversations.
 
-#### Schedule & Time Commitment for Performance Reviews
+#### Schedule & Time Commitment
 
 Learn more about the schedule and logistics for our reviews [here](#schedule--logistics) where you'll find [Q1 Performance Review Schedule](#q1---performance) and [Q3 Performance Review Schedule](#q3---performance).
 
-### Performance Review Meetings & Conversations
+### Meetings & Conversations
 
 ℹ️ Managers are responsible for ensuring:
 
@@ -327,7 +326,7 @@ For People Managers: the meeting will consist of you, your manager, and your ski
     - The reason we do this is because we want to ensure your manager development and growth is supported by your management chain.
     - If your work is more cross functional (i.e. you’re embedded on another team), the leader from the other function might be the most suitable to join you and your manager in your performance review.
 
-### Details of the Performance Review
+### Details
 
 #### Questions Asked
 
@@ -393,7 +392,7 @@ The objective of calibration sessions is to ensure that different managers apply
     
     We will be using Culture Amp to facilitate the calibration sessions.
     
-### Performance Review Resources 
+### Resources 
 
 Check out our [resources](https://www.notion.so/dbtlabs/Performance-Reviews-at-dbt-Labs-054564274f6042a09e1e8515df579e06?pvs=4#538637004b4040a1b571732dfae5425f) to support the performance review process.
 
@@ -405,7 +404,7 @@ Check out our [resources](https://www.notion.so/dbtlabs/Performance-Reviews-at-d
 
 **Please make sure to review our [compensation principles](compensation.md#compensation-principles) in order to understand how we think about compensation at dbt Labs.**
 
-### Compensation Review
+### Compensation Reviews
 
 As a general rule, every team member will be eligible for **one** merit compensation review per year*. The cycle each team member is included in will be the cycle **closest** to the start date of the role they are currently in. This will either be their start date with the company or the start date in a new role through promotion or internal mobility.  See the table below to determine who is included in each cycle. 
 
@@ -440,7 +439,7 @@ All proposed increases will be reviewed in calibration meetings with leaders in 
 
 Detailed schedule [here](#schedule--logistics).
 
-### Promotion Cycle
+### Promotion Cycles
 
 As a general rule, team members are eligible for a promotion if they meet a 1 year tenure guideline* AND have shown that they are ready for the next step in their career. This is up to the manager discretion. 
 
@@ -478,9 +477,7 @@ Learn more about the schedule and logistics for our reviews [here](#schedule--lo
 
 [Notion reference](https://www.notion.so/dbtlabs/Internal-Mobility-d70f84f1c4bf4215aa017960123a2bfc?pvs=4)
 
-### Overview
-
-This document applies to those interested in applying to a role outside of your immediate team. Typically, this role will need to be an open requisition with an approved headcount.
+Internal mobility applies to those interested in applying to a role outside of your immediate team. Typically, this role will need to be an open requisition with an approved headcount.
 
 We post open roles on our internal career site, [Greenhouse](https://app5.greenhouse.io/internal_job_board/). It is regularly updated, and post roles based on the quarter they are allocated for.
 
@@ -502,7 +499,7 @@ We ask that employees be in their role for **at least** 12 months before applyin
 
 **Again, please ensure you’re actively talking to your manager about your career goals and development wants/needs.** 
 
-### Internal Transfer and Application Process
+### Internal Transfer & Application Process
 
 #### Step 1: Explore your interests
 
@@ -642,10 +639,12 @@ But even with this success, it’s naive to assume that just “hiring collabora
 - **Establish clear cross-departmental budgetary mechanisms.** For example, make a clear mechanism whereby marketing can allocate budget for a data analyst hire that will ultimately live on the data team. Note that this needs to handle the scenario where multiple departments want to contribute a % of an FTE towards a single full-time hire.
 - **Minimize executive compensation that is tied to anything but overall equity value.** We don’t have to remove incentive-based compensation that is tied to specific metrics altogether, but it should always be a distant personal priority for every executive when weighed against the success of the overall business.
 - **Create a new company value: “We share our legos.”** Culture is one of the biggest tools we have to shape behavior, and our values are the best tool we have for shaping culture.
-- **Answer the hard questions about cross-departmental roles up-front.** More on this in Appendix A.
+- **Answer the [hard questions](#questions-to-ask) about cross-departmental roles up-front.** 
 - **Abolish fiefdoms.** Kill the idea that departmental strategy is set and budgets are allocated at the sole discretion of the leader of that department. All leaders can weigh in on the strategic choices and budgets of other departments, and these concerns need to be addressed prior to moving ahead with the proposed plans. Use the OKR-setting process to make sure that goals are aligned across different departments.
 
-### Appendix A: What questions need to be answered prior to hiring for a cross-functional role?
+### Questions to Ask
+
+#### What questions need to be answered prior to hiring for a cross-functional role?
 
 1. **Who will be this person’s manager?** A manager will, in the case of an embedded team member, likely not be the person who is setting the day-to-day tasks for this person. Rather, they are responsible for supporting the person’s career development, providing mentorship, etc. There should only be a single answer to this question.
 2. **Who will the “embed sponsor” be?** The embed sponsor will be a member of the team “hosting” this person who will be primarily responsible for determining the day-to-day workload of this person. It is recommended that there is only one answer to this question, as balancing across multiple embed workloads can be challenging.
@@ -768,7 +767,6 @@ Compensation bands for each country we have an entity in will be listed in our c
 
 ⏳ Please initiate a move at least 3 months before your target move date. This allows us to process necessary approvals and make sure we’re able to execute the transfer.
 
-
 1. If the team member is moving to a new country, the move must have prior approval by their [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4), the dbt Labs finance team, their manager and their team’s leadership.
     1. Please allow for one month for approvals.
 2. All moves should be to a country where we have a dbt Labs entity. 
@@ -798,24 +796,6 @@ Team members are expected to communicate with their manager and team to ensure t
 🚧 There are different tax consequences for ISO and NSO options.  Additionally, tax rules vary across jurisdictions.  Employees are strongly encouraged to consult with a tax advisor before making any relocation decision.
 
 ‼️ **If there is a lapse in providing services to the Company, this will qualify as a termination and all unvested options will be canceled.  If a team member is rehired and resumes providing services to the Company, any grant associated with employment will need to go through the new hire process for equity.  This means that a team member would receive a new strike price, vesting period, etc.**
-
-## Moonlighting Guidance
-
-What you do in your own time is your business, including additional employment. We understand that many employees are involved in their communities in a variety of ways, paid and unpaid. However, dbt Labs employees are expected to comply with certain guidelines for work and other activities spent outside of your dbt Labs working hours (”[moonlighting](https://dictionary.cambridge.org/us/dictionary/english/moonlighting)”), to ensure such activities do not interfere with, conflict with or put the company at risk.  We encourage transparency, and provide these guidelines for you to consider and discuss with your manager. Acceptable moonlighting:
-
-(1) is not during working hours that you set with dbt Labs (whatever those hours may be - the hours that you agreed upon with your manager);
-
-(2) isn’t performed on dbt Labs materials/property/hardware/systems;
-
-(3) is not being provided on behalf of dbt Labs, i.e., the activity is completely unrelated and unaffiliated with dbt Labs, your client is under no assumption that they’re receiving dbt Labs services, you don’t represent yourself as acting or speaking for dbt Labs, etc;
-
-(4) does not involve using or disclosing any confidential information or otherwise breaching any of your obligations with dbt Labs, including those under your agreements with dbt Labs; and
-
-(5) does not conflict with the work you’re doing for dbt Labs, including, but not limited to, (i) doing work for a competitor of dbt Labs or (ii) doing work for an entity that one of our customers would take serious issue with (not necessarily a competitor of our client, but maybe an entity causing direct harm to our client. If in doubt, talk to the People team). 
-
-Lastly, moonlighting is not an excusable reason for lesser or poor performance for work at dbt Labs. dbt Labs reserves the right to prohibit (or revoke a prior opinion that the activity was not prohibited) an employee from engaging in any moonlighting it deems may not be in the best interest of the company.
-
-Thanks to all our employees whose energy and commitment makes dbt Labs and the larger community a better place!
 
 ## Office Strategy
 
