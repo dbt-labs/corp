@@ -525,7 +525,8 @@ All employees who enter military service may accumulate a total absence of 5 yea
 
 dbt Labs may, in its sole discretion and unless prohibited by law, require an employee to take a leave of absence without pay.
 
-### Requesting a Leave of Absence
+
+### Requesting a leave of absence
 
 [Notion reference](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4#5dbdce7706de48a9bf94cd6624ad4c8c)
 
