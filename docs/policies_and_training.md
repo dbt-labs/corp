@@ -16,6 +16,8 @@ sidebar_label: Policies and Training
 
 [Corporate Travel & Expense Policy](#corporate-travel--expense-policy)
 
+[Moonlighting Guideance](#moonlighting-guidance)
+
 [Computer Refresh Policy](#computer-refresh-policy)
 
 [Involuntary Terminations](#involuntary-terminations)
@@ -186,7 +188,6 @@ Choose safe and comfortable hotel accommodations near the venue or purpose of tr
 
 Business ground travel including train, taxi and ride-sharing (i.e. Uber, Lyft) are reimbursable. Book the most economical option, where available. The use of rental cars or car-sharing (i.e. Zipcar, Getaround) should not be used other than for extenuating circumstances and must be pre-approved by your manager.   Review the guidelines for purchasing rental insurance: [Automobile Rental Guidelines.pdf](https://github.com/dbt-labs/handbook/files/11233508/Automobile.Rental.Guidelines.pdf).
 
-
 ### Meals & Entertainment
 
 Meals and entertainment expenses incurred for business purposes are reimbursable. The names of all attendees (employees, customers, prospects) must be included in the expense notes. 
@@ -205,6 +206,24 @@ The cost of a [milk shipping service](https://www.milkstork.com/) is reimbursa
 
 ### FAQs
 Read answers to FAQs [here](https://www.notion.so/dbtlabs/Corporate-Travel-Expense-Policy-9d562e4218c941e4bd6b2710aec82c0d?pvs=4#eb3af765033449b3907082f2e87ef4d6).
+
+## Moonlighting Guidance
+
+What you do in your own time is your business, including additional employment. We understand that many employees are involved in their communities in a variety of ways, paid and unpaid. However, dbt Labs employees are expected to comply with certain guidelines for work and other activities spent outside of your dbt Labs working hours (”[moonlighting](https://dictionary.cambridge.org/us/dictionary/english/moonlighting)”), to ensure such activities do not interfere with, conflict with or put the company at risk.  We encourage transparency, and provide these guidelines for you to consider and discuss with your manager. Acceptable moonlighting:
+
+(1) is not during working hours that you set with dbt Labs (whatever those hours may be - the hours that you agreed upon with your manager);
+
+(2) isn’t performed on dbt Labs materials/property/hardware/systems;
+
+(3) is not being provided on behalf of dbt Labs, i.e., the activity is completely unrelated and unaffiliated with dbt Labs, your client is under no assumption that they’re receiving dbt Labs services, you don’t represent yourself as acting or speaking for dbt Labs, etc;
+
+(4) does not involve using or disclosing any confidential information or otherwise breaching any of your obligations with dbt Labs, including those under your agreements with dbt Labs; and
+
+(5) does not conflict with the work you’re doing for dbt Labs, including, but not limited to, (i) doing work for a competitor of dbt Labs or (ii) doing work for an entity that one of our customers would take serious issue with (not necessarily a competitor of our client, but maybe an entity causing direct harm to our client. If in doubt, talk to the People team). 
+
+Lastly, moonlighting is not an excusable reason for lesser or poor performance for work at dbt Labs. dbt Labs reserves the right to prohibit (or revoke a prior opinion that the activity was not prohibited) an employee from engaging in any moonlighting it deems may not be in the best interest of the company.
+
+Thanks to all our employees whose energy and commitment makes dbt Labs and the larger community a better place!
 
 ## Computer Refresh Policy
 
@@ -227,7 +246,6 @@ Depending on the age of your Mac and the cost of any potential repairs, the Mac 
 ## Involuntary Terminations
 
 [Notion reference](https://www.notion.so/dbtlabs/Involuntary-Terminations-12bd6115f88e4874a300b272f4aec023?pvs=4)
-
 
 Throughout this section, the core tension being managed is the tension between the interests of the company and the interests of the employee. Often, employer/employee relationships are zero sum: think Amazon fulfillment center employees. Amazon tries to milk as much productivity out of those employees as possible while paying them as little as possible. Turnover is incredibly high. Workers and the company have a generally adversarial relationship.
 
