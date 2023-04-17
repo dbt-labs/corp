@@ -124,8 +124,11 @@ This is a big and important topic. A remote work guide that answers this questio
 - **Default to asynchronous:** While async communication may not always be the ultimate way to get work done, it should be the default. Starting with async communication first allows for more effective synchronous communication when needed. It also helps your teammates retain their focus and flexibility by reducing interruptions and distractions.
 - **Progress > perfection:** Immediate answers aren’t expected. With the proper communication and tools in play, employees are empowered to keep iterating and making progress, backed with trust and support.
 
-## [Regional Offices](https://www.notion.so/dbtlabs/dbt-Labs-Office-Strategy-adad4eeeb29a406493a1ea23299b5278)
-In regions with high employee count, dbt Labs has office space to support async-first collaboration and promote our culture and values when teams meet onsite. As outlined in our [office strategy](#office-strategy-1), these spaces are designed with intention. They are not used to incentivize local collaboration but instead support community development and foster connection with cross-functional teams during offsites.
+## Regional Offices
+
+[Notion reference](https://www.notion.so/dbtlabs/dbt-Labs-Office-Strategy-adad4eeeb29a406493a1ea23299b5278)
+
+In regions with high employee count, dbt Labs has office space to support async-first collaboration and promote our culture and values when teams meet onsite. As outlined in our [office strategy](#office-strategy), these spaces are designed with intention. They are not used to incentivize local collaboration but instead support community development and foster connection with cross-functional teams during offsites.
 
 Learn more about the offices, building access and offsite information [here](https://www.notion.so/dbtlabs/Workplace-7a798fcfa1eb4fba9e061577b6fbb33b?pvs=4).
 
@@ -852,7 +855,7 @@ Team members are expected to communicate with their manager and team to ensure t
 
 ### Regional Offices
 
-Learn more about our regional offices [here](about_dbt_labs.md#regional-offices).
+Learn more about our regional offices [here](#regional-offices).
 
 ## Diversity, Equity and Inclusion
 
