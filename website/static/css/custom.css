@@ -7,6 +7,10 @@
 
 /* your custom css */
 
+.mainContainer .wrapper .post .postHeaderTitle {
+    margin: 1rem 0 1.5rem;
+}
+
 .nav-footer .sitemap {
     justify-content: center;
     margin: 0 auto 1rem;
