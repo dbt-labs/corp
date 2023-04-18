@@ -1,6 +1,6 @@
 ---
 id: working_and_growing_here
-title: Working and Growing at dbt Labs
+title: Working and Growing Here
 sidebar_label: Working and Growing Here
 ---
 
