@@ -7,10 +7,6 @@
 
 /* your custom css */
 
-.mainContainer .wrapper .post .postHeaderTitle {
-    margin: 1rem 0 1.5rem;
-}
-
 .nav-footer .sitemap {
     justify-content: center;
     margin: 0 auto 1rem;
@@ -18,6 +14,12 @@
 }
 .nav-footer .sitemap img {
     height: auto;
+}
+
+@media only screen and (max-width: 1023px) {
+    .mainContainer .wrapper .post .postHeaderTitle {
+    margin: 1rem 0 1.5rem;
+}
 }
 
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
