@@ -38,7 +38,6 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'about_dbt_labs', label: 'Docs'},
     {blog: false},
   ],
 
@@ -46,7 +45,7 @@ const siteConfig = {
   // users
 
   /* path to images for header/footer */
-  headerIcon: 'img/dbt-logo-light.svg',
+  headerIcon: 'img/dbt-labs-light.svg',
   footerIcon: 'img/dbt-logo-light.svg',
   favicon: 'img/dbt-logo.svg',
 
