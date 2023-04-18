@@ -7,6 +7,14 @@
 
 /* your custom css */
 
+.nav-footer .sitemap {
+    justify-content: center;
+    margin: 0 auto 1rem;
+}
+.nav-footer .sitemap img {
+    height: auto;
+}
+
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 
