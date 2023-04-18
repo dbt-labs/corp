@@ -43,7 +43,7 @@ const siteConfig = {
   ],
 
   // If you have users set above, you add it here:
-  // users,
+  // users
 
   /* path to images for header/footer */
   headerIcon: 'img/dbt-logo-light.svg',
