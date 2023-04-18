@@ -21,7 +21,7 @@
 // ];
 
 const siteConfig = {
-  title: 'dbt Labs Handbook', // Title for your website.
+  title: 'Handbook', // Title for your website.
   tagline: '',
   url: 'https://handbook.getdbt.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
@@ -37,9 +37,7 @@ const siteConfig = {
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
-  headerLinks: [
-    {blog: false},
-  ],
+  headerLinks: [],
 
   // If you have users set above, you add it here:
   // users
