@@ -10,6 +10,7 @@
 .nav-footer .sitemap {
     justify-content: center;
     margin: 0 auto 1rem;
+    align-items: center;
 }
 .nav-footer .sitemap img {
     height: auto;
