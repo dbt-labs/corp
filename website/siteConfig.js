@@ -21,7 +21,7 @@
 // ];
 
 const siteConfig = {
-  title: 'dbt Labs Handbook', // Title for your website.
+  title: 'Handbook', // Title for your website.
   tagline: '',
   url: 'https://handbook.getdbt.com', // Your website URL
   baseUrl: '/', // Base URL for your project */
@@ -37,23 +37,20 @@ const siteConfig = {
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
-  headerLinks: [
-    {doc: 'about_dbt_labs', label: 'Docs'},
-    {blog: false},
-  ],
+  headerLinks: [],
 
   // If you have users set above, you add it here:
-  // users,
+  // users
 
   /* path to images for header/footer */
-  headerIcon: 'img/dbt-logo-light.svg',
+  headerIcon: 'img/dbt-labs-light.svg',
   footerIcon: 'img/dbt-logo-light.svg',
   favicon: 'img/dbt-logo.svg',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#777f05',
-    secondaryColor: '#535803',
+    primaryColor: '#047378',
+    secondaryColor: '#047378',
   },
 
   /* Custom fonts for website */

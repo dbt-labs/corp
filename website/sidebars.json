@@ -2,11 +2,11 @@
   "docs": {
     "Handbook": [
       "about_dbt_labs",
-      "benefits",
-      "compensation",
       "mission",
       "values",
       "working_and_growing_here",
+      "compensation",
+      "benefits",
       "policies_and_training"
     ]
   }
