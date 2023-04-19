@@ -1,13 +1,12 @@
 ---
 id: benefits
 title: Benefits and Perks
-sidebar_label: Benefits
+sidebar_label: Benefits and Perks
 ---
 
 | Content Maintainers |
 |---|
 | Clyde Stackhouse |
-| Jessica Nguyen |
 | Meg Colón |
 
 [Global Benefits Strategy & Stipend](#global-benefits-strategy--stipend)
