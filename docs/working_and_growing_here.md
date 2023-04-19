@@ -8,7 +8,6 @@ sidebar_label: Working and Growing Here
 |---|
 | Vanessa Yeh |
 | Morgan Russell |
-| Sarah Riley |
 | Meg Colón |
 | Kimi Mashhoon |
 | Leigh Staub |
