@@ -7,7 +7,7 @@ sidebar_label: Compensation
 | Content Maintainers |
 |---|
 | Clyde Stackhouse |
-| Meg Colón |
+| Jessica Nguyen |
 
 [Compensation Principles](#compensation-principles)
 
