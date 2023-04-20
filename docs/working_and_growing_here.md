@@ -412,22 +412,24 @@ As a general rule, every team member will be eligible for **one** merit compensa
 
 **Exceptions will be made very rarely with CFO and Head of People approval.*
 
-- Start month/cycle breakdown
+- Overview of your compensation review based on start month:
     
-    | January | Q4 |
-    | February | Q4 |
-    | March | Q4 |
-    | April | Q4 |
-    | May | Q2 |
-    | June | Q2 |
-    | July | Q2 |
-    | August | Q2 |
-    | September | Q2 |
-    | October | Q2 |
-    | November | Q4 (+1 year) |
-    | December | Q4 (+1 year) |
+| Start Month | Cycle Breakdown |
+|---|---|
+| January | Q4 |
+| February* | Q4 |
+| March | Q4 |
+| April | Q4 |
+| May | Q2 |
+| June | Q2 |
+| July | Q2 |
+| August | Q2 |
+| September | Q2 |
+| October | Q2 |
+| November | Q4 (+1 year) |
+| December | Q4 (+1 year) |
 
-> We encourage team members to understand when their individual compensation review is so that they can prepare to have the conversations with their manager.
+- We encourage team members to understand when their individual compensation review is so that they can prepare to have the conversations with their manager.
 
 #### Process Overview
 
@@ -663,7 +665,7 @@ Who better to find great people to work here than great people that already work
 
 ### Who should you refer?
 
-Take a look at our open jobs in [Greenhouse](https://app5.greenhouse.io/internal_job_board/) or on our [website](https://www.getdbt.com/dbt-labs/open-roles/)! 
+Take a look at our open jobs by logging into [Greenhouse](https://app5.greenhouse.io/internal_job_board/) or on our [website](https://www.getdbt.com/dbt-labs/open-roles/)! 
 
 1. If you know someone that could be a fit, great!
 2. If you know someone that's awesome and would be a great addition to dbt Labs but don't see an open role that would fit them - we'd still like to talk to them and get them into our talent network for future openings!
@@ -753,13 +755,13 @@ In the past, dbt Labs would hire in any country except those we had already dete
 
 ### Global Compensation & Benefits
 
-Learn more about our [Compensation Principles](compensation.md#compensation-principles) and [Global Compensation and Benefits](compensation.md#global-compensation-and-benefits).
+Learn more about our [Compensation Principles](compensation.md#compensation-principles) and [Global Compensation and Benefits](compensation.md#global-compensation--benefits).
 
 ### Relocation (Permanent or Semi-permanent)
 
 📌 All international relocation requests must be approved by the People team, Finance team and the team members management. To initiate a request, please contact your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
 
-📌 Relocation requests within country may need approval by the team members management due to time zone or regional requirements. Please communicate with your manager if you plan a move to a different region in your country.
+📌 Relocation requests within one's existing country may need approval by the team member's management due to time zone or regional requirements. Please communicate with your manager if you plan a move to a different region in your country.
 
 If a team member chooses to relocate within each country (ex. from London → Manchester or Boston → Chicago), their compensation will not change. However, if the relocation is to a different country, they will be re-aligned to the new country’s compensation bands. This applies both when moving to a lower and higher cost market. 
 
@@ -928,9 +930,7 @@ How to ask a People Ops Question? (submit a ticket):
 
 We always encourage talking with your manager first, however we welcome your questions whenever that doesn’t feel like the best option for you. 
 
-How to ask a PBP Question?
-
-- Reach out to [your department’s PBP](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) directly via Slack if you have questions.
+- How to ask a PBP Question? Reach out to [your department’s PBP](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) directly via Slack if you have questions.
 
 ### How to get support from outside the People Team
 
@@ -950,7 +950,7 @@ You can reach out to a [Peer Advocate](https://www.notion.so/Peer-Advocate-Progr
 
 #### Anonymous Hotline
 
-💡 This is your best option to workplace issues or *suspected illegal or unethical conduct* anonymously.
+💡 This is your best option to get support about workplace issues or *suspected illegal or unethical conduct* anonymously.
 
 Learn more about how to use the Anonymous Hotline [here](benefits.md#anonymous-hotline).
 
