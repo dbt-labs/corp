@@ -37,7 +37,7 @@ sidebar_label: Policies and Training
 ### Introduction
 This Code of Conduct (“Code”) is to act as a guide for behavior to assist us all in making good (and legal) decisions, however, it is not meant to be a legal contract. Employees are expected to read and comply with the requirements stated in this Code, as well as all applicable laws and regulations.
 
-This Code is subject to change at any time at dbt Labs’s sole discretion. This Code supersedes all preexisting policies of dbt Labs to the extent that they conflict with this Code. Only dbt Labs may modify this Code. This Code is meant to work in conjunction with the employee handbook, and if there is any perceived conflict between the two, please address concerns with your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f) or for non-employees to legal@dbtlabs.com.
+This Code is subject to change at any time at dbt Labs’ sole discretion. This Code supersedes all preexisting policies of dbt Labs to the extent that they conflict with this Code. Only dbt Labs may modify this Code. This Code is meant to work in conjunction with the employee handbook, and if there is any perceived conflict between the two, please address concerns with your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f) or for non-employees to legal@dbtlabs.com.
 
 ### Open Door / Speak Up Policy
 
@@ -54,7 +54,7 @@ Furthermore, dbt Labs is committed to protecting the rights of those individuals
 
 dbt Labs is an Equal Opportunity Employer that does not discriminate on the basis of race, color, national origin, ancestry, sex, pregnancy (which includes childbirth, breastfeeding and medical conditions related to pregnancy, childbirth or breastfeeding), gender identity, gender expression, religion, disability, genetic information, age, marital status, sexual orientation, military and veteran status, family and medical leave, or any other characteristic protected by federal, state or local law. Our management team is dedicated to this policy with respect to recruitment, hiring, placement, promotion, transfer, training, compensation, benefits, employee activities and general treatment during employment.
 
-dbt Labs will endeavor to accommodate the sincere religious beliefs of its employees to the extent such accommodation does not pose an undue hardship on dbt Labs's operations, and make reasonable accommodations for qualified individuals with disabilities to, at least, the extent required by law. If you wish to request such an accommodation, please speak to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
+dbt Labs will endeavor to accommodate the sincere religious beliefs of its employees to the extent such accommodation does not pose an undue hardship on dbt Labs' operations, and make reasonable accommodations for qualified individuals with disabilities to, at least, the extent required by law. If you wish to request such an accommodation, please speak to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
 
 ### Anti-Harassment and Discrimination Policy
 
@@ -153,7 +153,6 @@ Learn more about our policy [here](#anti-harassment-and-discrimination-policy).
 
 [Notion reference](https://www.notion.so/dbtlabs/Corporate-Travel-Expense-Policy-9d562e4218c941e4bd6b2710aec82c0d?pvs=4)
 
-
 ### Our Philosophy
 
 We strive to hire people who share our values and we trust our employees to do the right thing. Abuse of this trust is counter to the dbt Labs culture. This policy is meant to act as a guideline to assist employees in making good decisions around the use of dbt Labs’ resources during travel and other incidental expenses.
@@ -199,13 +198,43 @@ Meals and entertainment expenses incurred for business purposes are reimbursable
 
 Mileage is reimbursable for business travel using your personal vehicle (i.e. driving to a customer or an offsite). You will be reimbursed at the applicable IRS mileage rate, which includes fuel costs.  Make sure you have adequate insurance coverage for your vehicle. Your normal commute (i.e. from home to the office) is excluded from mileage reimbursement.
 
-### Internet while Traveling*
+### Internet while Traveling
 
 Hotel and airline Wi-Fi internet fees during business travel (i.e., GoGo In Flight) are reimbursable. Hotel and airline Wi-Fi internet fees during personal travel are not reimbursable. 
 
 ### Traveling Parents
 
 The cost of a [milk shipping service](https://www.milkstork.com/) is reimbursable for breastfeeding parents on work travel.
+
+### Other Reimbursable Expenses
+
+#### Stipends
+
+Stipends, as part of our benefit program, are reimbursed primarily through Benepass. Learn more [here](/benefits.md#stipends).
+
+#### Employee Relations and Team Events
+
+Each department has up to $100 per employee per quarter to spend on team-building activities. As the benefit is intended for team building, gifts or gift cards are not allowable for this program. Note that the budget does not rollover; it is a use it or lose it budget per quarter.
+
+Managers should request a virtual airbase card ([instructions here](https://www.notion.so/Procurement-Process-74d81bda68e447339142bfcc84be9ca7) and provide the names of the attendees, dates, and a note of what quarter this is for. Use the expense category of **Employee Relations** in Airbase.
+
+### **Corporate Cards (Physical and Virtual)**
+
+The distribution of corporate cards at dbt Labs is limited. If you have a corporate card, only business-related expenses are permitted to be charged and you must adhere to the Corporate Travel and Expense Policy. Personal expenses and stipend purchases are not permitted. If a personal charge is made to your corporate card, the Company has the right to deduct the value of these charges from your paycheck; the decision will be made by the Head of Accounting. Your corporate card spend is part of the corporate budget, so keep in mind budget considerations. The use of a corporate card is a benefit, and so we ask you to do your part in operationalizing its use.  
+
+Categorization and providing a description of all transactions should be provided as soon as the charge is incurred, regardless of the charge amount.  At a minimum, physical card owners are expected to code and provide a description for all monthly transactions by the **2nd business day of the subsequent month**, regardless of the $$$ amount.
+
+Receipt submission (if greater than $50) should be provided as soon as the charge is incurred.  At a minimum, physical card owners are expected to provide receipts for all quarterly transactions **over $50** by the 2nd business day of the subsequent quarter.
+
+📢 **Non-compliance with the above deadlines will be [tracked](https://docs.google.com/spreadsheets/d/18JlnTg1WmjTU9gyWfaDQYN5odr7ZD4GpTLy3ceFbJeM/edit#gid=0) and should there be 3 consequent non-compliance events, the physical card will be revoked.**
+
+Failure to abide by these expectations may result in disciplinary action, including revoked card privileges, termination, and in the worst case, criminal proceedings. **While we absolutely do not expect this to be an issue, it's important to be clear that any suspected misappropriation of our shared resources will be taken extremely seriously.**
+
+### Software Purchases
+
+Software purchases that assist in executing one’s role and day-to-day responsibilities, i.e. Dux Soup, Microsoft Azure, GitKraken, should be purchased using an Airbase Virtual Card. To request a virtual card, please follow the [Procurement Process](https://www.notion.so/Procurement-Process-74d81bda68e447339142bfcc84be9ca7). These purchases should go through a virtual card as they allow us to track software spend more accurately, identify duplicative subscriptions, and consider appropriate security implications of using the software.
+
+Software purchases that are related to professional development, i.e. Grammarly, Udemy, Rize.io, should be purchased using your [Professional Development Stipend](/benefits.md#professional-development-stipend) through [Benepass](/benefits.md#how-to-use-benepass---perks--stipend-platform).
 
 ### FAQs
 Read answers to FAQs [here](https://www.notion.so/dbtlabs/Corporate-Travel-Expense-Policy-9d562e4218c941e4bd6b2710aec82c0d?pvs=4#eb3af765033449b3907082f2e87ef4d6).
@@ -373,7 +402,7 @@ It is our goal to create an environment where receiving critical feedback is nor
         
         - They are fundamentally disingenuous and encourage "double-speak." We value transparency and refuse to create rituals that undermine this value.
         - They do not actually accomplish their stated goals of employee protection—in practice they serve to protect the company.
-        - They prevent the affected employee from having the time to collect themselves and plan out their next moves. The time we choose to pay in severance, a company that uses PIPs is still asking the employee to spend all of their time on a job from which they will be terminated. We would prefer to move decisively and allow the terminated employee to use this paid time in whatever way was the most helpful **to them**.
+        - They prevent the affected employee from having the time to collect themselves and plan out their next moves. The time we choose to pay in severance, a company that uses PIPs is still asking the employee to spend all of their time on a job from which they will be terminated. We would prefer to move decisively and allow the terminated employee to use this paid time in whatever way was the most helpful to them.
         - The delay in terminating someone reduces the speed with which the organization can solve problems. 90 days of underperformance in a role is a very long time for a company in hypergrowth.
         
         For all of these reasons, we don't use PIPs at dbt Labs. We do, however, involve the People team in every single termination that occurs at the company to prevent unilateral decisions from being made by managers.
@@ -465,7 +494,7 @@ Please review the privacy notices located [here](https://www.notion.so/dbtlabs/P
 
 dbt Labs is concerned about the safety of its team members and about maintaining appropriate controls to ensure that assets of dbt Labs and our customer relationships and information are protected. To reduce these risks, we will obtain and review background information of covered prospective, and, as applicable, current employees.
 
-dbt Labs has contracted with Checkr (https://checkr.com/) to perform these background checks for US based employees, which will cover criminal history for the last 7 years, sex offender search, SSN trace, education verification, employment verification and Global Watchlist search. For all non-US employees, we use GoodHire (https://www.goodhire.com/). dbt Labs may use the returned background check information to make decisions regarding employment. For certain positions where the candidates financial history is relevant to the position, we may also run a check in the federal database for any financial related offenses.
+dbt Labs has contracted with [Checkr](https://checkr.com/) to perform these background checks for US based employees, which will cover criminal history for the last 7 years, sex offender search, SSN trace, education verification, employment verification and Global Watchlist search. For all non-US employees, we use [GoodHire](https://www.goodhire.com/). dbt Labs may use the returned background check information to make decisions regarding employment. For certain positions where the candidates financial history is relevant to the position, we may also run a check in the federal database for any financial related offenses.
 
 All candidates who make it to the offer stage with dbt Labs must undergo a background screening according to this policy as part of the employment screening process. All contracts will state that employment is subject to obtaining results from an approved background screening that are satisfactory to dbt Labs. If a candidate is unwilling to follow this process we are unable to proceed with their candidacy for any position at dbt Labs. In the event the background check is not available at the time of hire (switching vendors or delays in processing), dbt Labs will run the background check as soon as possible. The same adjudication guidelines will apply to current employees as they do with prospective employees.
 
