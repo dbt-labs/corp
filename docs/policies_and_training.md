@@ -9,6 +9,9 @@ sidebar_label: Policies and Training
 | Meg Colón |
 | Stephanie Murray |
 | Helena G |
+| Kimi Mashhoon |
+| Frank Pellegrino |
+
 
 [Code of Conduct](#code-of-conduct)
 
@@ -454,7 +457,7 @@ Please review the employment posters for the state you live in, and also the fed
 
 ## Privacy Notices
 
-Pelase review the privacy notices located [here](https://www.notion.so/dbtlabs/US-Employment-Posters-de219cf7a3774a73b206060831193c0c).
+Please review the privacy notices located [here](https://www.notion.so/dbtlabs/Privacy-Notices-0103d9266f394dd28c5ab4353a31ff4d).
 
 ## Background Checks
 
