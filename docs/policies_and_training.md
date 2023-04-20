@@ -44,7 +44,7 @@ This Code is subject to change at any time at dbt Labs’ sole discretion. This 
 If you have any questions concerning this Code, or are unsure about appropriate conduct in a situation, we encourage employees to consult their manager or their [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f). For non-employees, contact legal@dbtlabs.com. 
 
 **If you suspect that a crime or a violation of the Code has been committed by dbt Labs, another employee or even a visitor or client, please immediately report your concerns to the company.** 
-- To do so, contact your manager, [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f) or you may also report your concerns utilizing our [Anonymous Hotline](/benefits.md#anonymous-hotline).
+- To do so, contact your manager, [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f) or you may also report your concerns utilizing our [Anonymous Hotline](/benefits#anonymous-hotline).
 
 We are committed to preventing any occurrences of unethical or unlawful behavior, and to halting any unethical or unlawful behavior that may occur as soon as reasonably possible after discovery. We are also committed to promptly investigating reported concerns in a prompt manner and taking appropriate remedial action. Investigations and reports will be treated as confidential to the extent feasible and permitted by law. Violation of this Code or applicable laws or regulations may result in disciplinary action up to and including immediate termination of employment.
 
@@ -210,7 +210,7 @@ The cost of a [milk shipping service](https://www.milkstork.com/) is reimbursa
 
 #### Stipends
 
-Stipends, as part of our benefit program, are reimbursed primarily through Benepass. Learn more [here](/benefits.md#stipends).
+Stipends, as part of our benefit program, are reimbursed primarily through Benepass. Learn more [here](/benefits#stipends).
 
 #### Employee Relations and Team Events
 
@@ -234,7 +234,7 @@ Failure to abide by these expectations may result in disciplinary action, includ
 
 Software purchases that assist in executing one’s role and day-to-day responsibilities, i.e. Dux Soup, Microsoft Azure, GitKraken, should be purchased using an Airbase Virtual Card. To request a virtual card, please follow the [Procurement Process](https://www.notion.so/Procurement-Process-74d81bda68e447339142bfcc84be9ca7). These purchases should go through a virtual card as they allow us to track software spend more accurately, identify duplicative subscriptions, and consider appropriate security implications of using the software.
 
-Software purchases that are related to professional development, i.e. Grammarly, Udemy, Rize.io, should be purchased using your [Professional Development Stipend](/benefits.md#professional-development-stipend) through [Benepass](/benefits.md#how-to-use-benepass---perks--stipend-platform).
+Software purchases that are related to professional development, i.e. Grammarly, Udemy, Rize.io, should be purchased using your [Professional Development Stipend](/benefits#professional-development-stipend) through [Benepass](/benefits#how-to-use-benepass---perks--stipend-platform).
 
 ### FAQs
 Read answers to FAQs [here](https://www.notion.so/dbtlabs/Corporate-Travel-Expense-Policy-9d562e4218c941e4bd6b2710aec82c0d?pvs=4#eb3af765033449b3907082f2e87ef4d6).
