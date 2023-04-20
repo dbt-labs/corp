@@ -108,11 +108,11 @@ We provide long term and short term disability as well as life insurance coverag
 - [Life Insurance](https://app.strivebenefits.com/dbt/unum-life-and-add?country=us)
 - [Disability](https://app.strivebenefits.com/dbt/unum-disability?country=us)
 
-### US Employees enrolled in our health insurance are eligible for the following benefits as well:
-
-#### Health Related Travel Benefit (US)
+### Health Related Travel Benefit (US)
 
 [Notion reference](https://www.notion.so/dbtlabs/Health-Related-Travel-Benefit-1b3541b3eec3444d883de4ecf601dd9f?pvs=4)
+
+Eligibility Requirement: US employees enrolled in dbt Labs' health benefits.
 
 📌 We believe that it’s imperative that our team members have access to quality healthcare that they need, no matter where they live. Therefore, dbt Labs will reimburse up to $4,000 in travel expenses annually[^1] for any U.S. team member (including their dependent(s)) who requires healthcare that is not available in their state of residence.
 
@@ -141,6 +141,8 @@ Many states have introduced legislation to reduce or restrict access to critical
 #### International Travel Emergency Health Benefits (US)
 
 [Notion reference](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4)
+
+Eligibility Requirement: US employees enrolled in dbt Labs' health benefits.
 
 US employees utilizing our health benefits have access to emergency care while traveling abroad. 
 
@@ -200,7 +202,7 @@ In alignment with our core value, **“We Work Hard and Go Home”**, dbt Labs o
 - At the end of each quarter, the People team will send managers a list of how much time off each person has already taken / planned to take for the rest of the year (based on what is requested in ADP).
 - We encourage managers to do check-ins with their team (based on the data provided above): for those not taking time off, managers should seek to understand why this is the case and to help their team member structure their workload or work priorities in a way that allows them to actually disconnect from work to recharge.
 
-We ask that you input your time-off requests into ADP and categorize them accordingly [based on the definitions below](#%EF%B8%8Ftypes-of-time-off-plans--definitions). 
+We ask that you input your time-off requests into ADP and categorize them accordingly [based on the definitions below](#%EF%B8%8F-types-of-time-off-plans--definitions). 
 
 **Please discuss your time-off schedule with your manager prior to taking the time off so we can plan for coverage while you are out**. **Manager approval will be required to take time off!** When planning your time off, we ask that you also be mindful of the major dates and deadlines that may be unique and critical to your role.
 
@@ -231,7 +233,7 @@ When in doubt, please discuss with your manager about your plans
     - ***Paid Parental Leave** - to be taken within the first year of parenthood; any dbt Labs employee who needs to care for a newborn as a result of birth or adoption is able to take up to 12 weeks of paid leave*
     - ***Paid Medical Leave** - any dbt Labs employee who needs to take dedicated time off to recover from their own medical event (i.e. physical or mental illness, surgery, etc) is able to take up to 4 weeks of paid leave*
     - ***Paid Caregiver Leave -** any dbt Labs employee who needs to take dedicated time off to care for a seriously ill person is able to take up to 4 weeks of paid leave*
-- **Company Holidays**: dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. See [2023 Company Holidays ](#2023-Company-Holidays) for days observed. You are asked to observe your local holidays (for the country you reside in).
+- **Company Holidays**: dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. See [2023 Company Holidays ](#2023-company-holidays) for days observed. You are asked to observe your local holidays (for the country you reside in).
 
 Note that because in the United States, your time off is not accrued, you will not be paid out for any unused time offered under this policy when your employment with dbt Labs ends.
 
@@ -287,7 +289,7 @@ We recognize that there are many other cultural, religious or location based hol
 
 Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please reference the list of public holidays provided via Remote's Platform.
 
-#### US Company Holidays
+#### US Holidays
 
 - New Years Day (observed)-  Monday, January 2, 2023
 - MLK Day- Monday, January 16, 2023
@@ -434,7 +436,7 @@ Stock options will continue to vest at their regular rate during paid or unpaid 
 
 Employees may be asked to provide a Fitness for Duty form completed by their medical provider prior to their first day back. Employees returning from medical leave will be reinstated to the same position, or if that position is no longer available due to reasons unrelated to the employee’s leave, a comparable position. Employees will receive pay and benefits equivalent to those received prior to their leave.
 
-### Paid Caregiver Leave
+#### Paid Caregiver Leave
 
 Employees who need to take dedicated time off to care for a seriously ill or injured person will be allowed to take up to 4 weeks of paid Caregiver Leave. The illness or injury must be a serious health condition (defined below).
 
@@ -525,7 +527,7 @@ All employees who enter military service may accumulate a total absence of 5 yea
 dbt Labs may, in its sole discretion and unless prohibited by law, require an employee to take a leave of absence without pay.
 
 
-### Requesting a leave of absence
+### Requesting a Leave of Absence
 
 [Notion reference](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4#5dbdce7706de48a9bf94cd6624ad4c8c)
 
@@ -545,7 +547,7 @@ Employees who will be going on a leave of absence should review the related poli
 
 [Notion reference](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4)
 
-As part of dbt Lab's total rewards strategy, we provide various stipends to help cover some of the cost associated with working from home; as well as supporting our team members' development and well being. These policies apply to all full-time employees that work for any dbt Labs entity or who are employed through our Professional Employer Organizations (PEO - ie, Remote.com).
+As part of dbt Labs' total rewards strategy, we provide various stipends to help cover some of the cost associated with working from home; as well as supporting our team members' development and well being. These policies apply to all full-time employees that work for any dbt Labs entity or who are employed through our Professional Employer Organizations (PEO - ie, Remote.com).
 
 ### How to use Benepass - Perks & Stipend Platform
 
@@ -606,7 +608,7 @@ Learn more about the stipend amount by country, based on local purchasing power,
 
 **Do you have any recommendations on how to best use this stipend?**
 
-- Check out [Equipment Recommendations](https://www.notion.so/Equipment-Recommendations-3a2c5c26f31c43658a188f95a71f15a6) for recommendations from other dbt team members!
+- Check out equipment recommendations from team members [here](https://www.notion.so/Equipment-Recommendations-3a2c5c26f31c43658a188f95a71f15a6) or search in #talk-remoteworking Slack channel.
 
 **What if I can’t build my entire office with the provided $1,500?**
 
@@ -827,7 +829,7 @@ You can find savings on things like:
 
 [Notion reference](https://www.notion.so/dbtlabs/Bright-Wellness-Program-699cfc7511f743f887226ed218adf676?pvs=4)
 
-🚨 At dbt Labs self-care is not a luxury; it's a priority. dbt Labs partnered with [Bright](https://choosebright.com/dbt/), the creators of a well-being platform for teams, to offer you a comprehensive well-being program - the Bright Pass - for free!
+At dbt Labs, self-care is not a luxury, it's a priority. We partner with [Bright](https://choosebright.com/dbt/), the creators of a well-being platform for teams, to offer you a comprehensive well-being program - the Bright Pass - for free!
 
 - Keynotes and other events are also included each week covering a range of topics, such as financial well-being, sleep,  and coping with stress.
 - The Bright Pass gives you access to over 250 live, virtual classes each week. Sessions include daily yoga, fitness, meditation, and nutrition!
@@ -892,13 +894,11 @@ There is a wide variety of issues that you can choose to report, including:
 - Anti-bribery
 - Confidentiality and misappropriation
 
-If you have any questions about the service, please contact Meg Colón, Helena Gorman, or Vanessa Yeh.
-
 ### More about Ethicspoint
 
 - **Who has access to see the information submitted?**
-    - Only Ethicspoint System Administrators (Meg Colón and Helena Gorman) and the System Advocates (Vanessa Yeh and Gabriel Bolatiwa) have access to the reports.
-    - If one system admin is listed in the report, then the other one would have access. If both are listed in the report, then Vanessa or Gabriel, the system advocates, would have access to the report.
+    - Only Ethicspoint System Administrators and the System Advocates have access to the reports.
+    - If one System Admin is listed in the report, then the other one would have access. If both are listed in the report, then the System Advocates would have access to the report.
 - **SLA for actions taken / investigation / follow up**
     - A team member will initiate the report, choose the type of report and fill out the report details.
         - Please note that the reporter will be required to create a password for the report and at the end of the process, the team member will be given a report key that they should store somewhere. Both the password and the key will allow the team member to follow up on their report.
