@@ -579,9 +579,12 @@ As part of dbt Labs' total rewards strategy, we provide various stipends to help
 
 ### How to use Benepass - Perks & Stipend Platform
 
-Benepass is our benefits/perks partner and is specifically designed to help administer stipends and supplemental perks. Learn more about how to use Benepass and get answers to FAQs [here](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4#b4463cef29e54a4c9d1a9fe137f7282e).
+Benepass is our benefits/perks partner and is specifically designed to help administer stipends and supplemental perks. 
 
-- Benepass is used for Office Stipend, Phone & Internet Stipend, Health & Wellness Stipend, and Professional Development Stipend. - Policies and reimbursements that are NOT administered through Benepass are: Workspace Rental Experience, Health Related Travel Benefit, Corporate Travel & Expense Policy.
+Learn about how to use Benepass and get answers to FAQs [here](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4#b4463cef29e54a4c9d1a9fe137f7282e).
+
+- Benepass is used for Office Stipend, Phone & Internet Stipend, Health & Wellness Stipend, and Professional Development Stipend. 
+- Policies and reimbursements that are NOT administered through Benepass are: Workspace Rental Experience, Health Related Travel Benefit, Corporate Travel & Expense Policy.
 - Benepass can be accessed via Okta, their [Online Portal](https://app.getbenepass.com/#/) or through their mobile [app](https://apps.apple.com/us/app/benepass/id1497613952). 
 
 ### Office Stipend
@@ -595,8 +598,7 @@ There are many advantages to building a remote-first culture, however we underst
 **Office Stipend Types**
 
 1. Office Refresh Stipend - All employees receive up to **$400 each fiscal year** to help refresh their existing office set-up and needs. Our fiscal year runs Feb 1-Jan 31.
-2. New Hire Office Stipend - All new hires receive a **total of $1,500** to use through out their first year to help assist in building their home office
--  *In our Benepass Platform, new hires will see an $1,100 New Hire Office Stipend + $400 Office Refresh Stipend = $1,500. This allows new hires to utilize their funds through out the entire year.
+2. New Hire Office Stipend - All new hires receive a **total of $1,500** to use through out their first year to help assist in building their home office. (In our Benepass Platform, new hires will see an $1,100 New Hire Office Stipend + $400 Office Refresh Stipend = $1,500. This allows new hires to utilize their funds through out the entire year.)
 
 All office stipend expenses should be purchased using your Benepass card or reimbursed through the Benepass site or app.
 
@@ -632,9 +634,9 @@ Learn more about the stipend amount by country, based on local purchasing power,
 - Paint & Wallpaper
 - Window furnishings
 
-#### Common Questions
+#### Common Questions:
 
-**Do you have any recommendations on how to best use this stipend?**
+**Do you have any recommendations on how to best use this stipend?** 
 
 - Check out equipment recommendations from team members [here](https://www.notion.so/Equipment-Recommendations-3a2c5c26f31c43658a188f95a71f15a6) or search in #talk-remoteworking Slack channel.
 
@@ -672,6 +674,7 @@ Learn more about the stipend amount by country, based on local purchasing power,
 
 - Internet Expense: address on the bill must match your current address in ADP. Please make sure these match prior to submitting.
 - Phone Expense: phone number on the bill must match the phone number on file in ADP. If multiple lines are on a bill, please submit for the cost of one line as the amount for reimbursement.
+- If you’re unsure if something is included within the policy, reach out directly to Benepass support team via [the app](https://app.getbenepass.com).
 
 ### Health & Wellness Stipend
 
@@ -703,7 +706,7 @@ All health and wellness expenses should be purchased using your Benepass card or
 
 Learn more about the stipend amount by country, based on local purchasing power, [here](#stipend-amounts-by-country).
 
-#### Common Questions
+#### Common Questions:
 
 **Can a large purchase be paid in installments over time?**
 
@@ -729,7 +732,7 @@ All professional development expenses should be purchased using your Benepass ca
 
 Learn more about the stipend amount by country, based on local purchasing power, [here](#stipend-amounts-by-country).
 
-#### Common Questions
+#### Common Questions:
 
 **Does the professional development purchase need to be directly related to my role?**
 
@@ -758,6 +761,10 @@ Occasionally, expenses beyond the initial $500 will be reimbursed with advanced 
     - [People Ops Society Membership](https://www.peopleopssociety.com/)
     - CPA Renewal
 
+**How can I find out if something is an eligible expense?**
+
+- If you’re unsure if something is included within the policy, reach out directly to Benepass support team via the [app](https://app.getbenepass.com).
+
 ### General Guidelines for All Stipends
 
 - All stipend expenses must be processed using your Benepass card or submitted for reimbursement through the Benepass app. [Learn more here.](#how-to-use-benepass---perks--stipend-platform)
@@ -773,7 +780,7 @@ Occasionally, expenses beyond the initial $500 will be reimbursed with advanced 
 
 ### Stipend Amounts by Country
 
-Learn about our stipend amounts by country [here](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4#6fe12c7cd08c4886a602a13fd4c3e960).
+Learn about our stipend amounts by country [here](https://www.notion.so/dbtlabs/Stipend-Amounts-by-Country-8b5d64dd100145aaa1b97ba42865e8b5?pvs=4).
 
 ## Workplace Rental 
 
@@ -781,30 +788,33 @@ Learn about our stipend amounts by country [here](https://www.notion.so/dbtlabs/
 
 Working from home does not work for everyone. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
 
-### Goals/Values of Enabling Work Outside of the Home:
+**We offer the following to enable employees to rent workspaces outside the home and optimize for productivity:**
 
-1. **Productivity**: dbt Lab's remote-first / async culture is designed to allow employees to “work from anywhere” vs just “work from home”.  The ***primary goal*** of supporting workplaces outside the home is to enable employees to build the optimal environment for their work.
-2. **Inclusiveness:** In-person / outside the home workplace benefits must not compromise remote employees’ ability to collaborate.  
-3. **Community:** Provide opportunities for team members to build rapport with one another, engage cross-functionally, and strengthen a sense of shared values and goals.
+- $250 per month in workplace rental coverage for all employees through [Liquidspace](https://liquidspace.com/dbtlabs/signin?returnPath=%2Fmain) 
+- $1500 per quarter workplace rental stipend for Directors (L7+) and above to book large conference room / work spaces through Liquidspace to support in-person meetings for teams
 
-🖐️ Please keep in mind that the main goal of this is to enhance your personal work environment. If you choose to collaborate in a co-working space with co-workers, you are mindful that everyone who needs to be involved in a conversation is.  If your project/collaboration can be accomplished over zoom or asynchronously, then it should be done that way to avoid excluding others. 
+**This benefit is important because:**
 
-### We offer the following to enable employees to rent workspaces outside the home and optimize for productivity:
+- **Productivity**: dbt Lab's remote-first / async culture is designed to allow employees to “work from anywhere” vs just “work from home”.  The ***primary goal*** of supporting workplaces outside the home is to enable employees to build the optimal environment for their work.
+- **Community:** Provides opportunities for team members to build rapport with one another, engage cross-functionally, and strengthen a sense of shared values and goals.  
 
-1. $250 per month in workplace rental coverage for all employees through Liquidspace 
-2. $1500 per quarter workplace rental stipend for Directors (L7+) and above to book large conference room / work spaces through Liquidspace to support in-person meetings for teams
+🖐️  In-person / outside the home workplace benefits must not compromise remote employees’ ability to collaborate. Please keep in mind that the main goal of this benefit is to enhance your personal work environment. If you choose to collaborate in a co-working space with co-workers, you are mindful that everyone who needs to be involved in a conversation is.  If your project/collaboration can be accomplished over zoom or asynchronously, then it should be done that way to avoid excluding others. 
 
 ### Frequently Asked Questions
 
 #### What is Liquidspace and how do I use it?
 
-About Liquidspace:   Liquidspace is an online marketplace for renting workplaces and offices.  It is considered the “airbnb of workplace rentals”  in that it utilizes a number of companies and private hosts to allow for over 10,000 locations to choose from. Liquidspace will be a new tile added to your Okta board.  Simply login from there and begin searching.
+About Liquidspace:   Liquidspace is an online marketplace for renting workplaces and offices.  It is considered the “airbnb of workplace rentals”  in that it utilizes a number of companies and private hosts to allow for over 10,000 locations to choose from. 
 
 To access Liquidspace, simply login through Okta or [here](https://liquidspace.com/dbtlabs/signin?returnPath=%2Fmain). There is no need to submit reimbursement for this, the costs will be managed within LiquidSpace. 
 
+When you begin searching in your area of choice, you will find desks, private offices, and meeting rooms, along with the pricing (per hour, 1/2 day, and full-day).  You can book spaces in advance and some are even available the same day! 
+
+Please join our LiquidSpace slack channel #liquidspace-workplace-experience to ask questions, share great places to book and find others in your area to co-work with!
+
 #### When should I use Liquidspace vs a dbt Labs office?
 
-When in the vicinity / metro area of a dbt Labs office, leverage the office instead of Liquidspace to the best of your ability.   If you are local to an office but the office is full or doesn’t suit your needs (e.g. you need a bigger space for a customer / team meeting) feel free to leverage Liquidspace as needed. 
+When in the vicinity / metro area of a dbt Labs office, leverage the office instead of Liquidspace to the best of your ability. If you are local to an office but the office is full or doesn’t suit your needs (e.g. you need a bigger space for a customer / team meeting) feel free to leverage Liquidspace as needed. 
 
 #### What if I want to rent a different workspace for the day that is not available on Liquidspace?
 
