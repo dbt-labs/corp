@@ -91,20 +91,33 @@ We look to target locally relevant and competitive benefit options. Retirement a
 
 ## Healthcare Benefits (US)
 
+Full-time team members based in the US are eligible to enroll in healthcare benefits through dbt Labs. We provide medical, dental and vision benefits to employees and their dependents as well as FSA, DCFSA, and HSA options. 
+
+Health benefits are paid, in part, by the company. The remainder of the costs is the employee’s responsibility.
+
+A detailed overview of our benefits can be found [here](https://app.strivebenefits.com/dbt/home)
+
+### How To Enroll in Healthcare Benefits (US)
+
+Benefit enrollment takes place through ADP and you can learn more about the process [here](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4).
+
+There are three separate occasions where team members may enroll in benefits throughout the calendar year. 
+
+1. [New Hire Enrollment](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4#2eebaae383f64dada3d4652570bdbf73): New hires may enroll themselves and dependents in health benefits online through ADP within the first 30 days of employment. There is a strict 30 day enrollment window. After benefit elections are submitted, enrollments go into effect the first day of employment (your start date) at dbt Labs.
+2. [Open Enrollment](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4#87c60e30f9b645ef99865ad0c2c75ccf):dbt Labs has an annual Open Enrollment (OE) at the end of the calendar year, typically in November or early December. During open enrollment, team members have the opportunity to review or change their benefit elections. Benefit enrollments go into effect January 1st of the following calendar year.
+3. [Qualifying Life Event](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4#32b0e31ce6884a9e95fbb988a7b5d78b):There are times when life changes unexpectedly. Often times, those events may happen outside of Open Enrollment (OE). Enrollment in essential health coverage is allowed outside of OE if you experience a qualifying life event. Examples of QLEs include marriage, childbirth, and loss of coverage. Team members can submit a life event online in ADP. 
+4. [Year Round HSA Adjustment](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4#bb07dd31ff8542df92ac1f46a288a88a): Employees who currently have a High Deductible Health Plan coverage selection are able to adjust their HSA contributions throughout the year. This is the only benefit adjustment that does not require a Qualifying Life or Work Event.
+
 ### Medical Plans (US)
 
 [Notion reference](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
 
-We provide medical, dental and vision benefits to employees and their dependents as well as FSA, DCFSA, and HSA options. Health benefits are paid, in part, by the company. The remainder of the costs is the employee’s responsibility.
-
 Learn more about our medical plans [here](https://app.strivebenefits.com/dbt/2022-2023-medical?country=us).
 
-New hires may enroll themselves and dependents in health benefits online through ADP within the first 30 days of employment. There is a strict 30 day enrollment window. After benefit elections are submitted, enrollments go into effect the first day of employment (your start date) at dbt Labs.
-
-To enroll in benefits as a new hire, existing employee during open enrollment or at a time of a qualifying life event, follow our [guide](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4). Note: Employees who currently have a High Deductible Health Plan coverage selection are able to adjust their HSA contributions throughout the year. This is the only benefit adjustment that does not require a Qualifying Life or Work Event.
-
 ### Disability and Life Insurance (US)
-We provide long term and short term disability as well as life insurance coverage to all US-based employees at no cost. Voluntary, additional, life insurance coverage for employees and dependants is available at the expense of the employee. Learn more:
+We provide long term and short term disability as well as life insurance coverage to all US-based employees at no cost. Voluntary, additional, life insurance coverage for employees and dependants is available at the expense of the employee. 
+
+Learn more:
 - [Life Insurance](https://app.strivebenefits.com/dbt/unum-life-and-add?country=us)
 - [Disability](https://app.strivebenefits.com/dbt/unum-disability?country=us)
 
@@ -138,7 +151,7 @@ Many states have introduced legislation to reduce or restrict access to critical
     1. The Head of People will be the only person with access to receipts and reason for travel and will not discuss or share with anyone. The Payroll Manager will receive only the amount to add to payroll.
 3. If you need support relating to out-of-state travel for healthcare purposes, please contact Meg directly.
 
-#### International Travel Emergency Health Benefits (US)
+### International Travel Emergency Health Benefits (US)
 
 [Notion reference](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4)
 
@@ -873,7 +886,12 @@ At dbt Labs, self-care is not a luxury, it's a priority. We partner with [Bright
 - The Bright Pass gives you access to over 250 live, virtual classes each week. Sessions include daily yoga, fitness, meditation, and nutrition!
 - Bright’s sessions are live and interactive to help you feel connected to your team and to Bright’s educators.
 
-Learn more about setting up your account [here](https://www.notion.so/dbtlabs/Bright-Wellness-Program-699cfc7511f743f887226ed218adf676?pvs=4#4be0b7d338ef47feb3a7dfbd8ae278d1).
+Learn more about setting up your account [here]([dbt_onboarding_1677514283463.pdf](https://github.com/dbt-labs/handbook/files/11312827/dbt_onboarding_1677514283463.pdf).
+
+A few reminders for next steps:
+- Learn more  here: https://choosebright.com/dbt/
+- Opt-in to the Healthy Habits Quest!
+- Join the #bright-wellness channel on Slack 
 
 ## Employee Assistance Programs & Resources
 
