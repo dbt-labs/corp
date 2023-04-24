@@ -17,6 +17,8 @@ sidebar_label: Policies and Training
 
 [Anti-Harassment Training](#anti-harassment-training)
 
+[Your Personnel File](#your-personnel-file)
+
 [Corporate Travel & Expense Policy](#corporate-travel--expense-policy)
 
 [Moonlighting Guidance](#moonlighting-guidance)
@@ -25,7 +27,7 @@ sidebar_label: Policies and Training
 
 [Involuntary Terminations](#involuntary-terminations)
 
-[US Employement Posters](#us-employement-posters)
+[US Employment Posters](#us-employment-posters)
 
 [Privacy Notices](#privacy-notices)
 
@@ -148,6 +150,17 @@ We are committed to taking all steps possible to prevent employee harassment. An
 All employees must be trained once per year, regardless of position within the company, however, the training course you will be assigned will be determined based on your location and whether you are a people manager or not.
 
 Learn more about our policy [here](#anti-harassment-and-discrimination-policy).
+
+## Your Personnel File
+
+We appreciate that you entrust us with personal information like your address and telephone number. We record it in your personnel file. Please help us keep your file as up-to-date as possible. Submit a [#people-support ticket](https://www.notion.so/dbtlabs/How-to-Ask-a-People-Question-a17443c3b92346b185ca4b4c266497df?pvs=4#420e082679eb4c77b62d576411f9b76d) to share of relevant information changes, for instance:
+
+- any newly acquired specialized training or skills
+- changes to visas (if required for your work)
+- changes of address, marital status, etc. (for accurate tax withholding/ benefit coverage)
+- new emergency contact (avoids health or safety risks from out-of-date information)
+
+By signing the handbook, you consent to your personal information being shared in connection with your work for us. This will be used by you (or us) as you set up your work station, log into platforms, set up tools, choose passwords, communicate with customers, perform job functions, etc. We also use the data to meet our employment law obligations including but not limited to paying payroll, managing benefits, communicating with you, meeting diversity goals, creating an employee directory, and financial analyses necessary to run the business. You also consent to the recording of some video conference calls, as needed. Recordings are used for training, product development, sharing information between time zones, etc.
 
 ## Corporate Travel & Expense Policy
 
