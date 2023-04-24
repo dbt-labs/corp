@@ -12,6 +12,7 @@ sidebar_label: Benefits and Perks
 [Global Benefits Strategy & Stipend](#global-benefits-strategy--stipend)
 
 [Healthcare Benefits (US)](#healthcare-benefits-us)
+- [How To Enroll in Healthcare Benefits (US)](#how-to-enroll-in-healthcare-benefits-us)
 - [Medical Plans (US)](#medical-plans-us)
 - [Disability and Life Insurance](#disability-and-life-insurance-us)
 - [Health Related Travel Benefit (US)](#health-related-travel-benefit-us)
@@ -36,7 +37,7 @@ sidebar_label: Benefits and Perks
 
 [Wellness Program](#wellness-program)
 
-[Employee Assistance Programs & Resources](#employee-assistance-programs--resources)
+[Employee Assistance Programs](#employee-assistance-programs)
 
 [Anonymous Hotline](#anonymous-hotline)
 
@@ -891,7 +892,7 @@ Learn more about the program and how to setup your account: [brightwellness.pdf]
 - Join classes: https://choosebright.com/dbt/
 - Join the #bright-wellness channel on Slack 
 
-## Employee Assistance Programs & Resources
+## Employee Assistance Programs
 
 [Notion reference](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4)
 
