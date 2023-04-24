@@ -12,6 +12,7 @@ sidebar_label: Benefits and Perks
 [Global Benefits Strategy & Stipend](#global-benefits-strategy--stipend)
 
 [Healthcare Benefits (US)](#healthcare-benefits-us)
+- [How To Enroll in Healthcare Benefits (US)](#how-to-enroll-in-healthcare-benefits-us)
 - [Medical Plans (US)](#medical-plans-us)
 - [Disability and Life Insurance](#disability-and-life-insurance-us)
 - [Health Related Travel Benefit (US)](#health-related-travel-benefit-us)
@@ -20,7 +21,7 @@ sidebar_label: Benefits and Perks
 [Retirement](#retirement-us)
 
 [Time Off Policy](#time-off-policy)
-- [2023 Company Holidays](#2023-company-holidays)
+- [Company Holidays](#company-holidays)
 - [Leave of Absence Programs](#leave-of-absence-programs)
 
 [Stipends](#stipends)
@@ -36,7 +37,7 @@ sidebar_label: Benefits and Perks
 
 [Wellness Program](#wellness-program)
 
-[Employee Assistance Programs & Resources](#employee-assistance-programs--resources)
+[Employee Assistance Programs](#employee-assistance-programs)
 
 [Anonymous Hotline](#anonymous-hotline)
 
@@ -91,20 +92,33 @@ We look to target locally relevant and competitive benefit options. Retirement a
 
 ## Healthcare Benefits (US)
 
+Full-time team members based in the US are eligible to enroll in healthcare benefits through dbt Labs. We provide medical, dental and vision benefits to employees and their dependents as well as FSA, DCFSA, and HSA options. 
+
+Health benefits are paid, in part, by the company. The remainder of the costs is the employee’s responsibility.
+
+A detailed overview of our benefits can be found [here](https://app.strivebenefits.com/dbt/home)
+
+### How To Enroll in Healthcare Benefits (US)
+
+Benefit enrollment takes place through ADP and you can learn more about the process [here](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4).
+
+There are three separate occasions where team members may enroll in benefits throughout the calendar year. 
+
+1. [New Hire Enrollment](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4#2eebaae383f64dada3d4652570bdbf73): New hires may enroll themselves and dependents in health benefits online through ADP within the first 30 days of employment. There is a strict 30 day enrollment window. After benefit elections are submitted, enrollments go into effect the first day of employment (your start date) at dbt Labs.
+2. [Open Enrollment](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4#87c60e30f9b645ef99865ad0c2c75ccf):dbt Labs has an annual Open Enrollment (OE) at the end of the calendar year, typically in November or early December. During open enrollment, team members have the opportunity to review or change their benefit elections. Benefit enrollments go into effect January 1st of the following calendar year.
+3. [Qualifying Life Event](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4#32b0e31ce6884a9e95fbb988a7b5d78b):There are times when life changes unexpectedly. Often times, those events may happen outside of Open Enrollment (OE). Enrollment in essential health coverage is allowed outside of OE if you experience a qualifying life event. Examples of QLEs include marriage, childbirth, and loss of coverage. Team members can submit a life event online in ADP. 
+4. [Year Round HSA Adjustment](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4#bb07dd31ff8542df92ac1f46a288a88a): Employees who currently have a High Deductible Health Plan coverage selection are able to adjust their HSA contributions throughout the year. This is the only benefit adjustment that does not require a Qualifying Life or Work Event.
+
 ### Medical Plans (US)
 
 [Notion reference](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
 
-We provide medical, dental and vision benefits to employees and their dependents as well as FSA, DCFSA, and HSA options. Health benefits are paid, in part, by the company. The remainder of the costs is the employee’s responsibility.
-
 Learn more about our medical plans [here](https://app.strivebenefits.com/dbt/2022-2023-medical?country=us).
 
-New hires may enroll themselves and dependents in health benefits online through ADP within the first 30 days of employment. There is a strict 30 day enrollment window. After benefit elections are submitted, enrollments go into effect the first day of employment (your start date) at dbt Labs.
-
-To enroll in benefits as a new hire, existing employee during open enrollment or at a time of a qualifying life event, follow our [guide](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4). Note: Employees who currently have a High Deductible Health Plan coverage selection are able to adjust their HSA contributions throughout the year. This is the only benefit adjustment that does not require a Qualifying Life or Work Event.
-
 ### Disability and Life Insurance (US)
-We provide long term and short term disability as well as life insurance coverage to all US-based employees at no cost. Voluntary, additional, life insurance coverage for employees and dependants is available at the expense of the employee. Learn more:
+We provide long term and short term disability as well as life insurance coverage to all US-based employees at no cost. Voluntary, additional, life insurance coverage for employees and dependants is available at the expense of the employee. 
+
+Learn more:
 - [Life Insurance](https://app.strivebenefits.com/dbt/unum-life-and-add?country=us)
 - [Disability](https://app.strivebenefits.com/dbt/unum-disability?country=us)
 
@@ -138,7 +152,7 @@ Many states have introduced legislation to reduce or restrict access to critical
     1. The Head of People will be the only person with access to receipts and reason for travel and will not discuss or share with anyone. The Payroll Manager will receive only the amount to add to payroll.
 3. If you need support relating to out-of-state travel for healthcare purposes, please contact Meg directly.
 
-#### International Travel Emergency Health Benefits (US)
+### International Travel Emergency Health Benefits (US)
 
 [Notion reference](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4)
 
@@ -237,7 +251,7 @@ When in doubt, please discuss with your manager about your plans
 
 Note that because in the United States, your time off is not accrued, you will not be paid out for any unused time offered under this policy when your employment with dbt Labs ends.
 
-For international employees, see [below](#International-Considerations-for-accrued-time-and-pay-out-upon-termination-with-the-company) for respective details.
+For international employees, see [below]([#-international-considerations-for-accrued-time-and-pay-out-upon-termination-with-the-company) for respective details.
 
 #### 💪 Best practices for being out of the office
 
@@ -253,7 +267,13 @@ Additionally, some teams may have team time off calendars within Google Calendar
 
 3️⃣ Set up an “out of office” auto response to your email for the dates you will be out, and clearly indicate who someone should contact instead.
 
-Learn how to request time off in ADP [here](https://www.notion.so/dbtlabs/Time-Off-Policy-cb5363a73ca1485dbf94619c4c57aa6f?pvs=4#b819ac73f9994db6a5f4572571b44cc5).
+### Requesting time off
+
+Learn how to request time off in ADP [here](https://www.notion.so/dbtlabs/Time-Off-Policy-cb5363a73ca1485dbf94619c4c57aa6f?pvs=4#b819ac73f9994db6a5f4572571b44cc5). 
+
+**Note that if you are employed through Remote.com, you will need to request your time off in the Remote platform.** 
+
+Please discuss your time off schedule ahead of time with your manager, as they do not have visibility into requests within the Remote platform.
 
 #### 🌐 International considerations for accrued time and pay out upon termination with the company
 
@@ -275,11 +295,8 @@ At the end of your employment with dbt Labs, if you have unused time off accrued
 
 The above explanation of how accrued time works and pay out upon termination is the same for Remote employees. This is because in your contracts, you still have a set number of days that is shown. You can take any days off as long as you have manager approval.
 
-**Note that if you are employed through Remote.com, you will need to request your time off in the Remote platform.** 
 
-Please discuss your time off schedule ahead of time with your manager, as they do not have visibility into requests within the Remote platform.
-
-### 2023 Company Holidays
+### Company Holidays
 
 [Notion reference](https://www.notion.so/dbtlabs/2023-Company-Holidays-9e0e48bb8404496a868161e170e0a494?pvs=4)
 
@@ -288,6 +305,8 @@ In addition to our unlimited vacation policy, dbt Labs observes a number of publ
 We recognize that there are many other cultural, religious or location based holidays and encourage our team members to work with their manager to take the time they need.
 
 Employee's who are contracted via an Employer of Record (i.e. Remote.com) Please reference the list of public holidays provided via Remote's Platform.
+
+You can view our holiday google calendar [here](https://calendar.google.com/calendar/u/0/embed?src=c_2a9305582c4692c95028462989a787bbd6703780cb6b380a29802f73922792ab@group.calendar.google.com&ctz=America/New_York).
 
 #### US Holidays
 
@@ -392,9 +411,11 @@ Below is a summary of our paid leave programs.
 | Miscarriage Leave 	| 2 Weeks                  	| Continuous      	| N/A                             	|                                                                                   	|
 | Bereavement Leave 	| 2 Weeks                  	| Continuous      	| N/A                             	| 2 additional weeks may be granted if a team member requires more time to grieve.  	|
 
+Learn more about how to request a leave of absence [below](https://handbook.getdbt.com/docs/benefits#requesting-a-leave-of-absence).
+
 #### Paid Parental Leave
 
-**Time off & Pay**
+- **Time off & Pay**
 
 dbt Labs provides employees, including employees who adopt a child or become a foster parent to a new child, with twelve (12) weeks of Parental Leave paid at 100% of their base salary, to commence at the beginning of the first leave period OR the day the child is born or placed in their care. Employees may take this leave intermittently, which means taking leave in blocks of time. For commission eligible employees, intermittent leaves may be taken in increments of no less than four (4) weeks. For all other employees, intermittent leaves may be taken in increments of no less than two (2) weeks.
 
@@ -404,37 +425,59 @@ Any unused leave offered under this policy will not be paid out at termination o
 
 For international employees in countries that have their own statutory parental leave benefits, dbt labs 12 weeks will run concurrent with any locally required leave plans.
 
-**Health Insurance**
+- **Health Insurance**
 
 If employees and their families participate in dbt Labs’s group health plan, the company will maintain coverage during paid leave under this policy on the same terms as if employees had continued to work.
 
-**Vesting**
+- **Vesting**
 
 Stock options will continue to vest at their regular rate during paid or unpaid leave.
 
-**Return to Work**
+- **Return to Work**
 
 Employees returning from Parental Leave will be reinstated to the same position, or if that position is no longer available due to reasons unrelated to the employee’s leave, a comparable position. Employees will receive pay and benefits equivalent to those received prior to their leave.
 
+- **Planning for Parental Leave**
+
+We understand that exact timing can't always be planned so, as early as possible, please start working with your manager and your team to plan for your leave. This includes:
+
+- Planning projects to wrap up ahead of leave and avoiding taking on new large projects right before.
+- Assigning owners for your day to day work and beginning to train and hand-off work as needed.
+- Documenting as much as possible to set your team up for success while you're gone.
+- You should also email People Ops with an estimated leave timeframe so they can keep track.
+
+Learn more about how to request a leave of absence [below](https://handbook.getdbt.com/docs/benefits#requesting-a-leave-of-absence).
+
 #### Paid Medical Leave
 
-**Time off & Pay**
+- **Time off & Pay**
 
 Employees who are unable to work for more than ten (10) business days due to illness or injury not related to work may be eligible for paid medical leave based on a physician’s recommendation. dbt Labs will provide up to four (4) weeks total of paid medical leave. If eligible, employees must apply for any state and/or Unum disability benefits. dbt Labs will coordinate with these benefits, meaning that dbt Labs will pay the difference of your base salary and any benefits granted not to exceed 100% of your base salary. Medical leave granted under this policy runs concurrent with any family medical leave or any other medical leave taken by eligible employees, unless prohibited by law.
 
 A medical leave is considered a paid leave for a specific condition. As such, employees may be eligible for more than one paid medical leave in a year, depending on their unique circumstances. Note that while an employee may be approved for more than one paid medical leave in a year, this benefit is capped at a total of 8 weeks of paid leave.
 
-**Health Insurance**
+- **Health Insurance**
 
 If employees participate in dbt Labs’s group health plan, the company will maintain coverage during paid leave under this policy on the same terms as if employees had continued to work.
 
-**Vesting**
+- **Vesting**
 
 Stock options will continue to vest at their regular rate during paid or unpaid leave. 
 
-**Return to Work**
+- **Return to Work**
 
 Employees may be asked to provide a Fitness for Duty form completed by their medical provider prior to their first day back. Employees returning from medical leave will be reinstated to the same position, or if that position is no longer available due to reasons unrelated to the employee’s leave, a comparable position. Employees will receive pay and benefits equivalent to those received prior to their leave.
+
+- **Planning for Parental Leave**
+
+We understand that exact timing can't always be planned so, as early as possible, please start working with your manager and your team to plan for your leave. This includes:
+
+- Planning projects to wrap up ahead of leave and avoiding taking on new large projects right before.
+- Assigning owners for your day to day work and beginning to train and hand-off work as needed.
+- Documenting as much as possible to set your team up for success while you're gone.
+- You should also email People Ops with an estimated leave timeframe so they can keep track.
+
+Reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f) if you have questions about how to plan for your leave.
 
 #### Paid Caregiver Leave
 
@@ -468,43 +511,43 @@ Please note there are many requirements, qualifications, and exceptions under th
 
 The FMLA requires private employers with 50 or more employees and all public agencies, including state, local, and federal employers, and local education agencies (schools) to provide eligible employees up to 12 weeks of unpaid, job-protected leave in any 12-month period for certain family and medical reasons. The 12-month period is a rolling period measured backward from the date an employee uses any FMLA leave, except for leaves to care for a covered service member with a serious illness or injury. For those leaves, the leave entitlement is 26 weeks in a single 12-month period measured forward from the date an employee first takes that type of leave.
 
-**Employee eligibility.** The FMLA defines eligible employees as employees who (1) have worked for the company for at least 12 months; (2) have worked for the company for at least 1,250 hours in the previous 12 months; and (3) work at or report to a worksite that has 50 or more employees or is within 75 miles of company worksites that, taken together, have a total of 50 or more employees. *(75 Miles radius waived due to fully remote & distributed workforce)*
+- **Employee eligibility.** The FMLA defines eligible employees as employees who (1) have worked for the company for at least 12 months; (2) have worked for the company for at least 1,250 hours in the previous 12 months; and (3) work at or report to a worksite that has 50 or more employees or is within 75 miles of company worksites that, taken together, have a total of 50 or more employees. *(75 Miles radius waived due to fully remote & distributed workforce)*
 
-**Basic leave entitlement.** The FMLA requires covered employers to provide up to 12 weeks of unpaid, job-protected leave to eligible employees for the following reasons: (1) for incapacity due to pregnancy, prenatal medical care, or childbirth; (2) to care for the employee’s child after birth or placement for adoption or foster care; (3) to care for the employee’s spouse, child, or parent who has a serious health condition; or (4) for a serious health condition that makes the employee unable to work.
+- **Basic leave entitlement.** The FMLA requires covered employers to provide up to 12 weeks of unpaid, job-protected leave to eligible employees for the following reasons: (1) for incapacity due to pregnancy, prenatal medical care, or childbirth; (2) to care for the employee’s child after birth or placement for adoption or foster care; (3) to care for the employee’s spouse, child, or parent who has a serious health condition; or (4) for a serious health condition that makes the employee unable to work.
 
-**Military family leave entitlements.** Eligible employees with a spouse, child, or parent on active duty or called to active duty status in the National Guard or Reserves in support of a contingency operation may use their 12-week leave entitlement to address certain qualifying exigencies.  Qualifying exigencies may include addressing issues that arise from (1) short notice of deployment (limited to up to 7 days of leave); (2) attending certain military events and related activity; (3) arranging child care and school activities; (4) addressing certain financial and legal arrangements; (5) attending certain counseling sessions; (6) spending time with covered military family members on short-term temporary rest and recuperation leave (limited to up to 5 days of leave); (7) attending post deployment reintegration briefings; (8) arranging care for or providing care to a parent who is incapable of self-care; and (9) any additional activities agreed upon by the employer and employee that arise out of the military member’s active duty or call to active duty.
+- **Military family leave entitlements.** Eligible employees with a spouse, child, or parent on active duty or called to active duty status in the National Guard or Reserves in support of a contingency operation may use their 12-week leave entitlement to address certain qualifying exigencies.  Qualifying exigencies may include addressing issues that arise from (1) short notice of deployment (limited to up to 7 days of leave); (2) attending certain military events and related activity; (3) arranging child care and school activities; (4) addressing certain financial and legal arrangements; (5) attending certain counseling sessions; (6) spending time with covered military family members on short-term temporary rest and recuperation leave (limited to up to 5 days of leave); (7) attending post deployment reintegration briefings; (8) arranging care for or providing care to a parent who is incapable of self-care; and (9) any additional activities agreed upon by the employer and employee that arise out of the military member’s active duty or call to active duty.
 
 The FMLA also includes a special leave entitlement that permits eligible employees to take up to 26 weeks of leave to care for a covered servicemember during a single 12-month period. A covered servicemember is a current member of the armed forces, including a member of the National Guard or reserves, who has a serious injury or illness incurred in the line of duty on active duty that may render the servicemember medically unfit to perform the duties of the servicemember’s office, grade, rank, or rating and for which the servicemember is undergoing medical treatment, recuperation, or therapy; is in outpatient status; or is on the temporary disability retired list.
 
-**Benefits and protections during FMLA leave.** During FMLA leave, the company will maintain the employee’s health coverage under any group health plan on the same terms as if the employee had continued to work. If applicable, employees must make arrangements to pay their share of health plan premiums while on unpaid leave. In some instances, dbt Labs may recover premiums it paid to maintain health coverage or other benefits for employees and/or their families. Upon return from FMLA leave, most employees will be restored to their original or equivalent positions with equivalent pay, benefits, and other employment terms.  However, an employee on FMLA leave does not have any greater right to reinstatement or to other benefits and conditions of employment than if the employee had been continuously employed during the FMLA leave period.
+- **Benefits and protections during FMLA leave.** During FMLA leave, the company will maintain the employee’s health coverage under any group health plan on the same terms as if the employee had continued to work. If applicable, employees must make arrangements to pay their share of health plan premiums while on unpaid leave. In some instances, dbt Labs may recover premiums it paid to maintain health coverage or other benefits for employees and/or their families. Upon return from FMLA leave, most employees will be restored to their original or equivalent positions with equivalent pay, benefits, and other employment terms.  However, an employee on FMLA leave does not have any greater right to reinstatement or to other benefits and conditions of employment than if the employee had been continuously employed during the FMLA leave period.
 
 Certain highly compensated key employees also may be denied reinstatement when necessary to prevent “substantial and grievous economic injury” to the company’s operations. A “key” employee is an eligible salaried employee who is among the highest-paid 10 percent of the company’s employees within 75 miles of the worksite. Employees will be notified of their status as key employees, when applicable, after they request FMLA leave.
 
 Use of FMLA leave cannot result in the loss of any employment benefit that accrued before the start of an employee’s leave.
 
-**Definition of “serious health condition.”** A serious health condition is an illness, an injury, an impairment, or a physical or mental condition that involves either an overnight stay in a medical care facility or continuing treatment by a healthcare provider for a condition that either prevents the employee from performing the functions of the employee’s job or prevents the qualified family member from participating in school, work, or other daily activities.
+- **Definition of “serious health condition.”** A serious health condition is an illness, an injury, an impairment, or a physical or mental condition that involves either an overnight stay in a medical care facility or continuing treatment by a healthcare provider for a condition that either prevents the employee from performing the functions of the employee’s job or prevents the qualified family member from participating in school, work, or other daily activities.
 
 Subject to certain conditions, the continuing treatment requirement may be met by a period of incapacity of more than three consecutive calendar days combined with at least two visits to a healthcare provider or one visit and a regimen of continuing treatment, incapacity due to pregnancy, or incapacity due to a chronic condition. Other conditions may meet the definition of “continuing treatment.”
 
-**Use of leave.** An employee does not need to use this leave entitlement in one block. Leave can be taken intermittently or on a reduced work schedule when medically necessary. Employees must make reasonable efforts to schedule leave for planned medical treatment so as not to unduly disrupt the employer’s operations. Leave due to qualifying exigencies also may be taken on an intermittent or a reduced work schedule basis.
+- **Use of leave.** An employee does not need to use this leave entitlement in one block. Leave can be taken intermittently or on a reduced work schedule when medically necessary. Employees must make reasonable efforts to schedule leave for planned medical treatment so as not to unduly disrupt the employer’s operations. Leave due to qualifying exigencies also may be taken on an intermittent or a reduced work schedule basis.
 
-**Substitution of paid leave for unpaid leave.**  In order to use paid leave for FMLA leave, employees must comply with the company’s normal paid leave procedures found in the Leave policies.
+- **Substitution of paid leave for unpaid leave.**  In order to use paid leave for FMLA leave, employees must comply with the company’s normal paid leave procedures found in the Leave policies.
 
 Additionally, dbt Labs offers employees SDI benefits through UNUM and employees may be eligible for state disability benefits and state paid family leave benefits depending on where they live. Please speak with the People Team or its delegate (including Sparrow) for more information.
 
-**Employee responsibilities.** Employees must provide 30 days’ advance notice of the need to take FMLA leave when the need is foreseeable. When 30 days’ notice is not possible, employees must provide notice as soon as practicable and generally must comply with the company’s normal notification procedures. The company may delay leave to employees who do not provide proper advance notice of the foreseeable need for leave, absent unusual circumstances preventing the notice.
+- **Employee responsibilities.** Employees must provide 30 days’ advance notice of the need to take FMLA leave when the need is foreseeable. When 30 days’ notice is not possible, employees must provide notice as soon as practicable and generally must comply with the company’s normal notification procedures. The company may delay leave to employees who do not provide proper advance notice of the foreseeable need for leave, absent unusual circumstances preventing the notice.
 
 Employees must provide sufficient information for the company to determine if the leave may qualify for FMLA protection and the anticipated timing and duration of the leave. Sufficient information may include that the employee is unable to perform job functions, the family member is unable to perform daily activities, the need for hospitalization or continuing treatment by a healthcare provider, or circumstances supporting the need for military family leave.  Employees also must inform the company if the requested leave is for a reason for which FMLA leave was previously taken or certified. Employees may be required to provide a certification and periodic recertification supporting the need for leave. The company also may require a second and, if necessary, a third opinion (at the company’s expense) and, when the leave is a result of the employee’s own serious health condition, a fitness-for-duty report to return to work.  The company also may delay or deny approval of leave for lack of proper medical certification.
 
-**Company responsibilities.** The company will inform employees requesting leave whether they are eligible under the FMLA. If they are, the notice will specify any additional information required, as well as the employees’ rights and responsibilities. If employees are not eligible, the company will provide a reason for the ineligibility.
+- **Company responsibilities.** The company will inform employees requesting leave whether they are eligible under the FMLA. If they are, the notice will specify any additional information required, as well as the employees’ rights and responsibilities. If employees are not eligible, the company will provide a reason for the ineligibility.
 
 The company will inform employees if leave will be designated as FMLA-protected and the amount of leave counted against the employees’ FMLA leave entitlement. If the company determines that the leave is not FMLA-protected, the company will notify the employees.
 
-**Other provisions.** Under an exception to the FLSA in the FMLA regulations, hourly amounts may be deducted for unpaid leave from the salary of executive, administrative, and professional employees; outside sales representatives; certain highly skilled computer professionals; and certain highly compensated employees who are exempt from the minimum wage and overtime requirements of the FLSA, without affecting the employees’ exempt status. This special exception to the “salary basis” requirements for the FLSA’s exemptions extends only to eligible employees’ use of FMLA leave.
+- **Other provisions.** Under an exception to the FLSA in the FMLA regulations, hourly amounts may be deducted for unpaid leave from the salary of executive, administrative, and professional employees; outside sales representatives; certain highly skilled computer professionals; and certain highly compensated employees who are exempt from the minimum wage and overtime requirements of the FLSA, without affecting the employees’ exempt status. This special exception to the “salary basis” requirements for the FLSA’s exemptions extends only to eligible employees’ use of FMLA leave.
 
 Employees may not perform work for self-employment or for any other employer during an approved leave of absence, except when the leave is for military or public service or when the company has approved the employment under its Outside Employment policy and the employees’ reason for FMLA leave does not preclude the outside employment.
 
-**Unlawful acts by employers.** The FMLA makes it unlawful for any employer (1) to interfere with, restrain, or deny the exercise of any right provided under the FMLA or (2) to discharge,discriminate, or retaliate against any person for opposing any practice made unlawful by the FMLA or for involvement in any proceeding under or relating to the FMLA.
+- **Unlawful acts by employers.** The FMLA makes it unlawful for any employer (1) to interfere with, restrain, or deny the exercise of any right provided under the FMLA or (2) to discharge,discriminate, or retaliate against any person for opposing any practice made unlawful by the FMLA or for involvement in any proceeding under or relating to the FMLA.
 
 The FMLA does not affect any federal or state law prohibiting discrimination or supersede any state or local law or collective bargaining agreement that provides greater family or medical leave rights.
 
@@ -526,18 +569,17 @@ All employees who enter military service may accumulate a total absence of 5 yea
 
 dbt Labs may, in its sole discretion and unless prohibited by law, require an employee to take a leave of absence without pay.
 
-
 ### Requesting a Leave of Absence
 
 [Notion reference](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4#5dbdce7706de48a9bf94cd6624ad4c8c)
 
 👉 Leaves of absence are complex. They often entail the coordination of multiple laws and the juggling of potential benefits. Some leaves are paid while others are unpaid (although may be eligible for wage supplementation).
 
-**How To Request a Leave of Absence:** To help employees navigate their potential options dbt Labs is partnering with [Sparrow](https://trysparrow.com/), a Leave Management Partner. 
+**How To Request a Leave of Absence:** To help employees navigate their potential options, we partner with [Sparrow](https://trysparrow.com/), a Leave Management Partner. 
 
 Anyone who may need to take a leave of absence should either:
 a) contact their [People Business Partner Team](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) member, or
-b) submit your request via this [**leave request form](https://form.asana.com/?k=KZqlYJHKhsQoYJvtFJXibw&d=312418853397011)** 
+b) submit your request via this [leave request form](https://form.asana.com/?k=KZqlYJHKhsQoYJvtFJXibw&d=312418853397011)** 
 
 The People Support team will introduce you to a Sparrow Leave Specialist as soon as your leave is approved. Sparrow will schedule a call with you to discuss your leave plans, identify the key dates when they need to be involved, and gather the necessary information to file your leave paperwork on your behalf.
 
@@ -551,9 +593,12 @@ As part of dbt Labs' total rewards strategy, we provide various stipends to help
 
 ### How to use Benepass - Perks & Stipend Platform
 
-Benepass is our benefits/perks partner and is specifically designed to help administer stipends and supplemental perks. Learn more about how to use Benepass and get answers to FAQs [here](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4#b4463cef29e54a4c9d1a9fe137f7282e).
+Benepass is our benefits/perks partner and is specifically designed to help administer stipends and supplemental perks. 
 
-- Benepass is used for Office Stipend, Phone & Internet Stipend, Health & Wellness Stipend, and Professional Development Stipend. - Policies and reimbursements that are NOT administered through Benepass are: Workspace Rental Experience, Health Related Travel Benefit, Corporate Travel & Expense Policy.
+Learn about how to use Benepass and get answers to FAQs [here](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4#b4463cef29e54a4c9d1a9fe137f7282e).
+
+- Benepass is used for Office Stipend, Phone & Internet Stipend, Health & Wellness Stipend, and Professional Development Stipend. 
+- Policies and reimbursements that are NOT administered through Benepass are: Workspace Rental Experience, Health Related Travel Benefit, Corporate Travel & Expense Policy.
 - Benepass can be accessed via Okta, their [Online Portal](https://app.getbenepass.com/#/) or through their mobile [app](https://apps.apple.com/us/app/benepass/id1497613952). 
 
 ### Office Stipend
@@ -567,8 +612,7 @@ There are many advantages to building a remote-first culture, however we underst
 **Office Stipend Types**
 
 1. Office Refresh Stipend - All employees receive up to **$400 each fiscal year** to help refresh their existing office set-up and needs. Our fiscal year runs Feb 1-Jan 31.
-2. New Hire Office Stipend - All new hires receive a **total of $1,500** to use through out their first year to help assist in building their home office
--  *In our Benepass Platform, new hires will see an $1,100 New Hire Office Stipend + $400 Office Refresh Stipend = $1,500. This allows new hires to utilize their funds through out the entire year.
+2. New Hire Office Stipend - All new hires receive a **total of $1,500** to use through out their first year to help assist in building their home office. (In our Benepass Platform, new hires will see an $1,100 New Hire Office Stipend + $400 Office Refresh Stipend = $1,500. This allows new hires to utilize their funds through out the entire year.)
 
 All office stipend expenses should be purchased using your Benepass card or reimbursed through the Benepass site or app.
 
@@ -604,9 +648,9 @@ Learn more about the stipend amount by country, based on local purchasing power,
 - Paint & Wallpaper
 - Window furnishings
 
-#### Common Questions
+#### Common Questions:
 
-**Do you have any recommendations on how to best use this stipend?**
+**Do you have any recommendations on how to best use this stipend?** 
 
 - Check out equipment recommendations from team members [here](https://www.notion.so/Equipment-Recommendations-3a2c5c26f31c43658a188f95a71f15a6) or search in #talk-remoteworking Slack channel.
 
@@ -644,6 +688,7 @@ Learn more about the stipend amount by country, based on local purchasing power,
 
 - Internet Expense: address on the bill must match your current address in ADP. Please make sure these match prior to submitting.
 - Phone Expense: phone number on the bill must match the phone number on file in ADP. If multiple lines are on a bill, please submit for the cost of one line as the amount for reimbursement.
+- If you’re unsure if something is included within the policy, reach out directly to Benepass support team via [the app](https://app.getbenepass.com).
 
 ### Health & Wellness Stipend
 
@@ -675,7 +720,7 @@ All health and wellness expenses should be purchased using your Benepass card or
 
 Learn more about the stipend amount by country, based on local purchasing power, [here](#stipend-amounts-by-country).
 
-#### Common Questions
+#### Common Questions:
 
 **Can a large purchase be paid in installments over time?**
 
@@ -701,7 +746,7 @@ All professional development expenses should be purchased using your Benepass ca
 
 Learn more about the stipend amount by country, based on local purchasing power, [here](#stipend-amounts-by-country).
 
-#### Common Questions
+#### Common Questions:
 
 **Does the professional development purchase need to be directly related to my role?**
 
@@ -730,6 +775,10 @@ Occasionally, expenses beyond the initial $500 will be reimbursed with advanced 
     - [People Ops Society Membership](https://www.peopleopssociety.com/)
     - CPA Renewal
 
+**How can I find out if something is an eligible expense?**
+
+- If you’re unsure if something is included within the policy, reach out directly to Benepass support team via the [app](https://app.getbenepass.com).
+
 ### General Guidelines for All Stipends
 
 - All stipend expenses must be processed using your Benepass card or submitted for reimbursement through the Benepass app. [Learn more here.](#how-to-use-benepass---perks--stipend-platform)
@@ -745,7 +794,7 @@ Occasionally, expenses beyond the initial $500 will be reimbursed with advanced 
 
 ### Stipend Amounts by Country
 
-Learn about our stipend amounts by country [here](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4#6fe12c7cd08c4886a602a13fd4c3e960).
+Learn about our stipend amounts by country [here](https://www.notion.so/dbtlabs/Stipend-Amounts-by-Country-8b5d64dd100145aaa1b97ba42865e8b5?pvs=4).
 
 ## Workplace Rental 
 
@@ -753,30 +802,33 @@ Learn about our stipend amounts by country [here](https://www.notion.so/dbtlabs/
 
 Working from home does not work for everyone. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
 
-### Goals/Values of Enabling Work Outside of the Home:
+**We offer the following to enable employees to rent workspaces outside the home and optimize for productivity:**
 
-1. **Productivity**: dbt Lab's remote-first / async culture is designed to allow employees to “work from anywhere” vs just “work from home”.  The ***primary goal*** of supporting workplaces outside the home is to enable employees to build the optimal environment for their work.
-2. **Inclusiveness:** In-person / outside the home workplace benefits must not compromise remote employees’ ability to collaborate.  
-3. **Community:** Provide opportunities for team members to build rapport with one another, engage cross-functionally, and strengthen a sense of shared values and goals.
+- $250 per month in workplace rental coverage for all employees through [Liquidspace](https://liquidspace.com/dbtlabs/signin?returnPath=%2Fmain) 
+- $1500 per quarter workplace rental stipend for Directors (L7+) and above to book large conference room / work spaces through Liquidspace to support in-person meetings for teams
 
-🖐️ Please keep in mind that the main goal of this is to enhance your personal work environment. If you choose to collaborate in a co-working space with co-workers, you are mindful that everyone who needs to be involved in a conversation is.  If your project/collaboration can be accomplished over zoom or asynchronously, then it should be done that way to avoid excluding others. 
+**This benefit is important because:**
 
-### We offer the following to enable employees to rent workspaces outside the home and optimize for productivity:
+- **Productivity**: dbt Lab's remote-first / async culture is designed to allow employees to “work from anywhere” vs just “work from home”.  The ***primary goal*** of supporting workplaces outside the home is to enable employees to build the optimal environment for their work.
+- **Community:** Provides opportunities for team members to build rapport with one another, engage cross-functionally, and strengthen a sense of shared values and goals.  
 
-1. $250 per month in workplace rental coverage for all employees through Liquidspace 
-2. $1500 per quarter workplace rental stipend for Directors (L7+) and above to book large conference room / work spaces through Liquidspace to support in-person meetings for teams
+🖐️  In-person / outside the home workplace benefits must not compromise remote employees’ ability to collaborate. Please keep in mind that the main goal of this benefit is to enhance your personal work environment. If you choose to collaborate in a co-working space with co-workers, you are mindful that everyone who needs to be involved in a conversation is.  If your project/collaboration can be accomplished over zoom or asynchronously, then it should be done that way to avoid excluding others. 
 
 ### Frequently Asked Questions
 
 #### What is Liquidspace and how do I use it?
 
-About Liquidspace:   Liquidspace is an online marketplace for renting workplaces and offices.  It is considered the “airbnb of workplace rentals”  in that it utilizes a number of companies and private hosts to allow for over 10,000 locations to choose from. Liquidspace will be a new tile added to your Okta board.  Simply login from there and begin searching.
+About Liquidspace:   Liquidspace is an online marketplace for renting workplaces and offices.  It is considered the “airbnb of workplace rentals”  in that it utilizes a number of companies and private hosts to allow for over 10,000 locations to choose from. 
 
 To access Liquidspace, simply login through Okta or [here](https://liquidspace.com/dbtlabs/signin?returnPath=%2Fmain). There is no need to submit reimbursement for this, the costs will be managed within LiquidSpace. 
 
+When you begin searching in your area of choice, you will find desks, private offices, and meeting rooms, along with the pricing (per hour, 1/2 day, and full-day).  You can book spaces in advance and some are even available the same day! 
+
+Please join our LiquidSpace slack channel #liquidspace-workplace-experience to ask questions, share great places to book and find others in your area to co-work with!
+
 #### When should I use Liquidspace vs a dbt Labs office?
 
-When in the vicinity / metro area of a dbt Labs office, leverage the office instead of Liquidspace to the best of your ability.   If you are local to an office but the office is full or doesn’t suit your needs (e.g. you need a bigger space for a customer / team meeting) feel free to leverage Liquidspace as needed. 
+When in the vicinity / metro area of a dbt Labs office, leverage the office instead of Liquidspace to the best of your ability. If you are local to an office but the office is full or doesn’t suit your needs (e.g. you need a bigger space for a customer / team meeting) feel free to leverage Liquidspace as needed. 
 
 #### What if I want to rent a different workspace for the day that is not available on Liquidspace?
 
@@ -835,17 +887,18 @@ At dbt Labs, self-care is not a luxury, it's a priority. We partner with [Bright
 - The Bright Pass gives you access to over 250 live, virtual classes each week. Sessions include daily yoga, fitness, meditation, and nutrition!
 - Bright’s sessions are live and interactive to help you feel connected to your team and to Bright’s educators.
 
-Learn more about setting up your account [here](https://www.notion.so/dbtlabs/Bright-Wellness-Program-699cfc7511f743f887226ed218adf676?pvs=4#4be0b7d338ef47feb3a7dfbd8ae278d1).
+Learn more about the program and how to setup your account: [brightwellness.pdf](https://github.com/dbt-labs/handbook/files/11313174/brightwellness.pdf)
 
-## Employee Assistance Programs & Resources
+- Join classes: https://choosebright.com/dbt/
+- Join the #bright-wellness channel on Slack 
+
+## Employee Assistance Programs
 
 [Notion reference](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4)
 
 ### What is an EAP?
 
 *An Employee Assistance Program (EAP) is a voluntary, work-based program that offers free and confidential assessments, short-term counseling, referrals, and follow-up services to employees who have personal and/or work-related problems.*
-
-### How do you use it?
 
 We offer 2 EAP programs.
 
@@ -859,17 +912,17 @@ US - EAP Benefits include:
 - Access to information and referrals for work/life resources including child care, elder care, legal questions, financial services, relocation support, and more.
 - Service extends to employees, their spouses or domestic partners, dependent children (26 and younger), parents and parents-in-law.
 
-Learn more about UNUM EAP and how to access this service [here](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4#8d2c2e91ce7b4bb9a2628ca00f6e5dcd).
-
 [2021 EAP - Employee Flyer.pdf](https://github.com/dbt-labs/corp/files/10994740/2021.EAP.-.Employee.Flyer.pdf)
 
 #### 2. ADP - LifeCare EAP (US)
 
 ADP - LifeCare EAP services are eligible for US employees only.
 
-Learn more about the ADP - Lifecare EAP and how to access this service [here](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4#c41a81f919e64558930b2050ee44230c).
-
 [LifeCare EAP Brochure.pdf](https://github.com/dbt-labs/corp/files/10994732/LifeCare.EAP.Brochure.pdf)
+
+### How to use an EAP
+
+Learn how to use our EAPs [here](https://www.notion.so/dbtlabs/How-to-Employee-Assistance-Programs-6a501ea70fc34f0c9d29cd430e41f137?pvs=4).
 
 ## Anonymous Hotline
 

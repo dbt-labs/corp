@@ -17,8 +17,8 @@ sidebar_label: Compensation
 
 [Salary Bands Philosophy](#salary-bands-philosophy)
 - [How Salary Bands are Made](#how-salary-bands-are-made)
+- [International Salary Bands Overview](#international-salary-bands-overview)
 - [Salary Bands FY24](#salary-bands-fy24)
-- [International Salary Bands](#international-salary-bands)
 
 [Equity](#equity)
 - [FY24 Equity Bands](#equity-bands-fy24)
@@ -213,15 +213,7 @@ The first step in building salary bands is determining all planned and existing 
 [^9]: “Best” - When matching our internal roles against built descriptions within each data set, we frequently find that an 80% match
 [^10]: Removing data outliers is a pretty standard and common practice once you start involving multiple data sources to help prevent outlier data from skewing the average due to small incumbent counts being reported
 
-
-## Salary Bands FY24
-
-All dbt Labs employees have access to our salary bands.
-
-- [US Salary Bands FY24](https://www.notion.so/dbtlabs/0425a64c1fd64ac0a861586e97143367?v=9db7a2df831b4448bcb133bfedead3e3)
-- [International Salary Bands FY24](https://www.notion.so/dbtlabs/International-Salary-Bands-FY24-771a98d468154bf4af3f08baf90ec45b?pvs=4)
-
-## International Salary Bands
+## International Salary Bands Overview
 
 [Notion reference](https://www.notion.so/dbtlabs/International-Salary-Bands-FY24-771a98d468154bf4af3f08baf90ec45b?pvs=4)
 
@@ -256,6 +248,13 @@ You can find more information in [Global Benefits Strategy & Stipend](benefits.m
 #### Is hiring in lower cost of labor locations fair / equitable?
 
 Hiring globally is a business and people decision that has many factors attached to it, from total cost, talent density, business need (sales presence, locale expertise etc). While we grow and expand into various countries we hold true to our [values](values.md) and our [Compensation Principles](#compensation-principles) to ensure we are rewarding people in a locally competitive, relevant and equitable way.
+
+## Salary Bands FY24
+
+All dbt Labs employees have access to our salary bands.
+
+- [US Salary Bands FY24](https://www.notion.so/dbtlabs/0425a64c1fd64ac0a861586e97143367?v=9db7a2df831b4448bcb133bfedead3e3)
+- [International Salary Bands FY24](https://www.notion.so/dbtlabs/a667a8e4294a49efb255151b64c75a85?v=4abc278c7f114911983163d92e12e5b2&pvs=4)
 
 ## Equity
 
