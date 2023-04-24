@@ -886,11 +886,9 @@ At dbt Labs, self-care is not a luxury, it's a priority. We partner with [Bright
 - The Bright Pass gives you access to over 250 live, virtual classes each week. Sessions include daily yoga, fitness, meditation, and nutrition!
 - Bright’s sessions are live and interactive to help you feel connected to your team and to Bright’s educators.
 
-Learn more about setting up your account [here]([dbt_onboarding_1677514283463.pdf](https://github.com/dbt-labs/handbook/files/11312827/dbt_onboarding_1677514283463.pdf).
+Learn more about the program and how to setup your account: [brightwellness.pdf](https://github.com/dbt-labs/handbook/files/11313174/brightwellness.pdf)
 
-A few reminders for next steps:
-- Learn more  here: https://choosebright.com/dbt/
-- Opt-in to the Healthy Habits Quest!
+- Join classes: https://choosebright.com/dbt/
 - Join the #bright-wellness channel on Slack 
 
 ## Employee Assistance Programs & Resources
@@ -900,8 +898,6 @@ A few reminders for next steps:
 ### What is an EAP?
 
 *An Employee Assistance Program (EAP) is a voluntary, work-based program that offers free and confidential assessments, short-term counseling, referrals, and follow-up services to employees who have personal and/or work-related problems.*
-
-### How do you use it?
 
 We offer 2 EAP programs.
 
@@ -915,17 +911,17 @@ US - EAP Benefits include:
 - Access to information and referrals for work/life resources including child care, elder care, legal questions, financial services, relocation support, and more.
 - Service extends to employees, their spouses or domestic partners, dependent children (26 and younger), parents and parents-in-law.
 
-Learn more about UNUM EAP and how to access this service [here](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4#8d2c2e91ce7b4bb9a2628ca00f6e5dcd).
-
 [2021 EAP - Employee Flyer.pdf](https://github.com/dbt-labs/corp/files/10994740/2021.EAP.-.Employee.Flyer.pdf)
 
 #### 2. ADP - LifeCare EAP (US)
 
 ADP - LifeCare EAP services are eligible for US employees only.
 
-Learn more about the ADP - Lifecare EAP and how to access this service [here](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4#c41a81f919e64558930b2050ee44230c).
-
 [LifeCare EAP Brochure.pdf](https://github.com/dbt-labs/corp/files/10994732/LifeCare.EAP.Brochure.pdf)
+
+### How to use an EAP
+
+Learn how to use our EAPs [here](https://www.notion.so/dbtlabs/How-to-Employee-Assistance-Programs-6a501ea70fc34f0c9d29cd430e41f137?pvs=4).
 
 ## Anonymous Hotline
 
