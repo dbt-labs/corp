@@ -96,7 +96,7 @@ Full-time team members based in the US are eligible to enroll in healthcare bene
 
 Health benefits are paid, in part, by the company. The remainder of the costs is the employee’s responsibility.
 
-A detailed overview of our benefits can be found [here](https://app.strivebenefits.com/dbt/home)
+A detailed overview of our benefits can be found [here](https://app.strivebenefits.com/dbt/home).
 
 ### How To Enroll in Healthcare Benefits (US)
 
