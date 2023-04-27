@@ -85,7 +85,7 @@ The following stipend amounts have been developed to help cover some of the cost
 
 ### Receiving the Benefits Stipend
 
-The benefits stipend will automatically be added to your monthly payroll. You do not need to request a reimbursement through Airbase.
+The benefits stipend will automatically be added to your monthly payroll. You do not need to request a reimbursement.
 
 ### Retirement & Pension Plans
 
