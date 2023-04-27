@@ -573,17 +573,11 @@ dbt Labs may, in its sole discretion and unless prohibited by law, require an em
 
 [Notion reference](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4#5dbdce7706de48a9bf94cd6624ad4c8c)
 
-👉 Leaves of absence are complex. They often entail the coordination of multiple laws and the juggling of potential benefits. Some leaves are paid while others are unpaid (although may be eligible for wage supplementation).
+Leaves of absence are complex. They often entail the coordination of multiple laws and the juggling of potential benefits. Some leaves are paid while others are unpaid (although may be eligible for wage supplementation).
 
-**How To Request a Leave of Absence:** To help employees navigate their potential options, we partner with [Sparrow](https://trysparrow.com/), a Leave Management Partner. 
+To help employees navigate their potential options, we partner with [Sparrow](https://trysparrow.com/), a Leave Management Partner. 
 
-Anyone who may need to take a leave of absence should either:
-a) contact their [People Business Partner Team](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) member, or
-b) submit your request via this [leave request form](https://form.asana.com/?k=KZqlYJHKhsQoYJvtFJXibw&d=312418853397011)** 
-
-The People Support team will introduce you to a Sparrow Leave Specialist as soon as your leave is approved. Sparrow will schedule a call with you to discuss your leave plans, identify the key dates when they need to be involved, and gather the necessary information to file your leave paperwork on your behalf.
-
-Employees who will be going on a leave of absence should review the related policy outlined above.
+Learn how to request a leave of absence [here](https://www.notion.so/dbtlabs/How-to-Request-a-Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4).
 
 ## Stipends
 
