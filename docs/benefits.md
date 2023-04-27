@@ -13,6 +13,7 @@ sidebar_label: Benefits and Perks
 
 [Healthcare Benefits (US)](#healthcare-benefits-us)
 - [How To Enroll in Healthcare Benefits (US)](#how-to-enroll-in-healthcare-benefits-us)
+- [How to Get Support with Healthcare Benefits (US)(#how-to-get-support-with-healthcare-benefits-us)
 - [Medical Plans (US)](#medical-plans-us)
 - [Disability and Life Insurance](#disability-and-life-insurance-us)
 - [Health Related Travel Benefit (US)](#health-related-travel-benefit-us)
@@ -108,6 +109,12 @@ There are three separate occasions where team members may enroll in benefits thr
 2. [Open Enrollment](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4#87c60e30f9b645ef99865ad0c2c75ccf):dbt Labs has an annual Open Enrollment (OE) at the end of the calendar year, typically in November or early December. During open enrollment, team members have the opportunity to review or change their benefit elections. Benefit enrollments go into effect January 1st of the following calendar year.
 3. [Qualifying Life Event](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4#32b0e31ce6884a9e95fbb988a7b5d78b):There are times when life changes unexpectedly. Often times, those events may happen outside of Open Enrollment (OE). Enrollment in essential health coverage is allowed outside of OE if you experience a qualifying life event. Examples of QLEs include marriage, childbirth, and loss of coverage. Team members can submit a life event online in ADP. 
 4. [Year Round HSA Adjustment](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4#bb07dd31ff8542df92ac1f46a288a88a): Employees who currently have a High Deductible Health Plan coverage selection are able to adjust their HSA contributions throughout the year. This is the only benefit adjustment that does not require a Qualifying Life or Work Event.
+
+### How to Get Support with Healthcare Benefits (US)
+
+We understand there are a lot of questions about chosing and navigating healthcare. 
+
+Learn how to ask questions through our partner ABD Answers [here](https://www.notion.so/dbtlabs/How-to-Get-Support-with-Healthcare-Benefits-US-9bb7ff3a7a944918bbca648f27ce8eb8?pvs=4). 
 
 ### Medical Plans (US)
 
