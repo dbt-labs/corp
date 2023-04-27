@@ -809,20 +809,20 @@ Team members are expected to communicate with their manager and team to ensure t
 
 [Notion reference](https://www.notion.so/dbtlabs/dbt-Labs-Office-Strategy-adad4eeeb29a406493a1ea23299b5278?pvs=4)
 
-### What is the goal of offices at dbt Labs?
+#### Goals of our offices:
 
 1. **Support Community Development:** Establish an environment that embodies and amplifies dbt culture and values.  
     1. Provide a space for teams to use for “on-sites”
     2. Support in-person customer interactions
 2. **Drive Productivity:** Provide a space for local employees to work outside the home in lieu of Liquidspace rentals
 
-### What are offices NOT at dbt Labs?
+#### Our offices are NOT:
 
 1. **A place for local team members to collaborate**: meetings need to be inclusive of all team members.  ***In our perfect world, everyone in a meeting is in a Zoom or everyone in the meeting is in a room** (*even if it requires hopping on a plane).  
 2. **A marketing effort:**  Many companies use real estate as a status symbol and to amplify their brand awareness.  This is expensive and unrelated to our core workplace values (productivity, inclusivity, and community)
 3. **An incentive to work in person vs at home:** We believe the best talent can come from anywhere and support employees in choosing the home and office environment that best serves them. We will not spend money on excessive meal budgets and in-office perks to motivate employees to choose to come in the office vs work at home. 
 
-### How & when we build offices?
+#### How & when we build offices?
 
 **How we choose where offices go:**
 
@@ -832,30 +832,30 @@ Team members are expected to communicate with their manager and team to ensure t
     2. Offices near existing teams decreases travel spend, as a portion of the team will not need to travel for on-site events
 2. **Proximity to partners, customers and other external stakeholders**
 
-## How we determine office size?
+**How we determine office size?**
 
 1. Number of employees in the region and estimated growth - **This number is used to determine the number of desks / call rooms we need in the office.** 
 
-*Example :* 
+*Example:* 
 
 - Average lease term is 3-5 years, so we need to buy space to support the company for a minimum of the next 2 years of growth.
 - Currently we are approaching 30 employees w/in 30 miles of San Francisco who would potentially go into the office. Total company headcount growth is expected to grow at 100%+ for the next 2 years, so we want the office to scale to when the bay area team is ~120 people
 - If we assume that no more than 50% of employees are in the office on a given day, we would want an office that supports ~60 desks
-2. Scale of the organization as a whole, and the need for additional collaboration spaces - **This number is used to determine number of conference rooms / scale of those spaces**
 
-*Example :* 
+2. Scale of the organization as a whole, and the need for additional collaboration spaces - **This number is used to determine number of conference rooms/scale of those spaces**
+
+*Example:* 
 
 - Total number of team on-sites being hosted in the office per year
 - Average size of the team visiting the office
 - Number of external / customer meetings being held in the office
 
-### Target Layout
+**What is our target layout?*
 
 1. Conference room strategy:
-    1. Large rooms to support team on-sites
-        1. Optimize rooms to have Zoom Room with great remote collaboration technology so if an employee is unable to travel they can engage with the discussion on their screen
-    2. Smaller call rooms so employees can take meetings in a quiet space as needed
-    3. Few to zero offices / small breakout spaces to disincentivize in-person collaboration with partial teams
+    -  Large rooms to support team on-sites- Optimize rooms to have Zoom Room with great remote collaboration technology so if an employee is unable to travel they can engage with the discussion on their screen
+    -  Smaller call rooms so employees can take meetings in a quiet space as needed
+    -  Few to zero offices / small breakout spaces to disincentivize in-person collaboration with partial teams
 2. Open floor plan with desks to support employees working outside their home as needed
 
 ### Regional Offices
@@ -910,51 +910,44 @@ We want to make sure team members receive the support they need. The People Team
 
 ### How to get support from the People Team
 
-#### Ticketing System in #people-support
+#### 1. Ticketing System in #people-support
 
 💡 This is your best option to get the fastest response to questions about benefits, reimbursements, stipends,  and payroll. 
 
 The ticketing system is available on the Slack Helpdesk app and in the #people-support Slack channel.
 
-How to ask a People Ops Question? (submit a ticket):
+**How to ask a People Question?:**
 
-- You can submit a question (submit a ticket) 2 ways.  This is the same process for submitting IT tickets:
+You can submit a question (submit a ticket) 2 ways.  This is the same process for submitting IT tickets:
 
-1️⃣ Use the help desk app in slack. Click create a ticket→ enter your name in the “on behalf of” field→choose People Ops as your category→choose your people ops issue in the field→describe your question→click on submit request. Your question will be routed to the correct People Ops or Accounting representative and they will reach out to you directly to address your questions or concerns.
+1. Use the help desk app in slack. Click create a ticket→ enter your name in the “on behalf of” field→choose People Ops as your category→choose your people ops issue in the field→describe your question→click on submit request. Your question will be routed to the correct People Ops or Accounting representative and they will reach out to you directly to address your questions or concerns.
 
-2️⃣ Navigate to the #people-support channel and @helpdesk to ask your question.  You will receive a slack message to create a ticket, from there follow the steps above. The question will be routed to the appropriate team member and be addressed directly within the Helpdesk app in Slack
+2. Navigate to the #people-support channel and @helpdesk to ask your question.  You will receive a slack message to create a ticket, from there follow the steps above. The question will be routed to the appropriate team member and be addressed directly within the Helpdesk app in Slack
 
 **You can find more information on how to use HappyFox [here](https://www.notion.so/HappyFox-Helpdesk-System-01d0aa47cdf144649066c46d3f4491cf).
 
-#### Reach out to your People Business Partner (PBP)
+#### 2. Reach out to your People Business Partner (PBP)
 
 💡 This is the best option when you’re seeking confidentiality and don’t feel comfortable going to your manager.
 
-[People Business Partners](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) are a resource for when you may want to confidentially, or anonymously, report an issue in the workplace. They can help answer and support you with any questions, concerns, or feedback about your time at dbt Labs.
+- [People Business Partners](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) are a resource for when you may want to confidentially, or anonymously, report an issue in the workplace. They can help answer and support you with any questions, concerns, or feedback about your time at dbt Labs.
 
-We always encourage talking with your manager first, however we welcome your questions whenever that doesn’t feel like the best option for you. 
-
-- How to ask a PBP Question? Reach out to [your department’s PBP](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8?pvs=4) directly via Slack if you have questions.
+- We always encourage talking with your manager first, however we welcome your questions whenever that doesn’t feel like the best option for you. 
 
 ### How to get support from outside the People Team
 
-#### Connect with a Peer Advocate
+#### 1. Connect with a Peer Advocate
 
 💡 This is the best option when you’re seeking an alternative route to voice feedback or ideas about the company at large.
 
-The [Peer Advocate Program](https://www.notion.so/Peer-Advocate-Program-ef66f66a1b2f40a385b2efb578bfb4c1) was designed to provide an alternate route of communication with leadership and the team at large, for employees seeking to get feedback from peers, test ideas, or offer feedback with anonymity.  
+- The [Peer Advocate Program](https://www.notion.so/Peer-Advocate-Program-ef66f66a1b2f40a385b2efb578bfb4c1) was designed to provide an alternate route of communication with leadership and the team at large, for employees seeking to get feedback from peers, test ideas, or offer feedback with anonymity.  
 
-Why would I connect with a Peer Advocate rather than a PBP?
+- Why connect with a Peer Advocate rather than a PBP? As a rule of thumb, Peer Advocates are best situated to voice feedback or ideas that affect a large portion of the company. Feedback specific to you and/or one other person may be best brought to your manager, PBP, or a member of leadership.
+- You can reach out to a [Peer Advocate](https://www.notion.so/Peer-Advocate-Program-ef66f66a1b2f40a385b2efb578bfb4c1) directly via Slack.
 
-- As a rule of thumb, Peer Advocates are best situated to voice feedback or ideas that affect a large portion of the company. Feedback specific to you and/or one other person may be best brought to your manager, PBP, or a member of leadership.
-
-**How to connect with a Peer Advocate?**
-
-You can reach out to a [Peer Advocate](https://www.notion.so/Peer-Advocate-Program-ef66f66a1b2f40a385b2efb578bfb4c1) directly via Slack.
-
-#### Anonymous Hotline
+#### 2. Anonymous Hotline
 
 💡 This is your best option to get support about workplace issues or *suspected illegal or unethical conduct* anonymously.
 
-Learn more about how to use the Anonymous Hotline [here](benefits.md#anonymous-hotline).
+- Learn more about how to use the Anonymous Hotline [here](benefits.md#anonymous-hotline).
 
