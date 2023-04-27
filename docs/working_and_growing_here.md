@@ -663,17 +663,7 @@ But even with this success, it’s naive to assume that just “hiring collabora
 
 Who better to find great people to work here than great people that already work here? We don't currently offer a referral bonus program but that shouldn't stop you from sending any and all referrals our way!
 
-### Who should you refer?
-
-Take a look at our open jobs by logging into [Greenhouse](https://app5.greenhouse.io/internal_job_board/) or on our [website](https://www.getdbt.com/dbt-labs/open-roles/)! 
-
-1. If you know someone that could be a fit, great!
-2. If you know someone that's awesome and would be a great addition to dbt Labs but don't see an open role that would fit them - we'd still like to talk to them and get them into our talent network for future openings!
-3. If someone reaches out to you cold and you are willing to chat with them, feel free to do so and refer them if they seem like a fit. (You can also send them to a Talent Acquisition Partner or our jobs page if you don't have time to have a full conversation)
-
-### How to submit a referral?
-
-Follow these [instructions](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4#292f0c69c0a543198799036041f389ea).
+Learn how to make a referral [here](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4).
 
 ## Global Employment
 
