@@ -62,7 +62,7 @@ A great distributed experience doesn’t just happen on its own. Employees have 
 - Investing in tooling and processes that support distributed work
 - Training everyone on how work gets done in a distributed work environment
 
-### 🤔 Why does the distributed experience matter?
+### 🤔 Why does the distributed experience matter
 
 Having a great distributed experience helps both our company and our employees. It also helps us live our values.
 
