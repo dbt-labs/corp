@@ -307,18 +307,18 @@ Our standard practice is that all new hire grants are issued with a four-year ve
 
 **Promotion Grants & Refresh Grants are issued with a four-year vesting schedule with no cliff, meaning they will vest 1/48 each month.**
 
-#### What is a Stock Split?
+#### What is a stock split?
 
 A Stock Split is a decision by a company to increase the number of shares outstanding by issuing more shares to current shareholders.  As the number of shares increases, the stock price decreases at the same proportion. 
 - **An example of this would be if you took a large pizza that was worth $20 and cut it into 4 slices each worth $5. A stock split is the equivalent to cutting those 4 slices into 8 slices which still leads to the same size pizza worth $20 except each slice is now worth $2.50 and you have 2 slices instead of 1. **This does not change the overall value of the company.**
 
-**If the value does not change, why do a Stock Split?**
+**If the value does not change, why do a stock split?**
 
 A Stock Split lowers the share price, which makes the stock appear more attractive to investors and future shareholders. The new outstanding share count should now be comparable to other companies at our stage which should make the equity component of an offer in line with other offers that a candidate might receive (purely on a share count basis).
 
 As part of the Series D financing, dbt Labs announced a 5:1 stock split. For more information, check out this [update](https://www.notion.so/dbtlabs/Series-D-409A-Stock-Split-087debe81c00497ebef90ad41e149d7c?pvs=4).
 
-#### What is Dilution and How Does it Work?
+#### What is dilution and how does it work?
 
 Dilution happens to all companies as they issue new equity over time. For example, if company XYZ needs to raise money from outside investors, it typically needs to create new shares of stock to sell to those investors. The effect of additional stock issuances by company XYZ is that, while you will own the same number of shares as you did before such issuance, there will be more total shares outstanding. As a result, you will own a smaller percentage of the company. This is called dilution.
 
@@ -364,13 +364,13 @@ All option grants must be approved by the Board of Directors. Grants are typical
 
 #### How to Set Up Your Option Plan Account
 
-Learn how to set up your option plan account, adminstered through Carta, [here](
+Learn how to set up your option plan account, adminstered through Carta, [here](https://www.notion.so/dbtlabs/How-To-Option-Plan-Administration-f07addf4d73547f28a80e7dc66089171?pvs=4#3f8e1846bde14dbebc7ff624686250a0).
 
 #### How to Exercise Your Options
 
 "Exercising your options" means that you are purchasing the shares guaranteed by your options. Options can only be exercised if they are vested. 
 
-Learn how to exercise your options [here]( should be initiated through Carta, please follow the steps below [here](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171?pvs=4#0253cd3bec9f4410b19654080188ed01).
+Learn how to exercise your options [here](https://www.notion.so/dbtlabs/How-To-Option-Plan-Administration-f07addf4d73547f28a80e7dc66089171?pvs=4#0253cd3bec9f4410b19654080188ed01).
 
 ### Company Timeline
 
