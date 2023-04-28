@@ -13,6 +13,7 @@ sidebar_label: Benefits and Perks
 
 [Healthcare Benefits (US)](#healthcare-benefits-us)
 - [How To Enroll in Healthcare Benefits (US)](#how-to-enroll-in-healthcare-benefits-us)
+- [How to Get Support with Healthcare Benefits (US)(#how-to-get-support-with-healthcare-benefits-us)
 - [Medical Plans (US)](#medical-plans-us)
 - [Disability and Life Insurance](#disability-and-life-insurance-us)
 - [Health Related Travel Benefit (US)](#health-related-travel-benefit-us)
@@ -58,7 +59,7 @@ As dbt Labs continues to grow and expand around the world, we believe it’s imp
 
 ### How does this apply today?
 
-Today our international team falls into one of two buckets. 
+Today our global team falls into one of two buckets. 
 
 **Employed through an EOR (Employee of Record) -** Employees that are hired and work for an EOR are subject to the benefits offerings that are provided through their service. However, we will operate within our philosophy above which means we will elect premium coverage and options as they become available through the EOR. Additionally, all related perks remain available and intact (ie. Office stipends, Professional Development, etc)
 
@@ -84,7 +85,7 @@ The following stipend amounts have been developed to help cover some of the cost
 
 ### Receiving the Benefits Stipend
 
-The benefits stipend will automatically be added to your monthly payroll. You do not need to request a reimbursement through Airbase.
+The benefits stipend will automatically be added to your monthly payroll. You do not need to request a reimbursement.
 
 ### Retirement & Pension Plans
 
@@ -96,7 +97,9 @@ Full-time team members based in the US are eligible to enroll in healthcare bene
 
 Health benefits are paid, in part, by the company. The remainder of the costs is the employee’s responsibility.
 
-A detailed overview of our benefits can be found [here](https://app.strivebenefits.com/dbt/home).
+An overview of our benefits can be found [here](https://www.notion.so/dbtlabs/Healthcare-Benefits-Overview-US-650cf65d9612445a8d7ce41e936b307f?pvs=4) and find a detailed overview on our benefits [website](https://app.strivebenefits.com/dbt/home).
+
+The details our benefits can be found on the [benefit website](https://app.strivebenefits.com/dbt/home).
 
 ### How To Enroll in Healthcare Benefits (US)
 
@@ -109,9 +112,13 @@ There are three separate occasions where team members may enroll in benefits thr
 3. [Qualifying Life Event](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4#32b0e31ce6884a9e95fbb988a7b5d78b):There are times when life changes unexpectedly. Often times, those events may happen outside of Open Enrollment (OE). Enrollment in essential health coverage is allowed outside of OE if you experience a qualifying life event. Examples of QLEs include marriage, childbirth, and loss of coverage. Team members can submit a life event online in ADP. 
 4. [Year Round HSA Adjustment](https://www.notion.so/dbtlabs/US-Health-Benefit-Enrollment-Guide-8132d651bdc54fddb8c3c6251701d5d5?pvs=4#bb07dd31ff8542df92ac1f46a288a88a): Employees who currently have a High Deductible Health Plan coverage selection are able to adjust their HSA contributions throughout the year. This is the only benefit adjustment that does not require a Qualifying Life or Work Event.
 
-### Medical Plans (US)
+### How to Get Support with Healthcare Benefits (US)
 
-[Notion reference](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
+We understand there are a lot of questions about chosing and navigating healthcare. 
+
+Learn how to ask questions through our partner ABD Answers [here](https://www.notion.so/dbtlabs/How-to-Get-Support-with-Healthcare-Benefits-US-9bb7ff3a7a944918bbca648f27ce8eb8?pvs=4). 
+
+### Medical Plans (US)
 
 Learn more about our medical plans [here](https://app.strivebenefits.com/dbt/2022-2023-medical?country=us).
 
@@ -164,7 +171,7 @@ Emergencies are generally classified as any symptoms that might be “limb or li
 
 Both Cigna and Kaiser have access to Registered Nurses who are available 24/7 to assess medical conditions over the phone and make suggestions for care (find these numbers on the back of your insurance card).
 
-Learn more about this benefit [here](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4).
+Learn how to use this benefit [here](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4).
 
 ## Retirement (US)
 
@@ -573,17 +580,11 @@ dbt Labs may, in its sole discretion and unless prohibited by law, require an em
 
 [Notion reference](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4#5dbdce7706de48a9bf94cd6624ad4c8c)
 
-👉 Leaves of absence are complex. They often entail the coordination of multiple laws and the juggling of potential benefits. Some leaves are paid while others are unpaid (although may be eligible for wage supplementation).
+Leaves of absence are complex. They often entail the coordination of multiple laws and the juggling of potential benefits. Some leaves are paid while others are unpaid (although may be eligible for wage supplementation).
 
-**How To Request a Leave of Absence:** To help employees navigate their potential options, we partner with [Sparrow](https://trysparrow.com/), a Leave Management Partner. 
+To help employees navigate their potential options, we partner with [Sparrow](https://trysparrow.com/), a Leave Management Partner. 
 
-Anyone who may need to take a leave of absence should either:
-a) contact their [People Business Partner Team](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) member, or
-b) submit your request via this [leave request form](https://form.asana.com/?k=KZqlYJHKhsQoYJvtFJXibw&d=312418853397011)** 
-
-The People Support team will introduce you to a Sparrow Leave Specialist as soon as your leave is approved. Sparrow will schedule a call with you to discuss your leave plans, identify the key dates when they need to be involved, and gather the necessary information to file your leave paperwork on your behalf.
-
-Employees who will be going on a leave of absence should review the related policy outlined above.
+Learn how to request a leave of absence [here](https://www.notion.so/dbtlabs/How-to-Request-a-Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4).
 
 ## Stipends
 

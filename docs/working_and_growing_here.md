@@ -667,17 +667,7 @@ But even with this success, it’s naive to assume that just “hiring collabora
 
 Who better to find great people to work here than great people that already work here? We don't currently offer a referral bonus program but that shouldn't stop you from sending any and all referrals our way!
 
-### Who should you refer?
-
-Take a look at our open jobs by logging into [Greenhouse](https://app5.greenhouse.io/internal_job_board/) or on our [website](https://www.getdbt.com/dbt-labs/open-roles/)! 
-
-1. If you know someone that could be a fit, great!
-2. If you know someone that's awesome and would be a great addition to dbt Labs but don't see an open role that would fit them - we'd still like to talk to them and get them into our talent network for future openings!
-3. If someone reaches out to you cold and you are willing to chat with them, feel free to do so and refer them if they seem like a fit. (You can also send them to a Talent Acquisition Partner or our jobs page if you don't have time to have a full conversation)
-
-### How to submit a referral?
-
-Follow these [instructions](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4#292f0c69c0a543198799036041f389ea).
+Learn how to make a referral [here](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4).
 
 ## Global Employment
 
@@ -904,50 +894,17 @@ If work that conflicts with your deeply held beliefs is a regular and predictabl
 
 ## Getting Support
 
-[Notion reference](https://www.notion.so/dbtlabs/How-to-Ask-a-People-Question-a17443c3b92346b185ca4b4c266497df?pvs=4)
+We ensure team members receive the support they need. We offer different options depending on the question or situation.
 
-We want to make sure team members receive the support they need. The People Team is often the first place employees look to get their questions answered. dbt Labs offers different options depending on your question or situation.
+#### Getting Support from the People Team
 
-### How to get support from the People Team
+1. **Ticketing System**: This is your best option to get the fastest response to questions about benefits, reimbursements, stipends,  and payroll. Ask a people question using our ticking system in #people-support. 
+2. **People Business Partners (PBP)**: This is the best option when you’re seeking confidentiality and don’t feel comfortable going to your manager. PBPs are a resource for when you may want to confidentially, or anonymously, report an issue in the workplace. They can help answer and support you with any questions, concerns, or feedback about your time at dbt Labs. 
 
-#### 1. Ticketing System in #people-support
+#### Getting Support from the outside People Team
 
-💡 This is your best option to get the fastest response to questions about benefits, reimbursements, stipends,  and payroll. 
+1. **Peer Advocate Program**: This is the best option when you’re seeking an alternative route to voice feedback or ideas about the company at large.Peer Advocates is designed to provide an alternate route of communication with leadership and the team at large, for employees seeking to get feedback from peers, test ideas, or offer feedback with anonymity. 
+2. **Anonymous Hotline**: This is your best option to workplace issues or suspected illegal or unethical conduct anonymously. The Anonymous Hotline offers additional option for anonymous reporting but please remember you can always reach out to your manager, People Business Partner, Peer Advocates or a member of leadership directly about any issues you are having.
 
-The ticketing system is available on the Slack Helpdesk app and in the #people-support Slack channel.
-
-**How to ask a People Question?:**
-
-You can submit a question (submit a ticket) 2 ways.  This is the same process for submitting IT tickets:
-
-1. Use the help desk app in slack. Click create a ticket→ enter your name in the “on behalf of” field→choose People Ops as your category→choose your people ops issue in the field→describe your question→click on submit request. Your question will be routed to the correct People Ops or Accounting representative and they will reach out to you directly to address your questions or concerns.
-
-2. Navigate to the #people-support channel and @helpdesk to ask your question.  You will receive a slack message to create a ticket, from there follow the steps above. The question will be routed to the appropriate team member and be addressed directly within the Helpdesk app in Slack
-
-**You can find more information on how to use HappyFox [here](https://www.notion.so/HappyFox-Helpdesk-System-01d0aa47cdf144649066c46d3f4491cf).
-
-#### 2. Reach out to your People Business Partner (PBP)
-
-💡 This is the best option when you’re seeking confidentiality and don’t feel comfortable going to your manager.
-
-- [People Business Partners](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) are a resource for when you may want to confidentially, or anonymously, report an issue in the workplace. They can help answer and support you with any questions, concerns, or feedback about your time at dbt Labs.
-
-- We always encourage talking with your manager first, however we welcome your questions whenever that doesn’t feel like the best option for you. 
-
-### How to get support from outside the People Team
-
-#### 1. Connect with a Peer Advocate
-
-💡 This is the best option when you’re seeking an alternative route to voice feedback or ideas about the company at large.
-
-- The [Peer Advocate Program](https://www.notion.so/Peer-Advocate-Program-ef66f66a1b2f40a385b2efb578bfb4c1) was designed to provide an alternate route of communication with leadership and the team at large, for employees seeking to get feedback from peers, test ideas, or offer feedback with anonymity.  
-
-- Why connect with a Peer Advocate rather than a PBP? As a rule of thumb, Peer Advocates are best situated to voice feedback or ideas that affect a large portion of the company. Feedback specific to you and/or one other person may be best brought to your manager, PBP, or a member of leadership.
-- You can reach out to a [Peer Advocate](https://www.notion.so/Peer-Advocate-Program-ef66f66a1b2f40a385b2efb578bfb4c1) directly via Slack.
-
-#### 2. Anonymous Hotline
-
-💡 This is your best option to get support about workplace issues or *suspected illegal or unethical conduct* anonymously.
-
-- Learn more about how to use the Anonymous Hotline [here](benefits.md#anonymous-hotline).
-
+### How to Get Support
+Learn how to get support [here](https://www.notion.so/dbtlabs/How-to-Get-Support-a17443c3b92346b185ca4b4c266497df?pvs=4).
