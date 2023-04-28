@@ -164,8 +164,6 @@ By signing the handbook, you consent to your personal information being shared i
 
 ## Corporate Travel & Expense Policy
 
-[Notion reference](https://www.notion.so/dbtlabs/Corporate-Travel-Expense-Policy-9d562e4218c941e4bd6b2710aec82c0d?pvs=4)
-
 ### Our Philosophy
 
 We strive to hire people who share our values and we trust our employees to do the right thing. Abuse of this trust is counter to the dbt Labs culture. This policy is meant to act as a guideline to assist employees in making good decisions around the use of dbt Labs’ resources during travel and other incidental expenses.
@@ -290,8 +288,6 @@ Depending on the age of your Mac and the cost of any potential repairs, the Mac 
 
 ## Involuntary Terminations
 
-[Notion reference](https://www.notion.so/dbtlabs/Involuntary-Terminations-12bd6115f88e4874a300b272f4aec023?pvs=4)
-
 Throughout this section, the core tension being managed is the tension between the interests of the company and the interests of the employee. Often, employer/employee relationships are zero sum: think Amazon fulfillment center employees. Amazon tries to milk as much productivity out of those employees as possible while paying them as little as possible. Turnover is incredibly high. Workers and the company have a generally adversarial relationship.
 
 That is not the relationship we are interested in having with employees at dbt Labs, and it's not the one that exists today. The company and its employees are *highly aligned—*via equity-based compensation and simply by the nature of the business that we're in (innovation).
@@ -368,7 +364,6 @@ None of these questions are singly determinative, but they are each useful lense
 - **Do we look into options for an employee who is underperforming to transition into a different role on the team?**
     
     We often do. While in practice moves like this are hard to make (so many things have to align!), managers are encouraged to look for other internal roles that the underperforming employee is well-positioned to excel in. If you're currently trying to determine whether there might be a good fit for someone elsewhere in the organization for someone you manage, please contact your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
-    
 
 #### 2. Surprises are bad and we will work hard to avoid them.
 
@@ -502,8 +497,6 @@ Please review the employment posters for the state you live in, and also the fed
 Please review the privacy notices located [here](https://www.notion.so/dbtlabs/Privacy-Notices-0103d9266f394dd28c5ab4353a31ff4d).
 
 ## Background Checks
-
-[Notion reference](https://github.com/dbt-labs/corp/blob/new-handbook-launch/handbook.md#background-checks)
 
 dbt Labs is concerned about the safety of its team members and about maintaining appropriate controls to ensure that assets of dbt Labs and our customer relationships and information are protected. To reduce these risks, we will obtain and review background information of covered prospective, and, as applicable, current employees.
 
