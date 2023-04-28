@@ -45,8 +45,6 @@ sidebar_label: Benefits and Perks
 
 ## Global Benefits Strategy & Stipend
 
-[Notion reference](https://www.notion.so/dbtlabs/Global-Benefits-Strategy-Stipend-03b4ebfbb278451f894a4cca46c90607?pvs=4)
-
 ### Benefits Strategy & Philosophy
 
 As dbt Labs continues to grow and expand around the world, we believe it’s important to outline our strategy and philosophy around global benefits. The following points are guiding principles that we strive towards and will drive the decision-making around our benefits both domestically and abroad.
@@ -131,8 +129,6 @@ Learn more:
 
 ### Health Related Travel Benefit (US)
 
-[Notion reference](https://www.notion.so/dbtlabs/Health-Related-Travel-Benefit-1b3541b3eec3444d883de4ecf601dd9f?pvs=4)
-
 Eligibility Requirement: US employees enrolled in dbt Labs' health benefits.
 
 📌 We believe that it’s imperative that our team members have access to quality healthcare that they need, no matter where they live. Therefore, dbt Labs will reimburse up to $4,000 in travel expenses annually[^1] for any U.S. team member (including their dependent(s)) who requires healthcare that is not available in their state of residence.
@@ -161,8 +157,6 @@ Many states have introduced legislation to reduce or restrict access to critical
 
 ### International Travel Emergency Health Benefits (US)
 
-[Notion reference](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4)
-
 Eligibility Requirement: US employees enrolled in dbt Labs' health benefits.
 
 US employees utilizing our health benefits have access to emergency care while traveling abroad. 
@@ -174,8 +168,6 @@ Both Cigna and Kaiser have access to Registered Nurses who are available 24/7 to
 Learn how to use this benefit [here](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4).
 
 ## Retirement (US)
-
-[Notion reference](https://www.notion.so/dbtlabs/US-401k-Guideline-228d622aca49433ab348aa9fc9bd4bea?pvs=4)
 
 All US based employees have access to an employer-sponsored 401K plan, adminstered through [Guideline](https://www.guideline.com/). 
 
@@ -214,8 +206,6 @@ Employees can additionally opt to contribute up to the federal maximum to their 
 - This may depend on timing but genearlly changes will take effect on the next payroll run.
 
 ## Time Off Policy
-
-[Notion reference](https://www.notion.so/dbtlabs/Time-Off-Policy-cb5363a73ca1485dbf94619c4c57aa6f?pvs=4)
 
 In alignment with our core value, **“We Work Hard and Go Home”**, dbt Labs offers unlimited paid time off to support you to recharge, spend time with your family, and/or take care of personal matters. To encourage you to turn off your brain, travel, and spend time with your family, recommend you take a *minimum* amount of vacation days **(2 weeks, aka 10 business days)** each calendar year. 
 
@@ -304,8 +294,6 @@ The above explanation of how accrued time works and pay out upon termination is 
 
 
 ### Company Holidays
-
-[Notion reference](https://www.notion.so/dbtlabs/2023-Company-Holidays-9e0e48bb8404496a868161e170e0a494?pvs=4)
 
 In addition to our unlimited vacation policy, dbt Labs observes a number of public and company holidays every year, and this schedule varies by country. You are asked to observe your local holidays (for the country you reside in).
 
@@ -403,8 +391,6 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Boxing Day- Tuesday, December 26
 
 ### Leave of Absence Programs
-
-[Notion reference](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4)
 
 We offer paid and unpaid leave of absence programs. All leave types will run concurrently with all company holidays and will not add additional days to the established leave policy unless legally required. 
 
@@ -578,8 +564,6 @@ dbt Labs may, in its sole discretion and unless prohibited by law, require an em
 
 ### Requesting a Leave of Absence
 
-[Notion reference](https://www.notion.so/dbtlabs/Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4#5dbdce7706de48a9bf94cd6624ad4c8c)
-
 Leaves of absence are complex. They often entail the coordination of multiple laws and the juggling of potential benefits. Some leaves are paid while others are unpaid (although may be eligible for wage supplementation).
 
 To help employees navigate their potential options, we partner with [Sparrow](https://trysparrow.com/), a Leave Management Partner. 
@@ -587,8 +571,6 @@ To help employees navigate their potential options, we partner with [Sparrow](ht
 Learn how to request a leave of absence [here](https://www.notion.so/dbtlabs/How-to-Request-a-Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4).
 
 ## Stipends
-
-[Notion reference](https://www.notion.so/dbtlabs/Perks-Stipends-60efa8c883aa4354b361baeefb86c2c9?pvs=4)
 
 As part of dbt Labs' total rewards strategy, we provide various stipends to help cover some of the cost associated with working from home; as well as supporting our team members' development and well being. These policies apply to all full-time employees that work for any dbt Labs entity or who are employed through our Professional Employer Organizations (PEO - ie, Remote.com).
 
@@ -603,8 +585,6 @@ Learn about how to use Benepass and get answers to FAQs [here](https://www.notio
 - Benepass can be accessed via Okta, their [Online Portal](https://app.getbenepass.com/#/) or through their mobile [app](https://apps.apple.com/us/app/benepass/id1497613952). 
 
 ### Office Stipend
-
-[Notion reference](https://www.notion.so/dbtlabs/Office-Stipend-5f5a37d1026d4fb78ee3c6439fada6dc?pvs=4)
 
 #### Policy
 
@@ -665,8 +645,6 @@ Learn more about the stipend amount by country, based on local purchasing power,
 
 ### Phone & Internet Stipend
 
-[Notion reference](https://www.notion.so/dbtlabs/Phone-Internet-Stipend-afc584bf27f24a9f81267022f30557af?pvs=4)
-
 #### Policy
 
 As part of our remote first approach, and in an effort to help our team do their best work, dbt labs provides **up to $125 each month** to help cover some of the costs associated with your personal phone and internet. 
@@ -692,8 +670,6 @@ Learn more about the stipend amount by country, based on local purchasing power,
 - If you’re unsure if something is included within the policy, reach out directly to Benepass support team via [the app](https://app.getbenepass.com).
 
 ### Health & Wellness Stipend
-
-[Notion reference](https://www.notion.so/dbtlabs/Health-Wellness-Stipend-092dcde477b246638bab319183054668?pvs=4)
 
 #### Policy
 
@@ -732,8 +708,6 @@ Yes! Benepass is able to track and manage ‘payment’ systems for large purcha
 Check out a more robust list [here](https://docs.google.com/spreadsheets/d/1EAmO6874G_FqyVAGJTXG-eU3TNIBuNo8WiEHnwS79vY/edit#gid=0). This isn’t an exhaustive list but we will build it out over time as questions arise.
 
 ### Professional Development Stipend
-
-[Notion reference](https://www.notion.so/dbtlabs/Professional-Development-Reimbursement-d35cf1246a0c4c8e96b25cc22fe9d1cb?pvs=4)
 
 #### Policy
 
@@ -799,8 +773,6 @@ Learn about our stipend amounts by country [here](https://www.notion.so/dbtlabs/
 
 ## Workplace Rental 
 
-[Notion reference](https://www.notion.so/dbtlabs/Our-Workplace-Rental-Experience-LiquidSpace-6ce02b65bdf4469989b5864ae7f410fc?pvs=4)
-
 Working from home does not work for everyone. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
 
 **We offer the following to enable employees to rent workspaces outside the home and optimize for productivity:**
@@ -819,7 +791,7 @@ Working from home does not work for everyone. Employees receive a monthly benefi
 
 #### What is Liquidspace and how do I use it?
 
-About Liquidspace:   Liquidspace is an online marketplace for renting workplaces and offices.  It is considered the “airbnb of workplace rentals”  in that it utilizes a number of companies and private hosts to allow for over 10,000 locations to choose from. 
+About Liquidspace: Liquidspace is an online marketplace for renting workplaces and offices.  It is considered the “airbnb of workplace rentals”  in that it utilizes a number of companies and private hosts to allow for over 10,000 locations to choose from. 
 
 To access Liquidspace, simply login through Okta or [here](https://liquidspace.com/dbtlabs/signin?returnPath=%2Fmain). There is no need to submit reimbursement for this, the costs will be managed within LiquidSpace. 
 
@@ -859,11 +831,9 @@ LiquidSpace is available in many countries as well. If there is not a space near
 - $234.17 CHF
 - $318.38 CAD
 
-Learn more about how to use LiquidSpace and how to book larger meeting spaces [here](https://www.notion.so/dbtlabs/Booking-Larger-Meeting-Spaces-083779ac7ddb4845b81d07e03680cfa7?pvs=4).
+Learn more about how to use LiquidSpace to book larger meeting spaces [here](https://www.notion.so/dbtlabs/Booking-Larger-Meeting-Spaces-083779ac7ddb4845b81d07e03680cfa7?pvs=4).
 
 ## Employee Discounts
-
-[Notion reference](https://www.notion.so/dbtlabs/US-Benefit-Resources-22-23-9bb7ff3a7a944918bbca648f27ce8eb8?pvs=4#53c3890f26c540db82516fa51ba988ae)
 
 Employee discounts are available through [LifeMart](https://lm.lifemart.com/group/lifemart/home). 
 
@@ -880,8 +850,6 @@ You can find savings on things like:
 
 ## Wellness Program
 
-[Notion reference](https://www.notion.so/dbtlabs/Bright-Wellness-Program-699cfc7511f743f887226ed218adf676?pvs=4)
-
 At dbt Labs, self-care is not a luxury, it's a priority. We partner with [Bright](https://choosebright.com/dbt/), the creators of a well-being platform for teams, to offer you a comprehensive well-being program - the Bright Pass - for free!
 
 - Keynotes and other events are also included each week covering a range of topics, such as financial well-being, sleep,  and coping with stress.
@@ -894,8 +862,6 @@ Learn more about the program and how to setup your account: [brightwellness.pdf]
 - Join the #bright-wellness channel on Slack 
 
 ## Employee Assistance Programs
-
-[Notion reference](https://www.notion.so/dbtlabs/Employee-Assistance-Programs-Resources-6a501ea70fc34f0c9d29cd430e41f137?pvs=4)
 
 ### What is an EAP?
 
@@ -927,40 +893,14 @@ Learn how to use our EAPs [here](https://www.notion.so/dbtlabs/How-to-Employee-A
 
 ## Anonymous Hotline
 
-[Notion reference](https://www.notion.so/dbtlabs/Anonymous-Hotline-309767332cbc4fdf8b8fee1bc7c5e9ce?pvs=4)
-
 dbt Labs has an anonymous hotline for employees to be able to report workplace issues or *suspected illegal or unethical conduct* anonymously. 
 
 📌 **This service is implemented to provide an additional option for anonymous reporting but please remember you can always approach your manager, People Business Partner or a member of leadership team directly about any issues you are having.** 
 
 - Learn more about other ways you can get support [here](working_and_growing_here.md#getting-support). 
 
-### Initiating a Report
+It is important to remember that, dbt Labs has a no-retaliation policy. This means that no team member will be retaliated against for making a complaint in good faith through any of our reporting avenues. If a team member feels they have been retaliated against, they should initiate a report through the anonymous hotline.
 
-To initiate a report, you should either call the hotline (833-602-7944), fill out the [mobile intake form](https://dbtlabs.navexone.com/), or fill out [website intake form](https://secure.ethicspoint.com/domain/en/report_custom.asp?clientid=83870).
+### How to Initiate a Report
 
-There is a wide variety of issues that you can choose to report, including:
-
-- Conflicts of interest
-- Discrimination or harassment
-- Misconduct or inappropriate behavior
-- Accounting and auditing matters
-- Anti-bribery
-- Confidentiality and misappropriation
-
-### More about Ethicspoint
-
-- **Who has access to see the information submitted?**
-    - Only Ethicspoint System Administrators and the System Advocates have access to the reports.
-    - If one System Admin is listed in the report, then the other one would have access. If both are listed in the report, then the System Advocates would have access to the report.
-- **SLA for actions taken / investigation / follow up**
-    - A team member will initiate the report, choose the type of report and fill out the report details.
-        - Please note that the reporter will be required to create a password for the report and at the end of the process, the team member will be given a report key that they should store somewhere. Both the password and the key will allow the team member to follow up on their report.
-        - If the team member would like to follow up, they can do so by calling the hotline or visiting the website.
-    - Once a report is made, the administrator assigned will get a notification and can view the open case.
-        - This will initiate an investigation; the people team will thoroughly investigate the claims being made through both interviews and collecting evidence through other avenues.
-            - Ethicspoint does allow us to communicate with the reporter while maintaining anonymity if additional information is required.
-        - We will comment on the case as the investigation progresses and when it has been completed.
-            - If any wrongdoing or breach of policy has been determined, we will take disciplinary action up to and including termination.
-- **Reminder of our no-retaliation policy**
-    - It is important to remember that dbt Labs has a no-retaliation policy. This means that no team member will be retaliated against for making a complaint in good faith through **any of our reporting avenues**. If a team member feels they have been retaliated against, they should file a complaint using the procedures set forth on this page.
+Learn how to initiate a report and what to expect for next steps [here](https://www.notion.so/dbtlabs/How-To-Anonymous-Hotline-309767332cbc4fdf8b8fee1bc7c5e9ce?pvs=4).
