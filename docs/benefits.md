@@ -59,7 +59,7 @@ As dbt Labs continues to grow and expand around the world, we believe it’s imp
 
 ### How does this apply today?
 
-Today our international team falls into one of two buckets. 
+Today our global team falls into one of two buckets. 
 
 **Employed through an EOR (Employee of Record) -** Employees that are hired and work for an EOR are subject to the benefits offerings that are provided through their service. However, we will operate within our philosophy above which means we will elect premium coverage and options as they become available through the EOR. Additionally, all related perks remain available and intact (ie. Office stipends, Professional Development, etc)
 
@@ -97,7 +97,7 @@ Full-time team members based in the US are eligible to enroll in healthcare bene
 
 Health benefits are paid, in part, by the company. The remainder of the costs is the employee’s responsibility.
 
-A detailed overview of our benefits can be found [here](https://app.strivebenefits.com/dbt/home)
+Learn more about our benefits [here](https://www.notion.so/dbtlabs/Healthcare-Benefits-Overview-US-650cf65d9612445a8d7ce41e936b307f?pvs=4) and find a detailed overview on our benefits [website](https://app.strivebenefits.com/dbt/home).
 
 ### How To Enroll in Healthcare Benefits (US)
 
@@ -117,8 +117,6 @@ We understand there are a lot of questions about chosing and navigating healthca
 Learn how to ask questions through our partner ABD Answers [here](https://www.notion.so/dbtlabs/How-to-Get-Support-with-Healthcare-Benefits-US-9bb7ff3a7a944918bbca648f27ce8eb8?pvs=4). 
 
 ### Medical Plans (US)
-
-[Notion reference](https://www.notion.so/dbtlabs/US-Healthcare-Benefits-Overview-650cf65d9612445a8d7ce41e936b307f?pvs=4)
 
 Learn more about our medical plans [here](https://app.strivebenefits.com/dbt/2022-2023-medical?country=us).
 
@@ -171,7 +169,7 @@ Emergencies are generally classified as any symptoms that might be “limb or li
 
 Both Cigna and Kaiser have access to Registered Nurses who are available 24/7 to assess medical conditions over the phone and make suggestions for care (find these numbers on the back of your insurance card).
 
-Learn more about this benefit [here](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4).
+Learn how to use this benefit [here](https://www.notion.so/dbtlabs/Int-l-Travel-Emergency-Health-Benefits-US-Employees-d607183ad6214ccfa853c9b5addb2ff7?pvs=4).
 
 ## Retirement (US)
 
