@@ -386,7 +386,7 @@ Learn how to exercise your options [here](https://www.notion.so/dbtlabs/How-To-O
 
 ### 409A Valuations & Exercise Prices
 
-Learn more about our current valuations and exercise prices [here](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171?pvs=4#f5ac0ac6089a4ebf8a34679f4990a6d3).
+Learn more about our current valuations and exercise prices [here](https://www.notion.so/dbtlabs/409A-Valuations-Exercise-Prices-f5ac0ac6089a4ebf8a34679f4990a6d3?pvs=4).
 
 ### How Equity Bands are Made
 
