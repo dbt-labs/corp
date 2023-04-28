@@ -36,8 +36,6 @@ sidebar_label: Working and Growing Here
 
 ## Distributed Work Experience
 
-[Notion reference](https://www.notion.so/dbtlabs/How-we-think-about-the-Distributed-Experience-5edaf90eafad420b9a05ffc03a3cc5c7?pvs=4)
-
 Learn how we think about the distributed experience.
 
 ### 📘 First, let’s define some terms…
@@ -125,8 +123,6 @@ This is a big and important topic. A remote work guide that answers this questio
 
 ## Regional Offices
 
-[Notion reference](https://www.notion.so/dbtlabs/dbt-Labs-Office-Strategy-adad4eeeb29a406493a1ea23299b5278)
-
 In regions with high employee count, dbt Labs has office space to support async-first collaboration and promote our culture and values when teams meet onsite. As outlined in our [office strategy](#office-strategy), these spaces are designed with intention. They are not used to incentivize local collaboration but instead support community development and foster connection with cross-functional teams during offsites.
 
 Learn more about the offices, building access and offsite information [here](https://www.notion.so/dbtlabs/Workplace-7a798fcfa1eb4fba9e061577b6fbb33b?pvs=4).
@@ -146,8 +142,6 @@ STE 500
 Philadelphia, PA 19123
 
 ## Annual Review Cadence
-
-[Notion reference](https://www.notion.so/dbtlabs/Annual-Review-Cadence-67cf553acf544bc3a6df40c72e883d2a?pvs=4)
 
 🌏 *Note that all dates below are formatted by US dates, so it will be MM/DD*
 
@@ -284,7 +278,7 @@ Because of the relationship between performance, and compensation/ promotions, t
 
 ## Performance Reviews
 
-[Notion reference](https://www.notion.so/Performance-Reviews-at-dbt-Labs-054564274f6042a09e1e8515df579e06) 
+📌 We conduct performance reviews twice a year, in Q1 and Q3. 
 
 ### Process Overview
 
@@ -400,8 +394,6 @@ Check out our [resources](https://www.notion.so/dbtlabs/Performance-Reviews-at-d
 
 ## Compensation Reviews & Promotion Cycles
 
-[Notion reference](https://www.notion.so/Compensation-Reviews-and-Promotion-Cycles-3cd43b727be1471c991cb6964bae4ccd) 
-
 📌 We offer promotion and compensation cycles twice a year, in Q2 and Q4. Any changes will be effective on 8/1 and 2/1 respectively, aligning with our fiscal halves. Having 2 cycles per year is meant to give ample opportunity to reward team members.
 
 **Please make sure to review our [compensation principles](compensation.md#compensation-principles) in order to understand how we think about compensation at dbt Labs.**
@@ -479,8 +471,6 @@ Learn more about the schedule and logistics for our reviews [here](#schedule--lo
 
 ## Internal Mobility
 
-[Notion reference](https://www.notion.so/dbtlabs/Internal-Mobility-d70f84f1c4bf4215aa017960123a2bfc?pvs=4)
-
 Internal mobility applies to those interested in applying to a role outside of your immediate team. Typically, this role will need to be an open requisition with an approved headcount.
 
 We post open roles on our internal career site, [Greenhouse](https://app5.greenhouse.io/internal_job_board/). It is regularly updated, and post roles based on the quarter they are allocated for.
@@ -505,56 +495,9 @@ We ask that employees be in their role for **at least** 12 months before applyin
 
 ### Internal Transfer & Application Process
 
-#### Step 1: Explore your interests
-
-1. Look at the [internal career site](https://app5.greenhouse.io/internal_job_board/) to see which roles you might be interested in.
-2. Reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) to confirm eligibility for internal mobility.
-3. Reach out to the [Talent Acquisition Partner](https://www.notion.so/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8) and hiring manager to have an introductory call:
-    1. Explain why you are interested in learning more about this role. In your conversation, understand the role expectations and hiring profile.
-    2. If you would like to learn more about the role, we recommend shadowing someone who is on the existing team or in the current role to learn more about the day to day.
-    3. Feel free to also meet with existing members of the team to understand the landscape of the team and gain advice or general mentorship.
-4. At the end of the introductory call, you can also ask the hiring manager if they think you would be a good fit for the role at this time. The hiring manager might be able to help you identify areas you can develop prior to pursuing the role, or recommend other roles to look into if they conclude another team or role would be better suited for you, your interests, and/or skill set.
-
-#### Step 2: Apply
-
-1. If after intro conversation you want to formally apply:
-    1. First have a conversation with your current manager about your intention to apply.
-        - While you do not need their permission to apply for the new role, we encourage you to be transparent with them as it's unfair to have them find out through the grapevine (which they inevitably will in our smaller org).
-        - You can also use this as an opportunity to discuss any feedback and your reasons for pursuing the new opportunity.
-        - This will also be a great way to open up the discussion for performance feedback and career progression.
-    2. Apply to the role in [Greenhouse](https://app5.greenhouse.io/internal_job_board/).
-
-#### Step 3: Interview
-
-1. After you have applied to the role in Greenhouse, a Talent Acquisition Partner or the hiring manager will reach out to you to move you through the interview process. 
-    - With the Talent Acquisition Partner, there will be a series of questions to answer:
-        - How long have you been in your current role?
-        - Have you chatted with your current manager about your interest?
-        - Why do you want this specific role?
-        - Have you reached out to someone to learn about this role?
-
-The interview process will be a shortened version of the external process, but overall will vary department by department based on role and skills required. Some roles might require a task or skills assessment. If you have questions about this, the recruiting team can share more with you.
-
-#### Step 4: Application Status
-
-After you go through the interview process, you will hear back from the hiring manager or Talent Acquisition Partner about your application and if you will be getting the role or not.
-
-**If you do not get the role**, do not be discouraged! The hiring manager will pass over feedback to your current manager and we hope this will be an opportunity to come up with a development plan for you. You are always welcome to apply again.
-
-**If you do get the role**, you can expect a confirmation in writing from the hiring manager or People Ops. You will also have a meeting scheduled with your current manager and new manager to go over things like:
-
-1. Transition plan - knowledge transfer timing and actions
-    1. Don’t worry if you do not transfer to your new team immediately, there is a minimum of a 2-week transition period. ***This may be extended to allow time to backfill your role**
-        
-        Your transfer date will be established by your current and new manager based on the time it will take to close out current projects and/or hiring a backfill. This will vary team to team.
-        
-2. Your career goals and going over what you may have already worked on with your current manager (progress towards your goals)
-3. Your past performance reviews
-4. Expectations in the new role (30/60/90 day plan)
+Learn about our internal transfer and application process [here](https://www.notion.so/dbtlabs/How-To-Internal-Mobility-d70f84f1c4bf4215aa017960123a2bfc?pvs=4).
 
 ## Embedded Roles
-
-[Notion reference](https://www.notion.so/dbtlabs/Embedded-Roles-at-dbt-Labs-348e63b53dcf41e0a103b1fbf682e3af?pvs=4)
 
 #### Why organizational design is hard
 
@@ -663,15 +606,11 @@ But even with this success, it’s naive to assume that just “hiring collabora
 
 ## Making a Referral
 
-[Notion reference](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4)
-
 Who better to find great people to work here than great people that already work here? We don't currently offer a referral bonus program but that shouldn't stop you from sending any and all referrals our way!
 
 Learn how to make a referral [here](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4).
 
 ## Global Employment
-
-[Notion reference](https://www.notion.so/dbtlabs/Global-Employment-at-dbt-Labs-a0c8faf3a9234d6a83280654caff0424)
 
 ### Country Hiring Guidelines
 
@@ -744,7 +683,6 @@ In the past, dbt Labs would hire in any country except those we had already dete
 
 📌 **Any country not listed in this doc must be reviewed by a member of the People and Finance team prior to opening that country for hiring.**
 
-
 *Note: In some cases, hiring foreign nationals of other countries into positions where they may gain access to proprietary technology or software may require export licenses. This is not a ban on hiring, but it is highly fact-specific, and must be assessed in conjunction with the People team and Legal team, in compliance with applicable anti-discrimination and employment laws.*
 
 ### Global Compensation & Benefits
@@ -778,7 +716,6 @@ Compensation bands for each country we have an entity in will be listed in our c
 
 📅 Generally, team members may live or work outside their permanent residence for an aggregate amount of 183 days (6 months) per year. However, the amount does depend on the particular country (or state) and what it considers to be a "resident" for tax purposes, as well as what it considers the tax year.
 
-
 Any work being done in a country where we do not have a current presence must be approved by security to ensure access to our systems remains secure. Please submit a ticket with IT prior to confirming your working arrangements in that country. 
 
 If a team member is considering spending more than **one month** in a location outside of your home country, please consult with your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) to ensure we are mitigating risks to the team member and the business. 
@@ -796,8 +733,6 @@ Team members are expected to communicate with their manager and team to ensure t
 ‼️ **If there is a lapse in providing services to the Company, this will qualify as a termination and all unvested options will be canceled.  If a team member is rehired and resumes providing services to the Company, any grant associated with employment will need to go through the new hire process for equity.  This means that a team member would receive a new strike price, vesting period, etc.**
 
 ## Office Strategy
-
-[Notion reference](https://www.notion.so/dbtlabs/dbt-Labs-Office-Strategy-adad4eeeb29a406493a1ea23299b5278?pvs=4)
 
 #### Goals of our offices:
 
@@ -861,8 +796,6 @@ We have three DEI committees dedicated to Team Diversity, Culture, and Company S
 Learn more [here](https://www.getdbt.com/dbt-labs/dei/).
 
 ## Conscientious Objection
-
-[Notion reference](https://www.notion.so/dbtlabs/Conscientious-Objection-371207f8f01c4e94bd4e62eb5c85087c?pvs=4)
 
 **Conscientious objection is the right of an individual to withhold their labor.**
 
