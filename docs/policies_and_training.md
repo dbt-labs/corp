@@ -27,7 +27,7 @@ sidebar_label: Policies and Training
 
 [Involuntary Terminations](#involuntary-terminations)
 
-[US Employment Posters](#us-employment-posters)
+[Employment Posters (US)](#employment-posters-us)
 
 [Privacy Notices](#privacy-notices)
 
@@ -143,13 +143,13 @@ We are committed to providing a safe and healthy work environment for all employ
 
 dbt Labs intends to comply with all health and safety laws applicable to our business. If you become aware of any safety-related concern, hazardous condition, or other workplace injury, accident, or illness, you must immediately report the matter to your manager or your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
 
-### Anti-Harassment Training
+## Anti-Harassment Training
 
 We are committed to taking all steps possible to prevent employee harassment. Anti-harassment training and policies are either highly recommended or mandated in most countries to guarantee a basic right to be free from bias and harassment within the workplace. We aim to provide best-in-class training and clear policies that support a healthy workplace culture.
 
 All employees must be trained once per year, regardless of position within the company, however, the training course you will be assigned will be determined based on your location and whether you are a people manager or not.
 
-Learn more about our policy [here](#anti-harassment-and-discrimination-policy).
+Learn more about our policy within our [Code of Conduct](#anti-harassment-and-discrimination-policy) and check out answers to [FAQs](https://www.notion.so/dbtlabs/dbt-Labs-Anti-Harassment-Training-FAQs-8a6975b746bd4747a3ed6b2633ed56ce?pvs=4) about the training.
 
 ## Your Personnel File
 
@@ -187,7 +187,7 @@ Travel arrangements should balance economics, safety, and logistics while still 
 
 [Book Travel](https://www.notion.so/Book-Travel-9953198a0c37487db7dfda2c76b6b7e9)
 
-### Airfare
+#### Airfare
 
 As a general rule, all flights should be booked in economy class, with the following exception:
 
@@ -195,27 +195,27 @@ As a general rule, all flights should be booked in economy class, with the follo
 
 Unless provided with other instructions, choose non-refundable options as these are more cost effective than refundable options. 
 
-### Lodging
+#### Lodging
 
 Choose safe and comfortable hotel accommodations near the venue or purpose of travel to minimize additional commuting time and costs. If you need to change or cancel your reservation, it is your responsibility to cancel your stay in Navan prior to your intended travel to avoid “no-show” charges.
 
-## Ground Travel & Rental Cars
+#### Ground Travel & Rental Cars
 
 Business ground travel including train, taxi and ride-sharing (i.e. Uber, Lyft) are reimbursable. Book the most economical option, where available. The use of rental cars or car-sharing (i.e. Zipcar, Getaround) should not be used other than for extenuating circumstances and must be pre-approved by your manager.   Review the guidelines for purchasing rental insurance: [Automobile Rental Guidelines.pdf](https://github.com/dbt-labs/handbook/files/11233508/Automobile.Rental.Guidelines.pdf).
 
-### Meals & Entertainment
+#### Meals & Entertainment
 
 Meals and entertainment expenses incurred for business purposes are reimbursable. The names of all attendees (employees, customers, prospects) must be included in the expense notes. 
 
-### Use of Personal Vehicles
+#### Use of Personal Vehicles
 
 Mileage is reimbursable for business travel using your personal vehicle (i.e. driving to a customer or an offsite). You will be reimbursed at the applicable IRS mileage rate, which includes fuel costs.  Make sure you have adequate insurance coverage for your vehicle. Your normal commute (i.e. from home to the office) is excluded from mileage reimbursement.
 
-### Internet while Traveling
+#### Internet while Traveling
 
 Hotel and airline Wi-Fi internet fees during business travel (i.e., GoGo In Flight) are reimbursable. Hotel and airline Wi-Fi internet fees during personal travel are not reimbursable. 
 
-### Traveling Parents
+#### Traveling Parents
 
 The cost of a [milk shipping service](https://www.milkstork.com/) is reimbursable for breastfeeding parents on work travel.
 
@@ -231,9 +231,9 @@ Each department has up to $100 per employee per quarter to spend on team-buildin
 
 Managers should request a virtual airbase card ([instructions here](https://www.notion.so/Procurement-Process-74d81bda68e447339142bfcc84be9ca7) and provide the names of the attendees, dates, and a note of what quarter this is for. Use the expense category of **Employee Relations** in Airbase.
 
-### **Corporate Cards (Physical and Virtual)**
+### Corporate Cards
 
-The distribution of corporate cards at dbt Labs is limited. If you have a corporate card, only business-related expenses are permitted to be charged and you must adhere to the Corporate Travel and Expense Policy. Personal expenses and stipend purchases are not permitted. If a personal charge is made to your corporate card, the Company has the right to deduct the value of these charges from your paycheck; the decision will be made by the Head of Accounting. Your corporate card spend is part of the corporate budget, so keep in mind budget considerations. The use of a corporate card is a benefit, and so we ask you to do your part in operationalizing its use.  
+The distribution of corporate cards (physical and virtual) at dbt Labs is limited. If you have a corporate card, only business-related expenses are permitted to be charged and you must adhere to the Corporate Travel and Expense Policy. Personal expenses and stipend purchases are not permitted. If a personal charge is made to your corporate card, the Company has the right to deduct the value of these charges from your paycheck; the decision will be made by the Head of Accounting. Your corporate card spend is part of the corporate budget, so keep in mind budget considerations. The use of a corporate card is a benefit, and so we ask you to do your part in operationalizing its use. 
 
 Categorization and providing a description of all transactions should be provided as soon as the charge is incurred, regardless of the charge amount.  At a minimum, physical card owners are expected to code and provide a description for all monthly transactions by the **2nd business day of the subsequent month**, regardless of the $$$ amount.
 
@@ -325,7 +325,7 @@ We also typically would use language like "let go" instead of the more harsh "te
 
 As a result of these language choices, this document can feel a bit cold and inhuman. That's not the intent—the intent is to have a clear, honest, transparent conversation about the topic at hand. Given that, using unambiguous language is important.
 
-### Our stance on performance-related terminations
+### Performance-Related Terminations
 
 #### 1. Managers are expected to make employment decisions based on what is in the best interests of the company.
 
@@ -493,7 +493,7 @@ We regularly conduct retrospectives on terminations. The purpose of this retrosp
 
 As in all things, our goal here is to be as transparent as possible. In going through these meetings we will look to share as many learnings from these retrospectives as possible without violating employee privacy.
 
-## US Employment Posters
+## Employment Posters (US)
 
 Please review the employment posters for the state you live in, and also the federal posters which apply to each US employee. All posters can be found [here](https://www.notion.so/dbtlabs/US-Employment-Posters-de219cf7a3774a73b206060831193c0c?pvs=4).
 
@@ -511,7 +511,7 @@ dbt Labs has contracted with [Checkr](https://checkr.com/) to perform these back
 
 All candidates who make it to the offer stage with dbt Labs must undergo a background screening according to this policy as part of the employment screening process. All contracts will state that employment is subject to obtaining results from an approved background screening that are satisfactory to dbt Labs. If a candidate is unwilling to follow this process we are unable to proceed with their candidacy for any position at dbt Labs. In the event the background check is not available at the time of hire (switching vendors or delays in processing), dbt Labs will run the background check as soon as possible. The same adjudication guidelines will apply to current employees as they do with prospective employees.
 
-### Disclosure and Authorization
+#### Disclosure and Authorization
 
 Candidates (as applicable, employees) will receive an email to fill out the background check application. The application will ask for personal and professional information. The application process includes signing a disclosure and a consent form which explains the rights of an individual undergoing a background examination. The application process is designed to take less than fifteen minutes to complete.
 
@@ -519,6 +519,6 @@ Occasionally, Checkr or GoodHire will reach out to the candidate to retrieve add
 
 Background checks will act as an additional mechanism of transparency and will help to build trust with our clients.
 
-### Review Criteria
+#### Review Criteria
 
 Once the background check is completed, company administrators will review the report and determine if any negative information has a direct connection with an applicant’s ability to fulfill the job duties with competence and integrity. Criminal convictions that would raise a concern are job-related offenses, including but not limited to: embezzlement, extortion, computer/internet crime, fraud, tax evasion, and violent crimes. In addition, the report should be reviewed for omissions or inaccuracies contained in the employment application or made during the interview process.

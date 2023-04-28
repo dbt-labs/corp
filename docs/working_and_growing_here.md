@@ -556,19 +556,23 @@ After you go through the interview process, you will hear back from the hiring m
 
 [Notion reference](https://www.notion.so/dbtlabs/Embedded-Roles-at-dbt-Labs-348e63b53dcf41e0a103b1fbf682e3af?pvs=4)
 
-### Why organizational design is hard
+#### Why organizational design is hard
 
-Here’s a scenario: the marketing team at *Company X* needs access to a data analyst to help with marketing analytics. Company X already has a centralized data team, but that team reports to the CFO and generally focuses on finance, company strategy, and board reporting. It’s hard for marketing leadership to get their requests prioritized in the queue, and as a result they’re getting far less data support than they require.
+Here’s a scenario: the marketing team at *Company X* needs access to a data analyst to help with marketing analytics. *Company X* already has a centralized data team, but that team reports to the CFO and generally focuses on finance, company strategy, and board reporting. It’s hard for marketing leadership to get their requests prioritized in the queue, and as a result they’re getting far less data support than they require.
 
-There are three things that the marketing team could do:
+**There are three things that the marketing team could do:**
 
-1. Hire a data analyst to sit on the marketing team.
-2. Encourage the data team to hire a new data analyst so that the team’s overall bandwidth increases and more marketing projects could get prioritized.
-3. Encourage the data team to hire a new data analyst and then embed that analyst on the marketing team.
+1. Make a direct hire: Hire a data analyst to sit on the marketing team.
+2. Hire on the data team and expand overall bandwidth: Encourage the data team to hire a new data analyst so that the team’s overall bandwidth increases and more marketing projects could get prioritized.
+3. Hire on the data team and embed in the marketing team: Encourage the data team to hire a new data analyst and then embed that analyst on the marketing team.
 
-It might not actually be clear whether there is a right answer, but there is: it’s #3. I feel incredibly confident about this for a couple of reasons: a) I’ve personally witnessed companies who have attempted to do #1 and #2 and there are universally very poor outcomes, and b) this is the model that the entire modern analytics practice is moving towards. Let’s take a second to talk about why #1 and #2 don’t work.
+It might not actually be clear whether there is a right answer, but there is: it’s #3. I feel incredibly confident about this for a couple of reasons: 
+a) I’ve personally witnessed companies who have attempted to do #1 and #2 and there are universally very poor outcomes, and 
+b) this is the model that the entire modern analytics practice is moving towards. 
 
-#### Make a direct hire
+**Let’s explore why #1 and #2 don’t work and why #3 does work.***
+
+**1. Make a direct hire**
 
 This is a bad idea for several reasons:
 
@@ -585,7 +589,7 @@ Here’s what actually happens when a team chooses this path:
 
 We’ve seen this occur time and time again. Often in the past we have been brought in as consultants to help extricate companies from these types of situations and it is never pleasant.
 
-#### Hire on the data team and expand overall bandwidth
+**2.Hire on the data team and expand overall bandwidth**
 
 This is also a bad idea. The core problem with it is that it is too idealistic. It assumes that the reason the data team isn’t prioritizing marketing requests is really purely one of bandwidth, and if the bandwidth problem is solved then it will go away. [This is not true](https://en.wikipedia.org/wiki/Induced_demand).
 
@@ -593,7 +597,7 @@ The problem is actually one of prioritization. The charter of the data team in t
 
 This doesn’t happen because of *malintent*, it is simply an outcome of the fact that the team originally grew up in the finance org. It lacks the connective tissue with marketing to effectively serve this team as a first-class customer.
 
-#### Hire on the data team and embed in the marketing team
+**3. Hire on the data team and embed in the marketing team**
 
 This solution has a bunch of challenges to *making it work*, but if an organization can solve them, it is by far the highest-functioning option. Here’s how it works:
 
@@ -634,7 +638,7 @@ Conventional wisdom is to manage departmental leaders in exactly this way. This 
 
 #### How we want to do this differently
 
-This problem has been something that I’ve been hyper-focused on since starting Fishtown Analytics. I saw the negative impacts of this previously and wanted to steer hard in the opposite direction. Connor and Drew and I have focused on building a culture that emphasizes cross-departmental collaboration since the very beginning, and when we’ve hired or promoted people into leadership roles we’ve heavily focused on people who are wired to be collaborative.
+This problem has been something that I’ve been hyper-focused on since starting Fishtown Analytics (former name of dbt Labs). I saw the negative impacts of this previously and wanted to steer hard in the opposite direction. Connor and Drew and I have focused on building a culture that emphasizes cross-departmental collaboration since the very beginning, and when we’ve hired or promoted people into leadership roles we’ve heavily focused on people who are wired to be collaborative.
 
 As a result, we’ve had notable successes on this front in our short life as a company: the dbt community and dbt Learn are both programs that live in a highly cross-functional space. It’s a tremendous credit to everyone involved in these programs for operating in a zone of some level of ambiguity.
 
@@ -648,12 +652,12 @@ But even with this success, it’s naive to assume that just “hiring collabora
 
 ### Questions to Ask
 
-#### What questions need to be answered prior to hiring for a cross-functional role?
+**What questions need to be answered prior to hiring for an embedded role?**
 
 1. **Who will be this person’s manager?** A manager will, in the case of an embedded team member, likely not be the person who is setting the day-to-day tasks for this person. Rather, they are responsible for supporting the person’s career development, providing mentorship, etc. There should only be a single answer to this question.
 2. **Who will the “embed sponsor” be?** The embed sponsor will be a member of the team “hosting” this person who will be primarily responsible for determining the day-to-day workload of this person. It is recommended that there is only one answer to this question, as balancing across multiple embed workloads can be challenging.
 3. **Who will make the final hiring decision?** We recommend that this should be the same as the answer to #1 above, with the understanding that the person in #2 will have a high degree of input.
-4. **Who will participate in this person’s reviews?** Likely this should be the people from #1 and 2, above.
+4. **Who will participate in this person’s reviews?** Likely this should be the people from #1 and #2, above.
 5. **How long will this embedded relationship last?** Generally, there is a “sweet spot” that allows the embedded team member to spend adequate time with the functional area to develop expertise and add value, but not so long on the team that they develop a “bus factor” and become a turnover risk. Most often we feel that the appropriate range here is 6-24 months, but realize that your mileage may vary.
 6. **What is this person’s career path within the company?** We should make sure that we’re not creating dead-end roles for embedded team members. This can sometimes happen when a person’s role doesn’t have obvious next steps outside of the team that they are embedded with. We should prevent this situation as it will lead to employee turnover.
 
@@ -795,20 +799,20 @@ Team members are expected to communicate with their manager and team to ensure t
 
 [Notion reference](https://www.notion.so/dbtlabs/dbt-Labs-Office-Strategy-adad4eeeb29a406493a1ea23299b5278?pvs=4)
 
-### What is the goal of offices at dbt Labs?
+#### Goals of our offices:
 
 1. **Support Community Development:** Establish an environment that embodies and amplifies dbt culture and values.  
     1. Provide a space for teams to use for “on-sites”
     2. Support in-person customer interactions
 2. **Drive Productivity:** Provide a space for local employees to work outside the home in lieu of Liquidspace rentals
 
-### What are offices NOT at dbt Labs?
+#### Our offices are NOT:
 
 1. **A place for local team members to collaborate**: meetings need to be inclusive of all team members.  ***In our perfect world, everyone in a meeting is in a Zoom or everyone in the meeting is in a room** (*even if it requires hopping on a plane).  
 2. **A marketing effort:**  Many companies use real estate as a status symbol and to amplify their brand awareness.  This is expensive and unrelated to our core workplace values (productivity, inclusivity, and community)
 3. **An incentive to work in person vs at home:** We believe the best talent can come from anywhere and support employees in choosing the home and office environment that best serves them. We will not spend money on excessive meal budgets and in-office perks to motivate employees to choose to come in the office vs work at home. 
 
-### How & when we build offices?
+#### How & when we build offices?
 
 **How we choose where offices go:**
 
@@ -818,30 +822,30 @@ Team members are expected to communicate with their manager and team to ensure t
     2. Offices near existing teams decreases travel spend, as a portion of the team will not need to travel for on-site events
 2. **Proximity to partners, customers and other external stakeholders**
 
-## How we determine office size?
+**How we determine office size?**
 
 1. Number of employees in the region and estimated growth - **This number is used to determine the number of desks / call rooms we need in the office.** 
 
-*Example :* 
+*Example:* 
 
 - Average lease term is 3-5 years, so we need to buy space to support the company for a minimum of the next 2 years of growth.
 - Currently we are approaching 30 employees w/in 30 miles of San Francisco who would potentially go into the office. Total company headcount growth is expected to grow at 100%+ for the next 2 years, so we want the office to scale to when the bay area team is ~120 people
 - If we assume that no more than 50% of employees are in the office on a given day, we would want an office that supports ~60 desks
-2. Scale of the organization as a whole, and the need for additional collaboration spaces - **This number is used to determine number of conference rooms / scale of those spaces**
 
-*Example :* 
+2. Scale of the organization as a whole, and the need for additional collaboration spaces - **This number is used to determine number of conference rooms/scale of those spaces**
+
+*Example:* 
 
 - Total number of team on-sites being hosted in the office per year
 - Average size of the team visiting the office
 - Number of external / customer meetings being held in the office
 
-### Target Layout
+**What is our target layout?*
 
 1. Conference room strategy:
-    1. Large rooms to support team on-sites
-        1. Optimize rooms to have Zoom Room with great remote collaboration technology so if an employee is unable to travel they can engage with the discussion on their screen
-    2. Smaller call rooms so employees can take meetings in a quiet space as needed
-    3. Few to zero offices / small breakout spaces to disincentivize in-person collaboration with partial teams
+    -  Large rooms to support team on-sites- Optimize rooms to have Zoom Room with great remote collaboration technology so if an employee is unable to travel they can engage with the discussion on their screen
+    -  Smaller call rooms so employees can take meetings in a quiet space as needed
+    -  Few to zero offices / small breakout spaces to disincentivize in-person collaboration with partial teams
 2. Open floor plan with desks to support employees working outside their home as needed
 
 ### Regional Offices
