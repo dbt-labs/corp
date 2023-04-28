@@ -26,4 +26,6 @@ This handbook is intended to answer your questions as a new employee and should 
 [Policies and Training](policies_and_training.md)
 
 ## Suggesting Improvements
-Want to suggest an improvement to our handbook? Go for it— employees can make a PR or submit a [ticket to #people-support](https://www.notion.so/dbtlabs/How-to-Ask-a-People-Question-a17443c3b92346b185ca4b4c266497df?pvs=4).
+Want to suggest an improvement to our handbook? Go for it— employees can make a PR or submit a [ticket to #people-support](https://www.notion.so/dbtlabs/How-to-Ask-a-People-Question-a17443c3b92346b185ca4b4c266497df?pvs=4). 
+
+Learn more about how to use our handbook [here](https://www.notion.so/dbtlabs/Employee-Handbook-Overview-f0b1099a6e864853915deff0eae4013e?pvs=4).
