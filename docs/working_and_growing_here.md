@@ -48,7 +48,7 @@ Learn how we think about the distributed experience.
 
 - **Distributed Work Experience (simply, "Distributed Experience"):** The employee experience specifically related to how work gets done in a distributed work environment. Communication, tools, processes and culture enable distributed work. The distributed experience could be liberating or constraining, agile or inflexible, fast or slow, equitable or inequitable. When you find yourself saying something like “I never know where to find information” you are making a comment about your personal distributed experience.
 
-### 🌐 What is our workplace strategy?
+### 🌐 What is our workplace strategy
 
 Our workplace strategy is **fully distributed**. This does not mean we won’t gather in person and won’t have office space. Instead, it means that the primary mode of getting work done assumes employees are not physically in the same location. We believe this is better for both our company and its employees.
 
@@ -62,7 +62,7 @@ A great distributed experience doesn’t just happen on its own. Employees have 
 - Investing in tooling and processes that support distributed work
 - Training everyone on how work gets done in a distributed work environment
 
-### 🤔 Why does the distributed experience matter?
+### 🤔 Why does the distributed experience matter
 
 Having a great distributed experience helps both our company and our employees. It also helps us live our values.
 
