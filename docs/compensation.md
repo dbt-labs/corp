@@ -388,9 +388,18 @@ Learn how to exercise your options [here](https://www.notion.so/dbtlabs/How-To-O
 
 Learn more about our current valuations and exercise prices [here](https://www.notion.so/dbtlabs/Equity-at-dbt-Labs-Overview-f07addf4d73547f28a80e7dc66089171?pvs=4#f5ac0ac6089a4ebf8a34679f4990a6d3).
 
+### How Equity Bands are Made
+
+The US[^11] equity ranges are developed using relevant functional market data from Options Impact & Carta based on similar companies (Capital Raised, Value etc) and evaluated these aggregated market data points against the 75th percentile of both gross values and percent ownership. Our final equity ranges are a combination of 65th percentile of % ownership in Carta and the 90th percentile of gross value in Options Impact. 
+
+[Functional breakouts](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5?pvs=4#cea2fa7310e44493aedae38c90f09931) directly align with the data output and allow us to create competitive compensation in each function using a mixture of both long term (equity) and short term (cash) incentives. 
+- Note: A function doesn’t *always* align with an org at dbt Labs. For example; where G&A is an org, reporting into the CFO; the functions are broken into Finance, Legal, People and Operations. 
+
+We believe this positions us well to be competitive in our market.
+
+[^11]: We currently use the same equity offerings regardless of location. As we continue to mature our global total rewards practices, we will further break down equity offerings to align with local markets.
+
 ### Equity Bands FY24
- 
-[Notion reference](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5)
 
 All employees have access to our equity bands and they can be accessed [here](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5?pvs=4).
 
