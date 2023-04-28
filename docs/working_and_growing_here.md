@@ -890,6 +890,17 @@ If work that conflicts with your deeply held beliefs is a regular and predictabl
 
 ## Getting Support
 
-We ensure team members receive the support they need. We offer different options depending on the question or situation, including connecting with the People Team, Peer Advocates or utilizing our anonymous hotline.
+We ensure team members receive the support they need. We offer different options depending on the question or situation.
 
-Learn about how to get support [here](https://www.notion.so/dbtlabs/How-to-Ask-a-People-Question-a17443c3b92346b185ca4b4c266497df?pvs=4).
+#### Getting Support from the People Team
+
+1. **Ticketing System**: This is your best option to get the fastest response to questions about benefits, reimbursements, stipends,  and payroll. Ask a people question using our ticking system in #people-support. 
+2. **People Business Partners (PBP)**: This is the best option when you’re seeking confidentiality and don’t feel comfortable going to your manager. PBPs are a resource for when you may want to confidentially, or anonymously, report an issue in the workplace. They can help answer and support you with any questions, concerns, or feedback about your time at dbt Labs. 
+
+#### Getting Support from the outside People Team
+
+1. **Peer Advocate Program**: This is the best option when you’re seeking an alternative route to voice feedback or ideas about the company at large.Peer Advocates is designed to provide an alternate route of communication with leadership and the team at large, for employees seeking to get feedback from peers, test ideas, or offer feedback with anonymity. 
+2. **Anonymous Hotline**: This is your best option to workplace issues or suspected illegal or unethical conduct anonymously. The Anonymous Hotline offers additional option for anonymous reporting but please remember you can always reach out to your manager, People Business Partner, Peer Advocates or a member of leadership directly about any issues you are having.
+
+### How to Get Support
+Learn how to get support [here](https://www.notion.so/dbtlabs/How-to-Get-Support-a17443c3b92346b185ca4b4c266497df?pvs=4).
