@@ -13,7 +13,7 @@ sidebar_label: Benefits and Perks
 
 [Healthcare Benefits (US)](#healthcare-benefits-us)
 - [How To Enroll in Healthcare Benefits (US)](#how-to-enroll-in-healthcare-benefits-us)
-- [How to Get Support with Healthcare Benefits (US)(#how-to-get-support-with-healthcare-benefits-us)
+- [How to Get Support with Healthcare Benefits (US)](#how-to-get-support-with-healthcare-benefits-us)
 - [Medical Plans (US)](#medical-plans-us)
 - [Disability and Life Insurance](#disability-and-life-insurance-us)
 - [Health Related Travel Benefit (US)](#health-related-travel-benefit-us)
