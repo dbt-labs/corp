@@ -10,7 +10,7 @@ sidebar_label: Policies and Training
 | Stephanie Murray |
 | Helena G |
 | Kimi Mashhoon |
-| Frank Pellegrino |
+| Aaron Stanley |
 
 
 [Code of Conduct](#code-of-conduct)
