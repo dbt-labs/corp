@@ -7,7 +7,6 @@ sidebar_label: Benefits and Perks
 | Content Maintainers |
 |---|
 | Clyde Stackhouse |
-| Meg Colón |
 
 [Global Benefits Strategy & Stipend](#global-benefits-strategy--stipend)
 
