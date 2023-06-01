@@ -1,7 +1,7 @@
 ---
-id: annual_reviews
-title: Annual Reviews
-sidebar_label: Annual Reviews
+id: talent_development
+title: Talent Development
+sidebar_label: Talent Development
 ---
 
 | Content Maintainers |
