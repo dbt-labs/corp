@@ -6,7 +6,7 @@ sidebar_label: Talent Development
 
 | Content Maintainers |
 |---|
-| Meg Colón |
+| Vanessa Yeh |
 
 [Annual Review Cadence](#annual-review-cadence)
 
