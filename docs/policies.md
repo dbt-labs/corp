@@ -1,7 +1,7 @@
 ---
-id: policies_and_training
-title: Policies and Training
-sidebar_label: Policies and Training
+id: policies
+title: Policies
+sidebar_label: Policies
 ---
 
 | Maintained by |
@@ -9,7 +9,6 @@ sidebar_label: Policies and Training
 | Meg Colón |
 | Stephanie Murray |
 | Helena G |
-| Kimi Mashhoon |
 | Aaron Stanley |
 
 
