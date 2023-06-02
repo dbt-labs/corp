@@ -1,5 +1,5 @@
 ---
-id: time off
+id: time_off
 title: Time Off
 sidebar_label: Time Off
 ---
