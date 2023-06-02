@@ -18,13 +18,9 @@ sidebar_label: Working and Growing Here
 - [Performance Reviews](#performance-reviews) 
 - [Compensation Reviews & Promotion Cycles](#compensation-reviews--promotion-cycles)
 
-[Internal Mobility](#internal-mobility)
-
 [Embedded Roles](#embedded-roles)
 
-[Making a Referral](#making-a-referral)
-
-[Global Employment](#global-employment)
+[International Relocation](#international-relocation)
 
 [Office Strategy](#office-strategy)
 
@@ -469,34 +465,6 @@ Promotions will be reviewed and approved in calibration sessions with each org.
 
 Learn more about the schedule and logistics for our reviews [here](#schedule--logistics) where you'll find the [Q2 Compensation & Promotion Review Schedule](#q2---compensation--promotion) and the [Q4 Compensation & Promotion Review Schedule](#q4---compensation-and-promotion).
 
-## Internal Mobility
-
-Internal mobility applies to those interested in applying to a role outside of your immediate team. Typically, this role will need to be an open requisition with an approved headcount.
-
-We post open roles on our internal career site, [Greenhouse](https://app5.greenhouse.io/internal_job_board/). It is regularly updated, and post roles based on the quarter they are allocated for.
-
-### Eligibility
-
-#### Interdepartmental Transfers
-
-We recommend employees be in their role for at least 9 months before applying to an open requisition within their own department. *(Example: Analytics Engineer → Technical Instructor)*
-
-**Why a minimum of 9 months?** The reason we are asking for 9 months for an interdepartmental transfer is because we recognize that there are more transferrable skills and knowledge that exist across roles within a department. 
-
-#### Cross-Department Transfers
-
-We ask that employees be in their role for **at least** 12 months before applying to an open requisition within another department. *(Example: Customer Support Engineer → Solutions Architect)*
-
-**Why the minimum of 12 months?** We ask for at least 12 months for a cross-department transfer because it can take about 3 months to onboard onto a new role and another 3 months to become completely ramped into that role (totaling up to 6 months). We would want someone to be working as a ramped member of the team for at **least** 6, ideally 12 months, before moving on. Additionally it could take us longer to backfill your role meaning there are more limitations for the team during the transition period and beyond if you’re switching to a new department. 
-
-**Exceptions:** Changes or movement between teams could happen at any time due to business needs. If your tenure with dbt Labs is less than the 9 or 12 months and you are interested in moving internally, bring this up to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) - the People Team and your current leadership team will need to approve the business exception.
-
-**Again, please ensure you’re actively talking to your manager about your career goals and development wants/needs.** 
-
-### Internal Transfer & Application Process
-
-Learn about our internal transfer and application process [here](https://www.notion.so/dbtlabs/How-To-Internal-Mobility-d70f84f1c4bf4215aa017960123a2bfc?pvs=4).
-
 ## Embedded Roles
 
 #### Why organizational design is hard
@@ -604,94 +572,9 @@ But even with this success, it’s naive to assume that just “hiring collabora
 5. **How long will this embedded relationship last?** Generally, there is a “sweet spot” that allows the embedded team member to spend adequate time with the functional area to develop expertise and add value, but not so long on the team that they develop a “bus factor” and become a turnover risk. Most often we feel that the appropriate range here is 6-24 months, but realize that your mileage may vary.
 6. **What is this person’s career path within the company?** We should make sure that we’re not creating dead-end roles for embedded team members. This can sometimes happen when a person’s role doesn’t have obvious next steps outside of the team that they are embedded with. We should prevent this situation as it will lead to employee turnover.
 
-## Making a Referral
+## International Relocation 
 
-Who better to find great people to work here than great people that already work here? We don't currently offer a referral bonus program but that shouldn't stop you from sending any and all referrals our way!
-
-Learn how to make a referral [here](https://www.notion.so/dbtlabs/How-to-make-a-referral-3d44f9f6b52e49ba8730a3bb48ed2201?pvs=4).
-
-## Global Employment
-
-### Country Hiring Guidelines
-
-We have members in countries and regions all over the world and from all walks of life. We value diversity. As we grow, we will continue to explore our hiring capabilities in a variety of geographies.
-
-All of our roles are remote, however some roles may carry specific location or time zone eligibility requirements. Our [Talent Acquisition team](https://www.notion.so/dbtlabs/Business-Partner-Coverage-Model-0a4ee30503464b3bb101de1d4c3ac5e8) can help answer any questions applicants may have about location after starting the recruiting process.
-
-In the past, dbt Labs would hire in any country except those we had already determined were not feasible due to certain restrictions. At present we are focusing our hiring in countries where we have entities; exceptions will be made rarely and must have approval by our CFO*. For exceptions, we ask for a 6 month lead time so that we can properly investigate employing someone in that country and take necessary steps to be able to do so legally.
-
-*To request an exception:
-
-1. Please contact the Head of People with the following:
-    1. The country
-    2. The role you would like to hire in that country
-    3. Why this country over one where we have an entity.
-2. The G&A team (Finance, Accounting, Legal and People) will investigate the benefits and risks of entering there
-
-**With this process; there are 3 types of employment relationships:**
-
-1. Direct employment with a dbt Labs entity
-    1. We will look into opening in entities in countries where we have a large employee count or if there is a business case where an entity would be beneficial.
-2. Non-resident payroll through our dbt Labs entity
-3. EOR employment through our current* vendor Remote.com, legally, this relationship is a contractor relationship
-    1. *Vendor relationship subject to change to accommodate business and team member needs.
-
-### dbt Labs Entities
-
-| Country        	| Entity                     	| Payroll System   	| HRIS 	| Currency 	| Sponsorship Available 	|
-|----------------	|----------------------------	|------------------	|------	|----------	|-----------------------	|
-| Australia      	| dbt Labs Australia Pty Ltd 	| Overseas Connect 	| ADP  	| AUD      	| No                    	|
-| Ireland        	| dbt Labs Ireland Limited   	| Overseas Connect 	| ADP  	| EUR      	| No                    	|
-| United Kingdom 	| dbt Labs UK Limited        	| Overseas Connect 	| ADP  	| GBD      	| Yes                    	|
-| United States  	| dbt Labs, Inc.             	| ADP              	| ADP  	| USD      	| Yes                   	|
-| Germany        	| dbt Labs GmbH              	| Overseas Connect 	| ADP  	| ERU      	| No                      	|
- 
-📌 For countries where dbt Labs is able to sponsor a work permit, the People team also needs to do an assessment of your job to see if it falls into a “speciality work visa” category. We would need to determine that you and your role meet all of the sponsorship criteria. **Please reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) if you require sponsorship.**
-
-### Non-Resident Payroll Relationships
-
-| Country     	| Paid Through               	| Payroll System   	| HRIS 	| Currency 	|
-|-------------	|----------------------------	|------------------	|------	|----------	|
-| New Zealand 	| dbt Labs Australia Pty Ltd 	| Overseas Connect 	| ADP  	| NZD      	|
-| Sweden      	| dbt Labs Ireland Limited   	| Overseas Connect 	| ADP  	| SEK      	|
-
-### Current EOR Relationships
-
-| Country     	| EOR        	| Future Hires? 	|
-|-------------	|------------	|---------------	|
-| Austria     	| Remote.com 	| Possible      	|
-| Canada      	| Remote.com 	| Possible      	|
-| France      	| Remote.com 	| Unlikely      	|
-| Spain       	| Remote.com 	| Unlikely      	|
-| Switzerland 	| Remote.com 	| Possible      	|
-| Philippines 	| Remote.com 	| Active        	|
-
-
-**Reminder -  a current relationship with an EOR in country does not guarantee the ability to hire in that country. All hires outside of our entities need prior approval from the CFO. We need at least 6 months lead time to make a decision on any country.* 
-
-### Countries We Cannot Hire In
-
-| Country     	| Reason         	|
-|-------------	|----------------	|
-| Russia      	| Current Unrest 	|
-| Iran        	| US Sanctions   	|
-| North Korea 	| US Sanctions   	|
-| Cuba        	| US Sanctions   	|
-| Syria       	| US Sanctions   	|
-| Crimea      	| US Sanctions   	|
-| Ukraine     	| Current unrest 	|
-
-📌 **Any country not listed in this doc must be reviewed by a member of the People and Finance team prior to opening that country for hiring.**
-
-*Note: In some cases, hiring foreign nationals of other countries into positions where they may gain access to proprietary technology or software may require export licenses. This is not a ban on hiring, but it is highly fact-specific, and must be assessed in conjunction with the People team and Legal team, in compliance with applicable anti-discrimination and employment laws.*
-
-### Global Compensation & Benefits
-
-Learn more about our [Compensation Principles](compensation.md#compensation-principles) and [Global Compensation and Benefits](compensation.md#global-compensation--benefits).
-
-### Relocation (Permanent or Semi-permanent)
-
-📌 All international relocation requests must be approved by the People team, Finance team and the team members management. To initiate a request, please contact your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
+📌 All international relocation (Permanent or Semi-permanent) requests must be approved by the People team, Finance team and the team members management. To initiate a request, please contact your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
 
 📌 Relocation requests within one's existing country may need approval by the team member's management due to time zone or regional requirements. Please communicate with your manager if you plan a move to a different region in your country.
 
@@ -721,6 +604,10 @@ Any work being done in a country where we do not have a current presence must be
 If a team member is considering spending more than **one month** in a location outside of your home country, please consult with your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) to ensure we are mitigating risks to the team member and the business. 
 
 Team members are expected to communicate with their manager and team to ensure they maintain agreed upon working hours.
+
+### Global Compensation & Benefits
+
+Learn more about our [Compensation Principles](compensation.md#compensation-principles) and [Global Compensation and Benefits](compensation.md#global-compensation--benefits).
 
 ### Equity
 

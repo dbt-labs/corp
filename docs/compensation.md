@@ -25,8 +25,6 @@ sidebar_label: Compensation
 - [Option Plan Administration](#option-plan-administration)
 - [Equity Bands FY24](#equity-bands-fy24)
 
-[Pay & Equity Ranges in Job Offers](#pay--equity-ranges-in-job-offers)
-
 ## Compensation Principles
 
 Learn more about how we think about compensation at dbt Labs. Below are our compensation principles which we reference when making all compensation decisions.
@@ -390,36 +388,3 @@ We believe this positions us well to be competitive in our market.
 ### Equity Bands FY24
 
 All employees have access to our equity bands and they can be accessed [here](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5?pvs=4).
-
-## Pay & Equity Ranges in Job Offers
-
-### Using Salary Ranges
-
-When determining an offer for a candidate, we consider two primary factors in conjunction with the approved salary band.
-
-1. The applicant's knowledge, skills and experience compared to what’s needed for the role.
-    1. How does this candidates interview feedback compare against the hiring plan (what are the strengths and tradeoffs we are working with)
-2. Internal Equity - How does this applicant compare or slot relative to other team members that are in the same role and where are they placed within the range.
-
-**These factors are considered and viewed on a sliding scale when determining the appropriate offer relative to the established pay range.** 
-
-### Understanding Salary Ranges & Targets
-
-When looking at the established salary range, we consider 3 key aspects of the salary range on a sliding scale in conjunction with the factors outlined above. 
-
-![Min,Mid,Max](https://user-images.githubusercontent.com/127452841/225728109-639ee762-dfa0-44bb-9dcb-f45444f90686.png)
-
-1. Minimum: target for applicants that just meet the minimum job requirements and would be considered early in ‘developing’ into the role duties and expectations.
-2. Midpoint: Target for applicants that match most of the criteria and are considered readily ‘proficient’ at this level relative to job expectations.
-3. Maximum: should be used **extremely** sparingly as an employee who is at or approaching the maximum of a pay range is an indicator that the individual is distinctly more ‘advanced’ or experienced than the job expectations. With maximum or higher end placements, individuals would be quickly approaching a promotion (if internal) or is potentially overqualified for the existing job level which may lead to potentially up-leveling a role assuming there is sufficient business need.
-    -  The question we always ask as a best practice - “would this person be ready to move into the next level role within the next 12 months?” 
-
-### Using Equity Ranges
-
-The use of equity ranges largely follows a similar practice as salary ranges with a key difference around internal equity. 
-
-Internal equity is framed around how a candidate compares to the rest of the team holistically rather than based on equity. This is because equity amounts & values will continue to change over time and is direct comparison like comparing and evaluating cash comp (ie. Someone who joined post Series B ≠ Post Series D)
-
-We use the [Equity Bands](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5) as the basis for the equity offering.
-
-Then we use an internal [Equity Scenario Calculation tool](https://docs.google.com/spreadsheets/d/13GM9fLEZjUv_T5dVB-6LvVKWkbqq24CD8ngSmYT0PMQ/edit#gid=1621073057) to determine what a candidate should be offered within the equity range (# of Shares, Net Value, Gross Value).
