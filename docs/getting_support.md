@@ -34,7 +34,7 @@ Learn how to get support [here](https://www.notion.so/dbtlabs/How-to-Get-Support
 
 ## Employee Assistance Programs
 
-### What is an EAP?
+#### What is an EAP?
 
 *An Employee Assistance Program (EAP) is a voluntary, work-based program that offers free and confidential assessments, short-term counseling, referrals, and follow-up services to employees who have personal and/or work-related problems.*
 
