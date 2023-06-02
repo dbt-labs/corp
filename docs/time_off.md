@@ -53,7 +53,7 @@ When in doubt, please discuss with your manager about your plans
     - ***Paid Parental Leave** - to be taken within the first year of parenthood; any dbt Labs employee who needs to care for a newborn as a result of birth or adoption is able to take up to 12 weeks of paid leave*
     - ***Paid Medical Leave** - any dbt Labs employee who needs to take dedicated time off to recover from their own medical event (i.e. physical or mental illness, surgery, etc) is able to take up to 4 weeks of paid leave*
     - ***Paid Caregiver Leave -** any dbt Labs employee who needs to take dedicated time off to care for a seriously ill person is able to take up to 4 weeks of paid leave*
-- **Company Holidays**: dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. See [2023 Company Holidays ](#2023-company-holidays) for days observed. You are asked to observe your local holidays (for the country you reside in).
+- **Company Holidays**: dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. See [Company Holidays ](#company-holidays) for days observed. You are asked to observe your local holidays (for the country you reside in).
 
 Note that because in the United States, your time off is not accrued, you will not be paid out for any unused time offered under this policy when your employment with dbt Labs ends.
 
@@ -216,7 +216,7 @@ Learn more about how to request a leave of absence [below](https://handbook.getd
 
 ### Paid Parental Leave
 
-- **Time off & Pay**
+**Time off & Pay**
 
 dbt Labs provides employees, including employees who adopt a child or become a foster parent to a new child, with twelve (12) weeks of Parental Leave paid at 100% of their base salary, to commence at the beginning of the first leave period OR the day the child is born or placed in their care. Employees may take this leave intermittently, which means taking leave in blocks of time. For commission eligible employees, intermittent leaves may be taken in increments of no less than four (4) weeks. For all other employees, intermittent leaves may be taken in increments of no less than two (2) weeks.
 
@@ -226,19 +226,19 @@ Any unused leave offered under this policy will not be paid out at termination o
 
 For international employees in countries that have their own statutory parental leave benefits, dbt labs 12 weeks will run concurrent with any locally required leave plans.
 
-- **Health Insurance**
+**Health Insurance**
 
 If employees and their families participate in dbt Labs’s group health plan, the company will maintain coverage during paid leave under this policy on the same terms as if employees had continued to work.
 
-- **Vesting**
+**Vesting**
 
 Stock options will continue to vest at their regular rate during paid or unpaid leave.
 
-- **Return to Work**
+**Return to Work**
 
 Employees returning from Parental Leave will be reinstated to the same position, or if that position is no longer available due to reasons unrelated to the employee’s leave, a comparable position. Employees will receive pay and benefits equivalent to those received prior to their leave.
 
-- **Planning for Parental Leave**
+**Planning for Parental Leave**
 
 We understand that exact timing can't always be planned so, as early as possible, please start working with your manager and your team to plan for your leave. This includes:
 
@@ -251,25 +251,25 @@ Learn more about how to request a leave of absence [below](https://handbook.getd
 
 ### Paid Medical Leave
 
-- **Time off & Pay**
+**Time off & Pay**
 
 Employees who are unable to work for more than ten (10) business days due to illness or injury not related to work may be eligible for paid medical leave based on a physician’s recommendation. dbt Labs will provide up to four (4) weeks total of paid medical leave. If eligible, employees must apply for any state and/or Unum disability benefits. dbt Labs will coordinate with these benefits, meaning that dbt Labs will pay the difference of your base salary and any benefits granted not to exceed 100% of your base salary. Medical leave granted under this policy runs concurrent with any family medical leave or any other medical leave taken by eligible employees, unless prohibited by law.
 
 A medical leave is considered a paid leave for a specific condition. As such, employees may be eligible for more than one paid medical leave in a year, depending on their unique circumstances. Note that while an employee may be approved for more than one paid medical leave in a year, this benefit is capped at a total of 8 weeks of paid leave.
 
-- **Health Insurance**
+**Health Insurance**
 
 If employees participate in dbt Labs’s group health plan, the company will maintain coverage during paid leave under this policy on the same terms as if employees had continued to work.
 
-- **Vesting**
+**Vesting**
 
 Stock options will continue to vest at their regular rate during paid or unpaid leave. 
 
-- **Return to Work**
+**Return to Work**
 
 Employees may be asked to provide a Fitness for Duty form completed by their medical provider prior to their first day back. Employees returning from medical leave will be reinstated to the same position, or if that position is no longer available due to reasons unrelated to the employee’s leave, a comparable position. Employees will receive pay and benefits equivalent to those received prior to their leave.
 
-- **Planning for Parental Leave**
+**Planning for Parental Leave**
 
 We understand that exact timing can't always be planned so, as early as possible, please start working with your manager and your team to plan for your leave. This includes:
 
