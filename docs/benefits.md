@@ -7,7 +7,6 @@ sidebar_label: Benefits and Perks
 | Content Maintainers |
 |---|
 | Clyde Stackhouse |
-| Meg Colón |
 
 [Global Benefits Strategy & Stipend](#global-benefits-strategy--stipend)
 
@@ -33,11 +32,6 @@ sidebar_label: Benefits and Perks
 [Employee Discounts](#employee-discounts)
 
 [Wellness Program](#wellness-program)
-
-[Employee Assistance Programs](#employee-assistance-programs)
-
-[Anonymous Hotline](#anonymous-hotline)
-
 
 ## Global Benefits Strategy & Stipend
 
@@ -491,47 +485,3 @@ Learn more about the program and how to setup your account: [brightwellness.pdf]
 
 - Join classes: https://choosebright.com/dbt/
 - Join the #bright-wellness channel on Slack 
-
-## Employee Assistance Programs
-
-### What is an EAP?
-
-*An Employee Assistance Program (EAP) is a voluntary, work-based program that offers free and confidential assessments, short-term counseling, referrals, and follow-up services to employees who have personal and/or work-related problems.*
-
-We offer 2 EAP programs.
-
-#### 1. UNUM EAP
-
-UNUM’s EAP call services are eligible for all employees **globally.** [UNUM](https://app.strivebenefits.com/dbt/eap?country=us) is also our life and disability provider. In person visits / local support is not currently provided outside the United States.
-
-US - EAP Benefits include:
-- Three face‐to‐face visits with a local counselor to help address personal concerns.
-- Unlimited and confidential phone/online support
-- Access to information and referrals for work/life resources including child care, elder care, legal questions, financial services, relocation support, and more.
-- Service extends to employees, their spouses or domestic partners, dependent children (26 and younger), parents and parents-in-law.
-
-[2021 EAP - Employee Flyer.pdf](https://github.com/dbt-labs/corp/files/10994740/2021.EAP.-.Employee.Flyer.pdf)
-
-#### 2. ADP - LifeCare EAP (US)
-
-ADP - LifeCare EAP services are eligible for US employees only.
-
-[LifeCare EAP Brochure.pdf](https://github.com/dbt-labs/corp/files/10994732/LifeCare.EAP.Brochure.pdf)
-
-### How to use an EAP
-
-Learn how to use our EAPs [here](https://www.notion.so/dbtlabs/How-to-Employee-Assistance-Programs-6a501ea70fc34f0c9d29cd430e41f137?pvs=4).
-
-## Anonymous Hotline
-
-dbt Labs has an anonymous hotline for employees to be able to report workplace issues or *suspected illegal or unethical conduct* anonymously. 
-
-📌 **This service is implemented to provide an additional option for anonymous reporting but please remember you can always approach your manager, People Business Partner or a member of leadership team directly about any issues you are having.** 
-
-- Learn more about other ways you can get support [here](working_and_growing_here.md#getting-support). 
-
-It is important to remember that, dbt Labs has a no-retaliation policy. This means that no team member will be retaliated against for making a complaint in good faith through any of our reporting avenues. If a team member feels they have been retaliated against, they should initiate a report through the anonymous hotline.
-
-### How to Initiate a Report
-
-Learn how to initiate a report and what to expect for next steps [here](https://www.notion.so/dbtlabs/How-To-Anonymous-Hotline-309767332cbc4fdf8b8fee1bc7c5e9ce?pvs=4).
