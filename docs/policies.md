@@ -346,7 +346,7 @@ None of these questions are singly determinative, but they are each useful lense
     1. [Psychological safety](https://en.wikipedia.org/wiki/Psychological_safety) is an incredibly important component of creating a high-performing, innovative team. Teams that lack psychological safety don't say hard things, build strong relationships, or take shared risks—all of the things that are absolutely required to build groundbreaking products. Terminating employees, even if those employees were underperforming, chips away at psychological safety. This is unavoidable outcome of a termination, as those adjacent to the terminated employee end up thinking "is my job safe?" We can do two things to minimize these impacts. First, we can be transparent about expectations, process, and accountability for termination decisions (which is why this document exists). Second, we can consistently demonstrate as an organization that we only use terminations as a solution as appropriate and that we take performance management extremely seriously.
     2. People are not actually cogs. Think of all of the things that are locked up in your brain. You possess not only your functional expertise (which is often the first thing we think about when evaluating our own job performance), but also your internal and external relationships, knowledge of existing processes, knowledge of our product and customer, and more. This context is incredibly hard to replace, and replacing it costs real time and money. And time, especially, is a resource that is in very short supply for us today.
     
-    It is truly in the best interests of dbt Labs to invest in long-term employee relationships, and terminating an employee really is a bad outcome for the company. That may not make you feel all warm and fuzzy inside, but it's important to realize that everyone involved truly sees termination as a bad outcome, and one to be avoided...
+    It is truly in the best interests of dbt Labs to invest in long-term employee relationships. In situations where an employee's performance is trending downwards, dbt makes a dedicated effort to provide team members with the support and structure required to get back on track and meet the minimum requirements in their role.
     
 - **How do we square employee terminations with our "We are human" value?**
     
@@ -399,16 +399,10 @@ It is our goal to create an environment where receiving critical feedback is nor
         
         One possible solution to this is for the People team to introduce a formalized process that managers need to go through in order to terminate an employee. This is often known as a "PIP"—performance improvement plan—and it typically plays out over the course of 30-90 days. Because the process is run by the People team, there is a level of assurance that the manager cannot act exclusively on their own authority.
         
-        The PIP, though, is deeply flawed. It is extremely ritualized, focused on documentation, and impersonal. In reality, companies tend to use PIPs not to help fix performance issues, but instead to document their reasons for terminating someone *after they have already decided to do so*, purely for legal liability reasons.
+        The PIP, though, has negative connotations, often from companies misusing them and stories that no one 'survives' a PIP. We feel that they can be used differently and have introduced [Development Plans](https://www.notion.so/dbtlabs/WIP-How-we-Develop-Talent-at-dbt-Labs-9807ce052b50414da4f8298215f22b57) into the manager's toolbox.
         
-        PIPs have very negative cultural and practical outcomes:
-        
-        - They are fundamentally disingenuous and encourage "double-speak." We value transparency and refuse to create rituals that undermine this value.
-        - They do not actually accomplish their stated goals of employee protection—in practice they serve to protect the company.
-        - They prevent the affected employee from having the time to collect themselves and plan out their next moves. The time we choose to pay in severance, a company that uses PIPs is still asking the employee to spend all of their time on a job from which they will be terminated. We would prefer to move decisively and allow the terminated employee to use this paid time in whatever way was the most helpful to them.
-        - The delay in terminating someone reduces the speed with which the organization can solve problems. 90 days of underperformance in a role is a very long time for a company in hypergrowth.
-        
-        For all of these reasons, we don't use PIPs at dbt Labs. We do, however, involve the People team in every single termination that occurs at the company to prevent unilateral decisions from being made by managers.
+        - Not every termination will be the result of a development plan, there are reasons we may opt to not use one.
+        - Additionally, not every development plan results in termination. Ideally, they are used to improve performance and grow the team member in a positive way.
         
     - **What is our preferred way of solving this problem?**
         
@@ -462,9 +456,9 @@ It is our goal to create an environment where receiving critical feedback is nor
 
 #### 3. A generous severance policy is in the best interests of the company, the team, and the terminated employee.
 
-Our goal is to have a top-of-market severance policy in terms of both cash and benefits. In the US, as of this writing, that looks like ~12 weeks of severance (cash) at your most recent annual base salary plus funds to cover your COBRA benefits for that duration (COBRA funds, if applicable, will be added into the severance check). Although subject to change without notice, it is currently our policy to give this to all employees terminated for performance reasons (not terminations for misconduct), subject to exceptions in unusual circumstances
+Our goal is to have a top-of-market severance policy in terms of both cash and benefits. In the US, as of this writing, that looks like up to a max of 12 weeks of severance (cash), dependent on tenure and termination circumstances, at your most recent annual base salary plus funds to cover your COBRA benefits for up to that same duration (COBRA funds, if applicable, will be added into the severance check). Although subject to change without notice, it is currently our policy to give this to all employees terminated for performance reasons (not terminations for misconduct), subject to exceptions in unusual circumstances
 
-There are two reasons for this why we think it is important to go above and beyond the industry standard of 2-4 weeks:
+There are two reasons for this why we think it is important to go above and beyond the industry standard of 2-4 weeks max:
 
 1. **We exist in an extremely fast-paced, high-rate-of-change environment.** In this type of environment, there is meaningful turbulence both for the organization and for its employees. Having a generous severance package buffers individuals from these effects and allows each of us to feel a degree of financial safety. Individuals lacking financial safety are [not able to be as creative or risk-tolerant](https://www.lse.ac.uk/business-and-consultancy/consulting/assets/documents/how-poverty-affects-peoples-decision-making-processes.pdf). This shouldn't be a surprise—you're simply not going to be your best self if you're worried about paying your bills. Having confidence that you'll be supported even through a termination process allows each of us to do our best work
 2. **We want employees to be able to think about the best interests of the company, even if that means their own employment relationship with the company would end.** It is a perhaps-counterintuitive outcome of our "We believe in moving up the stack" value that sometimes the right role for a person isn't with dbt Labs. We adopt an abundance mindset, and are confident that each of us can find the right role, whether at dbt Labs or elsewhere. This severance policy enables terminated employees the space to do just that.
