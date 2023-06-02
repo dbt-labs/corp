@@ -1,34 +1,32 @@
 ---
-id: working_and_growing_here
-title: Working and Growing Here
-sidebar_label: Working and Growing Here
+id: working_here
+title: Working Here
+sidebar_label: Working Here
 ---
 
 | Content Maintainers |
 |---|
-| Vanessa Yeh |
-| Morgan Russell |
-| Meg Colón |
-| Kimi Mashhoon |
 | Leigh Staub |
+| Meg Colón |
+| Morgan Russell |
 
 [Distributed Work Experience](#distributed-work-experience)
 
-[Embedded Roles](#embedded-roles)
-
-[International Relocation](#international-relocation)
-
-[Office Strategy](#office-strategy)
+[Regional Offices](#regional-offices)
 
 [Diversity, Equity and Inclusion](#diversity-equity-and-inclusion)
 
 [Conscientious Objection](#conscientious-objection)
 
+[Embedded Roles](#embedded-roles)
+
+[International Relocation](#international-relocation)
+
 ## Distributed Work Experience
 
 Learn how we think about the distributed experience.
 
-### 📘 First, let’s define some terms…
+#### 📘 First, let’s define some terms…
 
 - **Workplace Strategy:** Workplace strategy answers the question: “Where do we work that optimizes for effectiveness and efficiency?”. Possible answers include: fully distributed, hybrid, office-only.
 - **Asynchronous Work:** A way of working that does not require all team members to be online simultaneously. Asynchronous work is required for teams to function across multiple time zones. Often when we say “distributed work” we actually mean “distributed and asynchronous work” because our company is spread across many time zones globally. “Distributed” is commonly used as shorthand.
@@ -36,11 +34,11 @@ Learn how we think about the distributed experience.
 
 - **Distributed Work Experience (simply, "Distributed Experience"):** The employee experience specifically related to how work gets done in a distributed work environment. Communication, tools, processes and culture enable distributed work. The distributed experience could be liberating or constraining, agile or inflexible, fast or slow, equitable or inequitable. When you find yourself saying something like “I never know where to find information” you are making a comment about your personal distributed experience.
 
-### 🌐 What is our workplace strategy?
+#### 🌐 What is our workplace strategy?
 
 Our workplace strategy is **fully distributed**. This does not mean we won’t gather in person and won’t have office space. Instead, it means that the primary mode of getting work done assumes employees are not physically in the same location. We believe this is better for both our company and its employees.
 
-### ✨ What is our approach to support the distributed experience?
+#### ✨ What is our approach to support the distributed experience?
 
 A great distributed experience doesn’t just happen on its own. Employees have been working in offices for a *very long time* and have evolved norms of behavior for how work gets done. Distributed work is far newer. As a result, we can’t rely on a shared understanding of how to work effectively in this context. We must be extremely *intentional* about how the distributed experience is constructed. When done successfully, we are confident the distributed experience is more effective, enjoyable, and equitable than traditional office-based work.
 
@@ -50,7 +48,7 @@ A great distributed experience doesn’t just happen on its own. Employees have 
 - Investing in tooling and processes that support distributed work
 - Training everyone on how work gets done in a distributed work environment
 
-### 🤔 Why does the distributed experience matter?
+#### 🤔 Why does the distributed experience matter?
 
 Having a great distributed experience helps both our company and our employees. It also helps us live our values.
 
@@ -72,7 +70,7 @@ Having a great distributed experience helps both our company and our employees. 
     - **We work hard and go home:** With more time to focus during work, employees can fully unplug in their personal time.
     - **We are human:** Distributed work supports our employees’ fundamental human-ness. Without strict guidelines on when and where to work, employees experience a quality of life that aligns with their personal interests and values.
 
-### 🎗️ How does dbt Labs support distributed work?
+#### 🎗️ How does dbt Labs support distributed work?
 
 - **Workplace strategy**
     
@@ -100,11 +98,11 @@ Having a great distributed experience helps both our company and our employees. 
 - **Employee engagement**
     - We celebrate our unique human-ness and connect beyond business which makes for a welcoming work environment for all. We all get together in-person annually for a company kick-off and we leverage other tools for virtual connection throughout the year.
 
-### 🚧 How is distributed work actually conducted?
+### ⚙️ How We Work and Communicate
 
-This is a big and important topic. A remote work guide that answers this question is a focus in the coming quarters! As this comes together, we'll update this section with more robust content and link to resources and training.
+This is a big and important topic. A distributed work guide that answers this question is in progress [here](https://www.notion.so/dbtlabs/How-we-work-communicate-9f2b59845baa42209c0134bdb10dfa55) and is a focus in the coming quarters!
 
-### 🌟 What are the guiding principles for our distributed experience?
+### 🌟 Guiding Principles
 
 - **Trust and transparency:** We empower individuals and teams with openness and honesty while assuming positive intent.
 - **Intentional and explicit:** Our organizational practices and systems are designed with intention to support our distributed workforce. In a remote environment, social cues and cultural norms aren’t obvious. We are explicit with our communication to provide clarity and context for all.
@@ -130,6 +128,95 @@ dbt Labs
 915 Spring Garden St
 STE 500
 Philadelphia, PA 19123
+
+### Office Strategy
+
+#### Goals of our offices:
+
+1. **Support Community Development:** Establish an environment that embodies and amplifies dbt culture and values.  
+    1. Provide a space for teams to use for “on-sites”
+    2. Support in-person customer interactions
+2. **Drive Productivity:** Provide a space for local employees to work outside the home in lieu of Liquidspace rentals
+
+#### Our offices are NOT:
+
+1. **A place for local team members to collaborate**: meetings need to be inclusive of all team members.  ***In our perfect world, everyone in a meeting is in a Zoom or everyone in the meeting is in a room** (*even if it requires hopping on a plane).  
+2. **A marketing effort:**  Many companies use real estate as a status symbol and to amplify their brand awareness.  This is expensive and unrelated to our core workplace values (productivity, inclusivity, and community)
+3. **An incentive to work in person vs at home:** We believe the best talent can come from anywhere and support employees in choosing the home and office environment that best serves them. We will not spend money on excessive meal budgets and in-office perks to motivate employees to choose to come in the office vs work at home. 
+
+#### How & when we build offices?
+
+**How we choose where offices go:**
+
+1. **Proximity to team members**
+    1. Offices that are near existing concentrations of team members will get the highest utilization
+        1. Generally when there are >30 employees within 30 miles of a location we will begin evaluating a permanent space in that region
+    2. Offices near existing teams decreases travel spend, as a portion of the team will not need to travel for on-site events
+2. **Proximity to partners, customers and other external stakeholders**
+
+**How we determine office size?**
+
+1. Number of employees in the region and estimated growth - **This number is used to determine the number of desks / call rooms we need in the office.** 
+
+*Example:* 
+
+- Average lease term is 3-5 years, so we need to buy space to support the company for a minimum of the next 2 years of growth.
+- Currently we are approaching 30 employees w/in 30 miles of San Francisco who would potentially go into the office. Total company headcount growth is expected to grow at 100%+ for the next 2 years, so we want the office to scale to when the bay area team is ~120 people
+- If we assume that no more than 50% of employees are in the office on a given day, we would want an office that supports ~60 desks
+
+2. Scale of the organization as a whole, and the need for additional collaboration spaces - **This number is used to determine number of conference rooms/scale of those spaces**
+
+*Example:* 
+
+- Total number of team on-sites being hosted in the office per year
+- Average size of the team visiting the office
+- Number of external / customer meetings being held in the office
+
+**What is our target layout?*
+
+1. Conference room strategy:
+    -  Large rooms to support team on-sites- Optimize rooms to have Zoom Room with great remote collaboration technology so if an employee is unable to travel they can engage with the discussion on their screen
+    -  Smaller call rooms so employees can take meetings in a quiet space as needed
+    -  Few to zero offices / small breakout spaces to disincentivize in-person collaboration with partial teams
+2. Open floor plan with desks to support employees working outside their home as needed
+
+## Diversity, Equity and Inclusion
+
+We are committed to diversity, equity, and inclusion. DEI impacts high-level company decisions, and is woven into the culture of everyday work.
+
+We have three DEI committees dedicated to Team Diversity, Culture, and Company Stance and Action. Together, these committees make sure we build a diverse team, equitable company structures, and an environment that gives everyone the support and opportunities they need to thrive.
+
+Learn more [here](https://www.getdbt.com/dbt-labs/dei/).
+
+## Conscientious Objection
+
+**Conscientious objection is the right of an individual to withhold their labor.**
+
+Individual employees have the ability to opt out of working on a project or with a client that violates a deeply-held conviction.
+
+We each commit to bringing our whole self to work. Conscientious objection makes space for when a major part of our self conflicts with a major part of our work. 
+
+An example from [Tristan’s writing on this](https://docs.google.com/document/d/12nAw4podecG2JWNcslAMlakujmATzXdgkCbfwLPR0sI/view#):
+
+“We ask an employee, who happens to be vegan, to work closely with Tyson Foods. This employee does the work and does it well, but it’s a major engagement that takes ~a third of their time for many months. After a month, this employee becomes frustrated and starts to look for other jobs.
+
+The problem we’re trying to solve here is individual misery created by forcing someone to do work that violates a deeply-held conviction.”
+
+Conscientious objection applies when a high percentage of your time is directed towards a single client or project for a prolonged period (weeks or months). This will mostly apply to the pro-serv team, some SA and SD relationships, and some implementation engineering. 
+
+🗣️ **If your work conflicts with your deeply held beliefs, talk to your manager.**
+
+If you are assigned to a project or long-term relationship with a client that violates your deeply held beliefs, communicate to your manager that you want to be reassigned to a different project or client. Your manager must work in good faith to accommodate the request. If your work is going to make you miserable and hurt your soul, the whole team will suffer— it’s in everyone’s best interest to make a change. [Again, from Tristan](https://docs.google.com/document/d/12nAw4podecG2JWNcslAMlakujmATzXdgkCbfwLPR0sI/view#): 
+
+“This is not their direct report ‘not being a team player’—rather, it is their direct report optimizing for the long-term. Managers who fail to accommodate such requests risk having high-turnover teams, which will limit their own ability to be successful.”
+
+If you need additional support working with your manager to figure out an accommodation, you can reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
+
+🛠 **We can help find other solutions when conscientious objection doesn’t solve the problem**
+
+If work that conflicts with your deeply held beliefs is a regular and predictable part of your role rather than an exception, and your right to conscientious objection is impeding the team’s overall success, the best long-term solution may be to look for a role that’s a better fit. You can work with your manager and your People Business Partner to move towards a different role within the company that is more aligned with your personal values. 
+
+💡 You can see some of the discussion that led to this policy in [Working Document: Conscientious Objection](https://www.notion.so/Working-Document-Conscientious-Objection-31977f6aa61b447fabc4f5ac6a20f02f).
 
 ## Embedded Roles
 
@@ -261,21 +348,11 @@ Compensation bands for each country we have an entity in will be listed in our c
 5. We encourage team members to consult with a tax advisor to understand the implications of the move as it relates to tax and equity. 
     1. **Please remember that your compensation will be updated to reflect the local market you are moving to.**  
 
-### Short-Term Relocation
-
-📅 Generally, team members may live or work outside their permanent residence for an aggregate amount of 183 days (6 months) per year. However, the amount does depend on the particular country (or state) and what it considers to be a "resident" for tax purposes, as well as what it considers the tax year.
-
-Any work being done in a country where we do not have a current presence must be approved by security to ensure access to our systems remains secure. Please submit a ticket with IT prior to confirming your working arrangements in that country. 
-
-If a team member is considering spending more than **one month** in a location outside of your home country, please consult with your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) to ensure we are mitigating risks to the team member and the business. 
-
-Team members are expected to communicate with their manager and team to ensure they maintain agreed upon working hours.
-
-### Global Compensation & Benefits
+#### Global Compensation & Benefits
 
 Learn more about our [Compensation Principles](compensation.md#compensation-principles) and [Global Compensation and Benefits](compensation.md#global-compensation--benefits).
 
-### Equity
+#### Equity
 
 **ISO Options:**  If a team member chooses to relocate and holds ISO options, the number of options that are unvested will be converted to NSO options.  If the team member has options that vested as ISOs, they will be able to retain the ISO status.  When the team member relocates, the Equity team will cancel the existing ISO grant(s) and reissue NSO grant(s) for the unvested portion of the original grant within Carta.  The grant will retain all of the other original terms (strike price, vesting period, etc.)
 
@@ -285,95 +362,12 @@ Learn more about our [Compensation Principles](compensation.md#compensation-prin
 
 ‼️ **If there is a lapse in providing services to the Company, this will qualify as a termination and all unvested options will be canceled.  If a team member is rehired and resumes providing services to the Company, any grant associated with employment will need to go through the new hire process for equity.  This means that a team member would receive a new strike price, vesting period, etc.**
 
-## Office Strategy
+### Short-Term Relocation
 
-#### Goals of our offices:
+📅 Generally, team members may live or work outside their permanent residence for an aggregate amount of 183 days (6 months) per year. However, the amount does depend on the particular country (or state) and what it considers to be a "resident" for tax purposes, as well as what it considers the tax year.
 
-1. **Support Community Development:** Establish an environment that embodies and amplifies dbt culture and values.  
-    1. Provide a space for teams to use for “on-sites”
-    2. Support in-person customer interactions
-2. **Drive Productivity:** Provide a space for local employees to work outside the home in lieu of Liquidspace rentals
+Any work being done in a country where we do not have a current presence must be approved by security to ensure access to our systems remains secure. Please submit a ticket with IT prior to confirming your working arrangements in that country. 
 
-#### Our offices are NOT:
+If a team member is considering spending more than **one month** in a location outside of your home country, please consult with your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) to ensure we are mitigating risks to the team member and the business. 
 
-1. **A place for local team members to collaborate**: meetings need to be inclusive of all team members.  ***In our perfect world, everyone in a meeting is in a Zoom or everyone in the meeting is in a room** (*even if it requires hopping on a plane).  
-2. **A marketing effort:**  Many companies use real estate as a status symbol and to amplify their brand awareness.  This is expensive and unrelated to our core workplace values (productivity, inclusivity, and community)
-3. **An incentive to work in person vs at home:** We believe the best talent can come from anywhere and support employees in choosing the home and office environment that best serves them. We will not spend money on excessive meal budgets and in-office perks to motivate employees to choose to come in the office vs work at home. 
-
-#### How & when we build offices?
-
-**How we choose where offices go:**
-
-1. **Proximity to team members**
-    1. Offices that are near existing concentrations of team members will get the highest utilization
-        1. Generally when there are >30 employees within 30 miles of a location we will begin evaluating a permanent space in that region
-    2. Offices near existing teams decreases travel spend, as a portion of the team will not need to travel for on-site events
-2. **Proximity to partners, customers and other external stakeholders**
-
-**How we determine office size?**
-
-1. Number of employees in the region and estimated growth - **This number is used to determine the number of desks / call rooms we need in the office.** 
-
-*Example:* 
-
-- Average lease term is 3-5 years, so we need to buy space to support the company for a minimum of the next 2 years of growth.
-- Currently we are approaching 30 employees w/in 30 miles of San Francisco who would potentially go into the office. Total company headcount growth is expected to grow at 100%+ for the next 2 years, so we want the office to scale to when the bay area team is ~120 people
-- If we assume that no more than 50% of employees are in the office on a given day, we would want an office that supports ~60 desks
-
-2. Scale of the organization as a whole, and the need for additional collaboration spaces - **This number is used to determine number of conference rooms/scale of those spaces**
-
-*Example:* 
-
-- Total number of team on-sites being hosted in the office per year
-- Average size of the team visiting the office
-- Number of external / customer meetings being held in the office
-
-**What is our target layout?*
-
-1. Conference room strategy:
-    -  Large rooms to support team on-sites- Optimize rooms to have Zoom Room with great remote collaboration technology so if an employee is unable to travel they can engage with the discussion on their screen
-    -  Smaller call rooms so employees can take meetings in a quiet space as needed
-    -  Few to zero offices / small breakout spaces to disincentivize in-person collaboration with partial teams
-2. Open floor plan with desks to support employees working outside their home as needed
-
-### Regional Offices
-
-Learn more about our regional offices [here](#regional-offices).
-
-## Diversity, Equity and Inclusion
-
-We are committed to diversity, equity, and inclusion. DEI impacts high-level company decisions, and is woven into the culture of everyday work.
-
-We have three DEI committees dedicated to Team Diversity, Culture, and Company Stance and Action. Together, these committees make sure we build a diverse team, equitable company structures, and an environment that gives everyone the support and opportunities they need to thrive.
-
-Learn more [here](https://www.getdbt.com/dbt-labs/dei/).
-
-## Conscientious Objection
-
-**Conscientious objection is the right of an individual to withhold their labor.**
-
-Individual employees have the ability to opt out of working on a project or with a client that violates a deeply-held conviction.
-
-We each commit to bringing our whole self to work. Conscientious objection makes space for when a major part of our self conflicts with a major part of our work. 
-
-An example from [Tristan’s writing on this](https://docs.google.com/document/d/12nAw4podecG2JWNcslAMlakujmATzXdgkCbfwLPR0sI/view#):
-
-“We ask an employee, who happens to be vegan, to work closely with Tyson Foods. This employee does the work and does it well, but it’s a major engagement that takes ~a third of their time for many months. After a month, this employee becomes frustrated and starts to look for other jobs.
-
-The problem we’re trying to solve here is individual misery created by forcing someone to do work that violates a deeply-held conviction.”
-
-Conscientious objection applies when a high percentage of your time is directed towards a single client or project for a prolonged period (weeks or months). This will mostly apply to the pro-serv team, some SA and SD relationships, and some implementation engineering. 
-
-🗣️ **If your work conflicts with your deeply held beliefs, talk to your manager.**
-
-If you are assigned to a project or long-term relationship with a client that violates your deeply held beliefs, communicate to your manager that you want to be reassigned to a different project or client. Your manager must work in good faith to accommodate the request. If your work is going to make you miserable and hurt your soul, the whole team will suffer— it’s in everyone’s best interest to make a change. [Again, from Tristan](https://docs.google.com/document/d/12nAw4podecG2JWNcslAMlakujmATzXdgkCbfwLPR0sI/view#): 
-
-“This is not their direct report ‘not being a team player’—rather, it is their direct report optimizing for the long-term. Managers who fail to accommodate such requests risk having high-turnover teams, which will limit their own ability to be successful.”
-
-If you need additional support working with your manager to figure out an accommodation, you can reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
-
-🛠 **We can help find other solutions when conscientious objection doesn’t solve the problem**
-
-If work that conflicts with your deeply held beliefs is a regular and predictable part of your role rather than an exception, and your right to conscientious objection is impeding the team’s overall success, the best long-term solution may be to look for a role that’s a better fit. You can work with your manager and your People Business Partner to move towards a different role within the company that is more aligned with your personal values. 
-
-💡 You can see some of the discussion that led to this policy in [Working Document: Conscientious Objection](https://www.notion.so/Working-Document-Conscientious-Objection-31977f6aa61b447fabc4f5ac6a20f02f).
+Team members are expected to communicate with their manager and team to ensure they maintain agreed upon working hours.
