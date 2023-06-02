@@ -6,7 +6,7 @@ We maintain our handbook publicly in GitHub and also host it on a website: [http
 
 You may notice that some links aren't accessible to everyone. This is because we link to internal documentation like detailed how-to guides to supplement our handbook information.
 
-## Suggeting Improvements
+## Suggesting Improvements
 
 Want to suggest an improvement to our handbook? Go for it— employees can make a PR or submit a ticket to #people-support.
 
