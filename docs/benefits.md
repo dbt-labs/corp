@@ -37,7 +37,7 @@ sidebar_label: Benefits and Perks
 
 ### Benefits Strategy & Philosophy
 
-As dbt Labs continues to grow and expand around the world, we believe it’s important to outline our strategy and philosophy around global benefits. The following points are guiding principles that we strive towards and will drive the decision-making around our benefits both domestically and abroad.
+As a global company, below are our guiding principles that we strive towards. They will drive the decision-making around our benefits both domestically and abroad.
 
 - We strive to provide benefits that are both locally relevant and competitive
     - Each Country’s benefits will differ based on local normals and local competition for benefits.
@@ -45,7 +45,7 @@ As dbt Labs continues to grow and expand around the world, we believe it’s imp
     - If local teams aren’t large enough to begin group plans, we’ll provide monthly stipends to cover core benefits (Medical, Vision & Dental - where applicable)
 - Values aligned: We are Human → Although we may not be able to implement every benefit or offering we understand that we bring our whole selves to work and we want to hear and respond to feedback
 
-### How does this apply today?
+#### How does this apply today?
 
 Today our global team falls into one of two buckets. 
 
@@ -412,7 +412,7 @@ Working from home does not work for everyone. Employees receive a monthly benefi
 
 🖐️  In-person / outside the home workplace benefits must not compromise remote employees’ ability to collaborate. Please keep in mind that the main goal of this benefit is to enhance your personal work environment. If you choose to collaborate in a co-working space with co-workers, you are mindful that everyone who needs to be involved in a conversation is.  If your project/collaboration can be accomplished over zoom or asynchronously, then it should be done that way to avoid excluding others. 
 
-### Frequently Asked Questions
+### FAQs
 
 #### What is Liquidspace and how do I use it?
 
