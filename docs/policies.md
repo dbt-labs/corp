@@ -397,7 +397,7 @@ It is our goal to create an environment where receiving critical feedback is nor
         
         One possible solution to this is for the People team to introduce a formalized process that managers need to go through in order to terminate an employee. This is often known as a "PIP"—performance improvement plan—and it typically plays out over the course of 30-90 days. Because the process is run by the People team, there is a level of assurance that the manager cannot act exclusively on their own authority.
         
-        The PIP, though, has negative connotations, often from companies misusing them and stories that no one 'survives' a PIP. We feel that they can be used differently and have introduced [Development Plans](https://www.notion.so/dbtlabs/How-we-Develop-Talent-at-dbt-Labs-9807ce052b50414da4f8298215f22b57) into the manager's toolbox. 
+        The PIP, though, has negative connotations, often from companies misusing them and stories that no one 'survives' a PIP. We feel that they can be used differently and have introduced [Development Plans](https://www.notion.so/dbtlabs/How-We-Develop-Talent-at-dbt-Labs-5f5e2a6b54b5428d93c0c991ecd923e9) into the manager's toolbox. 
         - Not every termination will be the result of a development plan, there are reasons we may opt to not use one.
         - Additionally, not every development plan results in termination. Ideally, they are used to improve performance and grow the team member in a positive way.
         
