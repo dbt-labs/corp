@@ -41,7 +41,7 @@ This Code is subject to change at any time at dbt Labs’ sole discretion. This 
 If you have any questions concerning this Code, or are unsure about appropriate conduct in a situation, we encourage employees to consult their manager or their [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f). For non-employees, contact legal@dbtlabs.com. 
 
 **If you suspect that a crime or a violation of the Code has been committed by dbt Labs, another employee or even a visitor or client, please immediately report your concerns to the company.** 
-- To do so, contact your manager, [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f) or you may also report your concerns utilizing our [Anonymous Hotline](benefits.md#anonymous-hotline).
+- To do so, contact your manager, [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f) or you may also report your concerns utilizing our [Anonymous Hotline](getting_support.md#anonymous-hotline).
 
 We are committed to preventing any occurrences of unethical or unlawful behavior, and to halting any unethical or unlawful behavior that may occur as soon as reasonably possible after discovery. We are also committed to promptly investigating reported concerns in a prompt manner and taking appropriate remedial action. Investigations and reports will be treated as confidential to the extent feasible and permitted by law. Violation of this Code or applicable laws or regulations may result in disciplinary action up to and including immediate termination of employment.
 
@@ -264,8 +264,6 @@ Lastly, moonlighting is not an excusable reason for lesser or poor performance f
 Thanks to all our employees whose energy and commitment makes dbt Labs and the larger community a better place!
 
 ## Computer Refresh Policy
-
-[Notin reference](https://www.notion.so/dbtlabs/Computer-Refresh-Policy-3fe1d7a0dbe94c87b75069a2bb684cb2?pvs=4)
 
 All new hires are given a company-owned laptop (a new or like-new MacBook Pro with specs determined based on role)- please **do not** use personal computers to perform company business. 
 
