@@ -176,6 +176,8 @@ While an overview of how you are doing in your role is an *element* of the revie
 
 It should be a dedicated conversation around topics you normally might not be able to get to or dive in deep during your regular check-ins.
 
+We support development, and there is a [development tool](https://www.notion.so/dbtlabs/How-We-Develop-Talent-at-dbt-Labs-5f5e2a6b54b5428d93c0c991ecd923e9) we have available for managers and employees to utilize.
+
 Ideally, nothing written or discussed in your performance review should be a surprise. Our expectation is immediate and consistent feedback is given throughout the year and not only during review season. So why have reviews if we’re expected to give consistent feedback? For many reasons, these more official checkpoints in the year help us with accountability to summarize that feedback, give us moments to pause and appreciate wins together, and sets aside dedicated spotlight to development conversations.
 
 #### Schedule & Time Commitment
