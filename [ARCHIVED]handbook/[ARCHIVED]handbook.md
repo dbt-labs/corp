@@ -1,3 +1,6 @@
+
+This is an archived version of our employee handbook, find the new version [here](https://github.com/dbt-labs/handbook/blob/main/docs/about_dbt_labs.md) or on this [website](https://handbook.getdbt.com/docs/about_dbt_labs).
+
 # The dbt Labs Employee Handbook
 
 ## Welcome to dbt Labs
