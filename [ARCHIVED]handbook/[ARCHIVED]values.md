@@ -1,5 +1,5 @@
 
-This is an old version of our values and is being maintain for historical purposes. Find the current version [here](https://github.com/dbt-labs/handbook/blob/main/docs/values.md).
+This is an old version of our values and is maintained for historical purposes. Find the current version [here](https://github.com/dbt-labs/handbook/blob/main/docs/values.md).
 
 
 
