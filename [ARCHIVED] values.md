@@ -1,3 +1,9 @@
+
+This is an old version of our values and is being maintain for historical purposes. Find the current version [here](https://github.com/dbt-labs/handbook/blob/main/docs/values.md).
+
+
+
+
 ### We are a mission-driven company.
 
 We believe that profits are an important tool in the pursuit of our mission, but they are not the mission itself.
