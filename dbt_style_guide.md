@@ -21,26 +21,27 @@ See [Model Layers](#model-layers) for more information.
 - The following are the DAG stages that we tend to utilize:
   <details>
 
-  <summary>Common</summary>
+  <summary>Common</summary><br>
 
     | dag_stage | Typically found in | description                                                        |
     |-----------|--------------------|--------------------------------------------------------------------|
-    | seed_     | /seeds             | <li> Indicates a data set created from `dbt seed`. |
-    | stg_      | /models/staging    | <li> Indicates a data set that is being cleaned and standardized. </li><li> In absence of a base_ layer, it represents the 1:1 relationship between the source and first layer of models. </li> |                                                                                                           |
-    | int_      | /models/marts      | <li> Indicates a logical step towards creating a final data set. </li><li>Typically used for:</li><ul><li>Breaking up a very large fct_ or dim_ model into smaller pieces to reduce complexity</li><li>Creating a reusable data set to reference in multiple downstream fct_ and dim_ models</li></ul> |
-    | dim_      | /models/marts      | <li> Flags data which is used to describe an entity. </li><li> Indicates a final data which is robust, versatile, and ready for consumption. </li> |
-    | fct_      | /models/marts      | <li> Flags data which is in the form of numeric facts observed during measurement events. </li><li> Indicates a final data which is robust, versatile, and ready for consumption. </li> |
+    | seed_     | /seeds             | <ul><li> Indicates a data set created from `dbt seed`.</li></ul> |
+    | stg_      | /models/staging    | <ul><li> Indicates a data set that is being cleaned and standardized. </li><li> In absence of a base_ layer, it represents the 1:1 relationship between the source and first layer of models. </li></ul></ul> |                                                                                                           |
+    | int_      | /models/marts      | <ul><li> Indicates a logical step towards creating a final data set. </li><li>Typically used for:</li><ul><li>Breaking up a very large fct_ or dim_ model into smaller pieces to reduce complexity</li><li>Creating a reusable data set to reference in multiple downstream fct_ and dim_ models</li></ul></ul> |
+    | dim_      | /models/marts      | <ul><li> Flags data which is used to describe an entity. </li><li> Indicates a final data which is robust, versatile, and ready for consumption. </li></ul> |
+    | fct_      | /models/marts      | <ul><li> Flags data which is in the form of numeric facts observed during measurement events. </li><li> Indicates a final data which is robust, versatile, and ready for consumption. </li></ul> |
+    | export_   | /models/export     | <ul><li> Indicates that a data set has been modeled to be exported to a operational system such as an HRIS, planning tool, or CRM. </li></ul> |
   
   </details>
 
   <details>
 
-  <summary>Uncommon</summary>
+  <summary>Uncommon</summary><br>
 
     | dag_stage | Typically found in | description                                                        |
     |-----------|--------------------|--------------------------------------------------------------------|
-    | base_     | /models/staging    | <li> Indicates cleaning and standardization on a data set before joining to other data sets in `stg_` models.<li> Typically used when multiple sources are rarely used independently. <br/><br/> <strong><em>Example</strong></em>: <br>Location data in our org is seldom used partially, so we want to create one cleaned data set which puts it all together. <br/><br/> <em>Step 1</em>: Models to clean and standardize each data set:<br/><ul><li>base_location__addresses.sql</li><li>base_location__countries.sql</li><li>base_location__states.sql</li></ul><br/><em>Step 2</em>: A model to join all location data as one entity for use in downstream modeling:<ul><li>stg_location__locations.sql</li></ul> |
-    | report_   | /models/reports    | Indicates that a final data sets are being modeled to pre-aggregate reports for use in outside tooling.                                                                                                                    |
+    | base_     | /models/staging    | <ul><li> Indicates cleaning and standardization on a data set before joining to other data sets in `stg_` models.<li> Typically used when multiple sources are rarely used independently. <br/><br/> <strong><em>Example</strong></em>: <br>Location data in our org is seldom used partially, so we want to create one cleaned data set which puts it all together. <br/><br/> <em>Step 1</em>: Models to clean and standardize each data set:<br/><ul><li>base_location__addresses.sql</li><li>base_location__countries.sql</li><li>base_location__states.sql</li></ul><br/><em>Step 2</em>: A model to join all location data as one entity for use in downstream modeling:<ul><li>stg_location__locations.sql</li></ul></ul> |
+    | report_   | /models/reports    | <ul><li>Indicates that a final data sets are being modeled to pre-aggregate reports for use in outside tooling. </li></ul> |                                                                                                                   |
 
   </details>
 
@@ -55,6 +56,7 @@ See [Model Layers](#model-layers) for more information.
 - All models should use the naming convention `<type/dag_stage>_<source/topic>__<additional_context>`. See [this article](https://docs.getdbt.com/blog/stakeholder-friendly-model-names) for more information.
   - For models in the **marts** folder `__<additional_context>` is optional. 
   - Models in the **staging** folder should use the source's name as the `<source/topic>` and the entity name as the `additional_context`.
+  - Models in the **export** folder should use the destination's name as the `<source/topic>`.
 
     Examples:
     - seed_snowflake_spend.csv
@@ -63,6 +65,7 @@ See [Model Layers](#model-layers) for more information.
     - stg_salesforce__customers.sql
     - int_customers__unioned.sql
     - fct_orders.sql
+    - export_notion__employee_directory.sql
 
 - Schema, table and column names should be in `snake_case`.
 
@@ -114,6 +117,11 @@ See [Model Layers](#model-layers) for more information.
   Example: `is_active_customer` and `has_admin_access`
 
 - Price/revenue fields should be in decimal currency (e.g. `19.99` for $19.99; many app databases store prices as integers in cents). If non-decimal currency is used, indicate this with suffix, e.g. `price_in_cents`.
+
+- Slowly changing dimension models
+  - Use the field naming conventions of `valid_from` and 'valid_to' to specify the start date and end dates for a record in a slowly changing dimension model, respectively.
+  - Use the `future_proof_date` variable to define the 'valid_to' field for the current record 
+  - Add a `is_current` boolean field to specify the current record    
 
 - Avoid using reserved words (such as [these](https://docs.snowflake.com/en/sql-reference/reserved-keywords.html) for Snowflake) as column names.
 
