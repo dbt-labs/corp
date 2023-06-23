@@ -77,7 +77,7 @@ Having a great distributed experience helps both our company and our employees. 
     A distributed workforce doesn’t just mean working from home. We realize that different people thrive in different settings. As a result, we offer benefits to support people in finding the right work setup for them and ensuring they are equipped for success:
     
     - **[Office stipend:](benefits.md#office-stipend)** New employees receive $1,500 USD (or local equivalent) to spend in their first year to set up their home office and purchase equipment to comfortably work their preferred location. Each year after, employees receive $400 USD (or local equivalent) to support their remote work setup.
-    - **[Workspace rental:](benefits.md#workplace-rental)** Working from home does not work for everyone. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
+    - **[Workspace rental:](benefits.md#workplace-rental)** Working from home does not work for everyone, all the time. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
     - **[Regional offices:](#regional-offices)** In regions with high employee count, dbt Labs has office space to support async-first collaboration and promote our culture and values when teams meet onsite. Designed with intention, these spaces are not used to incentivize local collaboration but instead support community development and foster connection with cross-functional teams during onsites.
 - **Global [comp](compensation.md#global-compensation-and-benefits) & [benefits](benefits.md#global-benefits-strategy--stipend)**
     
@@ -150,7 +150,7 @@ Philadelphia, PA 19123
 
 1. **Proximity to team members**
     1. Offices that are near existing concentrations of team members will get the highest utilization
-        1. Generally when there are >30 employees within 30 miles of a location we will begin evaluating a permanent space in that region
+        1. Generally when there are >30 employees within 30 miles of a location we will begin evaluating the efficacy of a permanent space in that region
     2. Offices near existing teams decreases travel spend, as a portion of the team will not need to travel for on-site events
 2. **Proximity to partners, customers and other external stakeholders**
 
@@ -220,99 +220,25 @@ If work that conflicts with your deeply held beliefs is a regular and predictabl
 
 ## Embedded Roles
 
-#### Why organizational design is hard
+#### What is an embedded team member
 
-Here’s a scenario: the marketing team at *Company X* needs access to a data analyst to help with marketing analytics. *Company X* already has a centralized data team, but that team reports to the CFO and generally focuses on finance, company strategy, and board reporting. It’s hard for marketing leadership to get their requests prioritized in the queue, and as a result they’re getting far less data support than they require.
+An embedded team or team member is one that reports into their traditional functional group but works on a roadmap driven by and supporting another function that they are embedded into (the ‘embed team’). 
 
-**There are three things that the marketing team could do:**
+ - For example, the Web Engineering team reports into the engineering function, that is the best place for their career trajectories; but their roadmap is built in collaboration with the marketing team, given their work is mostly on our external-facing marketing sites. 
 
-1. Make a direct hire: Hire a data analyst to sit on the marketing team.
-2. Hire on the data team and expand overall bandwidth: Encourage the data team to hire a new data analyst so that the team’s overall bandwidth increases and more marketing projects could get prioritized.
-3. Hire on the data team and embed in the marketing team: Encourage the data team to hire a new data analyst and then embed that analyst on the marketing team.
+The embedded model is distinctly different than the business partner model. The business partner model works to disseminate their functional roadmap (people, finance, etc.) into different areas of the org rather than drive forward the roadmap of the team or function they are partnered with.
 
-It might not actually be clear whether there is a right answer, but there is: it’s #3. I feel incredibly confident about this for a couple of reasons: 
-a) I’ve personally witnessed companies who have attempted to do #1 and #2 and there are universally very poor outcomes, and 
-b) this is the model that the entire modern analytics practice is moving towards. 
+**When would we use an embedded model?**
 
-**Let’s explore why #1 and #2 don’t work and why #3 does work.***
+The embedded model is increasingly rare given some of the challenges created in management and communication for the embedded team member(s). 
 
-**1. Make a direct hire**
-
-This is a bad idea for several reasons:
-
-1. Marketing doesn’t know how to evaluate the skills of a world-class data analyst. Inevitably, marketers are not as strong in their data skills as pure data professionals, so it will be hard to evaluate candidates and there is a risk that they won’t be able to choose the right candidate from a pool.
-2. World-class data people want to work with other world-class data people. By defining the role in this way, the team is biasing towards candidates who are not world-class.
-3. Marketers are poorly-suited to mentor and develop data professionals. The career paths are not aligned, and there is no ability to provide skills-focused development.
-
-Here’s what actually happens when a team chooses this path:
-
-- They hire a less experienced or less skilled data analyst.
-- That team member doesn’t build skills at the rate that they want or that the team would need. As such, the marketing team is still under-served relative to their initial need.
-- There ends up being a local marketing-data-fiefdom that only this analyst knows how to work on. This leads to a low “bus factor” and leaves the marketing function at risk.
-- The data analyst eventually quits due to lack of career progression and the marketing team has a big problem on their hands.
-
-We’ve seen this occur time and time again. Often in the past we have been brought in as consultants to help extricate companies from these types of situations and it is never pleasant.
-
-**2.Hire on the data team and expand overall bandwidth**
-
-This is also a bad idea. The core problem with it is that it is too idealistic. It assumes that the reason the data team isn’t prioritizing marketing requests is really purely one of bandwidth, and if the bandwidth problem is solved then it will go away. [This is not true](https://en.wikipedia.org/wiki/Induced_demand).
-
-The problem is actually one of prioritization. The charter of the data team in this scenario is finance / strategy / governance. This is why the CFO started the team and why it continues to report up to them. The CFO likely meets weekly with the data team lead, does their performance reviews, and heavily influences their thinking about what’s important and what isn’t. Plus, if a new analyst were hired, all of their team members have deep knowledge of the existing set of problems but very little knowledge about marketing problems—this will further exert gravity towards having the team continue to focus on the problems it knows how to solve.
-
-This doesn’t happen because of *malintent*, it is simply an outcome of the fact that the team originally grew up in the finance org. It lacks the connective tissue with marketing to effectively serve this team as a first-class customer.
-
-**3. Hire on the data team and embed in the marketing team**
-
-This solution has a bunch of challenges to *making it work*, but if an organization can solve them, it is by far the highest-functioning option. Here’s how it works:
-
-- Marketing leadership allocates a data analyst headcount to their hiring plan, working with the data team to make sure that leveling and compensation are appropriate for the work needed.
-- Data hires a new analyst. This new hire may be allocated to marketing, or may backfill an existing analyst who would then be allocated to marketing.
-- The marketing analyst works with the marketing organization to set a roadmap of priorities, and works with the data team to determine the implementation strategy for these priorities. Outputs are reviewed by the marketing team and code is reviewed by the data team. Both teams make a good-faith effort to consider the others’ needs as the ongoing balance between quality and speed is figured out.
-- The embedded marketing analyst goes to team meetings for both the marketing team and the data team. Quarterly reviews for this analyst are conducted by leadership on both the data and marketing teams.
+That being said, the embed model is successful when the work that the embed function needs from the embedded team is not aligned with the work of the traditional function.
 
 **Here’s why this approach is superior:**
 
-1. It enables world-class data professionals to interview, onboard, collaborate with, and manage other world-class data professionals. This leads to better hiring decisions, better skills mentoring, better career development, and overall happier team members that then stick around for longer.
-2. It enables embedded analysts to build expertise in and empathy for the problem domain.
-3. It ensures that the marketing team actually gets the bandwidth they originally needed.
-
-There is a clear cost to this approach: it makes management within a given department more challenging. For example, if the engineering department houses a front-end engineer and an implementation engineer, what teams (platform / experience) do those individuals report to? Also: staying informed about an embedded team member’s performance is harder for their direct manager.
-
-In the immediate term we don’t believe that these challenges should prevent us from moving forward with the embedded approach, but we do want to be cognizant of them and monitor these potential breaking points as the team scales.
-
-#### Data is a great example, but this problem isn’t exclusive to data
-
-Any specific area of expertise tends to work in this way. Marketing and product both need design resources yet there shouldn’t be two design teams. Marketing and engineering both need front-end development resources. Everyone needs data. Sales needs engineering resources (implementation engineers!). Soon we plan on hiring internal “ops” people who work on customizing our business systems like our CRM, support platform, and marketing operations platform.
-
-All of these roles are similar in that they require specific functional expertise and need to work closely with multiple departments throughout the company.
-
-#### Why doesn’t everyone do it this way?
-
-Because it conflicts with how most organizations are run.
-
-At traditional organizations, leaders are held accountable to metrics and get budget allocated to their departments to move those metrics. The budget a leader has allocated to them determines how likely they are to achieve their goals. And given that continued employment and incentive-based compensation are highly aligned with leaders’ ability to hit their goals, there is tremendous pressure to “not share your legos”. Any dollar I share with you is one less dollar I can spend to hit my own goal, after all.
-
-In my role running marketing at RJMetrics, this was on clear display. I had a lead goal that I was held accountable to as my sole determinant of success. As such, I deprioritized every aspect of marketing that wasn’t related to generating new leads. I didn’t share my legos.
-
-At the time, this felt completely natural. The marketing function existed to generate leads and so it was my job to do that as well as I could. Saying no to other priorities was actually part of what was hard about the job, and it was important for me to not allow “mission creep” to set in.
-
-But when everyone in the organization thought like this, it led to a tremendous amount of local optimization. We had best-in-class functional organizations, but we were completely unable to do anything that didn’t fall neatly into a single functional organization.
-
-Conventional wisdom is to manage departmental leaders in exactly this way. This goes back to Taylorism / Fordism in the early 20th century, and it’s something that is still widely practiced. This is one of the reasons that large / traditional organizations become fantastically well-oiled machines to do some particular process well (i.e. build an internal combustion engine car) but find it incredibly hard to *change* (i.e., build an electric car): their org structures are hierarchical and lack flexibility.
-
-#### How we want to do this differently
-
-This problem has been something that I’ve been hyper-focused on since starting Fishtown Analytics (former name of dbt Labs). I saw the negative impacts of this previously and wanted to steer hard in the opposite direction. Connor and Drew and I have focused on building a culture that emphasizes cross-departmental collaboration since the very beginning, and when we’ve hired or promoted people into leadership roles we’ve heavily focused on people who are wired to be collaborative.
-
-As a result, we’ve had notable successes on this front in our short life as a company: the dbt community and dbt Learn are both programs that live in a highly cross-functional space. It’s a tremendous credit to everyone involved in these programs for operating in a zone of some level of ambiguity.
-
-But even with this success, it’s naive to assume that just “hiring collaborative people” is an answer to a systems problem. Ultimately, we’re all products of the systems we inhabit, and we have to design those systems well in order to get the outcomes we want. Here are my suggestions to continue to keep Fishtown Analytics focused on cross-departmental collaboration over the long run:
-
-- **Establish clear cross-departmental budgetary mechanisms.** For example, make a clear mechanism whereby marketing can allocate budget for a data analyst hire that will ultimately live on the data team. Note that this needs to handle the scenario where multiple departments want to contribute a % of an FTE towards a single full-time hire.
-- **Minimize executive compensation that is tied to anything but overall equity value.** We don’t have to remove incentive-based compensation that is tied to specific metrics altogether, but it should always be a distant personal priority for every executive when weighed against the success of the overall business.
-- **Create a new company value: “We share our legos.”** Culture is one of the biggest tools we have to shape behavior, and our values are the best tool we have for shaping culture.
-- **Answer the [hard questions](#questions-to-ask) about cross-departmental roles up-front.** 
-- **Abolish fiefdoms.** Kill the idea that departmental strategy is set and budgets are allocated at the sole discretion of the leader of that department. All leaders can weigh in on the strategic choices and budgets of other departments, and these concerns need to be addressed prior to moving ahead with the proposed plans. Use the OKR-setting process to make sure that goals are aligned across different departments.
+1. It enables world-class professionals to interview, onboard, collaborate with, and manage other world-class professionals. This leads to better hiring decisions, better skills mentoring, better career development, and overall happier team members that then stick around for longer.
+2. It enables embedded teams and team members to build expertise in and empathy for the problem domain.
+3. It ensures that the the embed team actually gets the bandwidth and skills they need to reach their goals.
 
 ### Questions to Ask
 
@@ -327,7 +253,7 @@ But even with this success, it’s naive to assume that just “hiring collabora
 
 ## International Relocation 
 
-📌 All international relocation (Permanent or Semi-permanent) requests must be approved by the People team, Finance team and the team members management. To initiate a request, please contact your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
+📌 All international relocation (Permanent or Semi-permanent) requests must be approved by the People team, Finance team and the team members' management. To initiate a request, please contact your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
 
 📌 Relocation requests within one's existing country may need approval by the team member's management due to time zone or regional requirements. Please communicate with your manager if you plan a move to a different region in your country.
 
@@ -346,7 +272,7 @@ Compensation bands for each country we have an entity in will be listed in our c
 3. Team members must obtain their own work authorization to work in the country they are moving to. For moves initiated by the team member, dbt Labs will not cover expenses for work authorization. 
 4. If a move is initiated by a team member, we will not cover any relocation or living expenses. 
 5. We encourage team members to consult with a tax advisor to understand the implications of the move as it relates to tax and equity. 
-    1. **Please remember that your compensation will be updated to reflect the local market you are moving to.**  
+    1. **Please remember that your compensation will be updated to reflect the local country-level market you are moving to.**  
 
 #### Global Compensation & Benefits
 
@@ -354,7 +280,7 @@ Learn more about our [Compensation Principles](compensation.md#compensation-prin
 
 #### Equity
 
-**ISO Options:**  If a team member chooses to relocate and holds ISO options, the number of options that are unvested will be converted to NSO options.  If the team member has options that vested as ISOs, they will be able to retain the ISO status.  When the team member relocates, the Equity team will cancel the existing ISO grant(s) and reissue NSO grant(s) for the unvested portion of the original grant within Carta.  The grant will retain all of the other original terms (strike price, vesting period, etc.)
+**ISO Options:**  If a team member chooses to relocate outside of the United States and holds ISO options, the number of options that are unvested will be converted to NSO options.  If the team member has options that vested as ISOs, they will be able to retain the ISO status.  When the team member relocates, the Equity team will cancel the existing ISO grant(s) and reissue NSO grant(s) for the unvested portion of the original grant within Carta.  The grant will retain all of the other original terms (strike price, vesting period, etc.)
 
 **NSO options:**  If a team member chooses to relocate and holds NSO options, nothing will change.
 
