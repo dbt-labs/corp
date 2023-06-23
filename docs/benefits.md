@@ -455,6 +455,7 @@ LiquidSpace is available in many countries as well. If there is not a space near
 - $364.86 NZD
 - $234.17 CHF
 - $318.38 CAD
+- 2596.05 SEK
 
 Learn more about how to use LiquidSpace to book larger meeting spaces [here](https://www.notion.so/dbtlabs/Booking-Larger-Meeting-Spaces-083779ac7ddb4845b81d07e03680cfa7?pvs=4).
 
