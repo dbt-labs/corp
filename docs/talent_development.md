@@ -60,7 +60,7 @@ Because of the relationship between performance, and compensation/ promotions, t
 **Meetings**
 
 - **IC reviews**: managers to repurpose a 1:1 meeting in June
-- **People manager reviews**: people managers are scheduled with a third person nominated by their manager. Their managers are responsible for finding time that works for everyone, ideally, the third person can be added into a 1:1 meeting in June.
+- **People manager reviews**: people managers are scheduled with a third person nominated by their manager, most commonly the team member's skip-level manager. Their managers are responsible for finding time that works for everyone, ideally, the third person can be added into a 1:1 meeting in June.
 
 **Time commitment estimation:**
 
@@ -84,7 +84,7 @@ Because of the relationship between performance, and compensation/ promotions, t
 
 **Meetings**
 
-- ICs to repurpose a 1:1 meeting at the end of July
+- Include in a 1:1 meeting at the end of July
     - Folks know, based on their start date in their role, whether or not they are eligible and can prepare to have a compensation discussion with their manager.
 
 **Time commitment estimation:**
@@ -114,7 +114,7 @@ Because of the relationship between performance, and compensation/ promotions, t
 **Meetings**
 
 - **IC reviews**: managers to repurpose a 1:1 meeting in December
-- **People manager reviews**: people managers are scheduled with a third person. Managers are responsible for finding time that works for everyone, ideally, the third person can be added into a 1:1 meeting in December.
+- **People manager reviews**: people managers are scheduled with a third person, most commonly the team member's skip-level manager. Managers are responsible for finding time that works for everyone, ideally, the third person can be added into a 1:1 meeting in December.
 
 **Time commitment estimation:**
 
@@ -139,7 +139,7 @@ Because of the relationship between performance, and compensation/ promotions, t
 
 **Meetings**
 
-- ICs to repurpose a 1:1 meeting at the end of January
+- Include in a 1:1 meeting at the end of January
     - Folks know, based on their start date in their role, whether or not they are eligible and can prepare to have a compensation discussion with their manager.
 
 **Time commitment estimation:**
@@ -170,15 +170,15 @@ The performance review consists of a self reflection, peer feedback (optional), 
 
 #### Purpose
 
-ℹ️ We believe in a continuous feedback culture at dbt Labs. The bi-annual performance reviews are meant to be an intentional check-in to ensure everyone is on track with regards to their development and growth path. You should also know very clearly how you are performing in your current role at the end of the review cycle.
+ℹ️ We believe in a continuous feedback culture at dbt Labs. The bi-annual performance reviews are meant to be an intentional check-in to ensure everyone is on track with regards to their development and growth path. You should also know, very clearly, how you are performing in your current role at the end of the review cycle.
 
 While an overview of how you are doing in your role is an *element* of the review meeting, it’s also an opportunity for us to learn about what aspects of the role you enjoy the most and how you would like to see your career grow.
 
-It should be a dedicated conversation around topics you normally might not be able to get to or dive in deep during your regular check-ins.
+It should be a dedicated conversation around topics you might not be able to get to or dive in deep during your regular check-ins.
 
 We support development, and there is a [development tool](https://www.notion.so/dbtlabs/How-We-Develop-Talent-at-dbt-Labs-5f5e2a6b54b5428d93c0c991ecd923e9) we have available for managers and employees to utilize.
 
-Ideally, nothing written or discussed in your performance review should be a surprise. Our expectation is immediate and consistent feedback is given throughout the year and not only during review season. So why have reviews if we’re expected to give consistent feedback? For many reasons, these more official checkpoints in the year help us with accountability to summarize that feedback, give us moments to pause and appreciate wins together, and sets aside dedicated spotlight to development conversations.
+Ideally, nothing written or discussed in your performance review is a surprise. Our expectation is immediate and consistent feedback is given throughout the year and not only during review season. So why have reviews if we’re expected to give consistent feedback? For many reasons, these more official checkpoints in the year help us with accountability, to summarize that feedback, give us moments to pause and appreciate wins together, and sets aside dedicated spotlight to development conversations.
 
 #### Schedule & Time Commitment
 
@@ -191,9 +191,9 @@ Learn more about the schedule and logistics for our reviews [here](#schedule--lo
 - reviews are shared with each team member (please share the written reviews 1 day before the scheduled review meeting), and;
 - review meetings happens within the designated month
 
-For ICs: this meeting will just be you and your manager (ideally you’re just expanding an existing 1:1 to talk about reviews).
+For ICs: this meeting will just be you and your manager (ideally, you’re just expanding an existing 1:1 to talk about reviews).
 
-For People Managers: the meeting will consist of you, your manager, and your skip-level manager. For those extremely cross-functional or embedded, sometimes this might be a leader that is not your skip level.
+For People Managers: the meeting will consist of you, your manager, and, most likely, your skip-level manager. For those extremely cross-functional or embedded, sometimes this might be a leader that is not your skip level.
     - The reason we do this is because we want to ensure your manager development and growth is supported by your management chain.
     - If your work is more cross functional (i.e. you’re embedded on another team), the leader from the other function might be the most suitable to join you and your manager in your performance review.
 
@@ -246,11 +246,11 @@ If you know you’re going to be out of the office when the review cycle opens (
 
 #### Calibration
 
-ℹ️ Calibration sessions are held with department leaders and their People Business Partner. These sessions should happen after reviews are written and before any meetings or feedback is shared with the team member.
+ℹ️ Calibration sessions are held with department leaders and their People Business Partner. These sessions happen after reviews are written and before any meetings or feedback is shared with the team member.
 
 The objective of calibration sessions is to ensure that different managers apply similar standards in measuring and evaluating the performance of our team. All team members get a fair and objective performance evaluation. 
 
-1. **Increase review accuracy.** Unfortunately, one manager’s idea of a top performer might differ wildly from another’s - a difference that can dramatically hurt one team and help another. This is because come promotion and raise time, one manager’s team will have a significant leg up while the other’s chances will suffer. Calibration ensures reviews are more consistent and accurate.
+1. **Increase review accuracy.** Unfortunately, one manager’s idea of a top performer might differ wildly from another’s - a difference that can dramatically hurt one team and help another. This is a risk because, come promotion and raise time, one manager’s team will have a significant leg up while the other’s chances will suffer. Calibration ensures reviews are more consistent and accurate.
 2. **Properly acknowledge and reward high performance.** Once the bar is set, managers can evaluate employees with more certainty and ensure everyone on their team gets the recognition and reward they deserve.
 3. **Reduce bias.** When managers rate their direct reports in a vacuum, they can only compare their direct reports to other teammates or their own idea of what performance should be. Without a calibration discussion, a manager might let unconscious bias influence their decisions and prevent specific reports from receiving a fair review.
 
@@ -320,7 +320,7 @@ As a general rule, team members are eligible for a promotion if they meet a 1 ye
 
 In order to request a promotion, the manager is responsible for gathering:
 
-➡️ We recommend gathering this feedback through 1:1 conversations and compiling the notes to include in your “formal” packet.
+➡️ We recommend gathering this feedback through 1:1 conversations and performance review feedback and compiling the notes to include in your “formal” packet.
 
 1️⃣ at least 1 current peer review, providing feedback at their current level over, at least, the last 6 months, 
 
