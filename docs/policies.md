@@ -401,7 +401,7 @@ It is our goal to create an environment where receiving critical feedback is nor
         - Not every termination will be the result of a development plan, there are reasons we may opt to not use one.
         - Additionally, not every development plan results in termination. Ideally, they are used to improve performance and grow the team member in a positive way.
         
-    - **Other ways we address xsew32 this problem?**
+    - **Other ways we address this problem?**
         
         When framing this problem in terms of a mismatch between accountability and impact, it becomes more clear what good potential solutions are. The question decomposes down into two distinct sub-questions: 
         
