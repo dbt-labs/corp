@@ -59,9 +59,7 @@ Note that because in the United States, your time off is not accrued, you will n
 
 For international employees, see [below]([#-international-considerations-for-accrued-time-and-pay-out-upon-termination-with-the-company) for respective details.
 
-#### 💪 Best practices for being out of the office
-
-ADP has a limitation at the moment, where teams cannot see each other’s time-off requests. 
+#### 💪 Best practices for being out of the office 
 
 1️⃣ We recommend that after your time off request has been approved, to note you will be “Out of Office” on your Google Calendar (and make this event public so people can see).
 
@@ -69,7 +67,7 @@ Google Calendar also has an “Out of Office” feature where they can auto-decl
 
 Additionally, some teams may have team time off calendars within Google Calendar. Talk to your manager if this is something your team has; you may be asked to make your out of office dates visible here to help create visibility with your teammates. 
 
-2️⃣ Update your Slack status to out of office. 
+2️⃣ Update your Slack status to out of office, see tips [here](https://www.notion.so/dbtlabs/How-to-Slack-805c4284f1004ff39daa18cf564e02dc?pvs=4#ae7b15500281418aad995902ef5a6e8a). 
 
 3️⃣ Set up an “out of office” auto response to your email for the dates you will be out, and clearly indicate who someone should contact instead.
 
