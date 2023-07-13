@@ -27,7 +27,7 @@ sidebar_label: Compensation
 
 ## Compensation Principles
 
-Learn more about how we think about compensation at dbt Labs. Below are our compensation principles which we reference when making all compensation decisions.
+Below are our compensation principles which we reference when making all compensation decisions.
 
 ### The Why
 
@@ -78,7 +78,7 @@ If you have a specific question around your compensation, one of your direct rep
 [^2]: This helps to ensure that candidates have aligned expectations when starting an interview process with us and helps the offer stage tremendously.
 [^3]: This is a public commitment to candidates who have not yet seen a demonstration of how we live our values.
 [^4]: At a minimum 1x/year, but also when certain events occur. For example, fundraising events have historically caused us to need to update our comp bands.
-[^5]: We leverage data from Radford, Mercer, Carta, Pave and Options Impact.
+[^5]: We leverage data from Radford, Mercer, Pave and Options Impact.
 [^6]: ISOs are specifically US-based because they are an outcome of US tax law.
 
 ## Pay Day
@@ -102,11 +102,13 @@ Learn more about the steps to pursue a relocation and the impact on your global 
 
 #### Compensation Philosophy / Salary Band Structures
 
-As mentioned in our [Compensation Principles](#compensation-principles), we use 75th Percentile as the basis for the midpoint as well as using a consistent range spread based on job level. We continue to use industry specific data as well as targeting all country data sets. This allows us to build consistency in bands and makes the bands slightly wider. With this methodology, most of our bands' minimums may stretch down to the 50th percentile and the maximum’s push slightly past the 90th percentile. This allows further flexibility and utilization of an entire range for a role.
+As mentioned in our [Compensation Principles](#compensation-principles), we use 75th Percentile* as the basis for the midpoint as well as using a consistent range spread based on job level. We continue to use industry-specific data within local 'all country' data sets. This allows us to create consistency in bands across the organization. With this methodology, most of our bands' minimums stretch down to the 50th percentile and the maximum’s push slightly past the 90th percentile. This allows further flexibility and utilization of an entire range for a role. 
+    
+    *The 75th percentile means that the salary data meets or exceeds 75% of data points for that role and level.
 
 ##### Consistent Band Spreads
     
-These indicate the % from the midpoint used to get the high and low points of each band. The spread increases as the roles become more senior because more senior roles may be career-roles, where folks will remain and therefore require more room for growth in the band.
+These indicate the % from the midpoint used to get the high and low points of each band. The spread increases as the roles become more senior because more senior roles may be career-roles, where folks will remain for a long period of time, potentially the rest of their career, and therefore require more room for growth in the band.
 - Ex. L1 with a midpoint (75th percentile) of $100,000 will have a range of $90,000 - $110,000; L5 with a midpoint (75th percentile) of $200,000 will have a range of $170,000 - $230,000.
     
 | Level 	| Band Spread 	|
@@ -123,11 +125,11 @@ These indicate the % from the midpoint used to get the high and low points of ea
 
 #### Increased Data points
 
-As dbt Labs has continued to grow, so has our need for more robust data sources to further develop and benchmark our compensation structure to. This is a common next step as we continue to mature and evolve our compensation benchmarking practices. After evaluating a handful of data sources, we found that using a combination of the following datasets creates a solid and diverse base to build our updated ranges from (Radford, Mercer, Pave, Carta and Options Impact).
+As dbt Labs has continued to grow, so has our need for more robust data sources to further develop and benchmark our compensation structure. This is a common next step as we continue to mature and evolve our compensation benchmarking practices. After evaluating a handful of data sources, we have decided to use a combination of Radford, Mercer, Pave and Options Impact to create a robust and diverse base to build our salary ranges from.
 
-We believe that with more data we can better target more specific roles[^7] within dbt Labs as well as better navigate data outliers that are a result of low counts of specific data points (ex. Small or insufficient # of companies/employees reporting salaries for a specific role & level).
+We believe that with more data we can better target more specific roles[^7] within dbt Labs and will allow us to better navigate data outliers that are a result of low counts of specific data points (ex. Small or insufficient # of companies/employees reporting salaries for a specific role & level).
 
-Another common practice in salary band development is to assess and utilize data based on the quality and veracity of that data set. While we believe that each of the sources we are using has its own merit for use, we have chosen to use a weighting structure to develop the midpoint of our ranges instead of using a straight average. This allows us to better index on data sources like Radford and Mercer which are considered a ‘Gold standard’ data sets within the compensation community. 
+Another common practice in salary band development is to assess and utilize data based on the quality and veracity of that data set. While we believe that each of the sources we are using has its own merit for use, we have chosen to use a weighted structure to develop the midpoint of our ranges instead of using a straight average. This allows us to better index on data sources like Radford and Mercer which are considered a ‘Gold standard’ data sets within the compensation community. 
 
 #### Data Sources & Weighted Average Approach
 
@@ -139,28 +141,28 @@ Another common practice in salary band development is to assess and utilize data
 | OI | 10% | All US - Tech → Raised $250M - $500M | Total Target Pay - 75th Percentile | Options Impacts data is reported via survey submission and matching from companies. Options impact has been the data that we anchored our bands to historically and continues to give exposure to to similar tech companies but as we've grown and matured it is limited in the levels, descriptions and quantity of data for other companies that we would consider peers. This data cut is Tech (enterprise) companies that have raised over $250 Million in capital and all US. Additionally this creates a layer of continuity in salary survey use but is weighted to 10% due to its limited leveling and matching data points. |
 | Carta | 10% | All Data → San Francisco-Oakland-Berkeley, CA  | Salary data - 75th Percentile  *Not used for variable comp roles since OTE isn’t reflected in the data | Carta Data is sourced directly from employers HRIS systems and matched based on their internal job title system structure. Their data does not cut to an all US as is our practice for data cuts so have aligned this market point with CA, Bay Area salaries. We are including this source as this data will be sourced from start ups which will continue to give direct exposure to similar start up companies. We discounted this data and gave it a 10% weighting due to the lack of All US approach / other data sifting that we would want. Lastly, Carta's data isn't overtly robust in terms of incumbents as well as depth of different matches. |
 
-Additionally, we outlined the step by step process of how we go from raw data to a refined salary band for roles as well as the additional synthesis and analysis of the data.
+Additionally, we outlined the step by step process around our process to form raw data into a refined salary band for roles.
 
 
-[^7]: Specific Roles - Both Radford and Mercer have 100+ different jobs / roles that we can match to which allows us to get more specific with the roles and duties to ensure that our role bands are developed using the most correlated data and skill set. This is vital to ensure we aren’t over or under targeting pay for roles that have been lumped into 1 large bucket.
+[^7]: Specific Roles - Both Radford and Mercer have 100+ different jobs / roles that we can match to which allows us to get more specific with the roles and duties to ensure that our role bands are developed using the most correlated data and skill set. This is vital to ensure we aren’t over or under targeting pay for roles that have been lumped into 1 large, potentially vague, bucket.
 
 ### Salary Bands Overview
 
-Salary bands in their simplest form is the compensation range for a given role within an organization. These ranges are built and developed using market data that allows companies to benchmark their roles compared to others in their industry. The market data used is a direct reflection of a company's compensation strategy and philosophy as it determines how competitive they will be in attracting and retaining talent. We build our salary bands using tech specific data as well, using the 75th Percentile as the basis or target of our ranges (In short, this ensures that we are competing with other tech companies and that our pay should meet or exceed 75% of other companies for similar roles and levels).
+A salary band, in its simplest form, is the compensation range for a given role within an organization. 
 
 Learn more about how our salary bands are made [here](#how-salary-bands-are-made).
 
 #### What ranges are built?
 
-Our salary range databases are meant to include all roles we currently have or are planning to hire, +/- one level. It is not a comprehensive database of every role we will ever hire; plans may even change mid-year and we may hire roles that are not on here (at which point, they will be added).
+Our salary range database is meant to include all roles we currently have or are planning to hire in the next fiscal year, +/- one level. It is not a comprehensive database of every role we will ever hire; plans may even change mid-year and we may add a role that we don't have a salary range for today. If that happens, we will create a salary band prior to kicking off the search. 
 
 #### How often will bands get updated?
 
-Salary bands are reviewed and updated on an annual basis during Q4 with a Q1 effective date. We will review specific roles / functions should the ‘market’ shift significantly and require ad-hoc reviews and changes (example that could trigger an ad-hoc review -  resources and research conducted by the Total Rewards team, Talent Acquisition's ability to hire and fill roles, consistent candidate/ internal retention feedback).
+Salary bands are reviewed and updated on an annual basis during Q4 with a Q1 effective date. Additionally, we will review specific roles / functions should the ‘market’ shift significantly and require an ad-hoc review and potential changes (examples that could trigger an ad-hoc review -  resources and research conducted by the Total Rewards team, Talent Acquisition's ability to hire and fill roles, consistent candidate/ internal retention feedback).
 
 #### What is OTE and why do some roles have it?
 
-Some roles have a note about OTE which means ‘on target earnings’. This means that in order to make that salary, these folks need to meet 100% of their revenue goals / metrics. Folks that have ‘OTE’ next to their comp band have ‘risk’ associated with their total cash compensation. Part of that number is base salary and the rest in variable compensation (commission) tied to revenue goals. Total rewards uses data to identify common roles that have commission eligibility as well as will work with leaders to establish any new roles that could be commission eligible.
+Some roles have a note about OTE which means ‘on target earnings’. This means that in order to make that total salary, these folks need to meet 100% of their goals / metrics; this is most common for revenue generating roles. Team members that are on ‘OTE’ have additional risk associated with their total cash compensation. A portion of that number is base salary and the rest is variable compensation (commission) tied to goals. Total rewards uses data to identify common roles that have commission eligibility and works with leaders to establish any new roles that could be commission eligible.
 
 **The breakdowns for our teams are:**
 
@@ -172,7 +174,7 @@ Some roles have a note about OTE which means ‘on target earnings’. This mean
 
 #### Roles & Levels
 
-The first step in building salary bands is determining all planned and existing roles. Roles describe a career path that has a common set of core responsibilities and duties within a given field of work. Levels then are used to further extrapolate the progression of expertise, complexity and scope of a role. While we offer a more robust framework regarding levels, for simplicity you can reference the title structure below as a generalized progression.
+The first step in building salary bands is determining all planned and existing roles. Roles describe a linear career path that has a common set of core responsibilities and duties within a given field of work (ie, Software Engineer). Levels then are used to further extrapolate the progression of expertise, complexity and scope of a specific job (ie, Software Engineer 1). While we offer a more robust framework regarding levels, for simplicity you can reference the title structure below as a generalized progression.
 
 1. Entry-level / Associate
 2. Developing
@@ -184,7 +186,7 @@ The first step in building salary bands is determining all planned and existing 
 
 ### How Salary Bands are Made
 
-📌 Compensation & salary band development is both an art and a science and we strive to leverage data and best practice to develop bands that will allow us to both attract and retain talent. The science is the clear process of developing and selecting data to produce a target market percentage. The art is the sifting through the nuances of this imperfect data to ensure that career progression as well as cross company comparisons align.
+📌 Compensation & salary band development is both an art and a science. We strive to leverage data and best practices to develop bands that will allow us to both attract and retain top talent. The science is the clear process of developing and selecting data to produce a target market percentage. The art is sifting through the nuances of this imperfect data to ensure that career progression and cross-company comparisons align.
 
 #### Process of Developing Salary Bands
 
@@ -192,38 +194,38 @@ The first step in building salary bands is determining all planned and existing 
 
 1. Develop a comprehensive list of roles[^8] & levels that the team or organization has or will need in the next 12 months. 
 2. Review and select the most appropriate market match for each role across each data set.
-    1. OI, Carta & Pave - Match based on Job titles lists & mini descriptions. Due to smaller data sets, data is matched more into functional buckets & titles
+    1. OI & Pave - Match based on Job titles & mini descriptions. Due to smaller data sets, data is matched more into functional buckets & titles
     2. Mercer & Radford - Match based on robust descriptions that have a much wider breadth of options and distinctions.
-3. Once jobs have been matched to the “best[^9]” match with the data, we used our [weighted average approach](#data-sources--weighted-average-approach) across the 5 data points to arrive at a “raw” recommended midpoint.
-4. We then developed the bands by rounding the raw midpoint to nearest $1,000 for simplicity of consumption and used our standardized salary band spread approach to build out the mininimum and maximum from the midpoint. Learn more about our [consistent band spreads](#consistent-band-spreads).
+3. Once jobs have been matched to the “best[^9]” match with the data, we used our [weighted average approach](#data-sources--weighted-average-approach) across the four data points to arrive at a “raw” recommended midpoint.
+4. We then developed the bands by rounding the raw midpoint to nearest $1,000 for simplicity and used our standardized salary band spread approach to build out the mininimum and maximum from the midpoint. Learn more about our [consistent band spreads](#consistent-band-spreads).
 
 **The Art**
 
 1. Review data points by role to identify and remove any egregious outliers[^10].
-2. Review the progression of data of a survey within a career path to identify any cross level compression that is skewing the data and expected progression (ex. L5 data > L6 data)
-3. Review and analyze the updated Midpoints compared to previous Bands to see and understand the $ & % difference to ensure these changes in bands ‘make sense’ based on our updated data.
+2. Review the progression of data from the survey within a career path to identify any cross level compression that is skewing the data and, in turn, expected progression (ex. L5 data > L6 data)
+3. Review and analyze the updated midpoints compared to previous Bands to see and understand the $ & % difference and ensure these changes in bands ‘make sense’ based on our updated data.
 
-[^8]: Roles - Each functional area of the business has ‘buckets’ of work / responsibilities that are assigned various roles on the team. Different roles are developed to ensure the salary band and market data is the most appropriate to benchmark to. Additional roles are recommended if roles are more than 30% different this may be a different role in terms of ‘market value’ based on the role, duties and required skill set
-[^9]: “Best” - When matching our internal roles against built descriptions within each data set, we frequently find that an 80% match
-[^10]: Removing data outliers is a pretty standard and common practice once you start involving multiple data sources to help prevent outlier data from skewing the average due to small incumbent counts being reported
+[^8]: Roles - Each functional area of the business has ‘buckets’ of work / responsibilities that are assigned various roles on the team. Different roles are developed to ensure the salary band and market data is the most appropriate to benchmark to. Additional roles are recommended if roles are more than 30% different in skills and responsibilities. 
+[^9]: “Best” - When matching our internal roles against built descriptions within each data set, we frequently find that an 80% match is strong enough to trust the data.
+[^10]: Removing data outliers is a pretty standard and common practice once you start involving multiple data sources to help prevent outlier data from skewing the average due to small incumbent counts being reported.
 
 ### International Salary Bands Overview
 
 #### Global Pay Practice
 
-We localize all compensation ranges at a company level using the same methodologies based on the specific country's local market. This practice and decision becomes increasingly important as companies scale and grow globally, especially when considering the all encompassing Total Rewards Strategy which is a blend of monetary and nonmonetary rewards (countries have differences in government provided healthcare, pension plan requirement ranges, cost of labor based on market data and cost of living). This means each country has nuances that must be considered when creating a total rewards offerings. We consistently leverage various data sources and reports as well as external consultants to help ensure we are leveraging ‘best practices’ as our foundation to build upon.
+We localize all compensation ranges at a company level using the same methodologies based on the specific country's local market. This practice and decision becomes increasingly important as companies scale and grow globally, especially when considering the all encompassing Total Rewards Strategy which is a blend of monetary and nonmonetary rewards. Countries have a variety of differences in government provided healthcare, pension plan requirement ranges, and cost of labor based on market data and cost of living; this means each country has nuances that must be considered when creating a total rewards offerings. We consistently leverage various data sources and reports as well as external consultants to help ensure we are leveraging ‘best practices’ as our foundation to build upon.
 
 #### FAQs about International Pay
 
 **- How are international salary bands built differently from US bands?**
 
-The same practice, process and philosophy is used to build all salary bands. We use the 75th percentile of the data within each country and use an all cash compensation to ensure we are paying above average and above 74% of other companies in that country based on the associated data set. The core difference between international salary bands and US salary bands is that many of the survey sources do not have a robust repository of international data which required us to use [Mercer - Comptryx](https://www.imercer.com/products/comptryx) as the sole data point at this time. While Mercer is a gold standard, we will be adding additional data sets to help further build out the available data sets globally.
+The same practice, process and philosophy is used to build all salary bands. We use the 75th percentile of the data within each country and use an all cash compensation to ensure we are paying above average and at or above 75% of other companies in that country based on the associated data set. The core difference between international salary bands and US salary bands is that many of our survey sources do not have a robust repository of international data which requires us to use [Mercer - Comptryx](https://www.imercer.com/products/comptryx) as the sole data providor at this time. While Mercer is a gold standard, we will add additional data sets to help further build out the available data sets globally.
 
 **- Why don’t we pay US salary everywhere?**
 
 While there are a lot of factors taken into consideration, there are 2 main reasons.
 
-1. Best Practice - It's largely seen as best practice to make this shift as companies mature and grow globally. The main reason is because the total reward strategy and compensation mix. As companies grow international, it becomes more apparent that each country has its own unique labor market (ie: Salaries), benefit coverage/requirements, retirement plans, taxes, cost of living etc. Because of this, we target consistency in our approach to be locally competitive. We will continue to build our ranges using the 75th Percentile as the anchor point for cash comp and leverage international benefits brokers and feedback for locally relevant coverage.
+1. Best Practice - It's largely seen as best practice to make this shift as companies mature and grow globally. As companies grow international, it becomes more apparent that each country has its own unique labor market (ie: Salaries), benefit coverage/requirements, retirement plans, taxes, cost of living etc. Because of this, we target consistency in our approach to be locally competitive. We will continue to build our ranges using the 75th Percentile as the anchor point for cash compensation and leverage international benefits brokers and feedback for locally relevant coverage.
 2. [Golden Handcuffs](https://www.inhersight.com/blog/salary/golden-handcuffs) - This can be a major concern when considering the long term implications for an individual that feels ‘[stuck](https://www.linkedin.com/pulse/menace-golden-handcuffs-tomas-kucera/)’ with a company or role due to higher than market salary, benefits or equity. 
 
 **- You mention the total rewards strategy includes a blend of monetary(compensation) and non-monetary rewards(benefits). How do we know we are actually competitive?**
@@ -237,7 +239,7 @@ You can find more information in [Global Benefits Strategy & Stipend](benefits.m
 
 **- Is hiring in lower cost of labor locations fair / equitable?**
 
-Hiring globally is a business and people decision that has many factors attached to it, from total cost, talent density, business need (sales presence, locale expertise etc). While we grow and expand into various countries we hold true to our [values](values.md) and our [Compensation Principles](#compensation-principles) to ensure we are rewarding people in a locally competitive, relevant and equitable way.
+Hiring globally is a business and people decision that has many factors attached to it, from total cost, talent density, business need (sales presence, local expertise, etc). While we grow and expand into various countries we hold true to our [values](values.md) and our [Compensation Principles](#compensation-principles) to ensure we are rewarding people in a locally competitive, relevant and equitable way.
 
 ### Salary Bands FY24
 
@@ -248,7 +250,7 @@ All dbt Labs employees have access to our salary bands.
 
 ## Equity
 
-We believe that employee ownership is a way for employees to share in the success of the company. As such, we issue stock options as part of most employees' compensation packages.
+We believe that employee ownership is a way for employees to share in the success of the company. As such, we issue stock options as part of all full-time employees' compensation packages.
 
 If equity and stock options are a brand new concept for you and you'd like to learn more about the general concepts, check out these resources:
 
@@ -265,7 +267,7 @@ This guide is meant to help you understand the piece of dbt Labs that you’re g
 
 We want all employees to act with the financial interests of the company in mind. There is no better way to align incentives in this way than to give everyone a financial stake in the company. Granting ownership in a company via a stock option is common practice in high-growth businesses for exactly this reason.
 
-We *do not*, however, see equity as a way to "bridge the gap" to below-market cash compensation. This is fairly standard practice at early-stage businesses (seed and prior)—because companies at this stage are extremely cash-poor, they offer employees minimal cash-based compensation and instead offer very large option grants to "make up the difference" with equity. dbt Labs is at a stage where we pay market rates in the cash component of our compensation packages, and so we encourage employees to think of equity upside as an amazing potential outcome but not a primary reason to take a job here.
+We *do not*, however, see equity as a way to "bridge the gap" to below-market cash compensation. This is fairly standard practice at early-stage businesses (seed and prior)—because companies at this stage are extremely cash-poor, they offer employees minimal cash-based compensation and instead offer very large option grants to "make up the difference" with equity. dbt Labs is at a stage where we pay top market rates in the cash component of our compensation packages, and so we encourage employees to think of equity upside as an amazing potential outcome but not a primary reason to take a job here.
 
 💡 All startups are risky, and the value of any particular option grant (at dbt Labs or elsewhere!) could go to zero. Our [compensation principles](#compensation-principles) ensure that employees are well-compensated (via the cash and other components of their package) even in such a scenario.
 
@@ -274,8 +276,8 @@ We *do not*, however, see equity as a way to "bridge the gap" to below-market ca
 There are generally 3 reasons or scenarios that will result in a grant - 
 
 1. New Hire Grants: All new hires will be eligible for an equity grant based on the level of the job they are hired into.
-2. Promotion Grants: As employees progress in their role within dbt Labs, promotion grants equal to 50% of a new hire grant of the job level they are moving into and will be given to employees for their increased contribution and growth with dbt Labs.
-3. Refresh Grants: Refresh grants are designed to refresh employees’ stock options as shares vest over time. These grants are generally awarded after an employee has been with dbt Labs for 2 years and will be eligible for a 25% of new hire grant of their current job level in conjunction with additional eligibility requirements.
+2. Promotion Grants: As employees progress in their role within dbt Labs, promotion grants equal to 50% of a new hire grant of the job level they are moving into will be awarded to employees for their increased contribution and growth with dbt Labs.
+3. Refresh Grants: Refresh grants are designed to refresh employees’ stock options as shares vest over time. These grants are generally awarded after an employee has been with dbt Labs for 2 years, at which time they are eligible for up to 25% of new hire grant of their current job level in conjunction with additional eligibility requirements.
 
 You can find the current equity information and more detailed information about each of these grant types [here](https://www.notion.so/dbtlabs/Equity-Bands-9e74a108170b4674aea4fdb6829038a5?pvs=4).
 
@@ -313,7 +315,7 @@ Dilution happens to all companies as they issue new equity over time. For exampl
 - **Grant Date**: The grant date is the date that the board approves the grant. Your grant date will almost always be after your vesting date.
 - **Vesting Date**: The vesting date will generally align to either your hire date (for new hire grants) or your promotion or review date (for refresh or promotion grants). This is when your vesting schedule starts.  If the grant date occurs after your vesting date, that does not change your vesting date.
 - **Exercise Window:** If you leave the company and have ISOs you will have 90 days to exercise your option for any shares that are vested (from the last day of service). For NSOs, you will have 180 days to exercise your options for any shares that are vested (from the last day of service).
-    - As of December 8, 2021, dbt Labs extending the exercise window to 5 years from termination. Please see this [update](https://www.notion.so/dbtlabs/Employee-Option-Update-e915ac846d2e4982b272dfa6e39eefe6?pvs=4) for details. **If you have an ISO and elect not to exercise your option in the 90-day period, it will convert to an NSO.**
+    - As of December 8, 2021, for those that leave after at least 2 years of service to the company, dbt Labs has extended the exercise window to 5 years from termination . Please see this [update](https://www.notion.so/dbtlabs/Employee-Option-Update-e915ac846d2e4982b272dfa6e39eefe6?pvs=4) for details. **If you have an ISO and elect not to exercise your option in the 90-day period, it will convert to an NSO.**
 - **Option Expiration:** If not otherwise expired (through termination of your employment and not exercising within the exercise period), your stock options expire 10 years after the grant date.
 
 #### Taxes

@@ -40,7 +40,7 @@ This Code is subject to change at any time at dbt Labs’ sole discretion. This 
 
 If you have any questions concerning this Code, or are unsure about appropriate conduct in a situation, we encourage employees to consult their manager or their [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f). For non-employees, contact legal@dbtlabs.com. 
 
-**If you suspect that a crime or a violation of the Code has been committed by dbt Labs, another employee or even a visitor or client, please immediately report your concerns to the company.** 
+**If you suspect that a crime or a violation of the Code has been committed by dbt Labs, another employee or a visitor or client, please immediately report your concerns to the company.** 
 - To do so, contact your manager, [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f) or you may also report your concerns utilizing our [Anonymous Hotline](getting_support.md#anonymous-hotline).
 
 We are committed to preventing any occurrences of unethical or unlawful behavior, and to halting any unethical or unlawful behavior that may occur as soon as reasonably possible after discovery. We are also committed to promptly investigating reported concerns in a prompt manner and taking appropriate remedial action. Investigations and reports will be treated as confidential to the extent feasible and permitted by law. Violation of this Code or applicable laws or regulations may result in disciplinary action up to and including immediate termination of employment.
@@ -55,7 +55,7 @@ dbt Labs will endeavor to accommodate the sincere religious beliefs of its emplo
 
 ### Anti-Harassment and Discrimination Policy
 
-It is the policy of dbt Labs to provide a work environment free from all forms of discrimination, including sexual harassment and harassment based on any protected status. dbt Labs is committed to the elimination of all harassment and discrimination in the workplace and will not tolerate the harassment of our employees, whether by an employee, customer, vendor, business partner or guest.
+It is the policy of dbt Labs to provide a work environment free from all forms of discrimination, including sexual harassment and harassment based on any protected status. dbt Labs is committed to the elimination of all harassment and discrimination in the workplace and will not tolerate the harassment of our employees, whether by another employee, customer, vendor, business partner or guest.
 
 Discrimination includes, but is not limited to: making any employment decision or employment-related action on the basis of any of the protected classes listed above. Harassment is generally defined as unwelcome verbal or nonverbal conduct, based upon a person’s protected characteristic, that denigrates or shows hostility or aversion toward the person because of the characteristic, and which affects the person’s employment opportunities or benefits, has the purpose or effect of unreasonably interfering with the person’s work performance, or has the purpose or effect of creating an intimidating, hostile or offensive working environment.
 
@@ -130,7 +130,7 @@ _**The Robinson-Patman Act**_ The Robinson-Patman Act is concerned with discrimi
 
 ### Environment
 
-We preserve and protect the environment. Because our fully-distributed workforce does not commute to offices, we reduce our carbon footprint daily. Recycling obsolete equipment is another key initiative we’ve undertaken. We are committed to finding more ways to utilize sustainable energy, source “green” products, and prioritize reuse and recycle initiatives. We encourage employees to suggest more ways of protecting and preserving the environment.
+We preserve and protect the environment. Because our fully-distributed workforce does not commute to offices, we reduce our carbon footprint daily and we recycle obsolete equipment. We are committed to finding more ways to utilize sustainable energy, source “green” products, and prioritize reuse and recycle initiatives. We encourage employees to suggest more ways of protecting and preserving the environment.
 
 ### Workplace Health and Safety
 
@@ -142,13 +142,13 @@ dbt Labs intends to comply with all health and safety laws applicable to our bus
 
 We are committed to taking all steps possible to prevent employee harassment. Anti-harassment training and policies are either highly recommended or mandated in most countries to guarantee a basic right to be free from bias and harassment within the workplace. We aim to provide best-in-class training and clear policies that support a healthy workplace culture.
 
-All employees must be trained once per year, regardless of position within the company, however, the training course you will be assigned will be determined based on your location and whether you are a people manager or not.
+All employees must be trained once per year, regardless of position within the company. The training course you will be assigned will be determined based on your location and whether you are a people manager or not.
 
 Learn more about our policy within our [Code of Conduct](#anti-harassment-and-discrimination-policy) and check out answers to [FAQs](https://www.notion.so/dbtlabs/dbt-Labs-Anti-Harassment-Training-FAQs-8a6975b746bd4747a3ed6b2633ed56ce?pvs=4) about the training.
 
 ## Your Personnel File
 
-We appreciate that you entrust us with personal information like your address and telephone number. We record it in your personnel file. Please help us keep your file as up-to-date as possible. Submit a [#people-support ticket](https://www.notion.so/dbtlabs/How-to-Ask-a-People-Question-a17443c3b92346b185ca4b4c266497df?pvs=4#420e082679eb4c77b62d576411f9b76d) to share of relevant information changes, for instance:
+We appreciate that you entrust us with personal information like your address and telephone number, we keep the record of it in your personnel file. Please help us keep your file as up-to-date as possible. Submit a [#people-support ticket](https://www.notion.so/dbtlabs/How-to-Ask-a-People-Question-a17443c3b92346b185ca4b4c266497df?pvs=4#420e082679eb4c77b62d576411f9b76d) to share of relevant information changes, for instance:
 
 - any newly acquired specialized training or skills
 - changes to visas (if required for your work)
@@ -291,7 +291,7 @@ There are a lot of ways to end any relationship, and we want employment relation
 
 ### Types of Terminations
 
-There are generally speaking three types of terminations:
+There are, generally speaking, three types of terminations:
 
 1. Layoffs and business-needs based terminations:
 Layoffs typically happen due to economic circumstances. The most common reason a company does layoffs is if it underperforms its financial plan. And there are situations where the needs of the business change and old roles are eliminated or new skill sets are needed. Both of these situations can lead to terminations that are unrelated to the performance of the individual employee.
@@ -312,7 +312,7 @@ We typically refer to ourselves as a team and to individuals as team members. Th
 
 We also typically would use language like "let go" instead of the more harsh "terminated." While this softer language reflects the actual emotions experienced by people throughout the organization when a termination occurs, the word "termination" is the more specific, well-defined way to refer to this event and so is used here.
 
-As a result of these language choices, this document can feel a bit cold and inhuman. That's not the intent—the intent is to have a clear, honest, transparent conversation about the topic at hand. Given that, using unambiguous language is important.
+As a result of these language choices, this document can feel a bit cold and inhuman. That's not the intent; the intent is to have a clear, honest, transparent conversation about the topic at hand. Given that, using unambiguous language is important.
 
 ### Performance-Related Terminations
 
@@ -362,7 +362,7 @@ None of these questions are singly determinative, but they are each useful lense
 
 One of the questions that a termination always brings up for any team is, "If I were about to be terminated, would I know?"  Our goal is to have the answer to this be as close to 100% as possible. **Having an open dialogue about performance between a manager and an employee is the most important part of performance management.** 
 
-Our company-wide investment in quarterly reviews, 1-on-1s, and feedback training demonstrates just how much we care about establishing strong feedback. This feedback is the bedrock on which we have created, and are continuing to create, a high-performing team.
+Our company-wide investment in bi-annual performance reviews, 1-on-1s, and feedback training demonstrates just how much we care about establishing strong feedback. This feedback is the bedrock on which we have created, and are continuing to create, a high-performing team.
 
 Important to note is that it is both *hard and important* for a manager to directly link a conversation about critical feedback to potential future termination. Sentences like these are important to say out loud: 
 
@@ -397,11 +397,11 @@ It is our goal to create an environment where receiving critical feedback is nor
         
         One possible solution to this is for the People team to introduce a formalized process that managers need to go through in order to terminate an employee. This is often known as a "PIP"—performance improvement plan—and it typically plays out over the course of 30-90 days. Because the process is run by the People team, there is a level of assurance that the manager cannot act exclusively on their own authority.
         
-        The PIP, though, has negative connotations, often from companies misusing them and stories that no one 'survives' a PIP. We feel that they can be used differently and have introduced [Development Plans](https://www.notion.so/dbtlabs/How-We-Develop-Talent-at-dbt-Labs-5f5e2a6b54b5428d93c0c991ecd923e9) into the manager's toolbox. 
+        The PIP, though, has negative connotations, often from companies misusing them and stories that no one 'survives' a PIP. We believe that they can be used differently and have introduced [Development Plans](https://www.notion.so/dbtlabs/How-We-Develop-Talent-at-dbt-Labs-5f5e2a6b54b5428d93c0c991ecd923e9) into the manager's toolbox. 
         - Not every termination will be the result of a development plan, there are reasons we may opt to not use one.
         - Additionally, not every development plan results in termination. Ideally, they are used to improve performance and grow the team member in a positive way.
         
-    - **What is our preferred way of solving this problem?**
+    - **Other ways we address this problem?**
         
         When framing this problem in terms of a mismatch between accountability and impact, it becomes more clear what good potential solutions are. The question decomposes down into two distinct sub-questions: 
         
@@ -468,11 +468,6 @@ Our goal with this messaging is to manage the tension between our value of trans
 
 Learn more about departure message guidelines [here](https://www.notion.so/dbtlabs/Involuntary-Terminations-12bd6115f88e4874a300b272f4aec023?pvs=4#74ca657d514648edafb255bf057535f2).
 
-#### 5. Terminations are an organizational failure and we do not fail silently.
-
-We regularly conduct retrospectives on terminations. The purpose of this retrospective is to evaluate what the company, hiring team, or manager could have done differently to have prevented this outcome or to have arrived at the outcome via a better path. The purpose of this group is **not** to rehash the failures of the terminated employee.
-
-As in all things, our goal here is to be as transparent as possible. In going through these meetings we will look to share as many learnings from these retrospectives as possible without violating employee privacy.
 
 ## Employment Posters (US)
 
