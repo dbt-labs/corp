@@ -18,7 +18,7 @@ sidebar_label: Time Off
 
 In alignment with our core value, **“We Work Hard and Go Home”**, dbt Labs offers unlimited paid time off to support you to recharge, spend time with your family, and/or take care of personal matters. To encourage you to turn off your brain, travel, and spend time with your family, recommend you take a *minimum* amount of vacation days **(2 weeks, aka 10 business days)** each calendar year. 
 
-- We estimate that 4 weeks in a year is a good amount to take off (also based on what we have seen historically); note though that we do not have a cap on the number of days you can take off for Personal Time Off.
+- We estimate that 4 weeks in a year is a good amount to take off (this is based on what we have seen historically). Note though that we do not have a cap on the number of days you can take off for Personal Time Off.
 - At the end of each quarter, the People team will send managers a list of how much time off each person has already taken / planned to take for the rest of the year (based on what is requested in ADP).
 - We encourage managers to do check-ins with their team (based on the data provided above): for those not taking time off, managers should seek to understand why this is the case and to help their team member structure their workload or work priorities in a way that allows them to actually disconnect from work to recharge.
 
@@ -26,7 +26,7 @@ We ask that you input your time-off requests into ADP and categorize them accord
 
 **Please discuss your time-off schedule with your manager prior to taking the time off so we can plan for coverage while you are out**. **Manager approval will be required to take time off!** When planning your time off, we ask that you also be mindful of the major dates and deadlines that may be unique and critical to your role.
 
-When in doubt, please discuss with your manager about your plans
+When in doubt, please discuss with your manager about your plans.
 
 #### When would time off be declined?
 
@@ -38,7 +38,7 @@ When in doubt, please discuss with your manager about your plans
 
 #### ➡️ Types of time off plans & definitions
 
-👉 For time off plans outside of Personal Time Off: if you need to take more than 2 consecutive weeks off, your manager or a member of the People team will be reaching out to see if a Leave of Absence may need to be utilized instead to support you through your specific life event.
+👉 If you need to take more than 2 consecutive weeks off, your manager or a member of the People team will reach out to see if a Leave of Absence may need to be utilized instead to support you through your specific life event.
 
 - **Personal Time Off**:  If you are taking vacation or need to take time off work to attend to other personal matters.
 - **Sick Time:** If your time off is related to your own illness or a family member’s illness (i.e. care for another family member or taking them to see the doctor), or for you to go see a medical professional. You can also use this category for a mental health day.
@@ -55,7 +55,7 @@ When in doubt, please discuss with your manager about your plans
     - ***Paid Caregiver Leave -** any dbt Labs employee who needs to take dedicated time off to care for a seriously ill person is able to take up to 4 weeks of paid leave*
 - **Company Holidays**: dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. See [Company Holidays ](#company-holidays) for days observed. You are asked to observe your local holidays (for the country you reside in).
 
-Note that because in the United States, your time off is not accrued, you will not be paid out for any unused time offered under this policy when your employment with dbt Labs ends.
+Note that because, in the United States, your time off is not accrued, you will not be paid out for any unused time offered under this policy when your employment with dbt Labs ends.
 
 For international employees, see [below]([#-international-considerations-for-accrued-time-and-pay-out-upon-termination-with-the-company) for respective details.
 
@@ -91,7 +91,7 @@ From a logistical standpoint, what you can expect in ADP:
     - For new joiners, if you start before the 15th of that month, you will earn an accrual for the first month.
     - For new joiners, if you start after the 15th, you don’t earn anything for that month and instead will begin accruing the full amount the following month.
     - If a carryover balance is allowed in your employment contract, the maximum accrual is 25 days and then will stop accruing.
-- You can actually take whatever days off you would like (subject to manager approval) even if your balance in the system does not show you have enough days accrued. You can go into the negative and that’s perfectly okay.
+- You can actually take whatever days off you would like (subject to manager approval) even if your balance in the system does not show you have enough days accrued. It is acceptable have a negative balance as a result of taking time you have not yet accrued.
 
 At the end of your employment with dbt Labs, if you have unused time off accrued in ADP, we will pay that amount out to you in your final paycheck.
 
@@ -99,11 +99,11 @@ At the end of your employment with dbt Labs, if you have unused time off accrued
 
 **🌍 If you are employed through Remote.com**
 
-The above explanation of how accrued time works and pay out upon termination is the same for Remote employees. This is because in your contracts, you still have a set number of days that is shown. You can take any days off as long as you have manager approval.
+The above explanation of how accrued time works and is paid out upon termination is the same for Remote employees. This is because, in your contracts, you still have a set number of days that is shown. You can take any days off as long as you have manager approval.
 
 ## Company Holidays
 
-In addition to our unlimited vacation policy, dbt Labs observes a number of public and company holidays every year, and this schedule varies by country. You are asked to observe your local holidays (for the country you reside in).
+In addition to our unlimited vacation policy, dbt Labs observes a number of public and company holidays every year, this schedule varies by country. You are asked to observe your local holidays (for the country you reside in).
 
 We recognize that there are many other cultural, religious or location based holidays and encourage our team members to work with their manager to take the time they need.
 
@@ -200,7 +200,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 
 ## Leave of Absence Programs
 
-We offer paid and unpaid leave of absence programs. All leave types will run concurrently with all company holidays and will not add additional days to the established leave policy unless legally required. 
+We offer multiple paid and unpaid leave of absence programs. All leave types will run concurrently with any company holidays and will not add additional days to the established leave policy unless legally required. 
 
 Below is a summary of our paid leave programs.
 
@@ -245,7 +245,7 @@ We understand that exact timing can't always be planned so, as early as possible
 - Planning projects to wrap up ahead of leave and avoiding taking on new large projects right before.
 - Assigning owners for your day to day work and beginning to train and hand-off work as needed.
 - Documenting as much as possible to set your team up for success while you're gone.
-- You should also email People Ops with an estimated leave timeframe so they can keep track.
+- As soon as your leave is approved contact your People Business Partner to initiate the process with our leave management partner, Sparrow.
 
 Learn more about how to request a leave of absence [below](https://handbook.getdbt.com/docs/benefits#requesting-a-leave-of-absence).
 
@@ -269,14 +269,14 @@ Stock options will continue to vest at their regular rate during paid or unpaid 
 
 Employees may be asked to provide a Fitness for Duty form completed by their medical provider prior to their first day back. Employees returning from medical leave will be reinstated to the same position, or if that position is no longer available due to reasons unrelated to the employee’s leave, a comparable position. Employees will receive pay and benefits equivalent to those received prior to their leave.
 
-**Planning for Parental Leave**
+**Planning for Medical Leave**
 
 We understand that exact timing can't always be planned so, as early as possible, please start working with your manager and your team to plan for your leave. This includes:
 
 - Planning projects to wrap up ahead of leave and avoiding taking on new large projects right before.
 - Assigning owners for your day to day work and beginning to train and hand-off work as needed.
 - Documenting as much as possible to set your team up for success while you're gone.
-- You should also email People Ops with an estimated leave timeframe so they can keep track.
+- As soon as your leave is approved contact your People Business Partner to initiate the process with our leave management partner, Sparrow.
 
 Reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f) if you have questions about how to plan for your leave.
 
@@ -290,9 +290,9 @@ A serious health condition is an illness, an injury, an impairment, or a physica
 
 Under some circumstances, employees may take this leave intermittently, which means taking leave in blocks of time or reducing the employee's normal weekly or daily work schedule. An employee may take leave intermittently whenever it is medically necessary to care for a seriously ill individual. Leave taken intermittently may be taken in increments of no less than one week.
 
-### Paid Miscarriage Leave
+### Paid Leave for Pregnancy Loss
 
-Employees who experience or have a partner who experiences a miscarriage are eligible for two (2) weeks of leave paid at 100% of their base salary. In the event that the employee experiences medical difficulties beyond this time frame, they may be eligible for a Medical Leave.
+Employees who experience or have a partner who experiences a miscarriage or pregnancy loss are eligible for two (2) weeks of leave paid at 100% of their base salary. In the event that the employee experiences medical difficulties beyond this time frame, they may be eligible for a Medical Leave.
 
 ### Paid Bereavement Leave
 
@@ -348,7 +348,7 @@ The company will inform employees if leave will be designated as FMLA-protected 
 
 Employees may not perform work for self-employment or for any other employer during an approved leave of absence, except when the leave is for military or public service or when the company has approved the employment under its Outside Employment policy and the employees’ reason for FMLA leave does not preclude the outside employment.
 
-- **Unlawful acts by employers.** The FMLA makes it unlawful for any employer (1) to interfere with, restrain, or deny the exercise of any right provided under the FMLA or (2) to discharge,discriminate, or retaliate against any person for opposing any practice made unlawful by the FMLA or for involvement in any proceeding under or relating to the FMLA.
+- **Unlawful acts by employers.** The FMLA makes it unlawful for any employer (1) to interfere with, restrain, or deny the exercise of any right provided under the FMLA or (2) to discharge, discriminate, or retaliate against any person for opposing any practice made unlawful by the FMLA or for involvement in any proceeding under or relating to the FMLA.
 
 The FMLA does not affect any federal or state law prohibiting discrimination or supersede any state or local law or collective bargaining agreement that provides greater family or medical leave rights.
 
@@ -374,6 +374,6 @@ dbt Labs may, in its sole discretion and unless prohibited by law, require an em
 
 Leaves of absence are complex. They often entail the coordination of multiple laws and the juggling of potential benefits. Some leaves are paid while others are unpaid (although may be eligible for wage supplementation).
 
-To help employees navigate their potential options, we partner with [Sparrow](https://trysparrow.com/), a Leave Management Partner. 
+To help employees navigate their potential options, we partner with [Sparrow](https://trysparrow.com/) as our Leave Management Partner. 
 
 Learn how to request a leave of absence [here](https://www.notion.so/dbtlabs/How-to-Request-a-Leave-of-Absence-Programs-26e6b99fa9884474ba407e8af51389eb?pvs=4).
