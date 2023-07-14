@@ -68,7 +68,7 @@ dbt Labs has an anonymous hotline for employees to be able to report workplace i
 
 📌 **This service is implemented to provide an additional option for anonymous reporting but please remember you can always approach your manager, People Business Partner or a member of leadership team directly about any issues you are having.** 
 
-- Learn more about other ways you can get support [here](working_and_growing_here.md#getting-support). 
+- Learn more about other ways you can get support [here](#getting-support). 
 
 It is important to remember that, dbt Labs has a no-retaliation policy. This means that no team member will be retaliated against for making a complaint in good faith through any of our reporting avenues. If a team member feels they have been retaliated against, they should initiate a report through the anonymous hotline.
 
