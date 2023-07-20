@@ -209,6 +209,23 @@ Learn about how to use Benepass and get answers to FAQs [here](https://www.notio
 - Policies and reimbursements that are NOT administered through Benepass are: Workspace Rental Stipend (LiquidSpace), Health Related Travel Benefit, Corporate Travel & Expense Policy.
 - Benepass can be accessed via Okta, their [Online Portal](https://app.getbenepass.com/#/) or through their mobile [app](https://apps.apple.com/us/app/benepass/id1497613952). 
 
+### General Guidelines for All Stipends
+
+- All stipend expenses must be processed using your Benepass card or submitted for reimbursement through the Benepass app. [Learn more here.](#how-to-use-benepass---perks--stipend-platform)
+- All transactions over $50 USD or local equivalent require a receipt / documentation
+    - All reimbursements require a receipt / documentation
+- All full time employees are eligible for these stipends in their first month, regardless of their actual hire date.
+- Stipend amounts must be used within their allotted time or the **funds will expire** (ie. Each stipend has as fiscal year (Feb 1-Jan 31) or monthly timeline. Funds not used during that time period will expire and will not roll over)
+    - **Expired Health & Wellness Funds example**: On July 18th your Benepass card is charged for your gym membership for $100, reducing your Health & Wellness available funds to $25. On July 25th you purchase a sleeve of golf balls for $15 on your personal card. On August 1st your Health and Wellness wallet’s remaining $25 from July expire and is then refreshed to $125 for the month of August. August 2nd you submit for a reimbursement for the golf balls and the $15 is reimbursed and deducts the $15 from the available $125 August amount.
+- Stipend amounts will be evaluated on an annual basis (Key factors - benchmark data, purchasing power indices, budget availability)
+- Annual Stipends must be submitted in a timely fashion, best practice is to submit expenses within 30 days.
+    - Past 30 day submissions: while you can still submit these expenses past 30 days, this best practice helps ensure we aren’t back-loading and incurring large sums of reimbursements as we close out a Quarter or Fiscal year and timely submissions help with this!
+- Non-comprehensive [**list of eligible items](https://docs.google.com/spreadsheets/d/1EAmO6874G_FqyVAGJTXG-eU3TNIBuNo8WiEHnwS79vY/edit#gid=0)** (This will consistently be updated from time to time)
+
+### Stipend Amounts by Country
+
+Learn about our stipend amounts by country [here](https://www.notion.so/dbtlabs/Stipend-Amounts-by-Country-8b5d64dd100145aaa1b97ba42865e8b5?pvs=4).
+
 ### Office Stipend
 
 #### Policy
@@ -332,19 +349,6 @@ Yes! Benepass is able to track and manage ‘payment’ systems for large purcha
 
 Check out a more robust list [here](https://docs.google.com/spreadsheets/d/1EAmO6874G_FqyVAGJTXG-eU3TNIBuNo8WiEHnwS79vY/edit#gid=0). This isn’t an exhaustive list but we will build it out over time as questions arise.
 
-## Wellness Program
-
-At dbt Labs, self-care is not a luxury, it's a priority. We partner with [Bright](https://choosebright.com/dbt/), the creators of a well-being platform for teams, to offer you a comprehensive well-being program - the Bright Pass - for free!
-
-- Keynotes and other events are also included each week covering a range of topics, such as financial well-being, sleep,  and coping with stress.
-- The Bright Pass gives you access to over 250 live, virtual classes each week. Sessions include daily yoga, fitness, meditation, and nutrition!
-- Bright’s sessions are live and interactive to help you feel connected to your team and to Bright’s educators.
-
-Learn more about the program and how to setup your account: [brightwellness.pdf](https://github.com/dbt-labs/handbook/files/11313174/brightwellness.pdf)
-
-- Join classes: https://choosebright.com/dbt/
-- Join the #bright-wellness channel on Slack 
-
 ### Professional Development Stipend
 
 #### Policy
@@ -391,23 +395,6 @@ Occasionally, expenses beyond the initial $500 will be reimbursed with advanced 
 **How can I find out if something is an eligible expense?**
 
 - If you’re unsure if something is included within the policy, reach out directly to Benepass support team via the [app](https://app.getbenepass.com).
-
-### General Guidelines for All Stipends
-
-- All stipend expenses must be processed using your Benepass card or submitted for reimbursement through the Benepass app. [Learn more here.](#how-to-use-benepass---perks--stipend-platform)
-- All transactions over $50 USD or local equivalent require a receipt / documentation
-    - All reimbursements require a receipt / documentation
-- All full time employees are eligible for these stipends in their first month, regardless of their actual hire date.
-- Stipend amounts must be used within their allotted time or the **funds will expire** (ie. Each stipend has as fiscal year (Feb 1-Jan 31) or monthly timeline. Funds not used during that time period will expire and will not roll over)
-    - **Expired Health & Wellness Funds example**: On July 18th your Benepass card is charged for your gym membership for $100, reducing your Health & Wellness available funds to $25. On July 25th you purchase a sleeve of golf balls for $15 on your personal card. On August 1st your Health and Wellness wallet’s remaining $25 from July expire and is then refreshed to $125 for the month of August. August 2nd you submit for a reimbursement for the golf balls and the $15 is reimbursed and deducts the $15 from the available $125 August amount.
-- Stipend amounts will be evaluated on an annual basis (Key factors - benchmark data, purchasing power indices, budget availability)
-- Annual Stipends must be submitted in a timely fashion, best practice is to submit expenses within 30 days.
-    - Past 30 day submissions: while you can still submit these expenses past 30 days, this best practice helps ensure we aren’t back-loading and incurring large sums of reimbursements as we close out a Quarter or Fiscal year and timely submissions help with this!
-- Non-comprehensive [**list of eligible items](https://docs.google.com/spreadsheets/d/1EAmO6874G_FqyVAGJTXG-eU3TNIBuNo8WiEHnwS79vY/edit#gid=0)** (This will consistently be updated from time to time)
-
-### Stipend Amounts by Country
-
-Learn about our stipend amounts by country [here](https://www.notion.so/dbtlabs/Stipend-Amounts-by-Country-8b5d64dd100145aaa1b97ba42865e8b5?pvs=4).
 
 ## Workplace Rental 
 
@@ -472,6 +459,19 @@ LiquidSpace is available in many countries as well. If there is not a space near
 
 Learn more about how to use LiquidSpace to book larger meeting spaces [here](https://www.notion.so/dbtlabs/Booking-Larger-Meeting-Spaces-083779ac7ddb4845b81d07e03680cfa7?pvs=4).
 
+## Wellness Program
+
+At dbt Labs, self-care is not a luxury, it's a priority. We partner with [Bright](https://choosebright.com/dbt/), the creators of a well-being platform for teams, to offer you a comprehensive well-being program - the Bright Pass - for free!
+
+- Keynotes and other events are also included each week covering a range of topics, such as financial well-being, sleep,  and coping with stress.
+- The Bright Pass gives you access to over 250 live, virtual classes each week. Sessions include daily yoga, fitness, meditation, and nutrition!
+- Bright’s sessions are live and interactive to help you feel connected to your team and to Bright’s educators.
+
+Learn more about the program and how to setup your account: [brightwellness.pdf](https://github.com/dbt-labs/handbook/files/11313174/brightwellness.pdf)
+
+- Join classes: https://choosebright.com/dbt/
+- Join the #bright-wellness channel on Slack
+  
 ## Employee Discounts
 
 Employee discounts are available through [LifeMart](https://lm.lifemart.com/group/lifemart/home). 
