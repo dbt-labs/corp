@@ -218,38 +218,6 @@ If work that conflicts with your deeply held beliefs is a regular and predictabl
 
 💡 You can see some of the discussion that led to this policy in [Working Document: Conscientious Objection](https://www.notion.so/Working-Document-Conscientious-Objection-31977f6aa61b447fabc4f5ac6a20f02f).
 
-## Embedded Roles
-
-#### What is an embedded team member
-
-An embedded team or team member is one that reports into their traditional functional group but works on a roadmap driven by and supporting another function that they are embedded into (the ‘embed team’). 
-
- - For example, the Web Engineering team reports into the engineering function, that is the best place for their career trajectories; but their roadmap is built in collaboration with the marketing team, given their work is mostly on our external-facing marketing sites. 
-
-The embedded model is distinctly different than the business partner model. The business partner model works to disseminate their functional roadmap (people, finance, etc.) into different areas of the org rather than drive forward the roadmap of the team or function they are partnered with.
-
-**When would we use an embedded model?**
-
-The embedded model is increasingly rare given some of the challenges created in management and communication for the embedded team member(s). 
-
-That being said, the embed model is successful when the work that the embed function needs from the embedded team is not aligned with the work of the traditional function.
-
-**Here’s why this approach is superior:**
-
-1. It enables world-class professionals to interview, onboard, collaborate with, and manage other world-class professionals. This leads to better hiring decisions, better skills mentoring, better career development, and overall happier team members that then stick around for longer.
-2. It enables embedded teams and team members to build expertise in and empathy for the problem domain.
-3. It ensures that the the embed team actually gets the bandwidth and skills they need to reach their goals.
-
-### Questions to Ask
-
-**What questions need to be answered prior to hiring for an embedded role?**
-
-1. **Who will be this person’s manager?** A manager will, in the case of an embedded team member, likely not be the person who is setting the day-to-day tasks for this person. Rather, they are responsible for supporting the person’s career development, providing mentorship, etc. There should only be a single answer to this question.
-2. **Who will the “embed sponsor” be?** The embed sponsor will be a member of the team “hosting” this person who will be primarily responsible for determining the day-to-day workload of this person. It is recommended that there is only one answer to this question, as balancing across multiple embed workloads can be challenging.
-3. **Who will make the final hiring decision?** We recommend that this should be the same as the answer to #1 above, with the understanding that the person in #2 will have a high degree of input.
-4. **Who will participate in this person’s reviews?** Likely this should be the people from #1 and #2, above.
-5. **How long will this embedded relationship last?** Generally, there is a “sweet spot” that allows the embedded team member to spend adequate time with the functional area to develop expertise and add value, but not so long on the team that they develop a “bus factor” and become a turnover risk. Most often we feel that the appropriate range here is 6-24 months, but realize that your mileage may vary.
-6. **What is this person’s career path within the company?** We should make sure that we’re not creating dead-end roles for embedded team members. This can sometimes happen when a person’s role doesn’t have obvious next steps outside of the team that they are embedded with. We should prevent this situation as it will lead to employee turnover.
 
 ## International Relocation 
 
