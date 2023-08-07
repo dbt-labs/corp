@@ -530,3 +530,157 @@ when needed.
         prefix='order_'
   ) %}
   ```
+
+## Semantic Models & Metrics style guide
+
+## Organizing Semantic Model
+
+- Semantic models are created in the same yml file where you define configs, tests and metrics for your models. There should be one yml file per model.
+- This keeps all the semantic models in your project in one place, so you don't have to hunt for them during development.
+
+```bash
+├── dbt_project.yml
+└── models
+    ├── marts
+				├── finance
+					  ├── orders.sql
+						├── orders.yml #semantic models defined here
+    ├── staging
+			  ├── product
+				    ├── products.sql
+						├── products.yml #semantic models defined here
+```
+
+### Organizing Metrics
+
+- Metrics are created in the same yml file where you define configs, tests and semantic models for your models.
+- It’s possible that a metric could have components from two semantic models. For example, transactions per customer. It this case we opt to organize metrics by the grain of the table, so would place it in `customers.yml` file
+
+```
+├── dbt_project.yml
+└── models
+    ├── marts
+				├── finance
+					  ├── orders.sql
+						├── orders.yml #metrics defined here
+    ├── staging
+			  ├── product
+				    ├── products.sql
+						├── products.yml  #metrics defined here
+```
+
+### `orders.yml` Example File
+
+```yaml
+--orders.yml
+semantic_models:
+  #The name of the semantic model.
+  - name: orders
+    defaults:
+      agg_time_dimension: ordered_at
+    description: |
+      Order fact table. This table is at the order grain with one row per order. 
+    #The name of the dbt model and schema
+    model: ref('orders')
+    #Entities. These usually corespond to keys in the table.
+    entities:
+      - name: order_id
+        type: primary
+      - name: product
+        type: foreign
+        expr: location_id
+  #Dimensions. Either categorical or time. These add additonal context to metrics. The typical querying pattern is Metric by Dimension.  
+    measures: 
+      - name: order_total
+        description: The total revenue for each order.
+        agg: sum
+    dimensions:
+      - name: ordered_at
+        type: time
+        type_params:
+          time_granularity: day 
+metrics:
+# Simple metrics
+  - name: order_total
+    description: Sum of total order amonunt. Includes tax + revenue.
+    type: simple
+    label: Order Total
+    type_params:
+      measure: order_total
+```
+
+### Semantic Model Conventions
+
+- Semantic models should have the same name as the model they're built from. For example, the `orders.sql` model would be named `orders`
+- Semantic models should have a description that clarifies what the table contains and the granularity of the data.
+- Entities are often created from the ID column. Entity names should be singular, for example, customer, order, etc.
+- If you're using `expr` to define a measure or dimension, the new object name should follow the same naming conventions defined in the [Model File Naming and Coding](https://github.com/dbt-labs/corp/blob/main/dbt_style_guide.md#model-file-naming-and-coding) section.
+
+**Example Semantic Model**
+
+```yaml
+--orders.yml
+semantic_models:
+  #The name of the semantic model.
+  - name: orders
+    defaults:
+      agg_time_dimension: ordered_at
+    description: |
+      Order fact table. This table is at the order grain with one row per order. 
+    #The name of the dbt model and schema
+    model: ref('orders')
+    #Entities. These usually corespond to keys in the table.
+    entities:
+      - name: order_id
+        type: primary
+      - name: product
+        type: foreign
+        expr: location_id
+  #Dimensions. Either categorical or time. These add additonal context to metrics. The typical querying pattern is Metric by Dimension.  
+    measures: 
+      - name: order_total
+        description: The total revenue for each order.
+        agg: sum
+    dimensions:
+      - name: ordered_at
+        type: time
+        type_params:
+          time_granularity: day 
+```
+
+### Metrics Conventions
+
+Metrics fall into four broad categories:
+
+1. Company metrics
+2. Team KPIs
+3. OKRs
+4. Specific metrics related to a product area, business unit, or business function that is not necessarily a team KPI, but important to track nonetheless.
+
+Because of the wide socialization of these docs and downstream usage in the BI layer, consistency and clarity are *very* important. Below are the general standards and examples of how we format and implement metrics at dbt Labs:
+
+- Metrics names must begin with a letter, cannot contain whitespace, and should be all lowercase.
+- Label is the name that will be displayed in downstream tools. This should be a name that business users understand.
+- The [minimum required properties](https://docs.getdbt.com/docs/build/metrics-overview) must be present in the metric definition
+- For up-to-date information on metrics, please see the [metrics docs on defining a metric](https://docs.getdbt.com/docs/build/build-metrics-intro)
+
+### Example Metrics YAML
+``` yaml
+metrics:
+  - name: orders
+    description: Count of orders.
+    label: Orders
+    type: simple
+    type_params:
+      measure: order_count
+	- name: order_gross_profit
+	    description: Gross profit from each order.
+	    type: derived
+	    label: Order Gross Profit
+	    type_params:
+	      expr: revenue - cost
+	      metrics:
+	        - name: revenue
+	        - name: order_cost
+	          alias: cost
+```
