@@ -140,9 +140,9 @@ Many states have introduced legislation to reduce or restrict access to critical
 
 **In order to maintain privacy and ensure that folks are comfortable leveraging this reimbursement, please follow the process below:**
 
-1. Email receipts directly to Meg Colón (meg@dbtlabs.com). Please include a note that the receipts are for healthcare-related travel, but we do not require more information than that.
+1. Email receipts directly to Clyde Stackhouse (clyde.stackhouse@dbtlabs.com). Please include a note that the receipts are for healthcare-related travel, but we do not require more information than that.
 2. Reimbursements will be processed directly through payroll. 
-    1. The Head of People will be the only person with access to receipts and reason for travel and will not discuss or share with anyone. The Payroll Manager will receive only the amount to add to payroll.
+    1. The Manager, Total Rewards will be the only person with access to receipts and reason for travel and will not discuss or share with anyone. The Payroll Manager will receive only the amount to add to payroll.
 3. If you need support relating to out-of-state travel for healthcare purposes, please contact Meg directly.
 
 ### International Travel Emergency Health Benefits (US)
