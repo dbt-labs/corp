@@ -6,7 +6,6 @@ sidebar_label: About dbt Labs
 
 | Maintained by |
 |---|
-| Meg Colón |
 | Leigh Staub |
 
 ## Welcome
