@@ -6,7 +6,6 @@ sidebar_label: Policies
 
 | Maintained by |
 |---|
-| Meg Colón |
 | Stephanie Murray |
 | Helena G |
 | Aaron Stanley |
