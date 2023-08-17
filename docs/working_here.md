@@ -7,7 +7,6 @@ sidebar_label: Working Here
 | Content Maintainers |
 |---|
 | Leigh Staub |
-| Meg Colón |
 | Morgan Russell |
 
 [Distributed Work Experience](#distributed-work-experience)
