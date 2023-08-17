@@ -6,7 +6,6 @@ sidebar_label: Hiring
 
 | Content Maintainer |
 |---|
-| Meg Colón |
 | Kimi Mashhoon |
 
 # Hiring
