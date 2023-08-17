@@ -7,7 +7,6 @@ sidebar_label: Getting Support
 | Content Maintainers |
 |---|
 | Clyde Stackhouse |
-| Meg Colón |
 
 [Getting Support](#getting-support)
 
