@@ -49,7 +49,7 @@ Our compensation philosophy has been arrived at over the course of many years, c
 3. Our compensation ranges do get updated from time to time[^4] based on:
     1. market survey data[^5] 
     2. feedback from applicants and team members
-    3. candidate data.
+    3. candidate data
 4. We localize compensation ranges at the country level based on local market data.
     - Why do we take this approach? Labor markets, benefits, pension/superannuation schemes and payroll taxes can vary greatly country to country. This approach ensures that we are offering equitable (not equal) compensation in each market.
 5. Our compensation bands are set using the 75th percentile within our competitive landscape in each country as the **mid point** and setting the low and high points using [consistent band spreads](#consistent-band-spreads).
@@ -89,7 +89,7 @@ Employees are paid semimonthly by direct deposit on the 15th (for work performed
 
 Our [compensation principles](compensation.md#compensation-principles) are applied to each country we employ in. This is because the labor markets, benefits, pension/superannuation schemes and payroll taxes can vary greatly country to country. This approach ensures that we are offering equitable (not equal) compensation in each market.
 
-We pay **local country rates** based on [cost of market (also referred to as cost of labor)](https://www.erieri.com/blog/post/cost-of-labor-vs-cost-of-living). This means we will align our compensation with the top (75th - 90th percentile) in each country (looking at ”All UK” “All Germany”, “All Australia”, etc.)
+We pay **local country rates** using localized compensation data based on [cost of market (also referred to as cost of labor)](https://www.erieri.com/blog/post/cost-of-labor-vs-cost-of-living). This means we will align our compensation targeting the 75th percentile in each country (looking at ”All UK” “All Germany”, “All Australia”, etc.).
 
 Learn more about our [Global Benefits Strategy & Stipend](benefits.md/#Global-Benefits-Strategy--Stipend).
 
@@ -219,7 +219,40 @@ We localize all compensation ranges at a company level using the same methodolog
 
 **- How are international salary bands built differently from US bands?**
 
-The same practice, process and philosophy is used to build all salary bands. We use the 75th percentile of the data within each country and use an all cash compensation to ensure we are paying above average and at or above 75% of other companies in that country based on the associated data set. The core difference between international salary bands and US salary bands is that many of our survey sources do not have a robust repository of international data which requires us to use [Mercer - Comptryx](https://www.imercer.com/products/comptryx) as the sole data providor at this time. While Mercer is a gold standard, we will add additional data sets to help further build out the available data sets globally.
+While there are many nuances to global compensation, in an effort to maintain a scalable and competitive international compensation strategy, we develop our international salary bands using a tiered structure that anchors to US Salary Bands and apply a consistent premium or discount percentage for a given country based on the localized data sets. 
+
+**- How was each country's tier determined?**
+Country tiers and their associated percentages are developed use 3 data sets.
+1. Radford Role Specific Data
+2. Mercer - Comptryx Role Specific Data
+3. Radford - Location Analytics Tool (Country Aggregate approach)
+Through these 3 data sets we were able to compile an average differential between the US and Country X. This analysis and approach allows us to better “fill in the gaps” where there is missing data and also allows us to create a consistent and scalable framework.
+
+| Country 	| Tier         	| Band % Change |
+|:-----:	|:-----------:	| :-----:|
+|   Switzerland  	|     Tier 1+      	| 15% |
+|   Australia  	    |     Tier 1    	| -10% |
+|   Canada  	    |     Tier 1    	| -10% |
+|   United Kingdom  |     Tier 1    	| -10% |
+|   Germany  	    |     Tier 2    	| -15% |
+|   Ireland      	|     Tier 2     	| -15% |
+|   New Zealand  	|     Tier 2    	| -15% |
+|   Sweden  	    |     Tier 2    	| -15% |
+|   Spain          	|     Tier 3    	| -20% |
+|   Austria  	    |     Tier 3    	| -20% |
+|   France  	    |     Tier 3    	| -20% |
+|   Philippines  	|     Tier 3    	| -20% |
+
+**- How do we calculate the bands**
+
+You can reference [How Salary Bands are made](https://handbook.getdbt.com/docs/compensation#how-salary-bands-are-made) for a deeper dive into the process but we’ll break down an example into how all international location bands are built.
+
+1. **US Bands are built based on the 75th percentile as the midpoint, leveraging our core data sources.**
+    1. Market data is reviewed and analyzed annually in prep for the new fiscal year.
+2. **Country Tier % is then applied to the US Salary Band (ex. -15% for Germany)**
+    1. Example: If the midpoint was 100k USD, after the location percentage change (-15%) the midpoint would be 85k USD
+3. **The annually established FX (Foreign Exchange) rate is used to convert the band to local currency.**
+    1. EUR/USD - 1.0791 → Local Midpoint EUR 79,000
 
 **- Why don’t we pay US salary everywhere?**
 
