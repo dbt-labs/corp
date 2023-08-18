@@ -219,7 +219,7 @@ We localize all compensation ranges at a company level using the same methodolog
 
 **- How are international salary bands built differently from US bands?**
 
-While there are many nuances to global compensation, in an effort to maintain a scalable and competitive international compensation strategy, we now develop our international salary bands using a tier'd structure that anchors to US Salary Bands and apply a consistent premium or discount percentage for a given country based on the localized data sets. 
+While there are many nuances to global compensation, in an effort to maintain a scalable and competitive international compensation strategy, we develop our international salary bands using a tiered structure that anchors to US Salary Bands and apply a consistent premium or discount percentage for a given country based on the localized data sets. 
 
 **- How was each countries tier determined?**
 Country tiers and their associated percentages are developed use 3 data sets.
