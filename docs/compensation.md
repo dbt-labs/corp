@@ -251,7 +251,7 @@ You can reference [How Salary Bands are made](https://handbook.getdbt.com/docs/c
     1. Market data is reviewed and analyzed annually in prep for the new fiscal year.
 2. **Country Tier % is then applied to the US Salary Band (ex. -15% for Germany)**
     1. Example: If the midpoint was 100k USD, after the location percentage change (-15%) the midpoint would be 85k USD
-3. **The annually established FX rate is used to convert the band to local currency.**
+3. **The annually established FX (Foreign Exchange) rate is used to convert the band to local currency.**
     1. EUR/USD - 1.0791 → Local Midpoint EUR 79,000
 
 **- Why don’t we pay US salary everywhere?**
