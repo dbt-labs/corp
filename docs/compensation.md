@@ -221,7 +221,7 @@ We localize all compensation ranges at a company level using the same methodolog
 
 While there are many nuances to global compensation, in an effort to maintain a scalable and competitive international compensation strategy, we develop our international salary bands using a tiered structure that anchors to US Salary Bands and apply a consistent premium or discount percentage for a given country based on the localized data sets. 
 
-**- How was each countries tier determined?**
+**- How was each country's tier determined?**
 Country tiers and their associated percentages are developed use 3 data sets.
 1. Radford Role Specific Data
 2. Mercer - Comptryx Role Specific Data
