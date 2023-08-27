@@ -658,4 +658,4 @@ metrics:
       denominator: transaction_amount
       filter: >   #  add optional constraint string. This applies to both the numerator and denominator
         {{ Dimension('customer__country') }} = 'MX'
-``````
+```
