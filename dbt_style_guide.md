@@ -561,81 +561,101 @@ dbt Metrics fall into four broad categories:
 3. OKRs
 4. Specific metrics related to a product area, business unit, or business function that is not necessarily a team KPI, but important to track nonetheless.
 
-Because of the wide socialization of these docs and downstream usage in the BI layer, consistency and clarity are _very_ important. Below are the general standards and examples of how we format and implement metrics at dbt Labs:
+As of dbt v1.6, released August 2023, the dbt Semantic Layer is powered by Metricflow. See the Semantic Layer docs for [conceptual definitions](https://docs.getdbt.com/docs/build/about-metricflow#semantic-graph).
+
+Best practices are still emerging, but below are the general standards and examples of how we currently format and structure the Semantic Layer at dbt Labs:
 * Metrics names must begin with a letter, cannot contain whitespace, and should be all lowercase.
-* The [minimum required properties](https://docs.getdbt.com/docs/building-a-dbt-project/metrics#available-properties) must be present in the metric definition.
-* Tags and/or Meta properties should match the categories above and be used to organize metrics at the category or business function level.
-* Meta properties should be used to track metric definition ownership.
-* For up-to-date information on metrics, please see the [metrics docs on defining a metric](https://docs.getdbt.com/docs/building-a-dbt-project/metrics#defining-a-metric) or the [dbt-labs/metrics README](https://github.com/dbt-labs/dbt_metrics#readme)
+* File paths to the semantic model and metric configuration yaml files organize metrics at the category or business function level.
+* Each semantic model exists as a distinct yaml file.  Each metric exists as a distinct yaml file.
+* The [minimum required properties](https://docs.getdbt.com/docs/build/semantic-models) must be present in any semantic model configuration.
+* The [minimum required properties](https://docs.getdbt.com/docs/build/metrics-overview) must be present in any metric configuration.
+  * Labels and owners are strongly encouraged on all metrics in production.
 
-### Example Metrics YAML
+For up-to-date information on metrics, please see the [docs on the dbt Semantic Layer](https://docs.getdbt.com/docs/use-dbt-semantic-layer/dbt-sl) or the [dbt-labs/metricflow README](https://github.com/dbt-labs/metricflow)
+
+### Example Semantic Model Config
 ```yaml
-version: 2
-
-metrics:
-  - name: base__total_nps_respondents_cloud
-    label: (Base) Total of NPS Respondents (Cloud)
-    model: ref('fct_customer_nps')
-    description: >
-      'The count of users responding to NPS surveys in dbt Cloud.'
-    tags: ['Company Metric']
-
-    calculation_method: count
-    expression: unique_id
-
-    timestamp: created_at
-    time_grains: [day, month, quarter, year]
-
+semantic_models:
+  #The name of the semantic model.
+  - name: orders
+    defaults:
+      agg_time_dimension: ordered_at
+    description: |
+      Order fact table. This table is at the order grain with one row per order. 
+    #The name of the dbt model and schema
+    model: ref('orders')
+    #Entities. These usually corespond to keys in the table.
+    entities:
+      - name: order_id
+        type: primary
+      - name: location
+        type: foreign
+        expr: location_id
+      - name: customer
+        type: foreign
+        expr: customer_id
+    #Measures. These are the aggregations on the columns in the table.
+    measures: 
+      - name: order_total
+        description: The total revenue for each order.
+        agg: sum
+      - name: order_count
+        expr: 1
+        agg: sum
+      - name: tax_paid
+        description: The total tax paid on each order. 
+        agg: sum
+      - name: customers_with_orders
+        description: Distinct count of customers placing orders
+        agg: count_distinct
+        expr: customer_id
+      - name: locations_with_orders
+        description: Distinct count of locations with order
+        expr: location_id
+        agg: count_distinct
+      - name: order_cost
+        description: The cost for each order item. Cost is calculated as a sum of the supply cost for each order item. 
+        agg: sum
+    #Dimensions. Either categorical or time. These add additional context to metrics. The typical querying pattern is Metric by Dimension.  
     dimensions:
-      - feedback_source
-
-    filters:
-      - field: feedback_source
-        operator: '='
-        value: "'dbt_cloud_nps'"
-
-    meta:
-      metric_level: 'Company'
-      owner(s): 'Jane Doe'
-
-
-  - name: base__count_nps_promoters_cloud
-    label: (Base) Count of NPS Promoters (Cloud)
-    model: ref('fct_customer_nps')
-    description: >
-      'The count of dbt Cloud respondents that fall into the promoters segment.'
-    tags: ['Company Metric']
-
-    calculation_method: count
-    expression: unique_id
-
-    timestamp: created_at
-    time_grains: [day, month, quarter, year]
-
-    filters:
-      - field: feedback_source
-        operator: '='
-        value: "'dbt_cloud_nps'"
-      - field: nps_category
-        operator: '='
-        value: "'promoter'"
-
-    meta:
-      metric_level: 'Company'
-      owner(s): 'Jane Doe'
-
-  - name: promoters_pct
-    label: Percent Promoters (Cloud)
-    description: 'The percent of dbt Cloud users in the promoters segment.'
-    tags: ['Company Metric']
-
-    calculation_method: derived
-    expression: "{{metric('base__count_nps_promoters_cloud')}} / {{metric('base__total_nps_respondents_cloud')}}" 
-
-    timestamp: created_at
-    time_grains: [day, month, quarter, year]
-
-    meta:
-      metric_level: 'Company'
-      owner(s): 'Jane Doe'
+      - name: ordered_at
+        type: time
+        type_params:
+          time_granularity: day 
+      - name: order_total_dim
+        type: categorical
+        expr: order_total
+      - name: is_food_order
+        type: categorical
+      - name: is_drink_order
+        type: categorical  
 ```
+
+### Example Metric Config
+```yaml
+# Example of a Ratio Metric
+metrics:
+  - name: cancellation_rate # metric name
+    label: Cancellation Rate # Display name shown in downstream tools.
+    owners:
+      - support@getdbt.com
+    type: ratio
+    type_params: # properties specific to the metric type
+      numerator: cancellations
+      denominator: transaction_amount
+      filter: >     # add optional constraint string. This applies to both the numerator and denominator
+        {{ Dimension('customer__country') }} = 'MX'
+  - name: enterprise_cancellation_rate
+    owners:
+      - support@getdbt.com
+      # Ratio metrics create a ratio out of two measures. 
+      # Define the metrics from the semantic model as numerator or denominator
+    type: ratio
+    type_params:
+      numerator:
+        name: cancellations
+        filter: {{ Dimension('company__tier' )}} = 'enterprise'  # constraint only applies to the numerator
+      denominator: transaction_amount
+      filter: >   #  add optional constraint string. This applies to both the numerator and denominator
+        {{ Dimension('customer__country') }} = 'MX'
+``````
