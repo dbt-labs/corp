@@ -584,7 +584,8 @@ semantic_models:
       Order fact table. This table is at the order grain with one row per order. 
     #The name of the dbt model and schema
     model: ref('orders')
-    #Entities. These usually corespond to keys in the table.
+    #Entities. These usually correspond to keys in the table.
+
     entities:
       - name: order_id
         type: primary
