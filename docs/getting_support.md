@@ -6,6 +6,7 @@ sidebar_label: Getting Support
 
 | Content Maintainers |
 |---|
+| Megan Pittman |
 | Clyde Stackhouse |
 
 [Getting Support](#getting-support)
