@@ -6,6 +6,7 @@ sidebar_label: About dbt Labs
 
 | Maintained by |
 |---|
+| Megan Pittman |
 | Leigh Staub |
 
 ## Welcome

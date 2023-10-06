@@ -6,7 +6,7 @@ sidebar_label: Hiring
 
 | Content Maintainer |
 |---|
-| Meg Colón |
+| Megan Pittman |
 | Kimi Mashhoon |
 
 # Hiring

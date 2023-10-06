@@ -6,6 +6,7 @@ sidebar_label: Time Off
 
 | Content Maintainers |
 |---|
+| Megan Pittman |
 | Clyde Stackhouse |
 
 [Time Off Policy](#time-off-policy)
