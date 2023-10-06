@@ -6,6 +6,7 @@ sidebar_label: Working Here
 
 | Content Maintainers |
 |---|
+| Megan Pittman |
 | Leigh Staub |
 | Morgan Russell |
 
@@ -15,11 +16,9 @@ sidebar_label: Working Here
 
 [Diversity, Equity and Inclusion](#diversity-equity-and-inclusion)
 
+[Employee Transitions](#employee-transitions)
+
 [Conscientious Objection](#conscientious-objection)
-
-[Embedded Roles](#embedded-roles)
-
-[International Relocation](#international-relocation)
 
 ## Distributed Work Experience
 
@@ -187,38 +186,13 @@ We have three DEI committees dedicated to Team Diversity, Culture, and Company S
 
 Learn more [here](https://www.getdbt.com/dbt-labs/dei/).
 
-## Conscientious Objection
+## Employee Transitions
 
-**Conscientious objection is the right of an individual to withhold their labor.**
+Whether you’re joining the adventure, bidding us farewell, or taking a detour, we have an ultimate guide that outlines key elements of our processes. From onboarding, to leaves and bittersweet farewells, we’ve got you covered. 
 
-Individual employees have the ability to opt out of working on a project or with a client that violates a deeply-held conviction.
+Check out this [Employee Hub](https://www.notion.so/dbtlabs/From-Hello-to-Farewell-Onboarding-Off-boarding-Everything-In-Between-87b6bc1210664f17aabb206aff8083de?pvs=4) for additional instructions on how to navigate the different scenarios.
 
-We each commit to bringing our whole self to work. Conscientious objection makes space for when a major part of our self conflicts with a major part of our work. 
-
-An example from [Tristan’s writing on this](https://docs.google.com/document/d/12nAw4podecG2JWNcslAMlakujmATzXdgkCbfwLPR0sI/view#):
-
-“We ask an employee, who happens to be vegan, to work closely with Tyson Foods. This employee does the work and does it well, but it’s a major engagement that takes ~a third of their time for many months. After a month, this employee becomes frustrated and starts to look for other jobs.
-
-The problem we’re trying to solve here is individual misery created by forcing someone to do work that violates a deeply-held conviction.”
-
-Conscientious objection applies when a high percentage of your time is directed towards a single client or project for a prolonged period (weeks or months). This will mostly apply to the pro-serv team, some SA and SD relationships, and some implementation engineering. 
-
-🗣️ **If your work conflicts with your deeply held beliefs, talk to your manager.**
-
-If you are assigned to a project or long-term relationship with a client that violates your deeply held beliefs, communicate to your manager that you want to be reassigned to a different project or client. Your manager must work in good faith to accommodate the request. If your work is going to make you miserable and hurt your soul, the whole team will suffer— it’s in everyone’s best interest to make a change. [Again, from Tristan](https://docs.google.com/document/d/12nAw4podecG2JWNcslAMlakujmATzXdgkCbfwLPR0sI/view#): 
-
-“This is not their direct report ‘not being a team player’—rather, it is their direct report optimizing for the long-term. Managers who fail to accommodate such requests risk having high-turnover teams, which will limit their own ability to be successful.”
-
-If you need additional support working with your manager to figure out an accommodation, you can reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
-
-🛠 **We can help find other solutions when conscientious objection doesn’t solve the problem**
-
-If work that conflicts with your deeply held beliefs is a regular and predictable part of your role rather than an exception, and your right to conscientious objection is impeding the team’s overall success, the best long-term solution may be to look for a role that’s a better fit. You can work with your manager and your People Business Partner to move towards a different role within the company that is more aligned with your personal values. 
-
-💡 You can see some of the discussion that led to this policy in [Working Document: Conscientious Objection](https://www.notion.so/Working-Document-Conscientious-Objection-31977f6aa61b447fabc4f5ac6a20f02f).
-
-
-## International Relocation 
+### International Relocation 
 
 📌 All international relocation (Permanent or Semi-permanent) requests must be approved by the People team, Finance team and the team members' management. To initiate a request, please contact your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
 
@@ -264,3 +238,33 @@ Any work being done in a country where we do not have a current presence must be
 If a team member is considering spending more than **one month** in a location outside of your home country, please consult with your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) to ensure we are mitigating risks to the team member and the business. 
 
 Team members are expected to communicate with their manager and team to ensure they maintain agreed upon working hours.
+
+## Conscientious Objection
+
+**Conscientious objection is the right of an individual to withhold their labor.**
+
+Individual employees have the ability to opt out of working on a project or with a client that violates a deeply-held conviction.
+
+We each commit to bringing our whole self to work. Conscientious objection makes space for when a major part of our self conflicts with a major part of our work. 
+
+An example from [Tristan’s writing on this](https://docs.google.com/document/d/12nAw4podecG2JWNcslAMlakujmATzXdgkCbfwLPR0sI/view#):
+
+“We ask an employee, who happens to be vegan, to work closely with Tyson Foods. This employee does the work and does it well, but it’s a major engagement that takes ~a third of their time for many months. After a month, this employee becomes frustrated and starts to look for other jobs.
+
+The problem we’re trying to solve here is individual misery created by forcing someone to do work that violates a deeply-held conviction.”
+
+Conscientious objection applies when a high percentage of your time is directed towards a single client or project for a prolonged period (weeks or months). This will mostly apply to the pro-serv team, some SA and SD relationships, and some implementation engineering. 
+
+🗣️ **If your work conflicts with your deeply held beliefs, talk to your manager.**
+
+If you are assigned to a project or long-term relationship with a client that violates your deeply held beliefs, communicate to your manager that you want to be reassigned to a different project or client. Your manager must work in good faith to accommodate the request. If your work is going to make you miserable and hurt your soul, the whole team will suffer— it’s in everyone’s best interest to make a change. [Again, from Tristan](https://docs.google.com/document/d/12nAw4podecG2JWNcslAMlakujmATzXdgkCbfwLPR0sI/view#): 
+
+“This is not their direct report ‘not being a team player’—rather, it is their direct report optimizing for the long-term. Managers who fail to accommodate such requests risk having high-turnover teams, which will limit their own ability to be successful.”
+
+If you need additional support working with your manager to figure out an accommodation, you can reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4).
+
+🛠 **We can help find other solutions when conscientious objection doesn’t solve the problem**
+
+If work that conflicts with your deeply held beliefs is a regular and predictable part of your role rather than an exception, and your right to conscientious objection is impeding the team’s overall success, the best long-term solution may be to look for a role that’s a better fit. You can work with your manager and your People Business Partner to move towards a different role within the company that is more aligned with your personal values. 
+
+💡 You can see some of the discussion that led to this policy in [Working Document: Conscientious Objection](https://www.notion.so/Working-Document-Conscientious-Objection-31977f6aa61b447fabc4f5ac6a20f02f).
