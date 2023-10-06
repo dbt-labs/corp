@@ -6,6 +6,7 @@ sidebar_label: Talent Development
 
 | Content Maintainers |
 |---|
+| Megan Pittman |
 | Vanessa Yeh |
 
 [Annual Review Cadence](#annual-review-cadence)
