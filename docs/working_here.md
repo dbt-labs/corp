@@ -15,11 +15,9 @@ sidebar_label: Working Here
 
 [Diversity, Equity and Inclusion](#diversity-equity-and-inclusion)
 
-[Employee Transitions](#employee-transitions]
+[Employee Transitions](#employee-transitions)
 
 [Conscientious Objection](#conscientious-objection)
-
-[Embedded Roles](#embedded-roles)
 
 ## Distributed Work Experience
 
@@ -191,7 +189,7 @@ Learn more [here](https://www.getdbt.com/dbt-labs/dei/).
 
 Whether you’re joining the adventure, bidding us farewell, or taking a detour, we have an ultimate guide that outlines key elements of our processes. From onboarding, to leaves and bittersweet farewells, we’ve got you covered. 
 
-Check out this (Employee Hub](https://www.notion.so/dbtlabs/From-Hello-to-Farewell-Onboarding-Off-boarding-Everything-In-Between-87b6bc1210664f17aabb206aff8083de?pvs=4) for additional instructions on how to navigate the different scenarios.
+Check out this [Employee Hub](https://www.notion.so/dbtlabs/From-Hello-to-Farewell-Onboarding-Off-boarding-Everything-In-Between-87b6bc1210664f17aabb206aff8083de?pvs=4) for additional instructions on how to navigate the different scenarios.
 
 ### International Relocation 
 
