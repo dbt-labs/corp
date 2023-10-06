@@ -6,6 +6,7 @@ sidebar_label: Compensation
 
 | Content Maintainers |
 |---|
+| Megan Pittman |
 | Clyde Stackhouse |
 | Jessica Nguyen |
 
