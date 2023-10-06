@@ -6,6 +6,7 @@ sidebar_label: Policies
 
 | Maintained by |
 |---|
+| Megan Pittman |
 | Stephanie Murray |
 | Helena G |
 | Aaron Stanley |
