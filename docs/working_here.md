@@ -6,6 +6,7 @@ sidebar_label: Working Here
 
 | Content Maintainers |
 |---|
+| Megan Pittman |
 | Leigh Staub |
 | Morgan Russell |
 
