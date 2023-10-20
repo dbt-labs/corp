@@ -51,7 +51,7 @@ When in doubt, please discuss with your manager about your plans.
     
     [Leave of Absence Programs](#leave-of-absence-programs) 
     
-    - ***Paid Parental Leave** - to be taken within the first year of parenthood; any dbt Labs employee who needs to care for a newborn as a result of birth or adoption is able to take up to 12 weeks of paid leave*
+    - ***Paid Parental Leave** - to be taken within the first year of parenthood; any dbt Labs employee who needs to care for a newborn as a result of birth or adoption is able to take up to 16 weeks of paid leave*
     - ***Paid Medical Leave** - any dbt Labs employee who needs to take dedicated time off to recover from their own medical event (i.e. physical or mental illness, surgery, etc) is able to take up to 4 weeks of paid leave*
     - ***Paid Caregiver Leave -** any dbt Labs employee who needs to take dedicated time off to care for a seriously ill person is able to take up to 4 weeks of paid leave*
 - **Company Holidays**: dbt Labs observes a number of public and company holidays every year, and this schedule varies by country public holidays. See [Company Holidays ](#company-holidays) for days observed. You are asked to observe your local holidays (for the country you reside in).
