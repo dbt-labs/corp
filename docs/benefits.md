@@ -71,6 +71,7 @@ The following stipend amounts have been developed to help cover some of the cost
 | United Kingdom 	| 268                                     	| GBP            	|
 | Sweden         	| 1418                                    	| SEK            	|
 | Finland        	| 183                                     	| EUR            	|
+| Canada        	| 625                                     	| CAD            	|
 
 ### Receiving the Benefits Stipend
 
