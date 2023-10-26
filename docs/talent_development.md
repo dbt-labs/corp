@@ -192,10 +192,7 @@ Learn more about the schedule and logistics for our reviews [here](#schedule--lo
 - reviews are shared with each team member (please share the written reviews 1 day before the scheduled review meeting), and;
 - review meetings happens within the designated month
 
-For ICs: this meeting will just be you and your manager (ideally, you’re just expanding an existing 1:1 to talk about reviews).
-
-For People Managers: the meeting will consist of you, your manager, and, most likely, your skip-level manager. For those extremely cross-functional or embedded, sometimes this might be a leader that is not your skip level.
-    - The reason we do this is because we want to ensure your manager development and growth is supported by your management chain.
+For all individuals: this meeting will just be you and your manager (ideally, you’re just expanding an existing 1:1 to talk about reviews).
     - If your work is more cross functional (i.e. you’re embedded on another team), the leader from the other function might be the most suitable to join you and your manager in your performance review.
 
 ### Details
@@ -206,6 +203,7 @@ When the review cycle opens, the following questions will be within a Culture Am
 
 If you know you’re going to be out of the office when the review cycle opens (based on the schedule above), you can write your answers ahead of time and submit when you return.
 
+**The questions below are for individual contributors in the performance review cycle**
 - **Self-Reflection**
     1. What project or contribution are you most proud of in this review period?
     2. What do you wish you had achieved but weren't able to? What were the blockers or challenges you faced?
@@ -219,13 +217,12 @@ If you know you’re going to be out of the office when the review cycle opens (
     2. What is one piece of constructive advice you would share with this person, and how would this change impact your work?
     3. Which dbt Labs value(s) does this person embody? Which value(s) would you recommend they focus on in the coming half?
 - **Upwards Feedback**
-    1. What areas does your manager excel in?
-    2. What are their opportunities to improve their leadership that you think would make a real difference in the team's performance?
-    3. What can your manager do to better support you and your team members?
-    4. How does your manager advocate for your team?
-    5. Do you receive consistent and helpful feedback from your manager? Please explain your answer. 
+    1. What can your manager do to better support you in your work?
+    2. What areas of leadership development should your manager focus on that would positively impact the team's performance?
+    3. How does your manager advocate for your team?
+    4. Do you receive consistent and helpful feedback from your manager? Is it both constructive and affirmative, and what is the impact of this feedback for you?
+    5. How does your manager support your professional development and/or personal growth?
     6. Which dbt Labs value(s) does your manager embody? Which value(s) would you recommend they focus on in the coming half?
-    7. **[Not shared with manager]** Do you feel comfortable giving full and honest upward feedback? [Y/N]
 - **Manager Feedback to Employee**
     1. How you rate this team member’s performance this past half?
         1. Needs Development/Meets Expectations/Exceeds Expectations/Sets a new standard
@@ -234,6 +231,38 @@ If you know you’re going to be out of the office when the review cycle opens (
     4. What are some areas of improvement or growth for this person to work on within their level/current role in the next half? (please reference some of the reasons for your performance rating)
     5. Which dbt Labs value(s) does this person embody? Which value(s) would you like them to focus on in the coming half?
     6. How can you continue and better support this team member in their development?
+ 
+**The questions below are specific to people managers in the performance review cycle**
+- **Self-Reflection**
+    1. What project or contribution are you most proud of your team for accomplishing this review period? What part did you play in it?
+    2. What do you wish you had achieved but weren't able to? What were the blockers or challenges you faced?
+    3. What is the most motivating and least motivating part of your role?
+    4. What ratio of People Management : Individual Contributor work do you feel you do on average? Do you want to continue in this ratio?
+    5. What do you want to focus on developing over the next 6-12 months?
+    6. What can your manager do to continue to or better support you?
+    7. What can you do to continue to or better support your team?
+    8. How would you rate your performance as a manager this past half?
+        1. Needs Development/Meets Expectations/Exceeds Expectations/Sets a new standard
+- **Peer Feedback**
+    1. How has this person’s work impacted your ability to deliver on your goals this past 1-2 quarters?
+    2. What is one piece of constructive advice you would share with this person, and how would this change impact your work?
+    3. Which dbt Labs value(s) does this person embody? Which value(s) would you recommend they focus on in the coming half?
+- **Upwards Feedback**
+    1. What can your manager do to better support you in your work?
+    2. What areas of leadership development should your manager focus on that would positively impact the team's performance?
+    3. How does your manager advocate for your team?
+    4. Do you receive consistent and helpful feedback from your manager? Is it both constructive and affirmative, and what is the impact of this feedback for you?
+    5. How does your manager support your professional development and/or personal growth?
+    6. Which dbt Labs value(s) does your manager embody? Which value(s) would you recommend they focus on in the coming half?
+- **Manager Feedback to Employee**
+    1. How you rate this team member’s performance this past half?
+        1. Needs Development/Meets Expectations/Exceeds Expectations/Sets a new standard
+    2. What areas does this employee excel in? (*please reference some of the reasons for your performance rating)*
+    3. What was their biggest impact to the organization this past half? (*please reference some of the reasons for your performance rating)*
+    4. What was their biggest impact to their team’s success or accomplishments this past half?
+    5. What are leadership areas for this person to work on? *(please reference upwards feedback provided)*
+    6. How can you continue and better support this team member in their development?
+    7. Which dbt Labs value(s) does this person embody? Which value(s) would you like them to focus on in the coming half?
 
 #### Performance Definitions
 
