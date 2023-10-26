@@ -136,7 +136,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Thanksgiving- Thursday, November 28, 2024
 - Friday after Thanksgiving- Friday, November 29, 2024
 - Christmas- Wednesday, December 25, 2024
-- Winter Break- Thursday, December 24, 2024→Friday, December 31, 2025
+- Winter Break- Thursday, December 24, 2024→Friday, December 31, 2024
 
 
 #### United Kingdom Holidays
