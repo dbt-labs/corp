@@ -125,7 +125,6 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Christmas- Monday, December 25, 2023
 - Winter Break- Tuesday, December 26, 2023→Friday, December 29, 2023
 - New Year’s Day- Monday, January 1, 2024
-- New Year’s Day- Monday, January 1, 2024
 - MLK Day- Monday, January 15, 2024
 - Memorial Day- Monday, May 27, 2024
 - Juneteeth- Wednesday, June 19, 2024
