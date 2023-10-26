@@ -125,6 +125,19 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Christmas- Monday, December 25, 2023
 - Winter Break- Tuesday, December 26, 2023→Friday, December 29, 2023
 - New Year’s Day- Monday, January 1, 2024
+- MLK Day- Monday, January 15, 2024
+- Memorial Day- Monday, May 27, 2024
+- Juneteeth- Wednesday, June 19, 2024
+- Independence Day- Thursday, July 4, 2024
+- Day after Independence Day- Friday, July 5, 2024
+- Friday before Labor Day, Friday- August 30, 2024
+- Labor Day- Monday, September 2, 2024
+- Columbus Day- Monday, October 14, 2024
+- Thanksgiving- Thursday, November 28, 2024
+- Friday after Thanksgiving- Friday, November 29, 2024
+- Christmas- Wednesday, December 25, 2024
+- Winter Break- Thursday, December 24, 2024→Friday, December 31, 2025
+
 
 #### United Kingdom Holidays
 
