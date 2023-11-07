@@ -57,9 +57,10 @@ In the past, dbt Labs would hire in any country, except those we had already det
 |----------------	|----------------------------	|------------------	|------	|----------	|-----------------------	|
 | Australia      	| dbt Labs Australia Pty Ltd 	| Overseas Connect 	| ADP  	| AUD      	| No                    	|
 | Ireland        	| dbt Labs Ireland Limited   	| Overseas Connect 	| ADP  	| EUR      	| No                    	|
-| United Kingdom 	| dbt Labs UK Limited        	| Overseas Connect 	| ADP  	| GBD      	| Yes                    	|
+| United Kingdom 	| dbt Labs UK Limited        	| Overseas Connect 	| ADP  	| GBP      	| Yes                    	|
 | United States  	| dbt Labs, Inc.             	| ADP              	| ADP  	| USD      	| Yes                   	|
-| Germany        	| dbt Labs GmbH              	| Overseas Connect 	| ADP  	| ERU      	| No                      	|
+| Germany        	| dbt Labs GmbH              	| Overseas Connect 	| ADP  	| EUR      	| No                      	|
+| Canada        	| dbt Labs Canada Inc           | Overseas Connect 	| ADP  	| CAD      	| No                      	|
  
 📌 For countries where dbt Labs is able to sponsor a work permit, the People team needs to do an assessment of the job to see if it falls into a “speciality work visa” category. We would need to determine that the team member and their role meet all of the sponsorship criteria. **Please reach out to your [People Business Partner](https://www.notion.so/dbtlabs/Find-your-PBP-f54e1de2eefa413bad7eb251a3a7c19f?pvs=4) if you require sponsorship.**
 
@@ -75,7 +76,6 @@ In the past, dbt Labs would hire in any country, except those we had already det
 | Country     	| EOR        	| Future Hires? 	|
 |-------------	|------------	|---------------	|
 | Austria     	| Remote.com 	| Possible      	|
-| Canada      	| Remote.com 	| Possible      	|
 | France      	| Remote.com 	| Unlikely      	|
 | Spain       	| Remote.com 	| Unlikely      	|
 | Switzerland 	| Remote.com 	| Possible      	|
