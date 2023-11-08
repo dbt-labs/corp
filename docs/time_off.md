@@ -126,6 +126,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Winter Break- Tuesday, December 26, 2023→Friday, December 29, 2023
 - New Year’s Day- Monday, January 1, 2024
 - MLK Day- Monday, January 15, 2024
+- President's Day- Monday, February 19, 2024
 - Memorial Day- Monday, May 27, 2024
 - Juneteeth- Wednesday, June 19, 2024
 - Independence Day- Thursday, July 4, 2024
@@ -136,7 +137,24 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Thanksgiving- Thursday, November 28, 2024
 - Friday after Thanksgiving- Friday, November 29, 2024
 - Christmas- Wednesday, December 25, 2024
-- Winter Break- Thursday, December 26, 2024→Friday, January 3, 2025
+- Global Week of Rest- Thursday, December 26, 2024→Friday, January 3, 2025
+
+#### Canada Holidays
+
+- New Year's Day- Monday, January 1, 2024
+- Family Day- Monday, February 19, 2024
+- Good Friday- Friday, March 29, 2024
+- Easter Monday- Monday, April 1, 2024
+- Victoria Day- Monday, May 20, 2024
+- Canada Day- Monday, July 1, 2024
+- Civic/Provincial Day- Monday, August 5, 2024
+- Labour Day- Monday, September 2, 2024
+- National Day for Truth and Reconciliation- Monday, September 30, 2024
+- Thanksgiving Day- Monday, October 14, 2024
+- Remembrance Day- Monday, November 11, 2024
+- Christmas Day- Wednesday, December 25, 2024
+- Boxing Day- Thursday, December 26, 2024
+- Global Week of Rest- Thursday, December 26, 2024→Friday, January 3, 2025
 
 
 #### United Kingdom Holidays
@@ -149,6 +167,17 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Christmas- Monday, December 25, 2023
 - Boxing Day- Tuesday, December 26, 2023
 - Winter Break- Wednesday, December 27, 2023→Friday, December 29, 2023
+- New Year's Day- Monday, January 1, 2024
+- Good Friday- Friday, March 29, 2024
+- Easter Monday- Monday, April 1, 2024
+- May Day- Monday, May 6, 2024
+- Bank holiday for the Coronation of King Charles III- Wednesday, May 8, 2024
+- Spring Bank Holiday- Monday, May 27, 2024
+- Summer Bank Holiday- Monday, August 26, 2024
+- Bank Holiday for the State Funeral of Queen Elizabeth II- Thurday, September 19, 2024
+- Christmas Day- Wednesday, December 25, 2024
+- Boxing Day- Thursday, December 26, 2024
+- Global Week of Rest- Friday, December 27, 2024→Friday, January 3, 2025
 
 #### Ireland Holidays
 
@@ -162,6 +191,16 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Christmas- Monday, December 25, 2023
 - Saint Stephen’s Day- Tuesday, December 26, 2023
 - Winter Break- Wednesday, December 27 → Friday, December 29, 2023
+- New Year's Day- Monday, January 1, 2024
+- St Brigid’s Day- Monday, February 5, 2024
+- Easter Monday- Monday, April 1, 2024
+- May Bank Holiday- Monday, May 6, 2024
+- June Bank Holiday- Monday, June 3, 2024
+- August Bank Holiday- Monday, August 5, 2024
+- October Bank Holiday- Monday, October 28, 2024
+- Christmas Day- Wednesday, December 25, 2024
+- St. Stephen's Day- Thursday, December 26, 2024
+- Global Week of Rest- Friday, December 27, 2024→Friday, January 3, 2025
 
 #### Germany Holidays
 
@@ -178,6 +217,16 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Christmas Day- Monday, December 25, 2023
 - Saint Stephen’s Day- Tuesday, December 26, 2023
 - Winter Break- Wednesday, December 27 → Friday, December 29, 2023
+- New Year's Day- Monday, January 1, 2024
+- Good Friday- Friday, March 29, 2024
+- Easter Monday- Monday, April 1, 2024
+- Labour Day- Wednesday, May 1, 2024
+- Ascension Day- Thursday, May 9, 2024
+- Whit Monday- Monday, May 20, 2024
+- German Unity Day- Thursday, October 3, 2024
+- Christmas Day- Wednesday, December 25, 2024
+- Boxing Day- Thursday, December 26, 2024
+- Global Week of Rest- Friday, December 27, 2024→Friday, January 3, 2025
 
 #### Australia Holidays
 
@@ -194,21 +243,47 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - Christmas Day- Monday, December 25, 2023
 - Boxing Day- Tuesday, December 26, 2023
 - Winter Break- Wednesday, December 27 → Friday, December 29, 2023
-
+- New Year's Day- Monday, January 1, 2024
+- Australia Day- Friday, January 26, 2024
+- Canberra Day- Monday, March 11, 2024
+- Good Friday- Friday, March 29, 2024
+- Easter Monday- Monday, April 1, 2024
+- Anzac Day- Thursday, April 25, 2024
+- Reconciliation Day- Monday, May 27, 2024
+- Queen's / Sovereign’s Birthday- Monday, June 10, 2024
+- Labour Day- Monday, October 7, 2024
+- Christmas Day- Wednesday, December 25, 2024
+- Boxing Day- Thursday, December 26, 2024
+- Global Week of Rest- Friday, December 27, 2024→Friday, January 3, 2025
+  
 #### New Zealand Holidays
 
-- New Years Day- Monday, January 2
-- New Year Holiday- Tuesday, January 3
-- Waitangi Day- Monday, February 6 
-- Good Friday- Friday, April 7
-- Easter Monday- Monday, April 10 
-- ANZAC Day- Tuesday, April 25 
-- King’s Birthday- Monday, June 5
-- Matariki- Friday, July 14
-- Labour Day- Monday, October 23
-- Chatham Islands Anniversary- Monday, November 27
-- Christmas Day- Monday, December 25
-- Boxing Day- Tuesday, December 26
+- New Years Day- Monday, January 2, 2023
+- New Year Holiday- Tuesday, January 3, 2023
+- Waitangi Day- Monday, February 6, 2023
+- Good Friday- Friday, April 7, 2023
+- Easter Monday- Monday, April 10, 2023 
+- ANZAC Day- Tuesday, April 25, 2023 
+- King’s Birthday- Monday, June 5, 2023
+- Matariki- Friday, July 14, 2023
+- Labour Day- Monday, October 23, 2023
+- Chatham Islands Anniversary- Monday, November 27, 2023
+- Christmas Day- Monday, December 25, 2023
+- Boxing Day- Tuesday, December 26, 2023
+- Winter Break- Wednesday, December 27, 2023 → Friday, December 29, 2023
+- New Year's Day- Monday, January 1, 2024
+- Day after New Year's Day- Tuesday, January 2, 2024
+- Waitangi Day- Tuesday, February 6, 2024
+- Good Friday- Friday, March 29, 2024
+- Easter Monday- Monday, April 1, 2024
+- ANZAC Day- Thursday, April 25, 2024
+- King's Birthday- Monday, June 3, 2024
+- Matariki- Friday, June 28, 2024
+- Labour Day- Monday, October 28, 2024
+- Christmas Day- Wednesday, December 25, 2024
+- Boxing Day- Thursday, December 26, 2024
+- Global Week of Rest- Friday, December 27, 2024→Friday, January 3, 2025
+
 
 ## Leave of Absence Programs
 
