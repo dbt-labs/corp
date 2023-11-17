@@ -277,7 +277,7 @@ Learn more about the stipend amount by country, based on local purchasing power,
 
 **Do you have any recommendations on how to best use this stipend?** 
 
-- Check out equipment recommendations from team members [here](https://www.notion.so/Equipment-Recommendations-3a2c5c26f31c43658a188f95a71f15a6) or search in #talk-remoteworking Slack channel.
+- Check out equipment recommendations from team members [here](https://www.notion.so/dbtlabs/IT-Equipment-Recommendations-84380c7c4be84e19bf34c0f01d2b229d?pvs=4) or search in #talk-remoteworking Slack channel.
 
 **What if I can’t build my entire office with the provided $1,500?**
 
