@@ -57,7 +57,7 @@ Our compensation philosophy has been arrived at over the course of many years, c
 6. We do not compensate outside of our established bands—**ever**. Making exceptions to comp bands is a sure way to introduce pay inequity and is inconsistent with our diversity value.
     1. We will continue to monitor pay to ensure underrepresented groups are paid at the same rate as others in the same role / level / country.
     2. All of our compensation bands are set by our Total Rewards team using our compensation philosophies to ensure transparent and consistent compensation.
-7. We offer equity for all full-time positions. This is in the form of ISOs for US-based team members[^6] and NSOs for all non-US team members.
+7. We offer equity for all full-time positions where legally able. This is in the form of ISOs for US-based team members[^6] and NSOs for all non-US team members.
 8. We base compensation on current market data for a role / level / country. The point in the range a candidate is offered is dependent on the candidate’s experience in the market and internal pay equity. A candidate’s previous pay is not a factor in setting their compensation at dbt Labs.
     1. In competitive offer scenarios, we may leverage sign-on bonuses. This lever is reserved for special cases and used sparingly.
     
@@ -79,7 +79,7 @@ If you have a specific question around your compensation, one of your direct rep
 [^2]: This helps to ensure that candidates have aligned expectations when starting an interview process with us and helps the offer stage tremendously.
 [^3]: This is a public commitment to candidates who have not yet seen a demonstration of how we live our values.
 [^4]: At a minimum 1x/year, but also when certain events occur. For example, fundraising events have historically caused us to need to update our comp bands.
-[^5]: We leverage data from Radford, Mercer, Pave and Options Impact.
+[^5]: We leverage data from Radford, Mercer and Pave.
 [^6]: ISOs are specifically US-based because they are an outcome of US tax law.
 
 ## Pay Day
@@ -110,14 +110,14 @@ As mentioned in our [Compensation Principles](#compensation-principles), we use 
 ##### Consistent Band Spreads
     
 These indicate the % from the midpoint used to get the high and low points of each band. The spread increases as the roles become more senior because more senior roles may be career-roles, where folks will remain for a long period of time, potentially the rest of their career, and therefore require more room for growth in the band.
-- Ex. L1 with a midpoint (75th percentile) of $100,000 will have a range of $90,000 - $110,000; L5 with a midpoint (75th percentile) of $200,000 will have a range of $170,000 - $230,000.
+- Ex. L1 with a midpoint (75th percentile) of $100,000 will have a range of $88,000 - $112,000; L5 with a midpoint (75th percentile) of $200,000 will have a range of $170,000 - $230,000.
     
 | Level 	| Band Spread 	|
 |:-----:	|:-----------:	|
-|   L1  	|     10%     	|
-|   L2  	|     10%     	|
-|   L3  	|    12.5%    	|
-|   L4  	|    12.5%    	|
+|   L1  	|     12%     	|
+|   L2  	|     12%     	|
+|   L3  	|     15%    	|
+|   L4  	|     15%    	|
 |   L5  	|     15%     	|
 |   L6  	|     15%     	|
 |   L7  	|    17.5%    	|
@@ -126,7 +126,7 @@ These indicate the % from the midpoint used to get the high and low points of ea
 
 #### Increased Data points
 
-As dbt Labs has continued to grow, so has our need for more robust data sources to further develop and benchmark our compensation structure. This is a common next step as we continue to mature and evolve our compensation benchmarking practices. After evaluating a handful of data sources, we have decided to use a combination of Radford, Mercer, Pave and Options Impact to create a robust and diverse base to build our salary ranges from.
+As dbt Labs has continued to grow, so has our need for more robust data sources to further develop and benchmark our compensation structure. This is a common next step as we continue to mature and evolve our compensation benchmarking practices. After evaluating a handful of data sources, we have decided to use a combination of Radford, Mercer and Pave to create a robust and diverse base to build our salary ranges from.
 
 We believe that with more data we can better target more specific roles[^7] within dbt Labs and will allow us to better navigate data outliers that are a result of low counts of specific data points (ex. Small or insufficient # of companies/employees reporting salaries for a specific role & level).
 
@@ -136,14 +136,11 @@ Another common practice in salary band development is to assess and utilize data
 
 | Data Set | Weight | Data Cut | Data Type | Description of Data set |
 |---|---|---|---|---|
-| Radford | 40% | All US - Private Companies - Software | Total Cash -  75th Percentile | Radford (AON) data is considered a gold standard in the compensation space and is a trusted data sources. Our radford data is cut for All US companies, Technology (Software), and Private companies. This allows us to more specifically target similar companies (peer's) in our bench marking with out getting to refined which can reduce available data. *We did review and audit a more refined filter approach (Head counts, Revenue, Capital Raised) and in general didn't find a sufficient delta in salaries compared to the reduced data available. |
-| Mercer | 30% | All US - Software SAAS | Total Cash Actual -  75th Percentile | Mercer \ Comptryx, is a premier online solution for Private and Public technology-focused companies. This Addition data source is a quality robust data source that is specifically for Tech companies. This will broaden our compensation data that has more robust job leveling and job matches that can scale with dbt as we continue to grow. Mercer data is cut for All US companies, SAAS companies and if there is insufficient SAAS data we have included all companies to help round out our Salary ranges with this data set. |
-| Pave | 10% | All US - Valuation → 1B+ | Total Cash Compensation - 75th Percentile | "Pave's data is sourced directly from employers HRIS systems and matched based on their internal job title system structure. The Data is cut by All Us Companies with a Valuation over 1 Billion. Valuation is the recommended data cut for for Pave and provides the best comparable data to benchmark against. As with all of our data cuts we are using total cash comp (Base + Variable + Bonuses) and does not include any Stock or Options valuations.   We decided to include Pave for the exposure to high paying tech start ups which is reflected in the data. Pave is weighted at 10% due to its lack of data quality, incumbent counts as well as a less robust data source / matching scheme. |
-| OI | 10% | All US - Tech → Raised $250M - $500M | Total Target Pay - 75th Percentile | Options Impacts data is reported via survey submission and matching from companies. Options impact has been the data that we anchored our bands to historically and continues to give exposure to to similar tech companies but as we've grown and matured it is limited in the levels, descriptions and quantity of data for other companies that we would consider peers. This data cut is Tech (enterprise) companies that have raised over $250 Million in capital and all US. Additionally this creates a layer of continuity in salary survey use but is weighted to 10% due to its limited leveling and matching data points. |
-| Carta | 10% | All Data → San Francisco-Oakland-Berkeley, CA  | Salary data - 75th Percentile  *Not used for variable comp roles since OTE isn’t reflected in the data | Carta Data is sourced directly from employers HRIS systems and matched based on their internal job title system structure. Their data does not cut to an all US as is our practice for data cuts so have aligned this market point with CA, Bay Area salaries. We are including this source as this data will be sourced from start ups which will continue to give direct exposure to similar start up companies. We discounted this data and gave it a 10% weighting due to the lack of All US approach / other data sifting that we would want. Lastly, Carta's data isn't overtly robust in terms of incumbents as well as depth of different matches. |
+| Radford | 34% | All US - Private Companies - Software | Total Cash -  75th Percentile | Radford (AON) data is considered a gold standard in the compensation space and is a trusted data sources. Our radford data is cut for All US companies, Technology (Software), and Private companies. This allows us to more specifically target similar companies (peer's) in our bench marking with out getting to refined which can reduce available data. *We did review and audit a more refined filter approach (Head counts, Revenue, Capital Raised) and in general didn't find a sufficient delta in salaries compared to the reduced data available. |
+| Mercer | 33% | All US - Software SAAS | Total Cash Actual -  75th Percentile | Mercer \ Comptryx, is a premier online solution for Private and Public technology-focused companies. This Addition data source is a quality robust data source that is specifically for Tech companies. This will broaden our compensation data that has more robust job leveling and job matches that can scale with dbt as we continue to grow. Mercer data is cut for All US companies, SAAS companies and if there is insufficient SAAS data we have included all companies to help round out our Salary ranges with this data set. |
+| Pave | 33% | All US - Valuation → 1B+ | Total Cash Compensation - 75th Percentile | "Pave's data is sourced directly from employers HRIS systems and matched based on their internal job title system structure. The Data is cut by All Us Companies with a Valuation over 1 Billion. Valuation is the recommended data cut for for Pave and provides the best comparable data to benchmark against. As with all of our data cuts we are using total cash comp (Base + Variable + Bonuses) and does not include any Stock or Options valuations.   We decided to include Pave for the exposure to high paying tech start ups which is reflected in the data. |
 
 Additionally, we outlined the step by step process around our process to form raw data into a refined salary band for roles.
-
 
 [^7]: Specific Roles - Both Radford and Mercer have 100+ different jobs / roles that we can match to which allows us to get more specific with the roles and duties to ensure that our role bands are developed using the most correlated data and skill set. This is vital to ensure we aren’t over or under targeting pay for roles that have been lumped into 1 large, potentially vague, bucket.
 
@@ -171,6 +168,7 @@ Some roles have a note about OTE which means ‘on target earnings’. This mean
 - Solutions Architecture: 70% Base, 30% Variable
 - Sales Directors: 50% Base, 50% Variable
 - Sales Development: 70% Base, 30% Variable
+- Account Managers: 70% Base, 30% Variable
 - Revenue Marketing: 80% Base, 20% Variable
 
 #### Roles & Levels
@@ -242,7 +240,7 @@ Through these 3 data sets we were able to compile an average differential betwee
 |   Spain          	|     Tier 3    	| -20% |
 |   Austria  	    |     Tier 3    	| -20% |
 |   France  	    |     Tier 3    	| -20% |
-|   Philippines  	|     Tier 3    	| -20% |
+|   Philippines  	|     Tier 3    	| -75% |
 
 **- How do we calculate the bands**
 
