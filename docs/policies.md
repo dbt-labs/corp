@@ -176,7 +176,7 @@ Travel arrangements should balance economics, safety, and logistics while still 
 
 - Plan meetings thoughtfully and in advance.
     - To maximize cost savings, flights should be booked 10 days or more and hotels booked 7 days or more from the travel date.
-- **Book with Navan:** All business travel (including flight, hotel, rail and rental car) must be booked through Navan which can be accessed through Okta or [here](https://app.tripactions.com/app/).
+- **Book with Navan:** All business travel (including flight, hotel, rail and rental car) must be booked through Navan which can be accessed through Okta or [here](https://app.tripactions.com/app/). If you need to book outside of Navan, please submit a ticket in #ask-finance-support for Accounting approval.
 
 [Book Travel](https://www.notion.so/Book-Travel-9953198a0c37487db7dfda2c76b6b7e9)
 
@@ -185,6 +185,7 @@ Travel arrangements should balance economics, safety, and logistics while still 
 As a general rule, all flights should be booked in economy class, with the following exception:
 
 - Travelers booking flights of 5 (five) hours or longer one-way (excluding layovers) may book Premium Economy as available. Business class and First class upgrades are not a reimbursable expense.
+- L8 and above travelers booking flights 12 (twelve) hours or longer or taking a red eye that is 5 (five) hours or longer may book business class.
 
 Unless provided with other instructions, choose non-refundable options as these are more cost effective than refundable options. 
 
