@@ -112,18 +112,6 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 
 #### US Holidays
 
-- New Years Day (observed)-  Monday, January 2, 2023
-- MLK Day- Monday, January 16, 2023
-- Memorial Day- Monday, May 29, 2023
-- Juneteenth- Monday, June 19, 2023
-- Monday before Independence Day- Monday, July 3, 2023
-- Independence Day- Tuesday, July 4, 2023
-- Friday before Labor Day, Friday, September 1, 2023
-- Labor Day- Monday, September 4, 2023
-- Thanksgiving- Thursday, November 23, 2023
-- Friday after Thanksgiving- Friday, November 24, 2023
-- Christmas- Monday, December 25, 2023
-- Winter Break- Tuesday, December 26, 2023→Friday, December 29, 2023
 - New Year’s Day- Monday, January 1, 2024
 - MLK Day- Monday, January 15, 2024
 - President's Day- Monday, February 19, 2024
@@ -159,14 +147,6 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 
 #### United Kingdom Holidays
 
-- New Year’s Day- Monday, January 2, 2023
-- Easter Monday- Monday, April 10, 2023
-- Early May Bank Holiday- Monday, May 1, 2023
-- Spring Bank Holiday- Monday, May 29, 2023
-- Summer Bank Holiday- Monday, August 28, 2023
-- Christmas- Monday, December 25, 2023
-- Boxing Day- Tuesday, December 26, 2023
-- Winter Break- Wednesday, December 27, 2023→Friday, December 29, 2023
 - New Year's Day- Monday, January 1, 2024
 - Good Friday- Friday, March 29, 2024
 - Easter Monday- Monday, April 1, 2024
@@ -181,16 +161,6 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 
 #### Ireland Holidays
 
-- New Year’s Day- Monday, January 2, 2023
-- Saint Patrick’s Day- Friday, March 17, 2023
-- Easter Monday- Monday, April 10, 2023
-- Early May Bank Holiday- Monday, May 1, 2023
-- June Bank Holiday- Monday, June 5, 2023
-- August Bank Holiday- Monday, August 7, 2023
-- October Bank Holiday- Monday, October 30, 2023
-- Christmas- Monday, December 25, 2023
-- Saint Stephen’s Day- Tuesday, December 26, 2023
-- Winter Break- Wednesday, December 27 → Friday, December 29, 2023
 - New Year's Day- Monday, January 1, 2024
 - St Brigid’s Day- Monday, February 5, 2024
 - Easter Monday- Monday, April 1, 2024
@@ -230,19 +200,6 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 
 #### Australia Holidays
 
-- New Year’s Day- Monday, January 2, 2023
-- Australia Day- Thursday, January 26, 2023
-- Labour Day (WA)- Monday, March 6, 2023 
-- Canberra Day (ACT)- Monday, March 13, 2023
-- Labour Day (VIC, TAS)- Monday, March 13, 2023
-- Good Friday- Friday, April 7, 2023
-- Easter Monday- Monday, April 10, 2023
-- Anzac Day- Tuesday, April 25, 2023
-- Reconciliation Day (ACT)- Monday, May 29, 2023
-- Melbourne Cup Day (VIC)- Tuesday, November 7, 2023
-- Christmas Day- Monday, December 25, 2023
-- Boxing Day- Tuesday, December 26, 2023
-- Winter Break- Wednesday, December 27 → Friday, December 29, 2023
 - New Year's Day- Monday, January 1, 2024
 - Australia Day- Friday, January 26, 2024
 - Canberra Day- Monday, March 11, 2024
@@ -258,19 +215,6 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
   
 #### New Zealand Holidays
 
-- New Years Day- Monday, January 2, 2023
-- New Year Holiday- Tuesday, January 3, 2023
-- Waitangi Day- Monday, February 6, 2023
-- Good Friday- Friday, April 7, 2023
-- Easter Monday- Monday, April 10, 2023 
-- ANZAC Day- Tuesday, April 25, 2023 
-- King’s Birthday- Monday, June 5, 2023
-- Matariki- Friday, July 14, 2023
-- Labour Day- Monday, October 23, 2023
-- Chatham Islands Anniversary- Monday, November 27, 2023
-- Christmas Day- Monday, December 25, 2023
-- Boxing Day- Tuesday, December 26, 2023
-- Winter Break- Wednesday, December 27, 2023 → Friday, December 29, 2023
 - New Year's Day- Monday, January 1, 2024
 - Day after New Year's Day- Tuesday, January 2, 2024
 - Waitangi Day- Tuesday, February 6, 2024
