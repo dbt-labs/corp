@@ -222,7 +222,7 @@ Learn about how to use Benepass and get answers to FAQs [here](https://www.notio
 - Stipend amounts will be evaluated on an annual basis (Key factors - benchmark data, purchasing power indices, budget availability)
 - Annual Stipends must be submitted in a timely fashion, best practice is to submit expenses within 30 days.
     - Past 30 day submissions: while you can still submit these expenses past 30 days, this best practice helps ensure we aren’t back-loading and incurring large sums of reimbursements as we close out a Quarter or Fiscal year and timely submissions help with this!
-- Non-comprehensive [**list of eligible items](https://docs.google.com/spreadsheets/d/1EAmO6874G_FqyVAGJTXG-eU3TNIBuNo8WiEHnwS79vY/edit#gid=0)** (This will consistently be updated from time to time)
+- View a list of **[eligible expenses](https://www.notion.so/dbtlabs/350f3daf90364931abc7ab91c8922a5f?v=d3e383bfd15b41419355b44e86096a66&pvs=4)**. This list is non-comprehensive and is updated as needed. 
 
 ### Stipend Amounts by Country
 
@@ -349,7 +349,7 @@ Yes! Benepass is able to track and manage ‘payment’ systems for large purcha
 
 **Do you have more examples of eligible and non-eligible expenses?**
 
-Check out a more robust list [here](https://docs.google.com/spreadsheets/d/1EAmO6874G_FqyVAGJTXG-eU3TNIBuNo8WiEHnwS79vY/edit#gid=0). This isn’t an exhaustive list but we will build it out over time as questions arise.
+Check out a more robust list [here](https://www.notion.so/dbtlabs/350f3daf90364931abc7ab91c8922a5f?v=d3e383bfd15b41419355b44e86096a66&pvs=4). This isn’t an exhaustive list. We will continiue to build it out as questions arise.
 
 ### Professional Development Stipend
 
