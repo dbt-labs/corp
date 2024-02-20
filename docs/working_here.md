@@ -34,7 +34,7 @@ Learn how we think about the distributed experience.
 
 #### 🌐 What is our workplace strategy?
 
-Our workplace strategy is **fully distributed**. This does not mean we won’t gather in person and won’t have office space. Instead, it means that the primary mode of getting work done assumes employees are not physically in the same location. We believe this is better for both our company and its employees.
+Our workplace strategy is **fully distributed**. This does not mean we won’t gather in person, won’t have office space and won't have some in-office teams. Instead, it means that the primary mode of getting work done assumes employees are not physically in the same location. We believe this is better for both our company and its employees.
 
 #### ✨ What is our approach to support the distributed experience?
 
@@ -72,18 +72,18 @@ Having a great distributed experience helps both our company and our employees. 
 
 - **Workplace strategy**
     
-    A distributed workforce doesn’t just mean working from home. We realize that different people thrive in different settings. As a result, we offer benefits to support people in finding the right work setup for them and ensuring they are equipped for success:
+    A distributed workforce doesn’t just mean working from home. We realize that different people and teams thrive in different settings. As a result, we offer benefits to support people in finding the right work setup for them and ensuring they are equipped for success:
     
     - **[Office stipend:](benefits.md#office-stipend)** New employees receive $1,500 USD (or local equivalent) to spend in their first year to set up their home office and purchase equipment to comfortably work their preferred location. Each year after, employees receive $400 USD (or local equivalent) to support their remote work setup.
     - **[Workspace rental:](benefits.md#workplace-rental)** Working from home does not work for everyone, all the time. Employees receive a monthly benefit to rent office space and experience an optimal work environment.
-    - **[Regional offices:](#regional-offices)** In regions with high employee count, dbt Labs has office space to support async-first collaboration and promote our culture and values when teams meet onsite. Designed with intention, these spaces are not used to incentivize local collaboration but instead support community development and foster connection with cross-functional teams during onsites.
+    - **[Regional offices:](#regional-offices)** In regions with high employee count, dbt Labs has office space to support async-first collaboration and promote our culture and values when teams meet onsite. Designed with intention, these spaces support community development and foster connection with cross-functional teams during onsites.
 - **Global [comp](compensation.md#global-compensation-and-benefits) & [benefits](benefits.md#global-benefits-strategy--stipend)**
     
     We offer a transparent compensation philosophy and intentional benefits to support our global employees. All employees have access to stipends to support health and wellness, phone/internet, professional development and health related travel needs.
     
 - **Team construction**
     
-    We set up distributed teams to ensure the locations and time zones are conducive to collaboration and connection. Depending on the level of synchronous collaboration needed, some teams are regionalized and others aren’t. We are thoughtful about the time zone spread to ensure enough work day overlap between globally distributed teammates.
+    We set up distributed teams to ensure the locations and time zones are conducive to collaboration and connection. Depending on the level of synchronous collaboration needed, some teams are regionalized with overlapping in-office time and others aren’t. We are thoughtful about the time zone spread to ensure enough work day overlap between globally distributed teammates.
     
 - **Tools and systems**
     
@@ -94,11 +94,7 @@ Having a great distributed experience helps both our company and our employees. 
     As a globally distributed company, DEI is critical to our success. DEI is not simply enacted in programs and initiatives, it is woven into the culture of our every day work.
     
 - **Employee engagement**
-    - We celebrate our unique human-ness and connect beyond business which makes for a welcoming work environment for all. We all get together in-person annually for a company kick-off and we leverage other tools for virtual connection throughout the year.
-
-### ⚙️ How We Work and Communicate
-
-This is a big and important topic. A distributed work guide that answers this question is in progress [here](https://www.notion.so/dbtlabs/How-we-work-communicate-9f2b59845baa42209c0134bdb10dfa55) and is a focus in the coming quarters!
+  We celebrate our unique human-ness and connect beyond business which makes for a welcoming work environment for all. We all get together in-person annually for a company kick-off and we leverage other tools for virtual connection throughout the year.
 
 ### 🌟 Guiding Principles
 
@@ -107,11 +103,52 @@ This is a big and important topic. A distributed work guide that answers this qu
 - **Default to asynchronous:** While async communication may not always be the ultimate way to get work done, it should be the default. Starting with async communication first allows for more effective synchronous communication when needed. It also helps your teammates retain their focus and flexibility by reducing interruptions and distractions.
 - **Progress > perfection:** Immediate answers aren’t expected. With the proper communication and tools in play, employees are empowered to keep iterating and making progress, backed with trust and support.
 
+### ⚙️ How We Work and Communicate
+
+Learn about our work and communication methods in our [internal guide](https://www.notion.so/dbtlabs/How-we-work-communicate-9f2b59845baa42209c0134bdb10dfa55?pvs=4). This guide will help you understand the rhythms of our business, our use of tools such as Slack and Notion, and our approach to meetings and asynchronous communication.
+
+### 💓 Intentional Connection
+
+In a globally distributed environment, fostering connections is crucial for building strong relationships, team alignment, collaboration, and overall job satisfaction. These connections can be felt to our company, your team (functional and cross-functional) and your peers.
+
+💡[Research shows](https://info.enboarder.com/hubfs/PDF/rethinking-connections-hybrid-report.pdf) that organizations with more connection were 5.4x more likely to be agile, 3.2x more likely to have satisfied customers and 2.3x more likely to have engaged employees. Connection doesn’t just feel good, it’s good for our business!
+
+#### Connecting is a valuable investment of time
+
+We must be intentional to form connections across the company and we do this through a blend of virtual and in-person opportunities offered at the company-wide and team level. These opportunities are led by people managers, the People team, and leadership.
+- Virtually: We recommend spending on average at least 1-2 hours each week on building relationships virtually with your team members.
+- In-Person: We strive for teammates to intentionally connect in person at least 2 times per year. This often takes place during our Company Kickoff (CKO) and at in-person team gatherings. In an ideal world, team members are connecting in-person on a quarterly basis.
+
+#### How we support connection
+
+- **Company Connection:** Company connection is driven by the People team, executive team, leadership team, and managers.
+    - Some examples of company connection include consistent company meetings, monthly newsletter, our physical workplace offices and our in-person company kickoff event.
+- **Team Connection (Functional & Cross-Functional):** Team connection is driven by leaders and managers, leveraging support and resources provided by the People team.
+    - Some examples of team connection include quarterly virtual team building, celebrating accomplishments and expressing gratitude in #case-when, discussing your employee directory “about me” profile, and attending in-person team gatherings.
+- **Peer Connection:** Peer connection is driven by the People team and individual team members of the company. The People team offers weekly opportunities for employees across the organization to connect.
+    - Some examples of peer connection include interest based #talk- channels in Slack, monthly #cross-functional-coffee-chats, monthly virtual events from the DEI Culture Club, Employee Resource Groups (ERGs), pop up in-person offices and virtual wellness classes.
+ 
+#### Connection is shared responsibility
+
+- In a distributed environment, no single person or team is solely responsible for connection across the company. We each share a responsibility to infuse connection into our daily work and make this a fun, welcoming and rewarding place to work.
+    - Some examples of what this might look like is starting team meetings with ice-breaker questions in chat, engaging thoughtfully in Slack with emoji reactions, talking a few minutes to ask about your teammates weekend before jumping into a transactional work question.
+
+#### How to Connect at dbt Labs
+
+- For detailed ways to connect here, check out [How to: Connect at dbt Labs.](https://www.notion.so/f1138be3de25429285d87dd40fbc6bab?pvs=21)
+
 ## Regional Offices
 
-In regions with high employee count, dbt Labs has office space to support async-first collaboration and promote our culture and values when teams meet onsite. As outlined in our [office strategy](#office-strategy), these spaces are designed with intention. They are not used to incentivize local collaboration but instead support community development and foster connection with cross-functional teams during offsites.
+In regions with high employee count, dbt Labs has office space to support async-first collaboration and promote our culture and values when teams meet onsite. As outlined in our [office strategy](#office-strategy), these spaces are designed with intention. They are not used to incentivize local collaboration but instead support community development and foster connection with cross-functional teams during onsites.
 
 Learn more about the offices, building access and offsite information [here](https://www.notion.so/dbtlabs/Workplace-7a798fcfa1eb4fba9e061577b6fbb33b?pvs=4).
+
+### Philadelphia, PA
+
+dbt Labs
+915 Spring Garden St
+STE 500
+Philadelphia, PA 19123
 
 ### San Francisco, CA 
 
@@ -120,12 +157,20 @@ dbt Labs
 Suite 1501 / 1502
 San Francisco, CA 94108
 
-### Philly Office
+### New York, NY 
 
 dbt Labs
-915 Spring Garden St
-STE 500
-Philadelphia, PA 19123
+900 Broadway 
+Suite 402
+New York, NY 10003
+
+### Dublin, Ireland 
+
+dbt Labs
+57-59 Sir John Rogerson's Quay
+Grand Canal Dock
+Dublin 2, D02 F242
+Suite 101
 
 ### Office Strategy
 
