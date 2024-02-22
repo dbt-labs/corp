@@ -116,7 +116,7 @@ You can view our holiday google calendar [here](https://calendar.google.com/cale
 - MLK Day- Monday, January 15, 2024
 - President's Day- Monday, February 19, 2024
 - Memorial Day- Monday, May 27, 2024
-- Juneteeth- Wednesday, June 19, 2024
+- Juneteenth- Wednesday, June 19, 2024
 - Independence Day- Thursday, July 4, 2024
 - Day after Independence Day- Friday, July 5, 2024
 - Friday before Labor Day, Friday- August 30, 2024
