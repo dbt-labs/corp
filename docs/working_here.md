@@ -225,11 +225,9 @@ Suite 101
 
 ## Diversity, Equity and Inclusion
 
-We are committed to diversity, equity, and inclusion. DEI impacts high-level company decisions, and is woven into the culture of everyday work.
+dbt Labs is committed to building a diverse team, equitable practices, and a culture of inclusion and trust that enables us to work at our best in service of dbt Labs’ mission and goals. DEI impacts high-level company decisions and is woven into the culture of everyday work.
 
-We have three DEI committees dedicated to Team Diversity, Culture, and Company Stance and Action. Together, these committees make sure we build a diverse team, equitable company structures, and an environment that gives everyone the support and opportunities they need to thrive.
-
-Learn more [here](https://www.getdbt.com/dbt-labs/dei/).
+DEI work at dbt Labs centers around three pillars: Workforce and Career, Culture and Belonging, and Operational Alignment and Product Inclusion. Employees from across the company contribute to DEI efforts through the employee-driven DEI Committee, Employee Resource Groups, and their formal job functions. 
 
 ## Employee Transitions
 
