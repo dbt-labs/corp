@@ -32,7 +32,9 @@ const siteSettings = {
       }
     ]
   ],
-  plugins: [],
+  plugins: [
+    require.resolve('docusaurus-lunr-search'),
+  ],
   themeConfig: {
     navbar: {
       title: "Handbook",

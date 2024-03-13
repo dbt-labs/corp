@@ -3,6 +3,7 @@
     "examples": "docusaurus-examples",
     "start": "docusaurus start",
     "build": "docusaurus build",
+    "serve": "docusaurus serve",
     "publish-gh-pages": "docusaurus-publish",
     "write-translations": "docusaurus-write-translations",
     "version": "docusaurus-version",
@@ -11,11 +12,11 @@
     "deploy": "docusaurus deploy",
     "docusaurus": "docusaurus"
   },
-  "devDependencies": {},
   "dependencies": {
     "@docusaurus/core": "2.4.3",
     "@docusaurus/preset-classic": "2.4.3",
     "clsx": "^1.1.1",
+    "docusaurus-lunr-search": "^3.3.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
