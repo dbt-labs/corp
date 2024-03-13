@@ -1,0 +1,39 @@
+:root{
+  --ifm-color-primary-lightest: #05959C;
+  --ifm-color-primary-lighter: #05848A;
+  --ifm-color-primary-light: #047E84;
+  --ifm-color-primary: #047378;
+  --ifm-color-primary-dark: #04676C;
+  --ifm-color-primary-darker: #036266;
+  --ifm-color-primary-darkest: #035054;
+
+  /* --ifm-navbar-background-color: var(--ifm-color-primary); */
+  /* --ifm-navbar-link-color: #fff;
+  --ifm-menu-color-active: #fff;
+  --ifm-menu-color: #fff; */
+}
+
+.navbar svg path {
+  stroke: #fff;
+}
+
+.navbar.navbar--fixed-top {
+  background-color: var(--ifm-color-primary);
+}
+
+.navbar__title {
+  color:#fff
+}
+
+.navbar-sidebar__brand {
+  background-color: var(--ifm-color-primary);
+  color: #fff;
+}
+
+.navbar-sidebar__brand a {
+  color: #fff;
+}
+
+.navbar-sidebar__brand svg g {
+  stroke: #fff;
+}
